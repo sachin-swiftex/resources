@@ -1,5 +1,15 @@
 [
   {
+    "asset": "Avalanche",
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "address": "0X0000000000000000000000000000000000000000",
+    "chainId": 43114,
+    "decimals": 18,
+    "type": "NATIVE",
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0X0000000000000000000000000000000000000000.png"
+  },
+  {
     "chainId": 43114,
     "asset": "TetherToken",
     "type": "ERC-20",
@@ -7,7 +17,7 @@
     "name": "TetherToken",
     "symbol": "USDt",
     "decimals": 6,
-    "logoURI": "./avax/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7.png"
   },
   {
     "chainId": 43114,
@@ -17,7 +27,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "./avax/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png"
   },
   {
     "chainId": 43114,
@@ -27,7 +37,7 @@
     "name": "Staked AVAX",
     "symbol": "sAVAX",
     "decimals": 18,
-    "logoURI": "./avax/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE.png"
   },
   {
     "chainId": 43114,
@@ -37,7 +47,7 @@
     "name": "Bitcoin",
     "symbol": "BTC.b",
     "decimals": 8,
-    "logoURI": "./avax/0x152b9d0FdC40C096757F570A51E494bd4b943E50.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x152b9d0FdC40C096757F570A51E494bd4b943E50.png"
   },
   {
     "chainId": 43114,
@@ -47,7 +57,7 @@
     "name": "Wrapped AVAX",
     "symbol": "WAVAX",
     "decimals": 18,
-    "logoURI": "./avax/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png"
   },
   {
     "chainId": 43114,
@@ -57,7 +67,7 @@
     "name": "avUSD",
     "symbol": "avUSD",
     "decimals": 18,
-    "logoURI": "./avax/0x24dE8771bC5DdB3362Db529Fc3358F2df3A0E346.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x24dE8771bC5DdB3362Db529Fc3358F2df3A0E346.png"
   },
   {
     "chainId": 43114,
@@ -67,7 +77,7 @@
     "name": "JoeToken",
     "symbol": "JOE",
     "decimals": 18,
-    "logoURI": "./avax/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd.png"
   },
   {
     "chainId": 43114,
@@ -77,7 +87,7 @@
     "name": "USD Coin",
     "symbol": "USDC.e",
     "decimals": 6,
-    "logoURI": "./avax/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png"
   },
   {
     "chainId": 43114,
@@ -87,7 +97,7 @@
     "name": "Phoenic Token",
     "symbol": "PNIC",
     "decimals": 18,
-    "logoURI": "./avax/0x4f3c5C53279536fFcfe8bCafb78E612E933D53c6.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x4f3c5C53279536fFcfe8bCafb78E612E933D53c6.png"
   },
   {
     "chainId": 43114,
@@ -97,7 +107,7 @@
     "name": "Aave Avalanche WETH",
     "symbol": "aAvaWETH",
     "decimals": 18,
-    "logoURI": "./avax/0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8.png"
   },
   {
     "chainId": 43114,
@@ -107,7 +117,7 @@
     "name": "Wrapped Ether",
     "symbol": "WETH.e",
     "decimals": 18,
-    "logoURI": "./avax/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB.png"
   },
   {
     "chainId": 43114,
@@ -117,7 +127,7 @@
     "name": "NXPC",
     "symbol": "NXPC",
     "decimals": 18,
-    "logoURI": "./avax/0x5E0E90E268BC247Cc850c789A0DB0d5c7621fb59.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x5E0E90E268BC247Cc850c789A0DB0d5c7621fb59.png"
   },
   {
     "chainId": 43114,
@@ -127,7 +137,7 @@
     "name": "Avalaunch",
     "symbol": "XAVA",
     "decimals": 18,
-    "logoURI": "./avax/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4.png"
   },
   {
     "chainId": 43114,
@@ -137,7 +147,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC.e",
     "decimals": 8,
-    "logoURI": "./avax/0x50b7545627a5162F82A992c33b87aDc75187B218.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x50b7545627a5162F82A992c33b87aDc75187B218.png"
   },
   {
     "chainId": 43114,
@@ -147,7 +157,7 @@
     "name": "Hypha Staked AVAX",
     "symbol": "stAVAX",
     "decimals": 18,
-    "logoURI": "./avax/0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3.png"
   },
   {
     "chainId": 43114,
@@ -157,7 +167,7 @@
     "name": "Sierra",
     "symbol": "SIERRA",
     "decimals": 6,
-    "logoURI": "./avax/0x6E6080e15f8C0010d333D8CAeEaD29292ADb78f7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6E6080e15f8C0010d333D8CAeEaD29292ADb78f7.png"
   },
   {
     "chainId": 43114,
@@ -167,7 +177,7 @@
     "name": "Unity",
     "symbol": "UTY",
     "decimals": 18,
-    "logoURI": "./avax/0xDBc5192A6B6FfEe7451301bb4ec312f844F02B4A.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xDBc5192A6B6FfEe7451301bb4ec312f844F02B4A.png"
   },
   {
     "chainId": 43114,
@@ -177,7 +187,7 @@
     "name": "Tether USD",
     "symbol": "USDT.e",
     "decimals": 6,
-    "logoURI": "./avax/0xc7198437980c041c805A1EDcbA50c1Ce5db95118.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xc7198437980c041c805A1EDcbA50c1Ce5db95118.png"
   },
   {
     "chainId": 43114,
@@ -187,7 +197,7 @@
     "name": "Wirex Token",
     "symbol": "WXT",
     "decimals": 18,
-    "logoURI": "./avax/0xfcDe4A87b8b6FA58326BB462882f1778158B02F1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xfcDe4A87b8b6FA58326BB462882f1778158B02F1.png"
   },
   {
     "chainId": 43114,
@@ -197,7 +207,7 @@
     "name": "Pangolin",
     "symbol": "PNG",
     "decimals": 18,
-    "logoURI": "./avax/0x60781C2586D68229fde47564546784ab3fACA982.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x60781C2586D68229fde47564546784ab3fACA982.png"
   },
   {
     "chainId": 43114,
@@ -207,7 +217,7 @@
     "name": "Pharaoh",
     "symbol": "PHAR",
     "decimals": 18,
-    "logoURI": "./avax/0x13A466998Ce03Db73aBc2d4DF3bBD845Ed1f28E7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x13A466998Ce03Db73aBc2d4DF3bBD845Ed1f28E7.png"
   },
   {
     "chainId": 43114,
@@ -217,7 +227,7 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI.e",
     "decimals": 18,
-    "logoURI": "./avax/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70.png"
   },
   {
     "chainId": 43114,
@@ -227,7 +237,7 @@
     "name": "BENQI",
     "symbol": "QI",
     "decimals": 18,
-    "logoURI": "./avax/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5.png"
   },
   {
     "chainId": 43114,
@@ -237,7 +247,7 @@
     "name": "SPACEM WORLD",
     "symbol": "SPCM",
     "decimals": 18,
-    "logoURI": "./avax/0x7Cc9c624Efa62C2Decf0a2a028f7885eCea95A17.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x7Cc9c624Efa62C2Decf0a2a028f7885eCea95A17.png"
   },
   {
     "chainId": 43114,
@@ -247,7 +257,7 @@
     "name": "ArenaToken",
     "symbol": "ARENA",
     "decimals": 18,
-    "logoURI": "./avax/0xB8d7710f7d8349A506b75dD184F05777c82dAd0C.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xB8d7710f7d8349A506b75dD184F05777c82dAd0C.png"
   },
   {
     "chainId": 43114,
@@ -257,7 +267,7 @@
     "name": "Treehouse AVAX",
     "symbol": "tAVAX",
     "decimals": 18,
-    "logoURI": "./avax/0x14A84F1a61cCd7D1BE596A6cc11FE33A36Bc1646.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x14A84F1a61cCd7D1BE596A6cc11FE33A36Bc1646.png"
   },
   {
     "chainId": 43114,
@@ -267,7 +277,7 @@
     "name": "COQINU",
     "symbol": "COQ",
     "decimals": 18,
-    "logoURI": "./avax/0x420FcA0121DC28039145009570975747295f2329.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x420FcA0121DC28039145009570975747295f2329.png"
   },
   {
     "chainId": 43114,
@@ -277,7 +287,7 @@
     "name": "Euro Coin",
     "symbol": "EURC",
     "decimals": 6,
-    "logoURI": "./avax/0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD.png"
   },
   {
     "chainId": 43114,
@@ -287,7 +297,7 @@
     "name": "GUNZ",
     "symbol": "GUN",
     "decimals": 18,
-    "logoURI": "./avax/0x26deBD39D5eD069770406FCa10A0E4f8d2c743eB.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x26deBD39D5eD069770406FCa10A0E4f8d2c743eB.png"
   },
   {
     "chainId": 43114,
@@ -297,7 +307,7 @@
     "name": "Magic Internet Money",
     "symbol": "MIM",
     "decimals": 18,
-    "logoURI": "./avax/0x130966628846BFd36ff31a822705796e8cb8C18D.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x130966628846BFd36ff31a822705796e8cb8C18D.png"
   },
   {
     "chainId": 43114,
@@ -307,7 +317,7 @@
     "name": "MyStandard",
     "symbol": "MYST",
     "decimals": 18,
-    "logoURI": "./avax/0x0256B279D973C8d687264AC3eB36bE09232D4474.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x0256B279D973C8d687264AC3eB36bE09232D4474.png"
   },
   {
     "chainId": 43114,
@@ -317,7 +327,7 @@
     "name": "Dexalot Token",
     "symbol": "ALOT",
     "decimals": 18,
-    "logoURI": "./avax/0x093783055F9047C2BfF99c4e414501F8A147bC69.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x093783055F9047C2BfF99c4e414501F8A147bC69.png"
   },
   {
     "chainId": 43114,
@@ -327,7 +337,7 @@
     "name": "Chainlink Token",
     "symbol": "LINK.e",
     "decimals": 18,
-    "logoURI": "./avax/0x5947BB275c521040051D82396192181b413227A3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x5947BB275c521040051D82396192181b413227A3.png"
   },
   {
     "chainId": 43114,
@@ -337,7 +347,7 @@
     "name": "GMX",
     "symbol": "GMX",
     "decimals": 18,
-    "logoURI": "./avax/0x62edc0692BD897D2295872a9FFCac5425011c661.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x62edc0692BD897D2295872a9FFCac5425011c661.png"
   },
   {
     "chainId": 43114,
@@ -347,7 +357,7 @@
     "name": "XAUt0",
     "symbol": "XAUt0",
     "decimals": 6,
-    "logoURI": "./avax/0x2775d5105276781B4b85bA6eA6a6653bEeD1dd32.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x2775d5105276781B4b85bA6eA6a6653bEeD1dd32.png"
   },
   {
     "chainId": 43114,
@@ -357,7 +367,7 @@
     "name": "BattleForGiostone",
     "symbol": "BFG",
     "decimals": 18,
-    "logoURI": "./avax/0xFd538CA3f58dC309dA55B11f007ff53fb4602876.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xFd538CA3f58dC309dA55B11f007ff53fb4602876.png"
   },
   {
     "chainId": 43114,
@@ -367,7 +377,7 @@
     "name": "Yield BTC.B",
     "symbol": "YBTC.B",
     "decimals": 8,
-    "logoURI": "./avax/0x2cd3CdB3bd68Eea0d3BE81DA707bC0c8743D7335.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x2cd3CdB3bd68Eea0d3BE81DA707bC0c8743D7335.png"
   },
   {
     "chainId": 43114,
@@ -377,7 +387,7 @@
     "name": "Staked UTY",
     "symbol": "yUTY",
     "decimals": 18,
-    "logoURI": "./avax/0x580d5E1399157FD0d58218b7A514b60974F2AB01.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x580d5E1399157FD0d58218b7A514b60974F2AB01.png"
   },
   {
     "chainId": 43114,
@@ -387,7 +397,7 @@
     "name": "Pharaoh Liquid Staking Token",
     "symbol": "p33",
     "decimals": 18,
-    "logoURI": "./avax/0x26e9dbe75aed331E41272BEcE932Ff1B48926Ca9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x26e9dbe75aed331E41272BEcE932Ff1B48926Ca9.png"
   },
   {
     "chainId": 43114,
@@ -397,7 +407,7 @@
     "name": "Aave Avalanche WBTC",
     "symbol": "aAvaWBTC",
     "decimals": 8,
-    "logoURI": "./avax/0x078f358208685046a11C85e8ad32895DED33A249.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x078f358208685046a11C85e8ad32895DED33A249.png"
   },
   {
     "chainId": 43114,
@@ -407,7 +417,7 @@
     "name": "Governance OHM",
     "symbol": "gOHM",
     "decimals": 18,
-    "logoURI": "./avax/0x321E7092a180BB43555132ec53AaA65a5bF84251.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x321E7092a180BB43555132ec53AaA65a5bF84251.png"
   },
   {
     "chainId": 43114,
@@ -417,7 +427,7 @@
     "name": "STEP.APP",
     "symbol": "FITFI",
     "decimals": 18,
-    "logoURI": "./avax/0x714f020C54cc9D104B6F4f6998C63ce2a31D1888.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x714f020C54cc9D104B6F4f6998C63ce2a31D1888.png"
   },
   {
     "chainId": 43114,
@@ -427,7 +437,7 @@
     "name": "Backed IB01 $ Treasury Bond 0-1yr",
     "symbol": "bIB01",
     "decimals": 18,
-    "logoURI": "./avax/0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5.png"
   },
   {
     "chainId": 43114,
@@ -437,7 +447,7 @@
     "name": "Vertical AI",
     "symbol": "VERTAI",
     "decimals": 18,
-    "logoURI": "./avax/0x6EDac263561DA41aDe155a992759260FAFb87B43.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6EDac263561DA41aDe155a992759260FAFb87B43.png"
   },
   {
     "chainId": 43114,
@@ -447,7 +457,7 @@
     "name": "LayerZero",
     "symbol": "ZRO",
     "decimals": 18,
-    "logoURI": "./avax/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
   },
   {
     "chainId": 43114,
@@ -457,7 +467,7 @@
     "name": "JPY Coin",
     "symbol": "JPYC",
     "decimals": 18,
-    "logoURI": "./avax/0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29.png"
   },
   {
     "chainId": 43114,
@@ -467,7 +477,7 @@
     "name": "yellow ket",
     "symbol": "KET",
     "decimals": 18,
-    "logoURI": "./avax/0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7.png"
   },
   {
     "chainId": 43114,
@@ -477,7 +487,7 @@
     "name": "Backed CSPX Core S&P 500",
     "symbol": "bCSPX",
     "decimals": 18,
-    "logoURI": "./avax/0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59.png"
   },
   {
     "chainId": 43114,
@@ -487,7 +497,7 @@
     "name": "PointPay Token",
     "symbol": "PXP",
     "decimals": 18,
-    "logoURI": "./avax/0x15FA5d3DBD11a831b72B92C1705BC9F801E233CB.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x15FA5d3DBD11a831b72B92C1705BC9F801E233CB.png"
   },
   {
     "chainId": 43114,
@@ -497,7 +507,7 @@
     "name": "BLACKHOLE",
     "symbol": "BLACK",
     "decimals": 18,
-    "logoURI": "./avax/0xcd94a87696FAC69Edae3a70fE5725307Ae1c43f6.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xcd94a87696FAC69Edae3a70fE5725307Ae1c43f6.png"
   },
   {
     "chainId": 43114,
@@ -507,7 +517,7 @@
     "name": "Pulsar",
     "symbol": "PLSR",
     "decimals": 18,
-    "logoURI": "./avax/0x7a842193D291840FC38B45f991c5B8cC908f8A7C.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x7a842193D291840FC38B45f991c5B8cC908f8A7C.png"
   },
   {
     "chainId": 43114,
@@ -517,7 +527,7 @@
     "name": "Fold",
     "symbol": "FLD",
     "decimals": 18,
-    "logoURI": "./avax/0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F.png"
   },
   {
     "chainId": 43114,
@@ -527,7 +537,7 @@
     "name": "JUICE",
     "symbol": "JUICE",
     "decimals": 18,
-    "logoURI": "./avax/0xD5D053D5B769383e860d1520Da7a908E00919F36.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xD5D053D5B769383e860d1520Da7a908E00919F36.png"
   },
   {
     "chainId": 43114,
@@ -537,7 +547,7 @@
     "name": "Be For FWX",
     "symbol": "B4FWX",
     "decimals": 18,
-    "logoURI": "./avax/0x13B1f0579bc895B2ffb835F295FD9b63fEF36dA0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x13B1f0579bc895B2ffb835F295FD9b63fEF36dA0.png"
   },
   {
     "chainId": 43114,
@@ -547,7 +557,7 @@
     "name": "Suzaku Token",
     "symbol": "SUZ",
     "decimals": 18,
-    "logoURI": "./avax/0x451532F1C9eb7E4Dc2d493dB52b682C0Acf6F5EF.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x451532F1C9eb7E4Dc2d493dB52b682C0Acf6F5EF.png"
   },
   {
     "chainId": 43114,
@@ -557,7 +567,7 @@
     "name": "EverRise",
     "symbol": "RISE",
     "decimals": 18,
-    "logoURI": "./avax/0xC17c30e98541188614dF99239cABD40280810cA3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xC17c30e98541188614dF99239cABD40280810cA3.png"
   },
   {
     "chainId": 43114,
@@ -567,7 +577,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "./avax/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png"
   },
   {
     "chainId": 43114,
@@ -577,7 +587,7 @@
     "name": "BUSD Token",
     "symbol": "BUSD",
     "decimals": 18,
-    "logoURI": "./avax/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39.png"
   },
   {
     "chainId": 43114,
@@ -587,7 +597,7 @@
     "name": "Orbit",
     "symbol": "ORBIT",
     "decimals": 18,
-    "logoURI": "./avax/0x4bf5cd1AC6FfF12E88AEDD3c70EB4148F90F8894.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x4bf5cd1AC6FfF12E88AEDD3c70EB4148F90F8894.png"
   },
   {
     "chainId": 43114,
@@ -597,7 +607,7 @@
     "name": "Aave Avalanche LINK",
     "symbol": "aAvaLINK",
     "decimals": 18,
-    "logoURI": "./avax/0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530.png"
   },
   {
     "chainId": 43114,
@@ -607,7 +617,7 @@
     "name": "GoGoPool Protocol",
     "symbol": "GGP",
     "decimals": 18,
-    "logoURI": "./avax/0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d.png"
   },
   {
     "chainId": 43114,
@@ -617,7 +627,7 @@
     "name": "Gyro Dollar",
     "symbol": "GYD",
     "decimals": 18,
-    "logoURI": "./avax/0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8.png"
   },
   {
     "chainId": 43114,
@@ -627,7 +637,7 @@
     "name": "GOTS",
     "symbol": "GOTS",
     "decimals": 18,
-    "logoURI": "./avax/0x66584240143bB36b59065342b3EEcaC06876Ec11.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x66584240143bB36b59065342b3EEcaC06876Ec11.png"
   },
   {
     "chainId": 43114,
@@ -637,7 +647,7 @@
     "name": "Re Protocol Deposit Token",
     "symbol": "reUSD",
     "decimals": 18,
-    "logoURI": "./avax/0x180aF87b47Bf272B2df59dccf2D76a6eaFa625Bf.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x180aF87b47Bf272B2df59dccf2D76a6eaFa625Bf.png"
   },
   {
     "chainId": 43114,
@@ -647,7 +657,7 @@
     "name": "Aave Token",
     "symbol": "AAVE.e",
     "decimals": 18,
-    "logoURI": "./avax/0x63a72806098Bd3D9520cC43356dD78afe5D386D9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x63a72806098Bd3D9520cC43356dD78afe5D386D9.png"
   },
   {
     "chainId": 43114,
@@ -657,7 +667,7 @@
     "name": "Time",
     "symbol": "TIME",
     "decimals": 9,
-    "logoURI": "./avax/0xb54f16fB19478766A268F172C9480f8da1a7c9C3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xb54f16fB19478766A268F172C9480f8da1a7c9C3.png"
   },
   {
     "chainId": 43114,
@@ -667,7 +677,7 @@
     "name": "Galaxy Lab",
     "symbol": "GAGA",
     "decimals": 18,
-    "logoURI": "./avax/0xdaE17b65718BC4fC306Aaa4fa64C8AD2cC4b7d97.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xdaE17b65718BC4fC306Aaa4fa64C8AD2cC4b7d97.png"
   },
   {
     "chainId": 43114,
@@ -677,7 +687,7 @@
     "name": "TrueUSD",
     "symbol": "TUSD",
     "decimals": 18,
-    "logoURI": "./avax/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB.png"
   },
   {
     "chainId": 43114,
@@ -687,7 +697,7 @@
     "name": "MXNB",
     "symbol": "MXNB",
     "decimals": 6,
-    "logoURI": "./avax/0xF197FFC28c23E0309B5559e7a166f2c6164C80aA.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xF197FFC28c23E0309B5559e7a166f2c6164C80aA.png"
   },
   {
     "chainId": 43114,
@@ -697,7 +707,7 @@
     "name": "Blizz USDC",
     "symbol": "bUSDC",
     "decimals": 6,
-    "logoURI": "./avax/0xC25Ff1aF397b76252D6975b4D7649b35C0E60F69.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xC25Ff1aF397b76252D6975b4D7649b35C0E60F69.png"
   },
   {
     "chainId": 43114,
@@ -707,7 +717,7 @@
     "name": "EURØP",
     "symbol": "EUROP",
     "decimals": 6,
-    "logoURI": "./avax/0x8835A2F66A7AaCCB297Cb985831A616B75e2E16c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x8835A2F66A7AaCCB297Cb985831A616B75e2E16c.png"
   },
   {
     "chainId": 43114,
@@ -717,7 +727,7 @@
     "name": "ROCO",
     "symbol": "ROCO",
     "decimals": 18,
-    "logoURI": "./avax/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208.png"
   },
   {
     "chainId": 43114,
@@ -727,7 +737,7 @@
     "name": "SuperVerse",
     "symbol": "SUPER",
     "decimals": 18,
-    "logoURI": "./avax/0x09Fa58228bB791ea355c90DA1e4783452b9Bd8C3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x09Fa58228bB791ea355c90DA1e4783452b9Bd8C3.png"
   },
   {
     "chainId": 43114,
@@ -737,7 +747,7 @@
     "name": "Poly-Peg COOK",
     "symbol": "COOK",
     "decimals": 18,
-    "logoURI": "./avax/0x637afeff75ca669fF92e4570B14D6399A658902f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x637afeff75ca669fF92e4570B14D6399A658902f.png"
   },
   {
     "chainId": 43114,
@@ -747,7 +757,7 @@
     "name": "Wootrade Network",
     "symbol": "WOO.e",
     "decimals": 18,
-    "logoURI": "./avax/0xaBC9547B534519fF73921b1FBA6E672b5f58D083.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xaBC9547B534519fF73921b1FBA6E672b5f58D083.png"
   },
   {
     "chainId": 43114,
@@ -757,7 +767,7 @@
     "name": "Yak Token",
     "symbol": "YAK",
     "decimals": 18,
-    "logoURI": "./avax/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7.png"
   },
   {
     "chainId": 43114,
@@ -767,7 +777,7 @@
     "name": "VNX Franc",
     "symbol": "VCHF",
     "decimals": 18,
-    "logoURI": "./avax/0x228a48df6819CCc2eCa01e2192ebAFfFdAD56c19.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x228a48df6819CCc2eCa01e2192ebAFfFdAD56c19.png"
   },
   {
     "chainId": 43114,
@@ -777,7 +787,7 @@
     "name": "CHEEMSINU",
     "symbol": "CINU",
     "decimals": 9,
-    "logoURI": "./avax/0xC11bF915Db4b43714bC8D32bF83BF5eA53d40981.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xC11bF915Db4b43714bC8D32bF83BF5eA53d40981.png"
   },
   {
     "chainId": 43114,
@@ -787,7 +797,7 @@
     "name": "Nuklai Token",
     "symbol": "NAI",
     "decimals": 18,
-    "logoURI": "./avax/0x5Ac34C53A04B9aaA0BF047e7291fb4e8A48f2A18.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x5Ac34C53A04B9aaA0BF047e7291fb4e8A48f2A18.png"
   },
   {
     "chainId": 43114,
@@ -797,7 +807,7 @@
     "name": "HonToken",
     "symbol": "HON",
     "decimals": 18,
-    "logoURI": "./avax/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB.png"
   },
   {
     "chainId": 43114,
@@ -807,7 +817,7 @@
     "name": "Frax",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "./avax/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64.png"
   },
   {
     "chainId": 43114,
@@ -817,7 +827,7 @@
     "name": "VNX Euro",
     "symbol": "VEUR",
     "decimals": 18,
-    "logoURI": "./avax/0x7678e162f38ec9ef2Bfd1d0aAF9fd93355E5Fa0b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x7678e162f38ec9ef2Bfd1d0aAF9fd93355E5Fa0b.png"
   },
   {
     "chainId": 43114,
@@ -827,7 +837,7 @@
     "name": "InkFinance",
     "symbol": "QUILL",
     "decimals": 18,
-    "logoURI": "./avax/0xf3E5914cA1F678E0A3a38031B5514682e3450919.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xf3E5914cA1F678E0A3a38031B5514682e3450919.png"
   },
   {
     "chainId": 43114,
@@ -837,7 +847,7 @@
     "name": "NUMINE Token",
     "symbol": "NUMI",
     "decimals": 18,
-    "logoURI": "./avax/0x59234B44214D88C57B7c54A6D2633334D95C5161.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x59234B44214D88C57B7c54A6D2633334D95C5161.png"
   },
   {
     "chainId": 43114,
@@ -847,7 +857,7 @@
     "name": "Stable Jack",
     "symbol": "JACK",
     "decimals": 18,
-    "logoURI": "./avax/0x3fE4902B275CaF603C46C81F3d921BB8515B5BC0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x3fE4902B275CaF603C46C81F3d921BB8515B5BC0.png"
   },
   {
     "chainId": 43114,
@@ -857,7 +867,7 @@
     "name": "Elk",
     "symbol": "ELK",
     "decimals": 18,
-    "logoURI": "./avax/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE.png"
   },
   {
     "chainId": 43114,
@@ -867,7 +877,7 @@
     "name": "Spore.Finance",
     "symbol": "SPORE",
     "decimals": 9,
-    "logoURI": "./avax/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985.png"
   },
   {
     "chainId": 43114,
@@ -877,7 +887,7 @@
     "name": "YieldYak gAVAX",
     "symbol": "yyAVAX",
     "decimals": 18,
-    "logoURI": "./avax/0xF7D9281e8e363584973F946201b82ba72C965D27.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xF7D9281e8e363584973F946201b82ba72C965D27.png"
   },
   {
     "chainId": 43114,
@@ -887,7 +897,7 @@
     "name": "w3ULL",
     "symbol": "w3ULL",
     "decimals": 18,
-    "logoURI": "./avax/0xa77e70d0Af1Ac7fF86726740dB1Bd065c3566937.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xa77e70d0Af1Ac7fF86726740dB1Bd065c3566937.png"
   },
   {
     "chainId": 43114,
@@ -897,7 +907,7 @@
     "name": "CheckDot",
     "symbol": "CDT",
     "decimals": 18,
-    "logoURI": "./avax/0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE.png"
   },
   {
     "chainId": 43114,
@@ -907,7 +917,7 @@
     "name": "Ankr Reward Earning AVAX",
     "symbol": "aAVAXb",
     "decimals": 18,
-    "logoURI": "./avax/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929.png"
   },
   {
     "chainId": 43114,
@@ -917,7 +927,7 @@
     "name": "StargateToken",
     "symbol": "STG",
     "decimals": 18,
-    "logoURI": "./avax/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.png"
   },
   {
     "chainId": 43114,
@@ -927,7 +937,7 @@
     "name": "Gho Token",
     "symbol": "GHO",
     "decimals": 18,
-    "logoURI": "./avax/0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73.png"
   },
   {
     "chainId": 43114,
@@ -937,7 +947,7 @@
     "name": "PLYR",
     "symbol": "PLYR",
     "decimals": 18,
-    "logoURI": "./avax/0xC09a033927f9fD558C92CF7AeAbE34B71ce4B31E.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xC09a033927f9fD558C92CF7AeAbE34B71ce4B31E.png"
   },
   {
     "chainId": 43114,
@@ -947,7 +957,7 @@
     "name": "Megaweapon",
     "symbol": "WEAPON",
     "decimals": 9,
-    "logoURI": "./avax/0xe3B3F75f99Da4fF26AA867ef70B48F8f6B2D4958.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xe3B3F75f99Da4fF26AA867ef70B48F8f6B2D4958.png"
   },
   {
     "chainId": 43114,
@@ -957,7 +967,7 @@
     "name": "KyteOne",
     "symbol": "KTE",
     "decimals": 18,
-    "logoURI": "./avax/0x056D114fF1e01dE3BCA30F0Efa3655DF42880e5B.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x056D114fF1e01dE3BCA30F0Efa3655DF42880e5B.png"
   },
   {
     "chainId": 43114,
@@ -967,7 +977,7 @@
     "name": "Seedworld",
     "symbol": "SWORLD",
     "decimals": 18,
-    "logoURI": "./avax/0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x968bE3F7bfeF0F8eDc3c1aD90232EbB0DA0867aA.png"
   },
   {
     "chainId": 43114,
@@ -977,7 +987,7 @@
     "name": "Fantom Bomb",
     "symbol": "fBOMB",
     "decimals": 18,
-    "logoURI": "./avax/0x5C09A9cE08C4B332Ef1CC5f7caDB1158C32767Ce.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x5C09A9cE08C4B332Ef1CC5f7caDB1158C32767Ce.png"
   },
   {
     "chainId": 43114,
@@ -987,7 +997,7 @@
     "name": "SecureChain AI",
     "symbol": "SCAI",
     "decimals": 18,
-    "logoURI": "./avax/0x0F13fC8a93aB8edC9Fde0a1E19aAC693161599A5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x0F13fC8a93aB8edC9Fde0a1E19aAC693161599A5.png"
   },
   {
     "chainId": 43114,
@@ -997,7 +1007,7 @@
     "name": "Husky",
     "symbol": "HUSKY",
     "decimals": 18,
-    "logoURI": "./avax/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654.png"
   },
   {
     "chainId": 43114,
@@ -1007,7 +1017,7 @@
     "name": "MAI",
     "symbol": "miMatic",
     "decimals": 18,
-    "logoURI": "./avax/0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e.png"
   },
   {
     "chainId": 43114,
@@ -1017,7 +1027,7 @@
     "name": "VaporNodes",
     "symbol": "VPND",
     "decimals": 18,
-    "logoURI": "./avax/0x83a283641C6B4DF383BCDDf807193284C84c5342.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x83a283641C6B4DF383BCDDf807193284C84c5342.png"
   },
   {
     "chainId": 43114,
@@ -1027,7 +1037,7 @@
     "name": "Build Token",
     "symbol": "BUILD",
     "decimals": 18,
-    "logoURI": "./avax/0x5f018e73C185aB23647c82bD039e762813877f0e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x5f018e73C185aB23647c82bD039e762813877f0e.png"
   },
   {
     "chainId": 43114,
@@ -1037,7 +1047,7 @@
     "name": "Kalao Token",
     "symbol": "KLO",
     "decimals": 18,
-    "logoURI": "./avax/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35.png"
   },
   {
     "chainId": 43114,
@@ -1047,7 +1057,7 @@
     "name": "MOANI",
     "symbol": "MOANI",
     "decimals": 18,
-    "logoURI": "./avax/0xEeC951BFDEB358371a19512C6c33CdD840d47DB0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xEeC951BFDEB358371a19512C6c33CdD840d47DB0.png"
   },
   {
     "chainId": 43114,
@@ -1057,7 +1067,7 @@
     "name": "BiLira",
     "symbol": "TRYB",
     "decimals": 6,
-    "logoURI": "./avax/0x564A341Df6C126f90cf3ECB92120FD7190ACb401.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x564A341Df6C126f90cf3ECB92120FD7190ACb401.png"
   },
   {
     "chainId": 43114,
@@ -1067,7 +1077,7 @@
     "name": "Aave Avalanche AAVE",
     "symbol": "aAvaAAVE",
     "decimals": 18,
-    "logoURI": "./avax/0xf329e36C7bF6E5E86ce2150875a84Ce77f477375.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xf329e36C7bF6E5E86ce2150875a84Ce77f477375.png"
   },
   {
     "chainId": 43114,
@@ -1077,7 +1087,7 @@
     "name": "Solana",
     "symbol": "SOL",
     "decimals": 18,
-    "logoURI": "./avax/0x634608ed64c61CA9e741F8095193c0bFa0FA19Cc.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x634608ed64c61CA9e741F8095193c0bFa0FA19Cc.png"
   },
   {
     "chainId": 43114,
@@ -1087,7 +1097,7 @@
     "name": "APower",
     "symbol": "APOW",
     "decimals": 18,
-    "logoURI": "./avax/0xf3dd4E0a1dB7C5DCbf3b225698Cb6A916AEB24d9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xf3dd4E0a1dB7C5DCbf3b225698Cb6A916AEB24d9.png"
   },
   {
     "chainId": 43114,
@@ -1097,7 +1107,7 @@
     "name": "LIQR",
     "symbol": "LIQR",
     "decimals": 18,
-    "logoURI": "./avax/0x33333ee26a7d02e41c33828B42Fb1E0889143477.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x33333ee26a7d02e41c33828B42Fb1E0889143477.png"
   },
   {
     "chainId": 43114,
@@ -1107,7 +1117,7 @@
     "name": "Spell Token",
     "symbol": "SPELL",
     "decimals": 18,
-    "logoURI": "./avax/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814.png"
   },
   {
     "chainId": 43114,
@@ -1117,7 +1127,7 @@
     "name": "Beam",
     "symbol": "BEAM",
     "decimals": 18,
-    "logoURI": "./avax/0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE.png"
   },
   {
     "chainId": 43114,
@@ -1127,7 +1137,7 @@
     "name": "Sundae Finance",
     "symbol": "FUDGE",
     "decimals": 18,
-    "logoURI": "./avax/0xD9FF12172803c072a36785DeFea1Aa981A6A0C18.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xD9FF12172803c072a36785DeFea1Aa981A6A0C18.png"
   },
   {
     "chainId": 43114,
@@ -1137,7 +1147,7 @@
     "name": "Kimbo",
     "symbol": "KIMBO",
     "decimals": 18,
-    "logoURI": "./avax/0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1.png"
   },
   {
     "chainId": 43114,
@@ -1147,7 +1157,7 @@
     "name": "LIBERA - Multichain High APR Farming",
     "symbol": "LIBERA",
     "decimals": 18,
-    "logoURI": "./avax/0x8908ea968D2f79D078D893c0bcecD63eACDD9322.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x8908ea968D2f79D078D893c0bcecD63eACDD9322.png"
   },
   {
     "chainId": 43114,
@@ -1157,7 +1167,7 @@
     "name": "USDe",
     "symbol": "USDe",
     "decimals": 18,
-    "logoURI": "./avax/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.png"
   },
   {
     "chainId": 43114,
@@ -1167,7 +1177,7 @@
     "name": "PSHARE",
     "symbol": "PSHARE",
     "decimals": 18,
-    "logoURI": "./avax/0xA5e2cFe48fe8C4ABD682CA2B10fCAaFE34b8774c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xA5e2cFe48fe8C4ABD682CA2B10fCAaFE34b8774c.png"
   },
   {
     "chainId": 43114,
@@ -1177,7 +1187,7 @@
     "name": "BLAZE",
     "symbol": "BLAZE",
     "decimals": 18,
-    "logoURI": "./avax/0x297731Eb3CAB3834525fc9Ea061fd71d8f4645C9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x297731Eb3CAB3834525fc9Ea061fd71d8f4645C9.png"
   },
   {
     "chainId": 43114,
@@ -1187,7 +1197,7 @@
     "name": "Wrapped MEMO",
     "symbol": "wMEMO",
     "decimals": 18,
-    "logoURI": "./avax/0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b.png"
   },
   {
     "chainId": 43114,
@@ -1197,7 +1207,7 @@
     "name": "Staked Stream USD",
     "symbol": "xUSD",
     "decimals": 6,
-    "logoURI": "./avax/0x94f9bB5c972285728DCee7EAece48BeC2fF341ce.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x94f9bB5c972285728DCee7EAece48BeC2fF341ce.png"
   },
   {
     "chainId": 43114,
@@ -1207,7 +1217,7 @@
     "name": "More Token",
     "symbol": "MORE",
     "decimals": 18,
-    "logoURI": "./avax/0xd9D90f882CDdD6063959A9d837B05Cb748718A05.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xd9D90f882CDdD6063959A9d837B05Cb748718A05.png"
   },
   {
     "chainId": 43114,
@@ -1217,7 +1227,7 @@
     "name": "MEOW",
     "symbol": "MEOW",
     "decimals": 18,
-    "logoURI": "./avax/0x9209e7EbD056d72C5996220e99df6049253DeBCf.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9209e7EbD056d72C5996220e99df6049253DeBCf.png"
   },
   {
     "chainId": 43114,
@@ -1227,7 +1237,7 @@
     "name": "Axelar Wrapped USDC",
     "symbol": "axlUSDC",
     "decimals": 6,
-    "logoURI": "./avax/0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC.png"
   },
   {
     "chainId": 43114,
@@ -1237,7 +1247,7 @@
     "name": "JPEG",
     "symbol": "JPEG",
     "decimals": 18,
-    "logoURI": "./avax/0x6241af3817Db48a7F9E19FD9446d78E50936d275.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6241af3817Db48a7F9E19FD9446d78E50936d275.png"
   },
   {
     "chainId": 43114,
@@ -1247,7 +1257,7 @@
     "name": "RBX",
     "symbol": "RBX",
     "decimals": 18,
-    "logoURI": "./avax/0x94960952876e3ED6A7760B198354fCc5319A406a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x94960952876e3ED6A7760B198354fCc5319A406a.png"
   },
   {
     "chainId": 43114,
@@ -1257,7 +1267,7 @@
     "name": "Synapse",
     "symbol": "SYN",
     "decimals": 18,
-    "logoURI": "./avax/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251.png"
   },
   {
     "chainId": 43114,
@@ -1267,7 +1277,7 @@
     "name": "JoeBar",
     "symbol": "xJOE",
     "decimals": 18,
-    "logoURI": "./avax/0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33.png"
   },
   {
     "chainId": 43114,
@@ -1277,7 +1287,7 @@
     "name": "YUSD",
     "symbol": "YUSD",
     "decimals": 18,
-    "logoURI": "./avax/0xca2671Dcd031a72359f456C212F62A9bDa737cD7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xca2671Dcd031a72359f456C212F62A9bDa737cD7.png"
   },
   {
     "chainId": 43114,
@@ -1287,7 +1297,7 @@
     "name": "Wink",
     "symbol": "WINK",
     "decimals": 18,
-    "logoURI": "./avax/0x7698A5311DA174A95253Ce86C21ca7272b9B05f8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x7698A5311DA174A95253Ce86C21ca7272b9B05f8.png"
   },
   {
     "chainId": 43114,
@@ -1297,7 +1307,7 @@
     "name": "WOLFI",
     "symbol": "WOLFI",
     "decimals": 18,
-    "logoURI": "./avax/0x5DDc8d968a94cf95CfeB7379F8372d858B9C797d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x5DDc8d968a94cf95CfeB7379F8372d858B9C797d.png"
   },
   {
     "chainId": 43114,
@@ -1307,7 +1317,7 @@
     "name": "Canary",
     "symbol": "CNR",
     "decimals": 18,
-    "logoURI": "./avax/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf.png"
   },
   {
     "chainId": 43114,
@@ -1317,7 +1327,7 @@
     "name": "Staked USDe",
     "symbol": "sUSDe",
     "decimals": 18,
-    "logoURI": "./avax/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2.png"
   },
   {
     "chainId": 43114,
@@ -1327,7 +1337,7 @@
     "name": "ALBERT",
     "symbol": "ALBERT",
     "decimals": 18,
-    "logoURI": "./avax/0x885c3a3A4998f0b5ac367A46217E68A200737A32.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x885c3a3A4998f0b5ac367A46217E68A200737A32.png"
   },
   {
     "chainId": 43114,
@@ -1337,7 +1347,7 @@
     "name": "Vee",
     "symbol": "VEE",
     "decimals": 18,
-    "logoURI": "./avax/0x3709E8615E02C15B096f8a9B460ccb8cA8194e86.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x3709E8615E02C15B096f8a9B460ccb8cA8194e86.png"
   },
   {
     "chainId": 43114,
@@ -1347,7 +1357,7 @@
     "name": "DEXTF Token",
     "symbol": "DEXTF",
     "decimals": 18,
-    "logoURI": "./avax/0x03E8D118A1864c7Dc53bf91e007ab7D91f5A06fA.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x03E8D118A1864c7Dc53bf91e007ab7D91f5A06fA.png"
   },
   {
     "chainId": 43114,
@@ -1357,7 +1367,7 @@
     "name": "Boi the Bear",
     "symbol": "BOI",
     "decimals": 18,
-    "logoURI": "./avax/0xACC95Afa65768aa74044E6f6e267AD6417CD3e55.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xACC95Afa65768aa74044E6f6e267AD6417CD3e55.png"
   },
   {
     "chainId": 43114,
@@ -1367,7 +1377,7 @@
     "name": "Cerby Token",
     "symbol": "CERBY",
     "decimals": 18,
-    "logoURI": "./avax/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840.png"
   },
   {
     "chainId": 43114,
@@ -1377,7 +1387,7 @@
     "name": "TrustSwap Token",
     "symbol": "SWAP.e",
     "decimals": 18,
-    "logoURI": "./avax/0xc7B5D72C836e718cDA8888eaf03707fAef675079.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xc7B5D72C836e718cDA8888eaf03707fAef675079.png"
   },
   {
     "chainId": 43114,
@@ -1387,7 +1397,7 @@
     "name": "Vector",
     "symbol": "VTX",
     "decimals": 18,
-    "logoURI": "./avax/0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4.png"
   },
   {
     "chainId": 43114,
@@ -1397,7 +1407,7 @@
     "name": "COQ AI",
     "symbol": "COQAI",
     "decimals": 18,
-    "logoURI": "./avax/0xE7d69acbc00D0EC5d9c02162310EE21DAA77f69C.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xE7d69acbc00D0EC5d9c02162310EE21DAA77f69C.png"
   },
   {
     "chainId": 43114,
@@ -1407,7 +1417,7 @@
     "name": "TRESR",
     "symbol": "TRESR",
     "decimals": 18,
-    "logoURI": "./avax/0x9913BA363073Ca3e9eA0cD296E36B75aF9E40bef.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9913BA363073Ca3e9eA0cD296E36B75aF9E40bef.png"
   },
   {
     "chainId": 43114,
@@ -1417,7 +1427,7 @@
     "name": "Euler",
     "symbol": "EUL",
     "decimals": 18,
-    "logoURI": "./avax/0x9ceeD3A7f753608372eeAb300486cc7c2F38AC68.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9ceeD3A7f753608372eeAb300486cc7c2F38AC68.png"
   },
   {
     "chainId": 43114,
@@ -1427,7 +1437,7 @@
     "name": "LAMBO",
     "symbol": "LAMBO",
     "decimals": 18,
-    "logoURI": "./avax/0x6F43fF77A9C0Cf552b5b653268fBFe26A052429b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6F43fF77A9C0Cf552b5b653268fBFe26A052429b.png"
   },
   {
     "chainId": 43114,
@@ -1437,7 +1447,7 @@
     "name": "Gecko Inu",
     "symbol": "GEC",
     "decimals": 18,
-    "logoURI": "./avax/0xE8385CECb013561b69bEb63FF59f4d10734881f3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xE8385CECb013561b69bEb63FF59f4d10734881f3.png"
   },
   {
     "chainId": 43114,
@@ -1447,7 +1457,7 @@
     "name": "iDeFiYieldProtocol",
     "symbol": "iDYP",
     "decimals": 18,
-    "logoURI": "./avax/0xBD100d061E120b2c67A24453CF6368E63f1Be056.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xBD100d061E120b2c67A24453CF6368E63f1Be056.png"
   },
   {
     "chainId": 43114,
@@ -1457,7 +1467,7 @@
     "name": "APIX",
     "symbol": "APIX",
     "decimals": 18,
-    "logoURI": "./avax/0x1EdF79e77693561E80072BEcbcCE1E16Dc356Aca.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x1EdF79e77693561E80072BEcbcCE1E16Dc356Aca.png"
   },
   {
     "chainId": 43114,
@@ -1467,7 +1477,7 @@
     "name": "zJoe",
     "symbol": "zJoe",
     "decimals": 18,
-    "logoURI": "./avax/0x769bfeb9fAacD6Eb2746979a8dD0b7e9920aC2A4.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x769bfeb9fAacD6Eb2746979a8dD0b7e9920aC2A4.png"
   },
   {
     "chainId": 43114,
@@ -1477,7 +1487,7 @@
     "name": "SmarterCoin",
     "symbol": "SMRTr",
     "decimals": 18,
-    "logoURI": "./avax/0x6D923f688C7FF287dc3A5943CAeefc994F97b290.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6D923f688C7FF287dc3A5943CAeefc994F97b290.png"
   },
   {
     "chainId": 43114,
@@ -1487,7 +1497,7 @@
     "name": "Dragon Crypto Argenti",
     "symbol": "DCAR",
     "decimals": 18,
-    "logoURI": "./avax/0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F.png"
   },
   {
     "chainId": 43114,
@@ -1497,7 +1507,7 @@
     "name": "Janus Network",
     "symbol": "JNS",
     "decimals": 18,
-    "logoURI": "./avax/0x7A023A408F51c23760Eb31190fc731bc12B52954.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x7A023A408F51c23760Eb31190fc731bc12B52954.png"
   },
   {
     "chainId": 43114,
@@ -1507,7 +1517,7 @@
     "name": "My Bro",
     "symbol": "BRO",
     "decimals": 18,
-    "logoURI": "./avax/0x42069000770c482fEd048e1Da03A5f82773abD69.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x42069000770c482fEd048e1Da03A5f82773abD69.png"
   },
   {
     "chainId": 43114,
@@ -1517,7 +1527,7 @@
     "name": "DizzyHavoc",
     "symbol": "DZHV",
     "decimals": 18,
-    "logoURI": "./avax/0x3419875B4D3Bca7F3FddA2dB7a476A79fD31B4fE.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x3419875B4D3Bca7F3FddA2dB7a476A79fD31B4fE.png"
   },
   {
     "chainId": 43114,
@@ -1527,7 +1537,7 @@
     "name": "Yak Milk Suzaku Restaked BTC.b",
     "symbol": "rBTC.b",
     "decimals": 18,
-    "logoURI": "./avax/0xe684F692bdf5B3B0DB7E8e31a276DE8A2E9F0025.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xe684F692bdf5B3B0DB7E8e31a276DE8A2E9F0025.png"
   },
   {
     "chainId": 43114,
@@ -1537,7 +1547,7 @@
     "name": "RadioShack Token",
     "symbol": "RADIO",
     "decimals": 18,
-    "logoURI": "./avax/0x02Bfd11499847003De5f0F5AA081C43854d48815.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x02Bfd11499847003De5f0F5AA081C43854d48815.png"
   },
   {
     "chainId": 43114,
@@ -1547,7 +1557,7 @@
     "name": "Alvara",
     "symbol": "ALVA",
     "decimals": 18,
-    "logoURI": "./avax/0xd18555A6C2FDa350069735419900478eec4Abd96.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xd18555A6C2FDa350069735419900478eec4Abd96.png"
   },
   {
     "chainId": 43114,
@@ -1557,7 +1567,7 @@
     "name": "MUON Network",
     "symbol": "MUON",
     "decimals": 18,
-    "logoURI": "./avax/0x6B1eCf0c181Afff3d7096B26C3d2bc31F55CEaB9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6B1eCf0c181Afff3d7096B26C3d2bc31F55CEaB9.png"
   },
   {
     "chainId": 43114,
@@ -1567,7 +1577,7 @@
     "name": "NitroNetwork",
     "symbol": "ncash",
     "decimals": 18,
-    "logoURI": "./avax/0xc69Eba65e87889f0805dB717Af06797055A0BA07.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xc69Eba65e87889f0805dB717Af06797055A0BA07.png"
   },
   {
     "chainId": 43114,
@@ -1577,7 +1587,7 @@
     "name": "Pendle",
     "symbol": "PENDLE",
     "decimals": 18,
-    "logoURI": "./avax/0xfB98B335551a418cD0737375a2ea0ded62Ea213b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xfB98B335551a418cD0737375a2ea0ded62Ea213b.png"
   },
   {
     "chainId": 43114,
@@ -1587,7 +1597,7 @@
     "name": "Woof",
     "symbol": "WOOF",
     "decimals": 18,
-    "logoURI": "./avax/0x35A7341Ae0adb31Cb210524D4D02563c061Feac5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x35A7341Ae0adb31Cb210524D4D02563c061Feac5.png"
   },
   {
     "chainId": 43114,
@@ -1597,7 +1607,7 @@
     "name": "Pepe",
     "symbol": "PEPE",
     "decimals": 18,
-    "logoURI": "./avax/0xA659D083b677D6bffe1cb704E1473B896727Be6d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xA659D083b677D6bffe1cb704E1473B896727Be6d.png"
   },
   {
     "chainId": 43114,
@@ -1607,7 +1617,7 @@
     "name": "Binance USD",
     "symbol": "BUSD.e",
     "decimals": 18,
-    "logoURI": "./avax/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98.png"
   },
   {
     "chainId": 43114,
@@ -1617,7 +1627,7 @@
     "name": "VapeToken",
     "symbol": "VAPE",
     "decimals": 18,
-    "logoURI": "./avax/0x7bddaF6DbAB30224AA2116c4291521C7a60D5f55.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x7bddaF6DbAB30224AA2116c4291521C7a60D5f55.png"
   },
   {
     "chainId": 43114,
@@ -1627,7 +1637,7 @@
     "name": "DCTDAO",
     "symbol": "DCTD",
     "decimals": 18,
-    "logoURI": "./avax/0x8Db2dBdFB50480FE79F6576deAA4f6E68DcBfb15.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x8Db2dBdFB50480FE79F6576deAA4f6E68DcBfb15.png"
   },
   {
     "chainId": 43114,
@@ -1637,7 +1647,7 @@
     "name": "RED PEPE",
     "symbol": "RPEPE",
     "decimals": 18,
-    "logoURI": "./avax/0x694207A9f708355Ee3119F11E55bc5c0B1845Ba2.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x694207A9f708355Ee3119F11E55bc5c0B1845Ba2.png"
   },
   {
     "chainId": 43114,
@@ -1647,7 +1657,7 @@
     "name": "SPX6900",
     "symbol": "SPX",
     "decimals": 18,
-    "logoURI": "./avax/0x6F911b6B39Bcc665A463129c94B5380A4387b7eb.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6F911b6B39Bcc665A463129c94B5380A4387b7eb.png"
   },
   {
     "chainId": 43114,
@@ -1657,7 +1667,7 @@
     "name": "GreatestOfAVAXTrenches",
     "symbol": "GOAT",
     "decimals": 18,
-    "logoURI": "./avax/0xB9C188BC558a82a1eE9E75AE0857df443F407632.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xB9C188BC558a82a1eE9E75AE0857df443F407632.png"
   },
   {
     "chainId": 43114,
@@ -1667,7 +1677,7 @@
     "name": "Super Champs",
     "symbol": "CHAMP",
     "decimals": 18,
-    "logoURI": "./avax/0x6Aa38eDd7f32a28b7b2c2dc86fC5b0bF2aE61579.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6Aa38eDd7f32a28b7b2c2dc86fC5b0bF2aE61579.png"
   },
   {
     "chainId": 43114,
@@ -1677,7 +1687,7 @@
     "name": "Frax Share",
     "symbol": "FXS",
     "decimals": 18,
-    "logoURI": "./avax/0x214DB107654fF987AD859F34125307783fC8e387.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x214DB107654fF987AD859F34125307783fC8e387.png"
   },
   {
     "chainId": 43114,
@@ -1687,7 +1697,7 @@
     "name": "TRACTOR JOE",
     "symbol": "TRACTOR",
     "decimals": 9,
-    "logoURI": "./avax/0x542fA0B261503333B90fE60c78F2BeeD16b7b7fD.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x542fA0B261503333B90fE60c78F2BeeD16b7b7fD.png"
   },
   {
     "chainId": 43114,
@@ -1697,7 +1707,7 @@
     "name": "Aesyx Dollar",
     "symbol": "AXD",
     "decimals": 18,
-    "logoURI": "./avax/0x67ea3abd5CeE0b99D743155051c191B09135f93C.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x67ea3abd5CeE0b99D743155051c191B09135f93C.png"
   },
   {
     "chainId": 43114,
@@ -1707,7 +1717,7 @@
     "name": "PenguinToken",
     "symbol": "PEFI",
     "decimals": 18,
-    "logoURI": "./avax/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c.png"
   },
   {
     "chainId": 43114,
@@ -1717,7 +1727,7 @@
     "name": "LydiaFinance Token",
     "symbol": "LYD",
     "decimals": 18,
-    "logoURI": "./avax/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084.png"
   },
   {
     "chainId": 43114,
@@ -1727,7 +1737,7 @@
     "name": "Wrapped Aave Avalanche WAVAX",
     "symbol": "waAvaWAVAX",
     "decimals": 18,
-    "logoURI": "./avax/0xD7da0De6Ef4f51d6206bF2A35fCd2030F54c3F7B.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xD7da0De6Ef4f51d6206bF2A35fCd2030F54c3F7B.png"
   },
   {
     "chainId": 43114,
@@ -1737,7 +1747,7 @@
     "name": "Colony Avalanche Index",
     "symbol": "CAI",
     "decimals": 18,
-    "logoURI": "./avax/0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0.png"
   },
   {
     "chainId": 43114,
@@ -1747,7 +1757,7 @@
     "name": "Integrity DAO",
     "symbol": "ID",
     "decimals": 18,
-    "logoURI": "./avax/0x34a528Da3b2EA5c6Ad1796Eba756445D1299a577.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x34a528Da3b2EA5c6Ad1796Eba756445D1299a577.png"
   },
   {
     "chainId": 43114,
@@ -1757,7 +1767,7 @@
     "name": "Second",
     "symbol": "SECOND",
     "decimals": 18,
-    "logoURI": "./avax/0x7979871595b80433183950Ab6c6457752B585805.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x7979871595b80433183950Ab6c6457752B585805.png"
   },
   {
     "chainId": 43114,
@@ -1767,7 +1777,7 @@
     "name": "TEDDY",
     "symbol": "TEDDY",
     "decimals": 18,
-    "logoURI": "./avax/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC.png"
   },
   {
     "chainId": 43114,
@@ -1777,7 +1787,7 @@
     "name": "SHIBAVAX",
     "symbol": "SHIBX",
     "decimals": 18,
-    "logoURI": "./avax/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1.png"
   },
   {
     "chainId": 43114,
@@ -1787,7 +1797,7 @@
     "name": "HeroesChained",
     "symbol": "HeC",
     "decimals": 18,
-    "logoURI": "./avax/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c.png"
   },
   {
     "chainId": 43114,
@@ -1797,7 +1807,7 @@
     "name": "HeyAnon",
     "symbol": "Anon",
     "decimals": 18,
-    "logoURI": "./avax/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C.png"
   },
   {
     "chainId": 43114,
@@ -1807,7 +1817,7 @@
     "name": "chikn egg",
     "symbol": "EGG",
     "decimals": 18,
-    "logoURI": "./avax/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611.png"
   },
   {
     "chainId": 43114,
@@ -1817,7 +1827,7 @@
     "name": "deUSD",
     "symbol": "deUSD",
     "decimals": 18,
-    "logoURI": "./avax/0xB57B25851fE2311CC3fE511c8F10E868932e0680.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xB57B25851fE2311CC3fE511c8F10E868932e0680.png"
   },
   {
     "chainId": 43114,
@@ -1827,7 +1837,7 @@
     "name": "BetSwirl v2",
     "symbol": "BETS",
     "decimals": 18,
-    "logoURI": "./avax/0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5.png"
   },
   {
     "chainId": 43114,
@@ -1837,7 +1847,7 @@
     "name": "TSD Stablecoin",
     "symbol": "TSD",
     "decimals": 18,
-    "logoURI": "./avax/0x4fbf0429599460D327BD5F55625E30E4fC066095.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x4fbf0429599460D327BD5F55625E30E4fC066095.png"
   },
   {
     "chainId": 43114,
@@ -1847,7 +1857,7 @@
     "name": "Shack Token",
     "symbol": "SHACK",
     "decimals": 18,
-    "logoURI": "./avax/0x9AD274e20a153451775Ff29D546949a254C4a1bc.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9AD274e20a153451775Ff29D546949a254C4a1bc.png"
   },
   {
     "chainId": 43114,
@@ -1857,7 +1867,7 @@
     "name": "CRA",
     "symbol": "CRA",
     "decimals": 18,
-    "logoURI": "./avax/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed.png"
   },
   {
     "chainId": 43114,
@@ -1867,7 +1877,7 @@
     "name": "rLoop",
     "symbol": "rloop",
     "decimals": 18,
-    "logoURI": "./avax/0x822b906E74D493D07223CF6858620ccDa66b2154.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x822b906E74D493D07223CF6858620ccDa66b2154.png"
   },
   {
     "chainId": 43114,
@@ -1877,7 +1887,7 @@
     "name": "ZooToken",
     "symbol": "ZOO",
     "decimals": 18,
-    "logoURI": "./avax/0x1B88D7aD51626044Ec62eF9803EA264DA4442F32.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x1B88D7aD51626044Ec62eF9803EA264DA4442F32.png"
   },
   {
     "chainId": 43114,
@@ -1887,7 +1897,7 @@
     "name": "OliveCash Token",
     "symbol": "OLIVE",
     "decimals": 18,
-    "logoURI": "./avax/0x617724974218A18769020A70162165A539c07E8a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x617724974218A18769020A70162165A539c07E8a.png"
   },
   {
     "chainId": 43114,
@@ -1897,7 +1907,7 @@
     "name": "XVGAVA",
     "symbol": "XVGAVA",
     "decimals": 18,
-    "logoURI": "./avax/0xe061Aa40Be525A13296CB4Bf69f513242349D708.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xe061Aa40Be525A13296CB4Bf69f513242349D708.png"
   },
   {
     "chainId": 43114,
@@ -1907,7 +1917,7 @@
     "name": "Ampleforth secured by Meter Passport",
     "symbol": "AMPL",
     "decimals": 9,
-    "logoURI": "./avax/0x027dbcA046ca156De9622cD1e2D907d375e53aa7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x027dbcA046ca156De9622cD1e2D907d375e53aa7.png"
   },
   {
     "chainId": 43114,
@@ -1917,7 +1927,7 @@
     "name": "Universal Store of Value",
     "symbol": "USV",
     "decimals": 9,
-    "logoURI": "./avax/0xb0a8E082E5f8d2a04e74372c1bE47737d85A0E73.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xb0a8E082E5f8d2a04e74372c1bE47737d85A0E73.png"
   },
   {
     "chainId": 43114,
@@ -1927,7 +1937,7 @@
     "name": "Frax Ether",
     "symbol": "frxETH",
     "decimals": 18,
-    "logoURI": "./avax/0x2018B0CA0eDcE80800851958bD094dD4a8DA1fc4.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x2018B0CA0eDcE80800851958bD094dD4a8DA1fc4.png"
   },
   {
     "chainId": 43114,
@@ -1937,7 +1947,7 @@
     "name": "Platypus",
     "symbol": "PTP",
     "decimals": 18,
-    "logoURI": "./avax/0x22d4002028f537599bE9f666d1c4Fa138522f9c8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x22d4002028f537599bE9f666d1c4Fa138522f9c8.png"
   },
   {
     "chainId": 43114,
@@ -1947,7 +1957,7 @@
     "name": "NFTrade Token [via ChainPort.io]",
     "symbol": "NFTD",
     "decimals": 18,
-    "logoURI": "./avax/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF.png"
   },
   {
     "chainId": 43114,
@@ -1957,7 +1967,7 @@
     "name": "Degen Hours",
     "symbol": "SLEEP",
     "decimals": 18,
-    "logoURI": "./avax/0x2F0eC0ED7D746936f1AeaC5702816d38329EE9e6.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x2F0eC0ED7D746936f1AeaC5702816d38329EE9e6.png"
   },
   {
     "chainId": 43114,
@@ -1967,7 +1977,7 @@
     "name": "$BUSINESSES",
     "symbol": "BUSINESSES",
     "decimals": 18,
-    "logoURI": "./avax/0x15c841043e13fFAA9a99FabEa236D40F45615623.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x15c841043e13fFAA9a99FabEa236D40F45615623.png"
   },
   {
     "chainId": 43114,
@@ -1977,7 +1987,7 @@
     "name": "Stable Coin",
     "symbol": "SBC",
     "decimals": 18,
-    "logoURI": "./avax/0xf9FB20B8E097904f0aB7d12e9DbeE88f2dcd0F16.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xf9FB20B8E097904f0aB7d12e9DbeE88f2dcd0F16.png"
   },
   {
     "chainId": 43114,
@@ -1987,7 +1997,7 @@
     "name": "JindoJinju",
     "symbol": "JindoJinju",
     "decimals": 18,
-    "logoURI": "./avax/0x66a7b00154CFA3354e6334185f740Db88D12B3bb.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x66a7b00154CFA3354e6334185f740Db88D12B3bb.png"
   },
   {
     "chainId": 43114,
@@ -1997,7 +2007,7 @@
     "name": "Wrapped BNB",
     "symbol": "WBNB",
     "decimals": 18,
-    "logoURI": "./avax/0x442F7f22b1EE2c842bEAFf52880d4573E9201158.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x442F7f22b1EE2c842bEAFf52880d4573E9201158.png"
   },
   {
     "chainId": 43114,
@@ -2007,7 +2017,7 @@
     "name": "Fort",
     "symbol": "FORT",
     "decimals": 9,
-    "logoURI": "./avax/0xf6d46849DB378AE01D93732585BEc2C4480D1fD5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xf6d46849DB378AE01D93732585BEc2C4480D1fD5.png"
   },
   {
     "chainId": 43114,
@@ -2017,7 +2027,7 @@
     "name": "H4SHFund",
     "symbol": "H4SH",
     "decimals": 18,
-    "logoURI": "./avax/0x1BfA7FD90dE1285deB09a734112AB6bCD935fC6a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x1BfA7FD90dE1285deB09a734112AB6bCD935fC6a.png"
   },
   {
     "chainId": 43114,
@@ -2027,7 +2037,7 @@
     "name": "Uniswap",
     "symbol": "UNI.e",
     "decimals": 18,
-    "logoURI": "./avax/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580.png"
   },
   {
     "chainId": 43114,
@@ -2037,7 +2047,7 @@
     "name": "Wrapped Aave Avalanche BTC.b",
     "symbol": "waAvaBTC.b",
     "decimals": 8,
-    "logoURI": "./avax/0x2d324fD1Ca86D90f61B0965d2db2f86d22eA4B74.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x2d324fD1Ca86D90f61B0965d2db2f86d22eA4B74.png"
   },
   {
     "chainId": 43114,
@@ -2047,7 +2057,7 @@
     "name": "Synthetix Network Token",
     "symbol": "SNX.e",
     "decimals": 18,
-    "logoURI": "./avax/0xBeC243C995409E6520D7C41E404da5dEba4b209B.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xBeC243C995409E6520D7C41E404da5dEba4b209B.png"
   },
   {
     "chainId": 43114,
@@ -2057,7 +2067,7 @@
     "name": "JEWEL",
     "symbol": "JEWEL",
     "decimals": 18,
-    "logoURI": "./avax/0x997Ddaa07d716995DE90577C123Db411584E5E46.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x997Ddaa07d716995DE90577C123Db411584E5E46.png"
   },
   {
     "chainId": 43114,
@@ -2067,7 +2077,7 @@
     "name": "MeowCat",
     "symbol": "MEOW",
     "decimals": 18,
-    "logoURI": "./avax/0x8aD25B0083C9879942A64f00F20a70D3278f6187.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x8aD25B0083C9879942A64f00F20a70D3278f6187.png"
   },
   {
     "chainId": 43114,
@@ -2077,7 +2087,7 @@
     "name": "DeFiato [via ChainPort.io]",
     "symbol": "DFIAT",
     "decimals": 18,
-    "logoURI": "./avax/0xAfE3d2A31231230875DEe1fa1eEF14a412443d22.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xAfE3d2A31231230875DEe1fa1eEF14a412443d22.png"
   },
   {
     "chainId": 43114,
@@ -2087,7 +2097,7 @@
     "name": "Axelar",
     "symbol": "AXL",
     "decimals": 6,
-    "logoURI": "./avax/0x44c784266cf024a60e8acF2427b9857Ace194C5d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x44c784266cf024a60e8acF2427b9857Ace194C5d.png"
   },
   {
     "chainId": 43114,
@@ -2097,7 +2107,7 @@
     "name": "TRON",
     "symbol": "TRX",
     "decimals": 18,
-    "logoURI": "./avax/0xC5718C4C91E9d051b082e02B1138ab5b6a01DCD1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xC5718C4C91E9d051b082e02B1138ab5b6a01DCD1.png"
   },
   {
     "chainId": 43114,
@@ -2107,7 +2117,7 @@
     "name": "FOMO",
     "symbol": "FOMO",
     "decimals": 18,
-    "logoURI": "./avax/0x87202a2402414f4F58c52764FAA7b015d104bE82.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x87202a2402414f4F58c52764FAA7b015d104bE82.png"
   },
   {
     "chainId": 43114,
@@ -2117,7 +2127,7 @@
     "name": "KONG",
     "symbol": "KONG",
     "decimals": 18,
-    "logoURI": "./avax/0xEbB5d4959B2FbA6318FbDa7d03cd44aE771fc999.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xEbB5d4959B2FbA6318FbDa7d03cd44aE771fc999.png"
   },
   {
     "chainId": 43114,
@@ -2127,7 +2137,7 @@
     "name": "Relay Token",
     "symbol": "RELAY",
     "decimals": 18,
-    "logoURI": "./avax/0x78c42324016cd91D1827924711563fb66E33A83A.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x78c42324016cd91D1827924711563fb66E33A83A.png"
   },
   {
     "chainId": 43114,
@@ -2137,7 +2147,7 @@
     "name": "Wrapped Aave Avalanche USDC",
     "symbol": "waAvaUSDC",
     "decimals": 6,
-    "logoURI": "./avax/0xe1bFC96d95BAdCB10Ff013Cb0C9C6c737ca07009.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xe1bFC96d95BAdCB10Ff013Cb0C9C6c737ca07009.png"
   },
   {
     "chainId": 43114,
@@ -2147,7 +2157,7 @@
     "name": "Wrapped Aave Avalanche USDT",
     "symbol": "waAvaUSDT",
     "decimals": 6,
-    "logoURI": "./avax/0x59933c571d200dc6A7Fd1CDa22495dB442082E34.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x59933c571d200dc6A7Fd1CDa22495dB442082E34.png"
   },
   {
     "chainId": 43114,
@@ -2157,7 +2167,7 @@
     "name": "Limbo",
     "symbol": "LIMBO",
     "decimals": 18,
-    "logoURI": "./avax/0x3E5b9c8930ECab017e16c3b7a2d0cB746d8BcDcf.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x3E5b9c8930ECab017e16c3b7a2d0cB746d8BcDcf.png"
   },
   {
     "chainId": 43114,
@@ -2167,7 +2177,7 @@
     "name": "PEON",
     "symbol": "PEON",
     "decimals": 18,
-    "logoURI": "./avax/0xa813d175675C7F19Bb7fD541F5AD1bcAF2117FE7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xa813d175675C7F19Bb7fD541F5AD1bcAF2117FE7.png"
   },
   {
     "chainId": 43114,
@@ -2177,7 +2187,7 @@
     "name": "Royale",
     "symbol": "ROY",
     "decimals": 18,
-    "logoURI": "./avax/0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE.png"
   },
   {
     "chainId": 43114,
@@ -2187,7 +2197,7 @@
     "name": "MarginSwap",
     "symbol": "MFI",
     "decimals": 18,
-    "logoURI": "./avax/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0.png"
   },
   {
     "chainId": 43114,
@@ -2197,7 +2207,7 @@
     "name": "LUNA",
     "symbol": "LUNA",
     "decimals": 6,
-    "logoURI": "./avax/0x70928E5B188def72817b7775F0BF6325968e563B.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x70928E5B188def72817b7775F0BF6325968e563B.png"
   },
   {
     "chainId": 43114,
@@ -2207,7 +2217,7 @@
     "name": "Wife Changing Money",
     "symbol": "WIFE",
     "decimals": 18,
-    "logoURI": "./avax/0xe088d859D8BcE513b76Dc11C05D559254e28A336.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xe088d859D8BcE513b76Dc11C05D559254e28A336.png"
   },
   {
     "chainId": 43114,
@@ -2217,7 +2227,7 @@
     "name": "CRIME",
     "symbol": "CRIME",
     "decimals": 18,
-    "logoURI": "./avax/0xC55Fa890fd62c25c85D46f57aC972f3F30839E2F.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xC55Fa890fd62c25c85D46f57aC972f3F30839E2F.png"
   },
   {
     "chainId": 43114,
@@ -2227,7 +2237,7 @@
     "name": "HakuSwap Token",
     "symbol": "HAKU",
     "decimals": 18,
-    "logoURI": "./avax/0x695Fa794d59106cEbd40ab5f5cA19F458c723829.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x695Fa794d59106cEbd40ab5f5cA19F458c723829.png"
   },
   {
     "chainId": 43114,
@@ -2237,7 +2247,7 @@
     "name": "Wrapped Aave Avalanche SAVAX",
     "symbol": "waAvaSAVAX",
     "decimals": 18,
-    "logoURI": "./avax/0x7D0394F8898fBA73836Bf12bD606228887705895.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x7D0394F8898fBA73836Bf12bD606228887705895.png"
   },
   {
     "chainId": 43114,
@@ -2247,7 +2257,7 @@
     "name": "xSolvBTC",
     "symbol": "xSolvBTC",
     "decimals": 18,
-    "logoURI": "./avax/0xCC0966D8418d412c599A6421b760a847eB169A8c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xCC0966D8418d412c599A6421b760a847eB169A8c.png"
   },
   {
     "chainId": 43114,
@@ -2257,7 +2267,7 @@
     "name": "MAJIN",
     "symbol": "MAJIN",
     "decimals": 18,
-    "logoURI": "./avax/0x73f49d00AC1B520F94d11248808c40774aeb0802.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x73f49d00AC1B520F94d11248808c40774aeb0802.png"
   },
   {
     "chainId": 43114,
@@ -2267,7 +2277,7 @@
     "name": "LAMA",
     "symbol": "LAMA",
     "decimals": 18,
-    "logoURI": "./avax/0x89A8633bcaD3af0951acC5137811ea21a17C37DC.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x89A8633bcaD3af0951acC5137811ea21a17C37DC.png"
   },
   {
     "chainId": 43114,
@@ -2277,7 +2287,7 @@
     "name": "Avalanche INSUR Token",
     "symbol": "INSUR",
     "decimals": 18,
-    "logoURI": "./avax/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429.png"
   },
   {
     "chainId": 43114,
@@ -2287,7 +2297,7 @@
     "name": "AI 404",
     "symbol": "ERROR",
     "decimals": 18,
-    "logoURI": "./avax/0xa77d05fd853af120cD4dB48e73498E0cAbD3F628.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xa77d05fd853af120cD4dB48e73498E0cAbD3F628.png"
   },
   {
     "chainId": 43114,
@@ -2297,7 +2307,7 @@
     "name": "Boo Finance Token",
     "symbol": "BOOFI",
     "decimals": 18,
-    "logoURI": "./avax/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0.png"
   },
   {
     "chainId": 43114,
@@ -2307,7 +2317,7 @@
     "name": "Treasure Under Sea",
     "symbol": "TUS",
     "decimals": 18,
-    "logoURI": "./avax/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172.png"
   },
   {
     "chainId": 43114,
@@ -2317,7 +2327,7 @@
     "name": "BOBS",
     "symbol": "BOBS",
     "decimals": 18,
-    "logoURI": "./avax/0xf5f3216E9fed36F8cCf08D310FEc6FBf7f06200f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xf5f3216E9fed36F8cCf08D310FEc6FBf7f06200f.png"
   },
   {
     "chainId": 43114,
@@ -2327,7 +2337,7 @@
     "name": "Lucky Coin",
     "symbol": "LUCKY",
     "decimals": 18,
-    "logoURI": "./avax/0xb5Cc2CE99B3f98a969DBe458b96a117680AE0fA1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xb5Cc2CE99B3f98a969DBe458b96a117680AE0fA1.png"
   },
   {
     "chainId": 43114,
@@ -2337,7 +2347,7 @@
     "name": "Wombat Token",
     "symbol": "WOM",
     "decimals": 18,
-    "logoURI": "./avax/0xa15E4544D141aa98C4581a1EA10Eb9048c3b3382.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xa15E4544D141aa98C4581a1EA10Eb9048c3b3382.png"
   },
   {
     "chainId": 43114,
@@ -2347,7 +2357,7 @@
     "name": "Kovin Segnocchi",
     "symbol": "KOVIN",
     "decimals": 18,
-    "logoURI": "./avax/0x694200a68B18232916353250955bE220e88c5cBB.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x694200a68B18232916353250955bE220e88c5cBB.png"
   },
   {
     "chainId": 43114,
@@ -2357,7 +2367,7 @@
     "name": "Okcash",
     "symbol": "OK",
     "decimals": 18,
-    "logoURI": "./avax/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189.png"
   },
   {
     "chainId": 43114,
@@ -2367,7 +2377,7 @@
     "name": "AKITAVAX",
     "symbol": "AKITAX",
     "decimals": 18,
-    "logoURI": "./avax/0xf2536e4301a428AF9686ed73E42b50C1f9AeD517.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xf2536e4301a428AF9686ed73E42b50C1f9AeD517.png"
   },
   {
     "chainId": 43114,
@@ -2377,7 +2387,7 @@
     "name": "Curve DAO Token",
     "symbol": "CRV.e",
     "decimals": 18,
-    "logoURI": "./avax/0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06.png"
   },
   {
     "chainId": 43114,
@@ -2387,7 +2397,7 @@
     "name": "MilkyWay Token by SpaceSwap v2",
     "symbol": "MILK2",
     "decimals": 18,
-    "logoURI": "./avax/0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09.png"
   },
   {
     "chainId": 43114,
@@ -2397,7 +2407,7 @@
     "name": "Cat wif Hands",
     "symbol": "CATWIF",
     "decimals": 18,
-    "logoURI": "./avax/0x3377aCA4c0BFD021be6bd762b5f594975e77f9CF.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x3377aCA4c0BFD021be6bd762b5f594975e77f9CF.png"
   },
   {
     "chainId": 43114,
@@ -2407,7 +2417,7 @@
     "name": "WABBIT",
     "symbol": "WABBIT",
     "decimals": 18,
-    "logoURI": "./avax/0x77776aB9495729E0939E9bADAf7E7c3312777777.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x77776aB9495729E0939E9bADAf7E7c3312777777.png"
   },
   {
     "chainId": 43114,
@@ -2417,7 +2427,7 @@
     "name": "Bogged Finance",
     "symbol": "BOG",
     "decimals": 18,
-    "logoURI": "./avax/0xB09FE1613fE03E7361319d2a43eDc17422f36B09.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xB09FE1613fE03E7361319d2a43eDc17422f36B09.png"
   },
   {
     "chainId": 43114,
@@ -2427,7 +2437,7 @@
     "name": "FINANCE",
     "symbol": "FINANCE",
     "decimals": 18,
-    "logoURI": "./avax/0xac6E53f1e1eBaFDA8553C0ADD8C5B32BcB5890C4.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xac6E53f1e1eBaFDA8553C0ADD8C5B32BcB5890C4.png"
   },
   {
     "chainId": 43114,
@@ -2437,7 +2447,7 @@
     "name": "SushiToken",
     "symbol": "SUSHI.e",
     "decimals": 18,
-    "logoURI": "./avax/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76.png"
   },
   {
     "chainId": 43114,
@@ -2447,7 +2457,7 @@
     "name": "Any Inu",
     "symbol": "AI",
     "decimals": 18,
-    "logoURI": "./avax/0x2598c30330D5771AE9F983979209486aE26dE875.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x2598c30330D5771AE9F983979209486aE26dE875.png"
   },
   {
     "chainId": 43114,
@@ -2457,7 +2467,7 @@
     "name": "USDV",
     "symbol": "USDV",
     "decimals": 6,
-    "logoURI": "./avax/0x323665443CEf804A3b5206103304BD4872EA4253.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x323665443CEf804A3b5206103304BD4872EA4253.png"
   },
   {
     "chainId": 43114,
@@ -2467,7 +2477,7 @@
     "name": "Maker",
     "symbol": "MKR.e",
     "decimals": 18,
-    "logoURI": "./avax/0x88128fd4b259552A9A1D457f435a6527AAb72d42.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x88128fd4b259552A9A1D457f435a6527AAb72d42.png"
   },
   {
     "chainId": 43114,
@@ -2477,7 +2487,7 @@
     "name": "SQRCAT",
     "symbol": "SQRCAT",
     "decimals": 18,
-    "logoURI": "./avax/0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5.png"
   },
   {
     "chainId": 43114,
@@ -2487,7 +2497,7 @@
     "name": "UREEQA Token [via ChainPort.io]",
     "symbol": "URQA",
     "decimals": 18,
-    "logoURI": "./avax/0xbd3936eC8D83A5D4e73ecA625eCFa006da8C8F52.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xbd3936eC8D83A5D4e73ecA625eCFa006da8C8F52.png"
   },
   {
     "chainId": 43114,
@@ -2497,7 +2507,7 @@
     "name": "CRAFT",
     "symbol": "CRAFT",
     "decimals": 18,
-    "logoURI": "./avax/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2.png"
   },
   {
     "chainId": 43114,
@@ -2507,7 +2517,7 @@
     "name": "puff",
     "symbol": "PUFF",
     "decimals": 18,
-    "logoURI": "./avax/0x2d731dfE4e60D732ac7eCAED369eb106Eb1E351f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x2d731dfE4e60D732ac7eCAED369eb106Eb1E351f.png"
   },
   {
     "chainId": 43114,
@@ -2517,7 +2527,7 @@
     "name": "Pyramid LiquidityOrder",
     "symbol": "ORDER",
     "decimals": 18,
-    "logoURI": "./avax/0x1BEd077195307229FcCBC719C5f2ce6416A58180.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x1BEd077195307229FcCBC719C5f2ce6416A58180.png"
   },
   {
     "chainId": 43114,
@@ -2527,7 +2537,7 @@
     "name": "Wrapped-BRGE",
     "symbol": "wBRGE",
     "decimals": 18,
-    "logoURI": "./avax/0x5f880678320A9445824bB15d18EF67b5ECbAA42a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x5f880678320A9445824bB15d18EF67b5ECbAA42a.png"
   },
   {
     "chainId": 43114,
@@ -2537,7 +2547,7 @@
     "name": "BABY JUBJUB",
     "symbol": "BJUB",
     "decimals": 18,
-    "logoURI": "./avax/0x39e58C9B8A539E007B4457A5Dd1107b1434d278B.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x39e58C9B8A539E007B4457A5Dd1107b1434d278B.png"
   },
   {
     "chainId": 43114,
@@ -2547,7 +2557,7 @@
     "name": "Bingo",
     "symbol": "BINGO",
     "decimals": 18,
-    "logoURI": "./avax/0xb262a485d98D8e19175818D47453e7812cA255A8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xb262a485d98D8e19175818D47453e7812cA255A8.png"
   },
   {
     "chainId": 43114,
@@ -2557,7 +2567,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "./avax/0xB24CA28D4e2742907115fECda335b40dbda07a4C.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xB24CA28D4e2742907115fECda335b40dbda07a4C.png"
   },
   {
     "chainId": 43114,
@@ -2567,7 +2577,7 @@
     "name": "Avaxtars Token",
     "symbol": "AVXT",
     "decimals": 6,
-    "logoURI": "./avax/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1.png"
   },
   {
     "chainId": 43114,
@@ -2577,7 +2587,7 @@
     "name": "SushiToken",
     "symbol": "SUSHI",
     "decimals": 18,
-    "logoURI": "./avax/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc.png"
   },
   {
     "chainId": 43114,
@@ -2587,7 +2597,7 @@
     "name": "KIGU",
     "symbol": "KIGU",
     "decimals": 18,
-    "logoURI": "./avax/0x8e48D9F6D73e9805Df87Dcf63f7B35AE04079713.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x8e48D9F6D73e9805Df87Dcf63f7B35AE04079713.png"
   },
   {
     "chainId": 43114,
@@ -2597,7 +2607,7 @@
     "name": "BENIS",
     "symbol": "BENIS",
     "decimals": 18,
-    "logoURI": "./avax/0x4Bf8cf8e8A20d965D585097256Ecf2BE98a5fbd8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x4Bf8cf8e8A20d965D585097256Ecf2BE98a5fbd8.png"
   },
   {
     "chainId": 43114,
@@ -2607,7 +2617,7 @@
     "name": "Yeet the Yeti",
     "symbol": "YEET",
     "decimals": 18,
-    "logoURI": "./avax/0x2dC45B5377739aa47E1162F42ca591c1688BC647.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x2dC45B5377739aa47E1162F42ca591c1688BC647.png"
   },
   {
     "chainId": 43114,
@@ -2617,7 +2627,7 @@
     "name": "3000",
     "symbol": "3000",
     "decimals": 18,
-    "logoURI": "./avax/0x6E6FdF266eF8B0D979D702165373329e638aE670.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6E6FdF266eF8B0D979D702165373329e638aE670.png"
   },
   {
     "chainId": 43114,
@@ -2627,7 +2637,7 @@
     "name": "Juggernaut DeFi",
     "symbol": "JGN",
     "decimals": 18,
-    "logoURI": "./avax/0x4e3642603a75528489C2D94f86e9507260d3c5a1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x4e3642603a75528489C2D94f86e9507260d3c5a1.png"
   },
   {
     "chainId": 43114,
@@ -2637,7 +2647,7 @@
     "name": "XPower",
     "symbol": "XPOW",
     "decimals": 18,
-    "logoURI": "./avax/0x8f0A35CaBD10E830C8c10629CF539c2e0f1f3481.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x8f0A35CaBD10E830C8c10629CF539c2e0f1f3481.png"
   },
   {
     "chainId": 43114,
@@ -2647,7 +2657,7 @@
     "name": "Mythos",
     "symbol": "MYTH",
     "decimals": 18,
-    "logoURI": "./avax/0x9B9fd410d5F01a6A60acF4678a5A99D8027FA5A7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9B9fd410d5F01a6A60acF4678a5A99D8027FA5A7.png"
   },
   {
     "chainId": 43114,
@@ -2657,7 +2667,7 @@
     "name": "Index Token",
     "symbol": "IT",
     "decimals": 18,
-    "logoURI": "./avax/0xCE8E89Bb70AAE88fB3fe4784045a718D00Eb8e21.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xCE8E89Bb70AAE88fB3fe4784045a718D00Eb8e21.png"
   },
   {
     "chainId": 43114,
@@ -2667,7 +2677,7 @@
     "name": "DeFiYieldProtocol",
     "symbol": "DYP",
     "decimals": 18,
-    "logoURI": "./avax/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17.png"
   },
   {
     "chainId": 43114,
@@ -2677,7 +2687,7 @@
     "name": "LIZARD",
     "symbol": "LIZARD",
     "decimals": 18,
-    "logoURI": "./avax/0xeD0d09ee0F32f7b5AFaE6f2d728189C5E355b52a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xeD0d09ee0F32f7b5AFaE6f2d728189C5E355b52a.png"
   },
   {
     "chainId": 43114,
@@ -2687,7 +2697,7 @@
     "name": "SNO",
     "symbol": "SNO Token",
     "decimals": 18,
-    "logoURI": "./avax/0x1fE4869f2C5181b9CD780a7E16194FA2c4C4293D.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x1fE4869f2C5181b9CD780a7E16194FA2c4C4293D.png"
   },
   {
     "chainId": 43114,
@@ -2697,7 +2707,7 @@
     "name": "Meme Alliance",
     "symbol": "MMA",
     "decimals": 18,
-    "logoURI": "./avax/0x9B3A8159e119eb09822115AE08Ee1526849e1116.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9B3A8159e119eb09822115AE08Ee1526849e1116.png"
   },
   {
     "chainId": 43114,
@@ -2707,7 +2717,7 @@
     "name": "AvaxMinerAI",
     "symbol": "AvaxMinerAI",
     "decimals": 18,
-    "logoURI": "./avax/0x3cC96F3cB4f45b5b5CdbCE61fAEE8ae80D805C65.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x3cC96F3cB4f45b5b5CdbCE61fAEE8ae80D805C65.png"
   },
   {
     "chainId": 43114,
@@ -2717,7 +2727,7 @@
     "name": "Pollen",
     "symbol": "PLN",
     "decimals": 18,
-    "logoURI": "./avax/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf.png"
   },
   {
     "chainId": 43114,
@@ -2727,7 +2737,7 @@
     "name": "Loksmith",
     "symbol": "LOK",
     "decimals": 18,
-    "logoURI": "./avax/0x41CBfD7C8709d1E459CE816703a1Fc882DAa77D3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x41CBfD7C8709d1E459CE816703a1Fc882DAa77D3.png"
   },
   {
     "chainId": 43114,
@@ -2737,7 +2747,7 @@
     "name": "Wagmi",
     "symbol": "WAGMI",
     "decimals": 18,
-    "logoURI": "./avax/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7.png"
   },
   {
     "chainId": 43114,
@@ -2747,7 +2757,7 @@
     "name": "Just Woot",
     "symbol": "WOOT",
     "decimals": 18,
-    "logoURI": "./avax/0x803f5E3d74E17e3bE3f2A2BFbd5D9F9B44E9488B.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x803f5E3d74E17e3bE3f2A2BFbd5D9F9B44E9488B.png"
   },
   {
     "chainId": 43114,
@@ -2757,7 +2767,7 @@
     "name": "USDT",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "./avax/0xF0FF231e3F1A50F83136717f287ADAB862f89431.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xF0FF231e3F1A50F83136717f287ADAB862f89431.png"
   },
   {
     "chainId": 43114,
@@ -2767,7 +2777,7 @@
     "name": "AgentXYZ",
     "symbol": "TRADER",
     "decimals": 18,
-    "logoURI": "./avax/0xf8B22737CbfeA137f9B2737D1DAb2a8a21608ceE.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xf8B22737CbfeA137f9B2737D1DAb2a8a21608ceE.png"
   },
   {
     "chainId": 43114,
@@ -2777,7 +2787,7 @@
     "name": "Basic Attention Token",
     "symbol": "BAT.e",
     "decimals": 18,
-    "logoURI": "./avax/0x98443B96EA4b0858FDF3219Cd13e98C7A4690588.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x98443B96EA4b0858FDF3219Cd13e98C7A4690588.png"
   },
   {
     "chainId": 43114,
@@ -2787,7 +2797,7 @@
     "name": "SUMMIT",
     "symbol": "SUMMIT",
     "decimals": 18,
-    "logoURI": "./avax/0x9261330c6A2b472C58Dbc149ca9Dfc20E6861d66.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9261330c6A2b472C58Dbc149ca9Dfc20E6861d66.png"
   },
   {
     "chainId": 43114,
@@ -2797,7 +2807,7 @@
     "name": "Allbridge",
     "symbol": "ABR",
     "decimals": 18,
-    "logoURI": "./avax/0xaFc43610C7840b20b90CAaF93759bE5b54B291c9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xaFc43610C7840b20b90CAaF93759bE5b54B291c9.png"
   },
   {
     "chainId": 43114,
@@ -2807,7 +2817,7 @@
     "name": "HLP0",
     "symbol": "HLP0",
     "decimals": 6,
-    "logoURI": "./avax/0x3D75F2BB8aBcDBd1e27443cB5CBCE8A668046C81.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x3D75F2BB8aBcDBd1e27443cB5CBCE8A668046C81.png"
   },
   {
     "chainId": 43114,
@@ -2817,7 +2827,7 @@
     "name": "Imperium Empires Token",
     "symbol": "IME",
     "decimals": 18,
-    "logoURI": "./avax/0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6.png"
   },
   {
     "chainId": 43114,
@@ -2827,7 +2837,7 @@
     "name": "Orbs",
     "symbol": "ORBS",
     "decimals": 18,
-    "logoURI": "./avax/0x3Ab1C9aDb065F3FcA0059652Cd7A52B05C98f9a9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x3Ab1C9aDb065F3FcA0059652Cd7A52B05C98f9a9.png"
   },
   {
     "chainId": 43114,
@@ -2837,7 +2847,7 @@
     "name": "BEATER",
     "symbol": "BEATR",
     "decimals": 18,
-    "logoURI": "./avax/0x870982D17CF51D3C304833924EAc0cEeC4183099.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x870982D17CF51D3C304833924EAc0cEeC4183099.png"
   },
   {
     "chainId": 43114,
@@ -2847,7 +2857,7 @@
     "name": "Wrapped Aave Avalanche AUSD",
     "symbol": "waAvaAUSD",
     "decimals": 6,
-    "logoURI": "./avax/0x45cf39EeB437FA95Bb9b52c0105254a6BD25D01e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x45cf39EeB437FA95Bb9b52c0105254a6BD25D01e.png"
   },
   {
     "chainId": 43114,
@@ -2857,7 +2867,7 @@
     "name": "MAD",
     "symbol": "MAD",
     "decimals": 18,
-    "logoURI": "./avax/0xAAdbA29443178A5bA5c79492f6E0e13901fdB2A0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xAAdbA29443178A5bA5c79492f6E0e13901fdB2A0.png"
   },
   {
     "chainId": 43114,
@@ -2867,7 +2877,7 @@
     "name": " STORM Token",
     "symbol": "STORM",
     "decimals": 18,
-    "logoURI": "./avax/0x6AFD5A1ea4b793CC1526d6Dc7e99A608b356eF7b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6AFD5A1ea4b793CC1526d6Dc7e99A608b356eF7b.png"
   },
   {
     "chainId": 43114,
@@ -2877,7 +2887,7 @@
     "name": "chikn fert",
     "symbol": "FERT",
     "decimals": 18,
-    "logoURI": "./avax/0x9C846D808A41328A209e235B5e3c4E626DAb169E.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9C846D808A41328A209e235B5e3c4E626DAb169E.png"
   },
   {
     "chainId": 43114,
@@ -2887,7 +2897,7 @@
     "name": "HERMES Shares",
     "symbol": "HSHARES",
     "decimals": 18,
-    "logoURI": "./avax/0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2.png"
   },
   {
     "chainId": 43114,
@@ -2897,7 +2907,7 @@
     "name": "predict",
     "symbol": "predict",
     "decimals": 18,
-    "logoURI": "./avax/0xE46b44179DB3AF934da552B35FF8869E98DC6Af5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xE46b44179DB3AF934da552B35FF8869E98DC6Af5.png"
   },
   {
     "chainId": 43114,
@@ -2907,7 +2917,7 @@
     "name": "Cross-Chain Bridge Token",
     "symbol": "BRIDGE",
     "decimals": 18,
-    "logoURI": "./avax/0xC0367f9b1f84Ca8DE127226AC2A994EA4bf1e41b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xC0367f9b1f84Ca8DE127226AC2A994EA4bf1e41b.png"
   },
   {
     "chainId": 43114,
@@ -2917,7 +2927,7 @@
     "name": "SHAKE token by SpaceSwap v2",
     "symbol": "SHAKE",
     "decimals": 18,
-    "logoURI": "./avax/0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2.png"
   },
   {
     "chainId": 43114,
@@ -2927,7 +2937,7 @@
     "name": "Linda",
     "symbol": "LINDA",
     "decimals": 18,
-    "logoURI": "./avax/0x039D2E8f097331278BD6c1415D839310E0D5Ece4.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x039D2E8f097331278BD6c1415D839310E0D5Ece4.png"
   },
   {
     "chainId": 43114,
@@ -2937,7 +2947,7 @@
     "name": "HERMES",
     "symbol": "HERMES",
     "decimals": 18,
-    "logoURI": "./avax/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C.png"
   },
   {
     "chainId": 43114,
@@ -2947,7 +2957,7 @@
     "name": "AVME",
     "symbol": "AVME",
     "decimals": 18,
-    "logoURI": "./avax/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed.png"
   },
   {
     "chainId": 43114,
@@ -2957,7 +2967,7 @@
     "name": "PolyGaj Token",
     "symbol": "GAJ",
     "decimals": 18,
-    "logoURI": "./avax/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8.png"
   },
   {
     "chainId": 43114,
@@ -2967,7 +2977,7 @@
     "name": "Compound",
     "symbol": "COMP.e",
     "decimals": 18,
-    "logoURI": "./avax/0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437.png"
   },
   {
     "chainId": 43114,
@@ -2977,7 +2987,7 @@
     "name": "DSLA",
     "symbol": "DSLA",
     "decimals": 18,
-    "logoURI": "./avax/0xD7c295E399CA928A3a14b01D760E794f1AdF8990.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xD7c295E399CA928A3a14b01D760E794f1AdF8990.png"
   },
   {
     "chainId": 43114,
@@ -2987,7 +2997,7 @@
     "name": "yearn.finance",
     "symbol": "YFI.e",
     "decimals": 18,
-    "logoURI": "./avax/0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc.png"
   },
   {
     "chainId": 43114,
@@ -2997,7 +3007,7 @@
     "name": "KRW",
     "symbol": "KRW",
     "decimals": 18,
-    "logoURI": "./avax/0xA5aCFECA5270bC9768633FBC86caA959B85Ec8b7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xA5aCFECA5270bC9768633FBC86caA959B85Ec8b7.png"
   },
   {
     "chainId": 43114,
@@ -3007,7 +3017,7 @@
     "name": "Wrapped AllianceBlock Token",
     "symbol": "WALBT",
     "decimals": 18,
-    "logoURI": "./avax/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd.png"
   },
   {
     "chainId": 43114,
@@ -3017,7 +3027,7 @@
     "name": "ViciCoin",
     "symbol": "VCNT",
     "decimals": 18,
-    "logoURI": "./avax/0xc6BDFC4f2E90196738873E824a9eFa03F7c64176.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xc6BDFC4f2E90196738873E824a9eFa03F7c64176.png"
   },
   {
     "chainId": 43114,
@@ -3027,7 +3037,7 @@
     "name": "Graph Token",
     "symbol": "GRT.e",
     "decimals": 18,
-    "logoURI": "./avax/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9.png"
   },
   {
     "chainId": 43114,
@@ -3037,7 +3047,7 @@
     "name": "Ferrum Network Token",
     "symbol": "FRM",
     "decimals": 18,
-    "logoURI": "./avax/0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C.png"
   },
   {
     "chainId": 43114,
@@ -3047,7 +3057,7 @@
     "name": "Meld",
     "symbol": "MELD",
     "decimals": 18,
-    "logoURI": "./avax/0x333000333b26eE30214B4af6419D9ab07a450400.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x333000333b26eE30214B4af6419D9ab07a450400.png"
   },
   {
     "chainId": 43114,
@@ -3057,7 +3067,7 @@
     "name": "ƎԀƎԀ",
     "symbol": "ƎԀƎԀ",
     "decimals": 9,
-    "logoURI": "./avax/0x53c44c368A11f54B8Dc496915Dd71BD42Bd64a91.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x53c44c368A11f54B8Dc496915Dd71BD42Bd64a91.png"
   },
   {
     "chainId": 43114,
@@ -3067,7 +3077,7 @@
     "name": "ZRX",
     "symbol": "ZRX.e",
     "decimals": 18,
-    "logoURI": "./avax/0x596fA47043f99A4e0F122243B841E55375cdE0d2.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x596fA47043f99A4e0F122243B841E55375cdE0d2.png"
   },
   {
     "chainId": 43114,
@@ -3077,7 +3087,7 @@
     "name": "Ankr Network",
     "symbol": "ANKR",
     "decimals": 18,
-    "logoURI": "./avax/0xDF474B7109b73b7D57926d43598D5934131136b2.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xDF474B7109b73b7D57926d43598D5934131136b2.png"
   },
   {
     "chainId": 43114,
@@ -3087,7 +3097,7 @@
     "name": "inSure",
     "symbol": "SURE",
     "decimals": 18,
-    "logoURI": "./avax/0x5fC17416925789E0852FBFcd81c490ca4abc51F9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x5fC17416925789E0852FBFcd81c490ca4abc51F9.png"
   },
   {
     "chainId": 43114,
@@ -3097,7 +3107,7 @@
     "name": "Waterfall Governance Token",
     "symbol": "WTF",
     "decimals": 18,
-    "logoURI": "./avax/0x873801Ae2ff12d816Db9a7B082F5796BEC64C82C.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x873801Ae2ff12d816Db9a7B082F5796BEC64C82C.png"
   },
   {
     "chainId": 43114,
@@ -3107,7 +3117,7 @@
     "name": "WOWswap",
     "symbol": "WOW",
     "decimals": 18,
-    "logoURI": "./avax/0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b.png"
   },
   {
     "chainId": 43114,
@@ -3117,7 +3127,7 @@
     "name": "Wrapped Backed Coinbase Global",
     "symbol": "wbCOIN",
     "decimals": 18,
-    "logoURI": "./avax/0xDEc933e2392AD908263e70A386fbF34e703Ffe8F.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xDEc933e2392AD908263e70A386fbF34e703Ffe8F.png"
   },
   {
     "chainId": 43114,
@@ -3127,7 +3137,7 @@
     "name": "AlphaToken",
     "symbol": "ALPHA.e",
     "decimals": 18,
-    "logoURI": "./avax/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f.png"
   },
   {
     "chainId": 43114,
@@ -3137,7 +3147,7 @@
     "name": "Ankr Staked ETH",
     "symbol": "ankrETH",
     "decimals": 18,
-    "logoURI": "./avax/0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C.png"
   },
   {
     "chainId": 43114,
@@ -3147,7 +3157,7 @@
     "name": "Altitude",
     "symbol": "ALTD",
     "decimals": 18,
-    "logoURI": "./avax/0x8929e9DbD2785e3BA16175E596CDD61520feE0D1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x8929e9DbD2785e3BA16175E596CDD61520feE0D1.png"
   },
   {
     "chainId": 43114,
@@ -3157,7 +3167,7 @@
     "name": "Blizz USDT",
     "symbol": "bUSDT",
     "decimals": 6,
-    "logoURI": "./avax/0x18cb11C9F2B6F45A7ac0A95eFD322ED4cf9EEEBF.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x18cb11C9F2B6F45A7ac0A95eFD322ED4cf9EEEBF.png"
   },
   {
     "chainId": 43114,
@@ -3167,7 +3177,7 @@
     "name": "Granary Token",
     "symbol": "GRAIN",
     "decimals": 18,
-    "logoURI": "./avax/0x9df4Ac62F9E435DbCD85E06c990a7f0ea32739a9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9df4Ac62F9E435DbCD85E06c990a7f0ea32739a9.png"
   },
   {
     "chainId": 43114,
@@ -3177,7 +3187,7 @@
     "name": "UNCL",
     "symbol": "UNCL",
     "decimals": 18,
-    "logoURI": "./avax/0x7D86F1eafF29F076576b2Ff09CE3bcC7533fD2C5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x7D86F1eafF29F076576b2Ff09CE3bcC7533fD2C5.png"
   },
   {
     "chainId": 43114,
@@ -3187,7 +3197,7 @@
     "name": "Rai Reflex Index",
     "symbol": "RAI",
     "decimals": 18,
-    "logoURI": "./avax/0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d.png"
   },
   {
     "chainId": 43114,
@@ -3197,7 +3207,7 @@
     "name": "Dypius",
     "symbol": "DYP",
     "decimals": 18,
-    "logoURI": "./avax/0x1a3264F2e7b1CFC6220ec9348d33cCF02Af7aaa4.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x1a3264F2e7b1CFC6220ec9348d33cCF02Af7aaa4.png"
   },
   {
     "chainId": 43114,
@@ -3207,7 +3217,7 @@
     "name": "UMA Voting Token v1",
     "symbol": "UMA.e",
     "decimals": 18,
-    "logoURI": "./avax/0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339.png"
   },
   {
     "chainId": 43114,
@@ -3217,7 +3227,7 @@
     "name": "OX Coin",
     "symbol": "OX",
     "decimals": 18,
-    "logoURI": "./avax/0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea.png"
   },
   {
     "chainId": 43114,
@@ -3227,7 +3237,7 @@
     "name": "EUROe Stablecoin",
     "symbol": "EUROe",
     "decimals": 6,
-    "logoURI": "./avax/0x820802Fa8a99901F52e39acD21177b0BE6EE2974.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x820802Fa8a99901F52e39acD21177b0BE6EE2974.png"
   },
   {
     "chainId": 43114,
@@ -3237,7 +3247,7 @@
     "name": "Vertex",
     "symbol": "VRTX",
     "decimals": 18,
-    "logoURI": "./avax/0xFd91eD44Fc13f7FAFF758FE6d339d5790C4a85eC.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xFd91eD44Fc13f7FAFF758FE6d339d5790C4a85eC.png"
   },
   {
     "chainId": 43114,
@@ -3247,7 +3257,7 @@
     "name": "Tarot",
     "symbol": "TAROT",
     "decimals": 18,
-    "logoURI": "./avax/0x5ECfeC22AA950CB5A3b4fd7249DC30B2BD160f18.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x5ECfeC22AA950CB5A3b4fd7249DC30B2BD160f18.png"
   },
   {
     "chainId": 43114,
@@ -3257,7 +3267,7 @@
     "name": "SpookyToken",
     "symbol": "BOO",
     "decimals": 18,
-    "logoURI": "./avax/0xbD83010eB60F12112908774998F65761cf9f6f9a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xbD83010eB60F12112908774998F65761cf9f6f9a.png"
   },
   {
     "chainId": 43114,
@@ -3267,7 +3277,7 @@
     "name": "BSCstarter",
     "symbol": "START",
     "decimals": 18,
-    "logoURI": "./avax/0xF44Fb887334Fa17d2c5c0F970B5D320ab53eD557.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xF44Fb887334Fa17d2c5c0F970B5D320ab53eD557.png"
   },
   {
     "chainId": 43114,
@@ -3277,7 +3287,7 @@
     "name": "Kalmar Token",
     "symbol": "KALM",
     "decimals": 18,
-    "logoURI": "./avax/0x62AceEA3e666C5706Ce1c61055fAc1A669d31D93.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x62AceEA3e666C5706Ce1c61055fAc1A669d31D93.png"
   },
   {
     "chainId": 43114,
@@ -3287,7 +3297,7 @@
     "name": "TOMB",
     "symbol": "TOMB",
     "decimals": 18,
-    "logoURI": "./avax/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1.png"
   },
   {
     "chainId": 43114,
@@ -3297,7 +3307,7 @@
     "name": "YELToken",
     "symbol": "YEL",
     "decimals": 18,
-    "logoURI": "./avax/0x949185D3BE66775Ea648F4a306740EA9eFF9C567.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x949185D3BE66775Ea648F4a306740EA9eFF9C567.png"
   },
   {
     "chainId": 43114,
@@ -3307,7 +3317,7 @@
     "name": "Hot Cross Token",
     "symbol": "HOTCROSS",
     "decimals": 18,
-    "logoURI": "./avax/0x2f86508f41310D8D974B76deb3D246c0caa71cf5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x2f86508f41310D8D974B76deb3D246c0caa71cf5.png"
   },
   {
     "chainId": 43114,
@@ -3317,7 +3327,7 @@
     "name": "NFTArt.Finance",
     "symbol": "NFTART",
     "decimals": 9,
-    "logoURI": "./avax/0x46EcC1629690986b507A8F410a3eB346F04632E9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x46EcC1629690986b507A8F410a3eB346F04632E9.png"
   },
   {
     "chainId": 43114,
@@ -3327,7 +3337,7 @@
     "name": "AVIL",
     "symbol": "AVIL",
     "decimals": 18,
-    "logoURI": "./avax/0xb06F504453032b6c2303a0108Cf374d5B3D6a5EF.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xb06F504453032b6c2303a0108Cf374d5B3D6a5EF.png"
   },
   {
     "chainId": 43114,
@@ -3337,7 +3347,7 @@
     "name": "Fautor",
     "symbol": "FTR",
     "decimals": 18,
-    "logoURI": "./avax/0x61f23250451305f6C4426E81C50aE535Edf94A02.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x61f23250451305f6C4426E81C50aE535Edf94A02.png"
   },
   {
     "chainId": 43114,
@@ -3347,7 +3357,7 @@
     "name": "Aave Avalanche SAVAX",
     "symbol": "aAvaSAVAX",
     "decimals": 18,
-    "logoURI": "./avax/0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf.png"
   },
   {
     "chainId": 43114,
@@ -3357,7 +3367,7 @@
     "name": "bobcoin",
     "symbol": "BOBC",
     "decimals": 18,
-    "logoURI": "./avax/0x590eb2920486486c2D9Bb3EB651f73b81df87bcf.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x590eb2920486486c2D9Bb3EB651f73b81df87bcf.png"
   },
   {
     "chainId": 43114,
@@ -3367,7 +3377,7 @@
     "name": "Aave Avalanche Market WAVAX",
     "symbol": "avWAVAX",
     "decimals": 18,
-    "logoURI": "./avax/0xDFE521292EcE2A4f44242efBcD66Bc594CA9714B.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xDFE521292EcE2A4f44242efBcD66Bc594CA9714B.png"
   },
   {
     "chainId": 43114,
@@ -3377,7 +3387,7 @@
     "name": "ULALO",
     "symbol": "ULA",
     "decimals": 18,
-    "logoURI": "./avax/0xa6c187afd89Aaa4961832abB01099a781aFa2AA1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xa6c187afd89Aaa4961832abB01099a781aFa2AA1.png"
   },
   {
     "chainId": 43114,
@@ -3387,7 +3397,7 @@
     "name": "Aave Avalanche Market USDC",
     "symbol": "avUSDC",
     "decimals": 6,
-    "logoURI": "./avax/0x46A51127C3ce23fb7AB1DE06226147F446e4a857.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x46A51127C3ce23fb7AB1DE06226147F446e4a857.png"
   },
   {
     "chainId": 43114,
@@ -3397,7 +3407,7 @@
     "name": "Wrapped liquid staked Ether 2.0",
     "symbol": "wstETH",
     "decimals": 18,
-    "logoURI": "./avax/0x2Bbbdf97295F73175b12CC087cF446765931e1C3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x2Bbbdf97295F73175b12CC087cF446765931e1C3.png"
   },
   {
     "chainId": 43114,
@@ -3407,7 +3417,7 @@
     "name": "AB Group",
     "symbol": "ABG",
     "decimals": 18,
-    "logoURI": "./avax/0x71F99BDbE8e6b958016Ea399E3DbA0790f82cA88.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x71F99BDbE8e6b958016Ea399E3DbA0790f82cA88.png"
   },
   {
     "chainId": 43114,
@@ -3417,7 +3427,7 @@
     "name": "Ankr Network",
     "symbol": "ANKR",
     "decimals": 18,
-    "logoURI": "./avax/0x20CF1b6E9d856321ed4686877CF4538F2C84B4dE.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x20CF1b6E9d856321ed4686877CF4538F2C84B4dE.png"
   },
   {
     "chainId": 43114,
@@ -3427,7 +3437,7 @@
     "name": "Aave Avalanche Market USDT",
     "symbol": "avUSDT",
     "decimals": 6,
-    "logoURI": "./avax/0x532E6537FEA298397212F09A61e03311686f548e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x532E6537FEA298397212F09A61e03311686f548e.png"
   },
   {
     "chainId": 43114,
@@ -3437,7 +3447,7 @@
     "name": "Electric Vehicle Direct Currency",
     "symbol": "EVDC",
     "decimals": 8,
-    "logoURI": "./avax/0x704EAE6d452Ca63Ce479C59727177c5f3bA0D90C.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x704EAE6d452Ca63Ce479C59727177c5f3bA0D90C.png"
   },
   {
     "chainId": 43114,
@@ -3447,7 +3457,7 @@
     "name": "Orbs",
     "symbol": "ORBS",
     "decimals": 18,
-    "logoURI": "./avax/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A.png"
   },
   {
     "chainId": 43114,
@@ -3457,7 +3467,7 @@
     "name": "AvalanchePUNKS",
     "symbol": "APunk",
     "decimals": 0,
-    "logoURI": "./avax/0xE935193fE3E9580f6796302C5F33a1f6Cc1A7b4E.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xE935193fE3E9580f6796302C5F33a1f6Cc1A7b4E.png"
   },
   {
     "chainId": 43114,
@@ -3467,7 +3477,7 @@
     "name": "SHIBA INU",
     "symbol": "SHIB.e",
     "decimals": 18,
-    "logoURI": "./avax/0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665.png"
   },
   {
     "chainId": 43114,
@@ -3477,7 +3487,7 @@
     "name": "DEUS",
     "symbol": "DEUS",
     "decimals": 18,
-    "logoURI": "./avax/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44.png"
   },
   {
     "chainId": 43114,
@@ -3487,7 +3497,7 @@
     "name": "Aave Avalanche Market AAVE",
     "symbol": "avAAVE",
     "decimals": 18,
-    "logoURI": "./avax/0xD45B7c061016102f9FA220502908f2c0f1add1D7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xD45B7c061016102f9FA220502908f2c0f1add1D7.png"
   },
   {
     "chainId": 43114,
@@ -3497,7 +3507,7 @@
     "name": "Locked Bware",
     "symbol": "lockedINFRA",
     "decimals": 18,
-    "logoURI": "./avax/0x0C5a691580c3786D61B22F21Ff0A986875A725a8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x0C5a691580c3786D61B22F21Ff0A986875A725a8.png"
   },
   {
     "chainId": 43114,
@@ -3507,7 +3517,7 @@
     "name": "1INCH Token",
     "symbol": "1INCH",
     "decimals": 18,
-    "logoURI": "./avax/0xE54EB2C3009Fa411BF24fB017F9725b973CE36F0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xE54EB2C3009Fa411BF24fB017F9725b973CE36F0.png"
   },
   {
     "chainId": 43114,
@@ -3517,7 +3527,7 @@
     "name": "Aave Avalanche Variable Debt WBTC",
     "symbol": "variableDebtAvaWBTC",
     "decimals": 8,
-    "logoURI": "./avax/0x92b42c66840C7AD907b4BF74879FF3eF7c529473.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x92b42c66840C7AD907b4BF74879FF3eF7c529473.png"
   },
   {
     "chainId": 43114,
@@ -3527,7 +3537,7 @@
     "name": "Static Aave Avalanche WAVAX",
     "symbol": "stataAvaWAVAX",
     "decimals": 18,
-    "logoURI": "./avax/0x6A02C7a974F1F13A67980C80F774eC1d2eD8f98d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6A02C7a974F1F13A67980C80F774eC1d2eD8f98d.png"
   },
   {
     "chainId": 43114,
@@ -3537,7 +3547,7 @@
     "name": "Anyswap",
     "symbol": "ANY",
     "decimals": 18,
-    "logoURI": "./avax/0xB44a9B6905aF7c801311e8F4E76932ee959c663C.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xB44a9B6905aF7c801311e8F4E76932ee959c663C.png"
   },
   {
     "chainId": 43114,
@@ -3547,7 +3557,7 @@
     "name": "Static Aave Avalanche USDC",
     "symbol": "stataAvaUSDC",
     "decimals": 6,
-    "logoURI": "./avax/0xC509aB7bB4eDbF193b82264D499a7Fc526Cd01F4.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xC509aB7bB4eDbF193b82264D499a7Fc526Cd01F4.png"
   },
   {
     "chainId": 43114,
@@ -3557,7 +3567,7 @@
     "name": "Null",
     "symbol": "NULL",
     "decimals": 18,
-    "logoURI": "./avax/0xAb236ED82A0184AB754534F3952b48408468c09b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xAb236ED82A0184AB754534F3952b48408468c09b.png"
   },
   {
     "chainId": 43114,
@@ -3567,7 +3577,7 @@
     "name": "Archly",
     "symbol": "Arc",
     "decimals": 18,
-    "logoURI": "./avax/0xe8876189A80B2079D8C0a7867e46c50361D972c1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xe8876189A80B2079D8C0a7867e46c50361D972c1.png"
   },
   {
     "chainId": 43114,
@@ -3577,7 +3587,7 @@
     "name": "TLOS",
     "symbol": "TLOS",
     "decimals": 18,
-    "logoURI": "./avax/0xed667dC80a45b77305Cc395DB56D997597Dc6DdD.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xed667dC80a45b77305Cc395DB56D997597Dc6DdD.png"
   },
   {
     "chainId": 43114,
@@ -3587,7 +3597,7 @@
     "name": "Jarvis Synthetic Euro",
     "symbol": "jEUR",
     "decimals": 18,
-    "logoURI": "./avax/0x9fB1d52596c44603198fB0aee434fac3a679f702.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9fB1d52596c44603198fB0aee434fac3a679f702.png"
   },
   {
     "chainId": 43114,
@@ -3597,7 +3607,7 @@
     "name": "Staked Frax Ether",
     "symbol": "sfrxETH",
     "decimals": 18,
-    "logoURI": "./avax/0x6D3B126ae28f3E39894070148B377624F6Ab4a45.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6D3B126ae28f3E39894070148B377624F6Ab4a45.png"
   },
   {
     "chainId": 43114,
@@ -3607,7 +3617,7 @@
     "name": "GMX Market",
     "symbol": "GM",
     "decimals": 18,
-    "logoURI": "./avax/0xA7b768d6a1f746fd5a513D440DF2970ff099B0fc.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xA7b768d6a1f746fd5a513D440DF2970ff099B0fc.png"
   },
   {
     "chainId": 43114,
@@ -3617,7 +3627,7 @@
     "name": "Spherium Token",
     "symbol": "SPHRI",
     "decimals": 18,
-    "logoURI": "./avax/0x2fD4D793c1905D82018d75e3b09d3035856890a1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x2fD4D793c1905D82018d75e3b09d3035856890a1.png"
   },
   {
     "chainId": 43114,
@@ -3627,7 +3637,7 @@
     "name": "Static Aave Avalanche BTC.b",
     "symbol": "stataAvaBTC.b",
     "decimals": 8,
-    "logoURI": "./avax/0x34d768cc830c32DcD743321c09A2A702651bF9a2.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x34d768cc830c32DcD743321c09A2A702651bF9a2.png"
   },
   {
     "chainId": 43114,
@@ -3637,7 +3647,7 @@
     "name": "Static Aave Avalanche USDT",
     "symbol": "stataAvaUSDT",
     "decimals": 6,
-    "logoURI": "./avax/0x5525Ee69BC1e354B356864187De486fab5AD67d7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x5525Ee69BC1e354B356864187De486fab5AD67d7.png"
   },
   {
     "chainId": 43114,
@@ -3647,7 +3657,7 @@
     "name": "GMX Market",
     "symbol": "GM",
     "decimals": 18,
-    "logoURI": "./avax/0xf3652Eba45DC761e7ADd4091627d5Cda21F61613.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xf3652Eba45DC761e7ADd4091627d5Cda21F61613.png"
   },
   {
     "chainId": 43114,
@@ -3657,7 +3667,7 @@
     "name": "Jarvis Synthetic Swiss Franc",
     "symbol": "jCHF",
     "decimals": 18,
-    "logoURI": "./avax/0x2d5563da42b06FbBF9c67b7DC073cF6A7842239e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x2d5563da42b06FbBF9c67b7DC073cF6A7842239e.png"
   },
   {
     "chainId": 43114,
@@ -3667,7 +3677,7 @@
     "name": "Static Aave Avalanche WETH",
     "symbol": "stataAvaWETH",
     "decimals": 18,
-    "logoURI": "./avax/0xf8E24175D01653fd6AA203C2C17B1e4Dd1CA2731.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xf8E24175D01653fd6AA203C2C17B1e4Dd1CA2731.png"
   },
   {
     "chainId": 43114,
@@ -3677,7 +3687,7 @@
     "name": "Static Aave Avalanche DAI",
     "symbol": "stataAvaDAI",
     "decimals": 18,
-    "logoURI": "./avax/0x02F3f6c8A432C1e49f3359d7d36887C25d8A5888.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x02F3f6c8A432C1e49f3359d7d36887C25d8A5888.png"
   },
   {
     "chainId": 43114,
@@ -3687,7 +3697,7 @@
     "name": "Advanced United Continent (Avalanche)",
     "symbol": "AUCA",
     "decimals": 18,
-    "logoURI": "./avax/0x1584B02D095a4B1b9a11a4049193d155B4F75454.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x1584B02D095a4B1b9a11a4049193d155B4F75454.png"
   },
   {
     "chainId": 43114,
@@ -3697,7 +3707,7 @@
     "name": "Static Aave Avalanche LINK",
     "symbol": "stataAvaLINK",
     "decimals": 18,
-    "logoURI": "./avax/0x8B773Ab77Dff01985D438961dBCE58382a70cA52.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x8B773Ab77Dff01985D438961dBCE58382a70cA52.png"
   },
   {
     "chainId": 43114,
@@ -3707,7 +3717,7 @@
     "name": "Static Aave Avalanche FRAX",
     "symbol": "stataAvaFRAX",
     "decimals": 18,
-    "logoURI": "./avax/0xA3c2ffE702F4cD265B2249AB5f84Fab81FFf6c73.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xA3c2ffE702F4cD265B2249AB5f84Fab81FFf6c73.png"
   },
   {
     "chainId": 43114,
@@ -3717,7 +3727,7 @@
     "name": "SWEAT",
     "symbol": "SWEAT",
     "decimals": 18,
-    "logoURI": "./avax/0x1E4C0e060FbA7d62FA9FBb1AA624e58F796B4EFE.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x1E4C0e060FbA7d62FA9FBb1AA624e58F796B4EFE.png"
   },
   {
     "chainId": 43114,
@@ -3727,7 +3737,7 @@
     "name": "Flying Tulip",
     "symbol": "FT",
     "decimals": 18,
-    "logoURI": "./avax/0x5DD1A7A369e8273371d2DBf9d83356057088082c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x5DD1A7A369e8273371d2DBf9d83356057088082c.png"
   },
   {
     "chainId": 43114,
@@ -3737,7 +3747,7 @@
     "name": "JARVIS",
     "symbol": "JARVIS",
     "decimals": 18,
-    "logoURI": "./avax/0x7d87E9D86371B2e5BfB7dFAE4bb6671fde62B2c4.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x7d87E9D86371B2e5BfB7dFAE4bb6671fde62B2c4.png"
   },
   {
     "chainId": 43114,
@@ -3747,7 +3757,7 @@
     "name": "Ethos Reserve Note",
     "symbol": "ERN",
     "decimals": 18,
-    "logoURI": "./avax/0x08d58F06DDfA9b99AE651f68232014BE3914C5cd.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x08d58F06DDfA9b99AE651f68232014BE3914C5cd.png"
   },
   {
     "chainId": 43114,
@@ -3757,7 +3767,7 @@
     "name": "UniCrypt",
     "symbol": "UNCX",
     "decimals": 18,
-    "logoURI": "./avax/0x3b9e3b5c616A1A038fDc190758Bbe9BAB6C7A857.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x3b9e3b5c616A1A038fDc190758Bbe9BAB6C7A857.png"
   },
   {
     "chainId": 43114,
@@ -3767,7 +3777,7 @@
     "name": "LoopringCoin V2",
     "symbol": "LRC",
     "decimals": 18,
-    "logoURI": "./avax/0x628A9639cc78F46604A625452C0242c7B487BA3c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x628A9639cc78F46604A625452C0242c7B487BA3c.png"
   },
   {
     "chainId": 43114,
@@ -3777,7 +3787,7 @@
     "name": "Blizz DAI",
     "symbol": "bDAI",
     "decimals": 18,
-    "logoURI": "./avax/0x6807eD4369d9399847F306D7d835538915fA749d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x6807eD4369d9399847F306D7d835538915fA749d.png"
   },
   {
     "chainId": 43114,
@@ -3787,7 +3797,7 @@
     "name": "Synthetix Network Token",
     "symbol": "SNX",
     "decimals": 18,
-    "logoURI": "./avax/0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9.png"
   },
   {
     "chainId": 43114,
@@ -3797,7 +3807,7 @@
     "name": "Blizz WBTC",
     "symbol": "bWBTC",
     "decimals": 8,
-    "logoURI": "./avax/0x81CCdD9e44C518caEe2F720C43CD0853032A1779.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x81CCdD9e44C518caEe2F720C43CD0853032A1779.png"
   },
   {
     "chainId": 43114,
@@ -3807,7 +3817,7 @@
     "name": "Maker",
     "symbol": "MKR",
     "decimals": 18,
-    "logoURI": "./avax/0x8DF92E9C0508aB0030d432DA9F2C65EB1Ee97620.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x8DF92E9C0508aB0030d432DA9F2C65EB1Ee97620.png"
   },
   {
     "chainId": 43114,
@@ -3817,7 +3827,7 @@
     "name": "BuxToken",
     "symbol": "BUX",
     "decimals": 18,
-    "logoURI": "./avax/0x8cCF617Aa653463157c124229844EB688C4f2A04.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x8cCF617Aa653463157c124229844EB688C4f2A04.png"
   },
   {
     "chainId": 43114,
@@ -3827,7 +3837,7 @@
     "name": "BENQI",
     "symbol": "anyQI",
     "decimals": 18,
-    "logoURI": "./avax/0x9bd3fac4d9B051Ef7Ca9786aA0eF5A7e0558d44C.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0x9bd3fac4d9B051Ef7Ca9786aA0eF5A7e0558d44C.png"
   },
   {
     "chainId": 43114,
@@ -3837,7 +3847,7 @@
     "name": "Fundamenta",
     "symbol": "FMTA",
     "decimals": 18,
-    "logoURI": "./avax/0xAa9D866666C2A3748d6B23Ff69E63E52f08d9AB4.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xAa9D866666C2A3748d6B23Ff69E63E52f08d9AB4.png"
   },
   {
     "chainId": 43114,
@@ -3847,7 +3857,7 @@
     "name": "0x Protocol Token",
     "symbol": "ZRX",
     "decimals": 18,
-    "logoURI": "./avax/0xC8E94215b75F5B9c3b5fB041eC3A97B7D17a37Ff.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xC8E94215b75F5B9c3b5fB041eC3A97B7D17a37Ff.png"
   },
   {
     "chainId": 43114,
@@ -3857,7 +3867,7 @@
     "name": "Blizz WETH",
     "symbol": "bWETH",
     "decimals": 18,
-    "logoURI": "./avax/0xCcC9b2c9D96C33cECc064ddd444B132EFF56E232.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xCcC9b2c9D96C33cECc064ddd444B132EFF56E232.png"
   },
   {
     "chainId": 43114,
@@ -3867,7 +3877,7 @@
     "name": "OxAI",
     "symbol": "OXAI",
     "decimals": 18,
-    "logoURI": "./avax/0xE866e68eE72b34ae7f0F9976CBd755A0C01f778c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xE866e68eE72b34ae7f0F9976CBd755A0C01f778c.png"
   },
   {
     "chainId": 43114,
@@ -3877,7 +3887,7 @@
     "name": "Frax Price Index",
     "symbol": "FPI",
     "decimals": 18,
-    "logoURI": "./avax/0xF530904FD8F9ce55F40b7cc78382A13B0cd5C48c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xF530904FD8F9ce55F40b7cc78382A13B0cd5C48c.png"
   },
   {
     "chainId": 43114,
@@ -3887,7 +3897,7 @@
     "name": "Prodox Ecosystem",
     "symbol": "DoX",
     "decimals": 18,
-    "logoURI": "./avax/0xae90Ae6320c60dA6cBdd35335cB95c76f5700023.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xae90Ae6320c60dA6cBdd35335cB95c76f5700023.png"
   },
   {
     "chainId": 43114,
@@ -3897,7 +3907,7 @@
     "name": "TSHARE",
     "symbol": "TSHARE",
     "decimals": 18,
-    "logoURI": "./avax/0xda5B232FB6e3E897d2f84797D19c53Cf3f5ae938.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xda5B232FB6e3E897d2f84797D19c53Cf3f5ae938.png"
   },
   {
     "chainId": 43114,
@@ -3907,7 +3917,7 @@
     "name": "Frax Price Index Share",
     "symbol": "FPIS",
     "decimals": 18,
-    "logoURI": "./avax/0xee7cBa1403A2B0C53181B3980D52f9C5EdEEcC9e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xee7cBa1403A2B0C53181B3980D52f9C5EdEEcC9e.png"
   },
   {
     "chainId": 43114,
@@ -3917,6 +3927,6 @@
     "name": "Impossible Decentralized Incubator Access Token",
     "symbol": "IDIA",
     "decimals": 18,
-    "logoURI": "./avax/0xfCAF13227dcBFa2dc2b1928acFcA03b85e2D25dd.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0xfCAF13227dcBFa2dc2b1928acFcA03b85e2D25dd.png"
   }
 ]

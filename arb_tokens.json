@@ -1,5 +1,15 @@
 [
   {
+    "asset": "Arbitrum",
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "address": "0X0000000000000000000000000000000000000000",
+    "chainId": 42161,
+    "decimals": 18,
+    "type": "NATIVE",
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0X0000000000000000000000000000000000000000.png"
+  },
+  {
     "chainId": 42161,
     "asset": "Bridged USDC",
     "type": "ERC-20",
@@ -7,7 +17,7 @@
     "name": "Bridged USDC",
     "symbol": "USDC.e",
     "decimals": 6,
-    "logoURI": "./arb/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.png"
   },
   {
     "chainId": 42161,
@@ -17,7 +27,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "./arb/0xaf88d065e77c8cc2239327c5edb3a432268e5831.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xaf88d065e77c8cc2239327c5edb3a432268e5831.png"
   },
   {
     "chainId": 42161,
@@ -27,7 +37,7 @@
     "name": "USDS Stablecoin",
     "symbol": "USDS",
     "decimals": 18,
-    "logoURI": "./arb/0x6491c05a82219b8d1479057361ff1654749b876b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6491c05a82219b8d1479057361ff1654749b876b.png"
   },
   {
     "chainId": 42161,
@@ -37,7 +47,7 @@
     "name": "Wrapped liquid staked Ether 2.0",
     "symbol": "wstETH",
     "decimals": 18,
-    "logoURI": "./arb/0x0fBcbaEA96Ce0cF7Ee00A8c19c3ab6f5Dc8E1921.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0fBcbaEA96Ce0cF7Ee00A8c19c3ab6f5Dc8E1921.png"
   },
   {
     "chainId": 42161,
@@ -47,7 +57,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "./arb/0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f.png"
   },
   {
     "chainId": 42161,
@@ -57,7 +67,7 @@
     "name": "Aave Arbitrum WETH",
     "symbol": "aArbWETH",
     "decimals": 18,
-    "logoURI": "./arb/0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8.png"
   },
   {
     "chainId": 42161,
@@ -67,7 +77,7 @@
     "name": "Savings USDS",
     "symbol": "sUSDS",
     "decimals": 18,
-    "logoURI": "./arb/0xddb46999f8891663a8f2828d25298f70416d7610.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xddb46999f8891663a8f2828d25298f70416d7610.png"
   },
   {
     "chainId": 42161,
@@ -77,7 +87,7 @@
     "name": "Spark USDC Vault",
     "symbol": "sUSDC",
     "decimals": 18,
-    "logoURI": "./arb/0x940098b108fb7d0a7e374f6eded7760787464609.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x940098b108fb7d0a7e374f6eded7760787464609.png"
   },
   {
     "chainId": 42161,
@@ -87,7 +97,7 @@
     "name": "ChainLink Token",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "./arb/0xf97f4df75117a78c1a5a0dbb814af92458539fb4.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf97f4df75117a78c1a5a0dbb814af92458539fb4.png"
   },
   {
     "chainId": 42161,
@@ -97,7 +107,7 @@
     "name": "Coinbase Wrapped BTC",
     "symbol": "cbBTC",
     "decimals": 8,
-    "logoURI": "./arb/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.png"
   },
   {
     "chainId": 42161,
@@ -107,7 +117,7 @@
     "name": "USDe",
     "symbol": "USDe",
     "decimals": 18,
-    "logoURI": "./arb/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png"
   },
   {
     "chainId": 42161,
@@ -117,7 +127,7 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "./arb/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.png"
   },
   {
     "chainId": 42161,
@@ -127,7 +137,7 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "./arb/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1.png"
   },
   {
     "chainId": 42161,
@@ -137,7 +147,7 @@
     "name": "USD₮0",
     "symbol": "USD₮0",
     "decimals": 6,
-    "logoURI": "./arb/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png"
   },
   {
     "chainId": 42161,
@@ -147,7 +157,7 @@
     "name": "PayPal USD",
     "symbol": "PYUSD",
     "decimals": 6,
-    "logoURI": "./arb/0x46850ad61c2b7d64d08c9c754f45254596696984.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x46850ad61c2b7d64d08c9c754f45254596696984.png"
   },
   {
     "chainId": 42161,
@@ -157,7 +167,7 @@
     "name": "Staked USDe",
     "symbol": "sUSDe",
     "decimals": 18,
-    "logoURI": "./arb/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png"
   },
   {
     "chainId": 42161,
@@ -167,7 +177,7 @@
     "name": "RAIN",
     "symbol": "RAIN",
     "decimals": 18,
-    "logoURI": "./arb/0x25118290e6a5f4139381d072181157035864099d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x25118290e6a5f4139381d072181157035864099d.png"
   },
   {
     "chainId": 42161,
@@ -177,7 +187,7 @@
     "name": "BlackRock USD Institutional Digital Liquidity Fund",
     "symbol": "BUIDL",
     "decimals": 6,
-    "logoURI": "./arb/0xa6525ae43edcd03dc08e775774dcabd3bb925872.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa6525ae43edcd03dc08e775774dcabd3bb925872.png"
   },
   {
     "chainId": 42161,
@@ -187,7 +197,7 @@
     "name": "Polkadot Token (Relay Chain)",
     "symbol": "DOT",
     "decimals": 18,
-    "logoURI": "./arb/0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8.png"
   },
   {
     "chainId": 42161,
@@ -197,7 +207,7 @@
     "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "logoURI": "./arb/0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0.png"
   },
   {
     "chainId": 42161,
@@ -207,7 +217,7 @@
     "name": "Syrup USDC",
     "symbol": "syrupUSDC",
     "decimals": 6,
-    "logoURI": "./arb/0x41ca7586cc1311807b4605fbb748a3b8862b42b5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x41ca7586cc1311807b4605fbb748a3b8862b42b5.png"
   },
   {
     "chainId": 42161,
@@ -217,7 +227,7 @@
     "name": "Decentralized USD",
     "symbol": "USDD",
     "decimals": 18,
-    "logoURI": "./arb/0x680447595e8b7b3aa1b43beb9f6098c79ac2ab3f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x680447595e8b7b3aa1b43beb9f6098c79ac2ab3f.png"
   },
   {
     "chainId": 42161,
@@ -227,7 +237,7 @@
     "name": "Pepe",
     "symbol": "PEPE",
     "decimals": 18,
-    "logoURI": "./arb/0x25d887ce7a35172c62febfd67a1856f20faebb00.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x25d887ce7a35172c62febfd67a1856f20faebb00.png"
   },
   {
     "chainId": 42161,
@@ -237,7 +247,7 @@
     "name": "Ondo U.S. Dollar Yield",
     "symbol": "USDY",
     "decimals": 18,
-    "logoURI": "./arb/0x35e050d3C0eC2d29D269a8EcEa763a183bDF9A9D.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x35e050d3C0eC2d29D269a8EcEa763a183bDF9A9D.png"
   },
   {
     "chainId": 42161,
@@ -247,7 +257,7 @@
     "name": "Spiko EU T-Bills Money Market Fund",
     "symbol": "EUTBL",
     "decimals": 5,
-    "logoURI": "./arb/0xcbeb19549054cc0a6257a77736fc78c367216ce7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xcbeb19549054cc0a6257a77736fc78c367216ce7.png"
   },
   {
     "chainId": 42161,
@@ -257,7 +267,7 @@
     "name": "Morpho Token",
     "symbol": "MORPHO",
     "decimals": 18,
-    "logoURI": "./arb/0x40bd670a58238e6e230c430bbb5ce6ec0d40df48.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x40bd670a58238e6e230c430bbb5ce6ec0d40df48.png"
   },
   {
     "chainId": 42161,
@@ -267,7 +277,7 @@
     "name": "ENA",
     "symbol": "ENA",
     "decimals": 18,
-    "logoURI": "./arb/0x58538e6a46e07434d7e7375bc268d3cb839c0133.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x58538e6a46e07434d7e7375bc268d3cb839c0133.png"
   },
   {
     "chainId": 42161,
@@ -277,7 +287,7 @@
     "name": "BELDEX",
     "symbol": "BDX",
     "decimals": 9,
-    "logoURI": "./arb/0x6ad12E761b438beA3EA09F6C6266556Bb24C2181.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6ad12E761b438beA3EA09F6C6266556Bb24C2181.png"
   },
   {
     "chainId": 42161,
@@ -287,7 +297,7 @@
     "name": "Arbitrum",
     "symbol": "ARB",
     "decimals": 18,
-    "logoURI": "./arb/0x912ce59144191c1204e64559fe8253a0e49e6548.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x912ce59144191c1204e64559fe8253a0e49e6548.png"
   },
   {
     "chainId": 42161,
@@ -297,7 +307,7 @@
     "name": "Aave Arbitrum GHO",
     "symbol": "aArbGHO",
     "decimals": 18,
-    "logoURI": "./arb/0xebe517846d0f36eced99c735cbf6131e1feb775d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xebe517846d0f36eced99c735cbf6131e1feb775d.png"
   },
   {
     "chainId": 42161,
@@ -307,7 +317,7 @@
     "name": "GHO Token",
     "symbol": "GHO",
     "decimals": 18,
-    "logoURI": "./arb/0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33.png"
   },
   {
     "chainId": 42161,
@@ -317,7 +327,7 @@
     "name": "Usual USD",
     "symbol": "USD0",
     "decimals": 18,
-    "logoURI": "./arb/0x35f1C5cB7Fb977E669fD244C567Da99d8a3a6850.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x35f1C5cB7Fb977E669fD244C567Da99d8a3a6850.png"
   },
   {
     "chainId": 42161,
@@ -327,7 +337,7 @@
     "name": "Solv BTC",
     "symbol": "SolvBTC",
     "decimals": 18,
-    "logoURI": "./arb/0x3647c54c4c2c65bc7a2d63c0da2809b399dbbdc0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3647c54c4c2c65bc7a2d63c0da2809b399dbbdc0.png"
   },
   {
     "chainId": 42161,
@@ -337,7 +347,7 @@
     "name": "TrueUSD",
     "symbol": "TUSD",
     "decimals": 18,
-    "logoURI": "./arb/0x4d15a3a2286d883af0aa1b3f21367843fac63e07.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4d15a3a2286d883af0aa1b3f21367843fac63e07.png"
   },
   {
     "chainId": 42161,
@@ -347,7 +357,7 @@
     "name": "LayerZero",
     "symbol": "ZRO",
     "decimals": 18,
-    "logoURI": "./arb/0x6985884c4392d348587b19cb9eaaf157f13271cd.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6985884c4392d348587b19cb9eaaf157f13271cd.png"
   },
   {
     "chainId": 42161,
@@ -357,7 +367,7 @@
     "name": "PancakeSwap Token",
     "symbol": "Cake",
     "decimals": 18,
-    "logoURI": "./arb/0x1b896893dfc86bb67Cf57767298b9073D2c1bA2c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1b896893dfc86bb67Cf57767298b9073D2c1bA2c.png"
   },
   {
     "chainId": 42161,
@@ -367,7 +377,7 @@
     "name": "Renzo Restaked ETH",
     "symbol": "ezETH",
     "decimals": 18,
-    "logoURI": "./arb/0x2416092f143378750bb29b79ed961ab195cceea5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x2416092f143378750bb29b79ed961ab195cceea5.png"
   },
   {
     "chainId": 42161,
@@ -377,7 +387,7 @@
     "name": "Arbitrum tBTC v2",
     "symbol": "tBTC",
     "decimals": 18,
-    "logoURI": "./arb/0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40.png"
   },
   {
     "chainId": 42161,
@@ -387,7 +397,7 @@
     "name": "First Digital USD",
     "symbol": "FDUSD",
     "decimals": 18,
-    "logoURI": "./arb/0x93C9932E4afa59201F0B5E63f7d816516F1669fE.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x93C9932E4afa59201F0B5E63f7d816516F1669fE.png"
   },
   {
     "chainId": 42161,
@@ -397,7 +407,7 @@
     "name": "ether.fi governance token",
     "symbol": "ETHFI",
     "decimals": 18,
-    "logoURI": "./arb/0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27.png"
   },
   {
     "chainId": 42161,
@@ -407,7 +417,7 @@
     "name": "Wrapped eETH",
     "symbol": "weETH",
     "decimals": 18,
-    "logoURI": "./arb/0x35751007a407ca6feffe80b3cb397736d2cf4dbe.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x35751007a407ca6feffe80b3cb397736d2cf4dbe.png"
   },
   {
     "chainId": 42161,
@@ -417,7 +427,7 @@
     "name": "Curve DAO Token",
     "symbol": "CRV",
     "decimals": 18,
-    "logoURI": "./arb/0x11cdb42b0eb46d95f990bedd4695a6e3fa034978.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x11cdb42b0eb46d95f990bedd4695a6e3fa034978.png"
   },
   {
     "chainId": 42161,
@@ -427,7 +437,7 @@
     "name": "Gnosis Token",
     "symbol": "GNO",
     "decimals": 18,
-    "logoURI": "./arb/0xa0b862f60edef4452f25b4160f177db44deb6cf1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa0b862f60edef4452f25b4160f177db44deb6cf1.png"
   },
   {
     "chainId": 42161,
@@ -437,7 +447,7 @@
     "name": "Edge",
     "symbol": "EDGE",
     "decimals": 18,
-    "logoURI": "./arb/0x70f2eadf1ca1969ff42b0c78e9da519e8937cbaf.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x70f2eadf1ca1969ff42b0c78e9da519e8937cbaf.png"
   },
   {
     "chainId": 42161,
@@ -447,7 +457,7 @@
     "name": "Lido DAO Token",
     "symbol": "LDO",
     "decimals": 18,
-    "logoURI": "./arb/0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60.png"
   },
   {
     "chainId": 42161,
@@ -457,7 +467,7 @@
     "name": "Frax",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "./arb/0x17fc002b466eec40dae837fc4be5c67993ddbd6f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x17fc002b466eec40dae837fc4be5c67993ddbd6f.png"
   },
   {
     "chainId": 42161,
@@ -467,7 +477,7 @@
     "name": "Graph Token",
     "symbol": "GRT",
     "decimals": 18,
-    "logoURI": "./arb/0x9623063377ad1b27544c965ccd7342f7ea7e88c7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x9623063377ad1b27544c965ccd7342f7ea7e88c7.png"
   },
   {
     "chainId": 42161,
@@ -477,7 +487,7 @@
     "name": "Curve.Fi USD Stablecoin",
     "symbol": "crvUSD",
     "decimals": 18,
-    "logoURI": "./arb/0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5.png"
   },
   {
     "chainId": 42161,
@@ -487,7 +497,7 @@
     "name": "Olympus",
     "symbol": "OHM",
     "decimals": 9,
-    "logoURI": "./arb/0x6e6a3d8f1affac703b1aef1f43b8d2321be40043.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6e6a3d8f1affac703b1aef1f43b8d2321be40043.png"
   },
   {
     "chainId": 42161,
@@ -497,7 +507,7 @@
     "name": "Pyth Network",
     "symbol": "PYTH",
     "decimals": 6,
-    "logoURI": "./arb/0xE4D5c6aE46ADFAF04313081e8C0052A30b6Dd724.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xE4D5c6aE46ADFAF04313081e8C0052A30b6Dd724.png"
   },
   {
     "chainId": 42161,
@@ -507,7 +517,7 @@
     "name": "Vision",
     "symbol": "VSN",
     "decimals": 18,
-    "logoURI": "./arb/0x6fbbbd8bfb1cd3986b1d05e7861a0f62f87db74b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6fbbbd8bfb1cd3986b1d05e7861a0f62f87db74b.png"
   },
   {
     "chainId": 42161,
@@ -517,7 +527,7 @@
     "name": "AUSD",
     "symbol": "AUSD",
     "decimals": 6,
-    "logoURI": "./arb/0x00000000efe302beaa2b3e6e1b18d08d69a9012a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x00000000efe302beaa2b3e6e1b18d08d69a9012a.png"
   },
   {
     "chainId": 42161,
@@ -527,7 +537,7 @@
     "name": "uniBTC",
     "symbol": "uniBTC",
     "decimals": 8,
-    "logoURI": "./arb/0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a.png"
   },
   {
     "chainId": 42161,
@@ -537,7 +547,7 @@
     "name": "LUNC",
     "symbol": "LUNC",
     "decimals": 6,
-    "logoURI": "./arb/0x1A4dA80967373fd929961e976b4b53ceeC063a15.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1A4dA80967373fd929961e976b4b53ceeC063a15.png"
   },
   {
     "chainId": 42161,
@@ -547,7 +557,7 @@
     "name": "Pendle",
     "symbol": "PENDLE",
     "decimals": 18,
-    "logoURI": "./arb/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8.png"
   },
   {
     "chainId": 42161,
@@ -557,7 +567,7 @@
     "name": "Spiko US T-Bills Money Market Fund",
     "symbol": "USTBL",
     "decimals": 5,
-    "logoURI": "./arb/0x021289588cd81dC1AC87ea91e91607eEF68303F5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x021289588cd81dC1AC87ea91e91607eEF68303F5.png"
   },
   {
     "chainId": 42161,
@@ -567,7 +577,7 @@
     "name": "Compound",
     "symbol": "COMP",
     "decimals": 18,
-    "logoURI": "./arb/0x354a6da3fcde098f8389cad84b0182725c6c91de.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x354a6da3fcde098f8389cad84b0182725c6c91de.png"
   },
   {
     "chainId": 42161,
@@ -577,7 +587,7 @@
     "name": "Frax Ether",
     "symbol": "frxETH",
     "decimals": 18,
-    "logoURI": "./arb/0x178412e79c25968a32e89b11f63b33f733770c2a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x178412e79c25968a32e89b11f63b33f733770c2a.png"
   },
   {
     "chainId": 42161,
@@ -587,7 +597,7 @@
     "name": "Frax Ether",
     "symbol": "frxETH",
     "decimals": 18,
-    "logoURI": "./arb/0x43edd7f3831b08fe70b7555ddd373c8bf65a9050.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x43edd7f3831b08fe70b7555ddd373c8bf65a9050.png"
   },
   {
     "chainId": 42161,
@@ -597,7 +607,7 @@
     "name": "1INCH Token",
     "symbol": "1INCH",
     "decimals": 18,
-    "logoURI": "./arb/0x6314c31a7a1652ce482cffe247e9cb7c3f4bb9af.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6314c31a7a1652ce482cffe247e9cb7c3f4bb9af.png"
   },
   {
     "chainId": 42161,
@@ -607,7 +617,7 @@
     "name": "Aethir Token",
     "symbol": "ATH",
     "decimals": 18,
-    "logoURI": "./arb/0xc87B37a581ec3257B734886d9d3a581F5A9d056c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc87B37a581ec3257B734886d9d3a581F5A9d056c.png"
   },
   {
     "chainId": 42161,
@@ -617,7 +627,7 @@
     "name": "Fluid",
     "symbol": "FLUID",
     "decimals": 18,
-    "logoURI": "./arb/0x61e030a56d33e8260fdd81f03b162a79fe3449cd.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x61e030a56d33e8260fdd81f03b162a79fe3449cd.png"
   },
   {
     "chainId": 42161,
@@ -627,7 +637,7 @@
     "name": "CoW Protocol Token",
     "symbol": "COW",
     "decimals": 18,
-    "logoURI": "./arb/0xcb8b5cd20bdcaea9a010ac1f8d835824f5c87a04.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xcb8b5cd20bdcaea9a010ac1f8d835824f5c87a04.png"
   },
   {
     "chainId": 42161,
@@ -637,7 +647,7 @@
     "name": "Frax USD",
     "symbol": "frxUSD",
     "decimals": 18,
-    "logoURI": "./arb/0x80eede496655fb9047dd39d9f418d5483ed600df.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x80eede496655fb9047dd39d9f418d5483ed600df.png"
   },
   {
     "chainId": 42161,
@@ -647,7 +657,7 @@
     "name": "Pleasing USD",
     "symbol": "PUSD",
     "decimals": 18,
-    "logoURI": "./arb/0xc8fb643d18f1e53698cfda5c8fdf0cdc03c1dbec.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc8fb643d18f1e53698cfda5c8fdf0cdc03c1dbec.png"
   },
   {
     "chainId": 42161,
@@ -657,7 +667,7 @@
     "name": "Staked Frax Ether",
     "symbol": "sfrxETH",
     "decimals": 18,
-    "logoURI": "./arb/0x3Ec3849C33291a9eF4c5dB86De593EB4A37fDe45.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3Ec3849C33291a9eF4c5dB86De593EB4A37fDe45.png"
   },
   {
     "chainId": 42161,
@@ -667,7 +677,7 @@
     "name": "Staked Frax Ether",
     "symbol": "sfrxETH",
     "decimals": 18,
-    "logoURI": "./arb/0x95ab45875cffdba1e5f451b950bc2e42c0053f39.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x95ab45875cffdba1e5f451b950bc2e42c0053f39.png"
   },
   {
     "chainId": 42161,
@@ -677,7 +687,7 @@
     "name": "Livepeer Token",
     "symbol": "LPT",
     "decimals": 18,
-    "logoURI": "./arb/0x289ba1701c2f088cf0faf8b3705246331cb8a839.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x289ba1701c2f088cf0faf8b3705246331cb8a839.png"
   },
   {
     "chainId": 42161,
@@ -687,7 +697,7 @@
     "name": "WrappedM by M^0",
     "symbol": "wM",
     "decimals": 6,
-    "logoURI": "./arb/0x437cc33344a0b27a429f795ff6b469c72698b291.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x437cc33344a0b27a429f795ff6b469c72698b291.png"
   },
   {
     "chainId": 42161,
@@ -697,7 +707,7 @@
     "name": "yearn.finance",
     "symbol": "YFI",
     "decimals": 18,
-    "logoURI": "./arb/0x82e3a8f066a6989666b031d916c43672085b1582.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x82e3a8f066a6989666b031d916c43672085b1582.png"
   },
   {
     "chainId": 42161,
@@ -707,7 +717,7 @@
     "name": "Pleasing Gold",
     "symbol": "PGOLD",
     "decimals": 18,
-    "logoURI": "./arb/0x3e76bb02286bfeaa89dd35f11253f2cbce634f91.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3e76bb02286bfeaa89dd35f11253f2cbce634f91.png"
   },
   {
     "chainId": 42161,
@@ -717,7 +727,7 @@
     "name": "ApeCoin",
     "symbol": "APE",
     "decimals": 18,
-    "logoURI": "./arb/0x7f9fbf9bdd3f4105c478b996b648fe6e828a1e98.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7f9fbf9bdd3f4105c478b996b648fe6e828a1e98.png"
   },
   {
     "chainId": 42161,
@@ -727,7 +737,7 @@
     "name": "ether.fi BTC",
     "symbol": "eBTC",
     "decimals": 8,
-    "logoURI": "./arb/0x657e8c867d8b37dcc18fa4caead9c45eb088c642.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x657e8c867d8b37dcc18fa4caead9c45eb088c642.png"
   },
   {
     "chainId": 42161,
@@ -737,7 +747,7 @@
     "name": "Wormhole Token",
     "symbol": "W",
     "decimals": 18,
-    "logoURI": "./arb/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91.png"
   },
   {
     "chainId": 42161,
@@ -747,7 +757,7 @@
     "name": "Tether Gold",
     "symbol": "XAUt0",
     "decimals": 6,
-    "logoURI": "./arb/0x40461291347e1ecbb09499f3371d3f17f10d7159.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x40461291347e1ecbb09499f3371d3f17f10d7159.png"
   },
   {
     "chainId": 42161,
@@ -757,7 +767,7 @@
     "name": "HoloToken",
     "symbol": "HOT",
     "decimals": 18,
-    "logoURI": "./arb/0x17e1e5c6bc9ebb11647c94e1c5e3ba619f2781ea.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x17e1e5c6bc9ebb11647c94e1c5e3ba619f2781ea.png"
   },
   {
     "chainId": 42161,
@@ -767,7 +777,7 @@
     "name": "Dola USD Stablecoin",
     "symbol": "DOLA",
     "decimals": 18,
-    "logoURI": "./arb/0x6a7661795c374c0bfc635934efaddff3a7ee23b6.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6a7661795c374c0bfc635934efaddff3a7ee23b6.png"
   },
   {
     "chainId": 42161,
@@ -777,7 +787,7 @@
     "name": "$EXOD-B",
     "symbol": "EXOD",
     "decimals": 8,
-    "logoURI": "./arb/0x116998824ff90532906bab91becea4a8e4ce06db.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x116998824ff90532906bab91becea4a8e4ce06db.png"
   },
   {
     "chainId": 42161,
@@ -787,7 +797,7 @@
     "name": "GMX",
     "symbol": "GMX",
     "decimals": 18,
-    "logoURI": "./arb/0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a.png"
   },
   {
     "chainId": 42161,
@@ -797,7 +807,7 @@
     "name": "WorldMobileToken",
     "symbol": "WMTX",
     "decimals": 6,
-    "logoURI": "./arb/0xdbb5cf12408a3ac17d668037ce289f9ea75439d7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xdbb5cf12408a3ac17d668037ce289f9ea75439d7.png"
   },
   {
     "chainId": 42161,
@@ -807,7 +817,7 @@
     "name": "Axelar",
     "symbol": "AXL",
     "decimals": 6,
-    "logoURI": "./arb/0x23ee2343b892b1bb63503a4fabc840e0e2c6810f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x23ee2343b892b1bb63503a4fabc840e0e2c6810f.png"
   },
   {
     "chainId": 42161,
@@ -817,7 +827,7 @@
     "name": "Magic Internet Money",
     "symbol": "MIM",
     "decimals": 18,
-    "logoURI": "./arb/0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a.png"
   },
   {
     "chainId": 42161,
@@ -827,7 +837,7 @@
     "name": "SushiToken",
     "symbol": "SUSHI",
     "decimals": 18,
-    "logoURI": "./arb/0xd4d42f0b6def4ce0383636770ef773390d85c61a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xd4d42f0b6def4ce0383636770ef773390d85c61a.png"
   },
   {
     "chainId": 42161,
@@ -837,7 +847,7 @@
     "name": "Celo native asset",
     "symbol": "CELO",
     "decimals": 18,
-    "logoURI": "./arb/0x4e51ac49bc5e2d87e0ef713e9e5ab2d71ef4f336.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4e51ac49bc5e2d87e0ef713e9e5ab2d71ef4f336.png"
   },
   {
     "chainId": 42161,
@@ -847,7 +857,7 @@
     "name": "xUSD",
     "symbol": "xUSD",
     "decimals": 6,
-    "logoURI": "./arb/0xe80772eaf6e2e18b651f160bc9158b2a5cafca65.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xe80772eaf6e2e18b651f160bc9158b2a5cafca65.png"
   },
   {
     "chainId": 42161,
@@ -857,7 +867,7 @@
     "name": "Venus XVS",
     "symbol": "XVS",
     "decimals": 18,
-    "logoURI": "./arb/0xc1eb7689147c81ac840d4ff0d298489fc7986d52.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc1eb7689147c81ac840d4ff0d298489fc7986d52.png"
   },
   {
     "chainId": 42161,
@@ -867,7 +877,7 @@
     "name": "Lorenzo stBTC",
     "symbol": "stBTC",
     "decimals": 18,
-    "logoURI": "./arb/0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3.png"
   },
   {
     "chainId": 42161,
@@ -877,7 +887,7 @@
     "name": "Orbs",
     "symbol": "ORBS",
     "decimals": 18,
-    "logoURI": "./arb/0xf3c091ed43de9c270593445163a41a876a0bb3dd.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf3c091ed43de9c270593445163a41a876a0bb3dd.png"
   },
   {
     "chainId": 42161,
@@ -887,7 +897,7 @@
     "name": "Tellor Tributes",
     "symbol": "TRB",
     "decimals": 18,
-    "logoURI": "./arb/0xd58d345fd9c82262e087d2d0607624b410d88242.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xd58d345fd9c82262e087d2d0607624b410d88242.png"
   },
   {
     "chainId": 42161,
@@ -897,7 +907,7 @@
     "name": "Frankencoin",
     "symbol": "ZCHF",
     "decimals": 18,
-    "logoURI": "./arb/0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553.png"
   },
   {
     "chainId": 42161,
@@ -907,7 +917,7 @@
     "name": "Frax Share",
     "symbol": "FXS",
     "decimals": 18,
-    "logoURI": "./arb/0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7.png"
   },
   {
     "chainId": 42161,
@@ -917,7 +927,7 @@
     "name": "UMA Voting Token v1",
     "symbol": "UMA",
     "decimals": 18,
-    "logoURI": "./arb/0xd693ec944a85eeca4247ec1c3b130dca9b0c3b22.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xd693ec944a85eeca4247ec1c3b130dca9b0c3b22.png"
   },
   {
     "chainId": 42161,
@@ -927,7 +937,7 @@
     "name": "COTI Token",
     "symbol": "COTI",
     "decimals": 18,
-    "logoURI": "./arb/0x6fe14d3cc2f7bddffba5cdb3bbe7467dd81ea101.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6fe14d3cc2f7bddffba5cdb3bbe7467dd81ea101.png"
   },
   {
     "chainId": 42161,
@@ -937,7 +947,7 @@
     "name": "Tokenlon",
     "symbol": "LON",
     "decimals": 18,
-    "logoURI": "./arb/0x55678cd083fcdc2947a0df635c93c838c89454a3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x55678cd083fcdc2947a0df635c93c838c89454a3.png"
   },
   {
     "chainId": 42161,
@@ -947,7 +957,7 @@
     "name": "Subsquid",
     "symbol": "SQD",
     "decimals": 18,
-    "logoURI": "./arb/0x1337420ded5adb9980cfc35f8f2b054ea86f8ab1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1337420ded5adb9980cfc35f8f2b054ea86f8ab1.png"
   },
   {
     "chainId": 42161,
@@ -957,7 +967,7 @@
     "name": "WOO",
     "symbol": "WOO",
     "decimals": 18,
-    "logoURI": "./arb/0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b.png"
   },
   {
     "chainId": 42161,
@@ -967,7 +977,7 @@
     "name": "Cartesi Token",
     "symbol": "CTSI",
     "decimals": 18,
-    "logoURI": "./arb/0x319f865b287fcc10b30d8ce6144e8b6d1b476999.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x319f865b287fcc10b30d8ce6144e8b6d1b476999.png"
   },
   {
     "chainId": 42161,
@@ -977,7 +987,7 @@
     "name": "Autonomi",
     "symbol": "ANT",
     "decimals": 18,
-    "logoURI": "./arb/0xa78d8321b20c4ef90ecd72f2588aa985a4bdb684.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa78d8321b20c4ef90ecd72f2588aa985a4bdb684.png"
   },
   {
     "chainId": 42161,
@@ -987,7 +997,7 @@
     "name": "Across Protocol Token",
     "symbol": "ACX",
     "decimals": 18,
-    "logoURI": "./arb/0x53691596d1bce8cea565b84d4915e69e03d9c99d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x53691596d1bce8cea565b84d4915e69e03d9c99d.png"
   },
   {
     "chainId": 42161,
@@ -997,7 +1007,7 @@
     "name": "Monerium EURe",
     "symbol": "EURe",
     "decimals": 18,
-    "logoURI": "./arb/0x0c06ccf38114ddfc35e07427b9424adcca9f44f8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0c06ccf38114ddfc35e07427b9424adcca9f44f8.png"
   },
   {
     "chainId": 42161,
@@ -1007,7 +1017,7 @@
     "name": "yoVaultUSD",
     "symbol": "yoUSD",
     "decimals": 6,
-    "logoURI": "./arb/0x0000000f2eb9f69274678c76222b35eec7588a65.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0000000f2eb9f69274678c76222b35eec7588a65.png"
   },
   {
     "chainId": 42161,
@@ -1017,7 +1027,7 @@
     "name": "Spell Token",
     "symbol": "SPELL",
     "decimals": 18,
-    "logoURI": "./arb/0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af.png"
   },
   {
     "chainId": 42161,
@@ -1027,7 +1037,7 @@
     "name": "MiL.k",
     "symbol": "MLK",
     "decimals": 8,
-    "logoURI": "./arb/0x374c5fb7979d5fdbaad2d95409e235e5cbdfd43c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x374c5fb7979d5fdbaad2d95409e235e5cbdfd43c.png"
   },
   {
     "chainId": 42161,
@@ -1037,7 +1047,7 @@
     "name": "Sophon",
     "symbol": "SOPH",
     "decimals": 18,
-    "logoURI": "./arb/0x31DbA3c96481FDe3CD81C2aaF51F2D8bf618C742.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x31DbA3c96481FDe3CD81C2aaF51F2D8bf618C742.png"
   },
   {
     "chainId": 42161,
@@ -1047,7 +1057,7 @@
     "name": "TerraUSD",
     "symbol": "USTC",
     "decimals": 6,
-    "logoURI": "./arb/0x13780E6d5696DD91454F6d3BbC2616687fEa43d0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x13780E6d5696DD91454F6d3BbC2616687fEa43d0.png"
   },
   {
     "chainId": 42161,
@@ -1057,7 +1067,7 @@
     "name": "StargateToken",
     "symbol": "STG",
     "decimals": 18,
-    "logoURI": "./arb/0x6694340fc020c5e6b96567843da2df01b2ce1eb6.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6694340fc020c5e6b96567843da2df01b2ce1eb6.png"
   },
   {
     "chainId": 42161,
@@ -1067,7 +1077,7 @@
     "name": "Synth sUSD",
     "symbol": "sUSD",
     "decimals": 18,
-    "logoURI": "./arb/0xa970af1a584579b618be4d69ad6f73459d112f95.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa970af1a584579b618be4d69ad6f73459d112f95.png"
   },
   {
     "chainId": 42161,
@@ -1077,7 +1087,7 @@
     "name": "Corn",
     "symbol": "CORN",
     "decimals": 18,
-    "logoURI": "./arb/0x44f49ff0da2498bCb1D3Dc7C0f999578F67FD8C6.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x44f49ff0da2498bCb1D3Dc7C0f999578F67FD8C6.png"
   },
   {
     "chainId": 42161,
@@ -1087,7 +1097,7 @@
     "name": "Euler",
     "symbol": "EUL",
     "decimals": 18,
-    "logoURI": "./arb/0x462cd9e0247b2e63831c3189ae738e5e9a5a4b64.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x462cd9e0247b2e63831c3189ae738e5e9a5a4b64.png"
   },
   {
     "chainId": 42161,
@@ -1097,7 +1107,7 @@
     "name": "DIAToken",
     "symbol": "DIA",
     "decimals": 18,
-    "logoURI": "./arb/0x39f91452a6e9994762876e1edd87be28a46d5c99.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x39f91452a6e9994762876e1edd87be28a46d5c99.png"
   },
   {
     "chainId": 42161,
@@ -1107,7 +1117,7 @@
     "name": "LoopringCoin V2",
     "symbol": "LRC",
     "decimals": 18,
-    "logoURI": "./arb/0x46d0ce7de6247b0a95f67b43b589b4041bae7fbe.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x46d0ce7de6247b0a95f67b43b589b4041bae7fbe.png"
   },
   {
     "chainId": 42161,
@@ -1117,7 +1127,7 @@
     "name": "Kyber Network Crystal v2",
     "symbol": "KNC",
     "decimals": 18,
-    "logoURI": "./arb/0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb.png"
   },
   {
     "chainId": 42161,
@@ -1127,7 +1137,7 @@
     "name": "USUAL",
     "symbol": "USUAL",
     "decimals": 18,
-    "logoURI": "./arb/0x6a5d904519a2b605da2d5da7137ed5f4184f6513.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6a5d904519a2b605da2d5da7137ed5f4184f6513.png"
   },
   {
     "chainId": 42161,
@@ -1137,7 +1147,7 @@
     "name": "Orderly Network",
     "symbol": "ORDER",
     "decimals": 18,
-    "logoURI": "./arb/0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8.png"
   },
   {
     "chainId": 42161,
@@ -1147,7 +1157,7 @@
     "name": "Hyperlane",
     "symbol": "HYPER",
     "decimals": 18,
-    "logoURI": "./arb/0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4.png"
   },
   {
     "chainId": 42161,
@@ -1157,7 +1167,7 @@
     "name": "BTU Protocol",
     "symbol": "BTU",
     "decimals": 18,
-    "logoURI": "./arb/0xba9a5dd807c9f072850be15a52df3408ba25fd18.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xba9a5dd807c9f072850be15a52df3408ba25fd18.png"
   },
   {
     "chainId": 42161,
@@ -1167,7 +1177,7 @@
     "name": "Wrapped Frax",
     "symbol": "WFRAX",
     "decimals": 18,
-    "logoURI": "./arb/0x64445f0aecc51e94ad52d8ac56b7190e764e561a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x64445f0aecc51e94ad52d8ac56b7190e764e561a.png"
   },
   {
     "chainId": 42161,
@@ -1177,7 +1187,7 @@
     "name": "SmarDex Token",
     "symbol": "SDEX",
     "decimals": 18,
-    "logoURI": "./arb/0xabd587f2607542723b17f14d00d99b987c29b074.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xabd587f2607542723b17f14d00d99b987c29b074.png"
   },
   {
     "chainId": 42161,
@@ -1187,7 +1197,7 @@
     "name": "MAGIC",
     "symbol": "MAGIC",
     "decimals": 18,
-    "logoURI": "./arb/0x539bde0d7dbd336b79148aa742883198bbf60342.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x539bde0d7dbd336b79148aa742883198bbf60342.png"
   },
   {
     "chainId": 42161,
@@ -1197,7 +1207,7 @@
     "name": "Marlin POND",
     "symbol": "POND",
     "decimals": 18,
-    "logoURI": "./arb/0xda0a57b710768ae17941a9fa33f8b720c8bd9ddd.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xda0a57b710768ae17941a9fa33f8b720c8bd9ddd.png"
   },
   {
     "chainId": 42161,
@@ -1207,7 +1217,7 @@
     "name": "Xai",
     "symbol": "XAI",
     "decimals": 18,
-    "logoURI": "./arb/0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66.png"
   },
   {
     "chainId": 42161,
@@ -1217,7 +1227,7 @@
     "name": "Gains Network",
     "symbol": "GNS",
     "decimals": 18,
-    "logoURI": "./arb/0x18c11FD286C5EC11c3b683Caa813B77f5163A122.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x18c11FD286C5EC11c3b683Caa813B77f5163A122.png"
   },
   {
     "chainId": 42161,
@@ -1227,7 +1237,7 @@
     "name": "DODO bird",
     "symbol": "DODO",
     "decimals": 18,
-    "logoURI": "./arb/0x69eb4fa4a2fbd498c257c57ea8b7655a2559a581.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x69eb4fa4a2fbd498c257c57ea8b7655a2559a581.png"
   },
   {
     "chainId": 42161,
@@ -1237,7 +1247,7 @@
     "name": "JoeToken",
     "symbol": "JOE",
     "decimals": 18,
-    "logoURI": "./arb/0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07.png"
   },
   {
     "chainId": 42161,
@@ -1247,7 +1257,7 @@
     "name": "CelerToken",
     "symbol": "CELR",
     "decimals": 18,
-    "logoURI": "./arb/0x3a8b787f78d775aecfeea15706d4221b40f345ab.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3a8b787f78d775aecfeea15706d4221b40f345ab.png"
   },
   {
     "chainId": 42161,
@@ -1257,7 +1267,7 @@
     "name": "VISOR",
     "symbol": "VISR",
     "decimals": 18,
-    "logoURI": "./arb/0x995c235521820f2637303ca1970c7c044583df44.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x995c235521820f2637303ca1970c7c044583df44.png"
   },
   {
     "chainId": 42161,
@@ -1267,7 +1277,7 @@
     "name": "Folks Finance",
     "symbol": "FOLKS",
     "decimals": 6,
-    "logoURI": "./arb/0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b.png"
   },
   {
     "chainId": 42161,
@@ -1277,7 +1287,7 @@
     "name": "Mai Stablecoin",
     "symbol": "MAI",
     "decimals": 18,
-    "logoURI": "./arb/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d.png"
   },
   {
     "chainId": 42161,
@@ -1287,7 +1297,7 @@
     "name": "DeversiFi Token",
     "symbol": "DVF",
     "decimals": 18,
-    "logoURI": "./arb/0xa7aa2921618e3d63da433829d448b58c9445a4c3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa7aa2921618e3d63da433829d448b58c9445a4c3.png"
   },
   {
     "chainId": 42161,
@@ -1297,7 +1307,7 @@
     "name": "Synapse",
     "symbol": "SYN",
     "decimals": 18,
-    "logoURI": "./arb/0x080f6aed32fc474dd5717105dba5ea57268f46eb.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x080f6aed32fc474dd5717105dba5ea57268f46eb.png"
   },
   {
     "chainId": 42161,
@@ -1307,7 +1317,7 @@
     "name": "Autonolas",
     "symbol": "OLAS",
     "decimals": 18,
-    "logoURI": "./arb/0x064f8b858c2a603e1b106a2039f5446d32dc81c1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x064f8b858c2a603e1b106a2039f5446d32dc81c1.png"
   },
   {
     "chainId": 42161,
@@ -1317,7 +1327,7 @@
     "name": "YieldFi yUSD",
     "symbol": "yUSD",
     "decimals": 18,
-    "logoURI": "./arb/0x4772d2e014f9fc3a820c444e3313968e9a5c8121.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4772d2e014f9fc3a820c444e3313968e9a5c8121.png"
   },
   {
     "chainId": 42161,
@@ -1327,7 +1337,7 @@
     "name": "ChainBounty",
     "symbol": "BOUNTY",
     "decimals": 18,
-    "logoURI": "./arb/0x6a9896837021ea3ed83f623f655c119c54abe02c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6a9896837021ea3ed83f623f655c119c54abe02c.png"
   },
   {
     "chainId": 42161,
@@ -1337,7 +1347,7 @@
     "name": "MOR",
     "symbol": "MOR",
     "decimals": 18,
-    "logoURI": "./arb/0x092baadb7def4c3981454dd9c0a0d7ff07bcfc86.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x092baadb7def4c3981454dd9c0a0d7ff07bcfc86.png"
   },
   {
     "chainId": 42161,
@@ -1347,7 +1357,7 @@
     "name": "Ostrich",
     "symbol": "RICH",
     "decimals": 18,
-    "logoURI": "./arb/0x475e1cc57af3e40c80570220b1ce079b219605c4.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x475e1cc57af3e40c80570220b1ce079b219605c4.png"
   },
   {
     "chainId": 42161,
@@ -1357,7 +1367,7 @@
     "name": "Stake DAO Token",
     "symbol": "SDT",
     "decimals": 18,
-    "logoURI": "./arb/0x07715EE7219B07b8e01CC7d2787f4e5e75860383.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x07715EE7219B07b8e01CC7d2787f4e5e75860383.png"
   },
   {
     "chainId": 42161,
@@ -1367,7 +1377,7 @@
     "name": "Defi.Money Stablecoin",
     "symbol": "MONEY",
     "decimals": 18,
-    "logoURI": "./arb/0x69420f9e38a4e60a62224c489be4bf7a94402496.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x69420f9e38a4e60a62224c489be4bf7a94402496.png"
   },
   {
     "chainId": 42161,
@@ -1377,7 +1387,7 @@
     "name": "Hanu Yokia",
     "symbol": "HANU",
     "decimals": 12,
-    "logoURI": "./arb/0x7767aca54253863102887ceb11bb23e95329ddec.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7767aca54253863102887ceb11bb23e95329ddec.png"
   },
   {
     "chainId": 42161,
@@ -1387,7 +1397,7 @@
     "name": "Apu Apustaja",
     "symbol": "APU",
     "decimals": 18,
-    "logoURI": "./arb/0x1f53b7aa6f4b36b7dfdedb4bc4a14747a19cf7b1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1f53b7aa6f4b36b7dfdedb4bc4a14747a19cf7b1.png"
   },
   {
     "chainId": 42161,
@@ -1397,7 +1407,7 @@
     "name": "Milady",
     "symbol": "LADYS",
     "decimals": 18,
-    "logoURI": "./arb/0x3b60FF35D3f7F62d636b067dD0dC0dFdAd670E4E.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3b60FF35D3f7F62d636b067dD0dC0dFdAd670E4E.png"
   },
   {
     "chainId": 42161,
@@ -1407,7 +1417,7 @@
     "name": "Balancer",
     "symbol": "BAL",
     "decimals": 18,
-    "logoURI": "./arb/0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8.png"
   },
   {
     "chainId": 42161,
@@ -1417,7 +1427,7 @@
     "name": "IDIA",
     "symbol": "IDIA",
     "decimals": 18,
-    "logoURI": "./arb/0x6db8b088c4d41d622b44cd81b900ba690f2d496c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6db8b088c4d41d622b44cd81b900ba690f2d496c.png"
   },
   {
     "chainId": 42161,
@@ -1427,7 +1437,7 @@
     "name": "Impossible Decentralized Incubator Access Token",
     "symbol": "IDIA",
     "decimals": 18,
-    "logoURI": "./arb/0xd91903d548f19c0fc0a6b9ed09d2f72b4dfe7144.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xd91903d548f19c0fc0a6b9ed09d2f72b4dfe7144.png"
   },
   {
     "chainId": 42161,
@@ -1437,7 +1447,7 @@
     "name": "GMO JPY",
     "symbol": "GYEN",
     "decimals": 6,
-    "logoURI": "./arb/0x589d35656641d6aB57A545F08cf473eCD9B6D5F7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x589d35656641d6aB57A545F08cf473eCD9B6D5F7.png"
   },
   {
     "chainId": 42161,
@@ -1447,7 +1457,7 @@
     "name": "THORWallet Governance Token",
     "symbol": "TGT",
     "decimals": 18,
-    "logoURI": "./arb/0x429fed88f10285e61b12bdf00848315fbdfcc341.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x429fed88f10285e61b12bdf00848315fbdfcc341.png"
   },
   {
     "chainId": 42161,
@@ -1457,7 +1467,7 @@
     "name": "Overtime DAO Token",
     "symbol": "OVER",
     "decimals": 18,
-    "logoURI": "./arb/0x5829d6fe7528bc8e92c4e81cc8f20a528820b51a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x5829d6fe7528bc8e92c4e81cc8f20a528820b51a.png"
   },
   {
     "chainId": 42161,
@@ -1467,7 +1477,7 @@
     "name": "Lumi Finance USD",
     "symbol": "LUAUSD",
     "decimals": 18,
-    "logoURI": "./arb/0x1dd6b5f9281c6b4f043c02a83a46c2772024636c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1dd6b5f9281c6b4f043c02a83a46c2772024636c.png"
   },
   {
     "chainId": 42161,
@@ -1477,7 +1487,7 @@
     "name": "dForce USD",
     "symbol": "iUSX",
     "decimals": 18,
-    "logoURI": "./arb/0x0385f851060c09a552f1a28ea3f612660256cbaa.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0385f851060c09a552f1a28ea3f612660256cbaa.png"
   },
   {
     "chainId": 42161,
@@ -1487,7 +1497,7 @@
     "name": "Badger",
     "symbol": "BADGER",
     "decimals": 18,
-    "logoURI": "./arb/0xbfa641051ba0a0ad1b0acf549a89536a0d76472e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xbfa641051ba0a0ad1b0acf549a89536a0d76472e.png"
   },
   {
     "chainId": 42161,
@@ -1497,7 +1507,7 @@
     "name": "Mobox",
     "symbol": "MBOX",
     "decimals": 18,
-    "logoURI": "./arb/0xda661fa59320b808c5a6d23579fcfedf1fd3cf36.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xda661fa59320b808c5a6d23579fcfedf1fd3cf36.png"
   },
   {
     "chainId": 42161,
@@ -1507,7 +1517,7 @@
     "name": "MCDEX Token",
     "symbol": "MCB",
     "decimals": 18,
-    "logoURI": "./arb/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42.png"
   },
   {
     "chainId": 42161,
@@ -1517,7 +1527,7 @@
     "name": "The Doge NFT",
     "symbol": "DOG",
     "decimals": 18,
-    "logoURI": "./arb/0x4425742f1ec8d98779690b5a3a6276db85ddc01a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4425742f1ec8d98779690b5a3a6276db85ddc01a.png"
   },
   {
     "chainId": 42161,
@@ -1527,7 +1537,7 @@
     "name": "USDX",
     "symbol": "USDX",
     "decimals": 18,
-    "logoURI": "./arb/0xf3527ef8de265eaa3716fb312c12847bfba66cef.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf3527ef8de265eaa3716fb312c12847bfba66cef.png"
   },
   {
     "chainId": 42161,
@@ -1537,7 +1547,7 @@
     "name": "COQINU",
     "symbol": "COQ",
     "decimals": 18,
-    "logoURI": "./arb/0x420fca0121dc28039145009570975747295f2329.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x420fca0121dc28039145009570975747295f2329.png"
   },
   {
     "chainId": 42161,
@@ -1547,7 +1557,7 @@
     "name": "Kryll",
     "symbol": "KRL",
     "decimals": 18,
-    "logoURI": "./arb/0xf75ee6d319741057a82a88eeff1dbafab7307b69.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf75ee6d319741057a82a88eeff1dbafab7307b69.png"
   },
   {
     "chainId": 42161,
@@ -1557,7 +1567,7 @@
     "name": "Sperax",
     "symbol": "SPA",
     "decimals": 18,
-    "logoURI": "./arb/0x5575552988a3a80504bbaeb1311674fcfd40ad4b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x5575552988a3a80504bbaeb1311674fcfd40ad4b.png"
   },
   {
     "chainId": 42161,
@@ -1567,7 +1577,7 @@
     "name": "Hydranet",
     "symbol": "HDN",
     "decimals": 18,
-    "logoURI": "./arb/0xb0f66bdb39acbb043308eb9dbe78f5bb47ea5430.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xb0f66bdb39acbb043308eb9dbe78f5bb47ea5430.png"
   },
   {
     "chainId": 42161,
@@ -1577,7 +1587,7 @@
     "name": "Orbiter Token",
     "symbol": "OBT",
     "decimals": 18,
-    "logoURI": "./arb/0x1cd9a56c8c2ea913c70319a44da75e99255aa46f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1cd9a56c8c2ea913c70319a44da75e99255aa46f.png"
   },
   {
     "chainId": 42161,
@@ -1587,7 +1597,7 @@
     "name": "Automata",
     "symbol": "ATA",
     "decimals": 18,
-    "logoURI": "./arb/0xac9ac2c17cdfed4abc80a53c5553388575714d03.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xac9ac2c17cdfed4abc80a53c5553388575714d03.png"
   },
   {
     "chainId": 42161,
@@ -1597,7 +1607,7 @@
     "name": "VNX Franc",
     "symbol": "VCHF",
     "decimals": 18,
-    "logoURI": "./arb/0x02cea97794d2cfb5f560e1ff4e9c59d1bec75969.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x02cea97794d2cfb5f560e1ff4e9c59d1bec75969.png"
   },
   {
     "chainId": 42161,
@@ -1607,7 +1617,7 @@
     "name": "Dollar on Chain",
     "symbol": "DOC",
     "decimals": 18,
-    "logoURI": "./arb/0x2ad62eb9744c720364f6ac856360a43e8a2229b5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x2ad62eb9744c720364f6ac856360a43e8a2229b5.png"
   },
   {
     "chainId": 42161,
@@ -1617,7 +1627,7 @@
     "name": "MATH Token",
     "symbol": "MATH",
     "decimals": 18,
-    "logoURI": "./arb/0x99f40b01ba9c469193b360f72740e416b17ac332.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x99f40b01ba9c469193b360f72740e416b17ac332.png"
   },
   {
     "chainId": 42161,
@@ -1627,7 +1637,7 @@
     "name": "Premia",
     "symbol": "PREMIA",
     "decimals": 18,
-    "logoURI": "./arb/0x51fc0f6660482ea73330e414efd7808811a57fa2.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x51fc0f6660482ea73330e414efd7808811a57fa2.png"
   },
   {
     "chainId": 42161,
@@ -1637,7 +1647,7 @@
     "name": "TLOS",
     "symbol": "TLOS",
     "decimals": 18,
-    "logoURI": "./arb/0x193f4a4a6ea24102f49b931deeeb931f6e32405d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x193f4a4a6ea24102f49b931deeeb931f6e32405d.png"
   },
   {
     "chainId": 42161,
@@ -1647,7 +1657,7 @@
     "name": "DefiPulse Index",
     "symbol": "DPI",
     "decimals": 18,
-    "logoURI": "./arb/0x9737c658272e66faad39d7ad337789ee6d54f500.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x9737c658272e66faad39d7ad337789ee6d54f500.png"
   },
   {
     "chainId": 42161,
@@ -1657,7 +1667,7 @@
     "name": "Interest Compounding ETH Index",
     "symbol": "icETH",
     "decimals": 18,
-    "logoURI": "./arb/0xf6553cd90bd48ff0dc17c60baeaaf1ca325fe3b0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf6553cd90bd48ff0dc17c60baeaaf1ca325fe3b0.png"
   },
   {
     "chainId": 42161,
@@ -1667,7 +1677,7 @@
     "name": "UniBright",
     "symbol": "UBT",
     "decimals": 8,
-    "logoURI": "./arb/0x2ad62674a64e698c24831faf824973c360430140.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x2ad62674a64e698c24831faf824973c360430140.png"
   },
   {
     "chainId": 42161,
@@ -1677,7 +1687,7 @@
     "name": "Pear",
     "symbol": "PEAR",
     "decimals": 18,
-    "logoURI": "./arb/0x3212dc0f8c834e4de893532d27cc9b6001684db0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3212dc0f8c834e4de893532d27cc9b6001684db0.png"
   },
   {
     "chainId": 42161,
@@ -1687,7 +1697,7 @@
     "name": "Giza",
     "symbol": "GIZA",
     "decimals": 18,
-    "logoURI": "./arb/0x590830dFDf9A3F68aFCDdE2694773dEBDF267774.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x590830dFDf9A3F68aFCDdE2694773dEBDF267774.png"
   },
   {
     "chainId": 42161,
@@ -1697,7 +1707,7 @@
     "name": "Staked USDX",
     "symbol": "sUSDX",
     "decimals": 18,
-    "logoURI": "./arb/0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92.png"
   },
   {
     "chainId": 42161,
@@ -1707,7 +1717,7 @@
     "name": "USDp",
     "symbol": "USDp",
     "decimals": 18,
-    "logoURI": "./arb/0x76a9a0062ec6712b99b4f63bd2b4270185759dd5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x76a9a0062ec6712b99b4f63bd2b4270185759dd5.png"
   },
   {
     "chainId": 42161,
@@ -1717,7 +1727,7 @@
     "name": "TND",
     "symbol": "TND",
     "decimals": 18,
-    "logoURI": "./arb/0xc47d9753f3b32aa9548a7c3f30b6aec3b2d2798c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc47d9753f3b32aa9548a7c3f30b6aec3b2d2798c.png"
   },
   {
     "chainId": 42161,
@@ -1727,7 +1737,7 @@
     "name": "OVR",
     "symbol": "OVR",
     "decimals": 18,
-    "logoURI": "./arb/0x55704a0e9e2eb59e176c5b69655dbd3dcdcfc0f0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x55704a0e9e2eb59e176c5b69655dbd3dcdcfc0f0.png"
   },
   {
     "chainId": 42161,
@@ -1737,7 +1747,7 @@
     "name": "Cryptex",
     "symbol": "CTX",
     "decimals": 18,
-    "logoURI": "./arb/0x84f5c2cfba754e76dd5ae4fb369cfc920425e12b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x84f5c2cfba754e76dd5ae4fb369cfc920425e12b.png"
   },
   {
     "chainId": 42161,
@@ -1747,7 +1757,7 @@
     "name": "Radiant",
     "symbol": "RDNT",
     "decimals": 18,
-    "logoURI": "./arb/0x3082cc23568ea640225c2467653db90e9250aaa0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3082cc23568ea640225c2467653db90e9250aaa0.png"
   },
   {
     "chainId": 42161,
@@ -1757,7 +1767,7 @@
     "name": "VNX Euro",
     "symbol": "VEUR",
     "decimals": 18,
-    "logoURI": "./arb/0x4883c8f0529f37e40ebea870f3c13cdfad5d01f8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4883c8f0529f37e40ebea870f3c13cdfad5d01f8.png"
   },
   {
     "chainId": 42161,
@@ -1767,7 +1777,7 @@
     "name": "KardiaChain",
     "symbol": "KAI",
     "decimals": 18,
-    "logoURI": "./arb/0xa891b374942cde9061e044c1d19c5b5de06a68e1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa891b374942cde9061e044c1d19c5b5de06a68e1.png"
   },
   {
     "chainId": 42161,
@@ -1777,7 +1787,7 @@
     "name": "Symbiosis",
     "symbol": "SIS",
     "decimals": 18,
-    "logoURI": "./arb/0x9e758b8a98a42d612b3d38b66a22074dc03d7370.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x9e758b8a98a42d612b3d38b66a22074dc03d7370.png"
   },
   {
     "chainId": 42161,
@@ -1787,7 +1797,7 @@
     "name": "Aura BAL",
     "symbol": "auraBAL",
     "decimals": 18,
-    "logoURI": "./arb/0x223738a747383d6F9f827d95964e4d8E8AC754cE.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x223738a747383d6F9f827d95964e4d8E8AC754cE.png"
   },
   {
     "chainId": 42161,
@@ -1797,7 +1807,7 @@
     "name": "agEUR",
     "symbol": "agEUR",
     "decimals": 18,
-    "logoURI": "./arb/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7.png"
   },
   {
     "chainId": 42161,
@@ -1807,7 +1817,7 @@
     "name": "Fief",
     "symbol": "FIEF",
     "decimals": 18,
-    "logoURI": "./arb/0xe2105bea3819d3131b5b2306d44eb3271bfcfe0e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xe2105bea3819d3131b5b2306d44eb3271bfcfe0e.png"
   },
   {
     "chainId": 42161,
@@ -1817,7 +1827,7 @@
     "name": "Agave",
     "symbol": "AGVE",
     "decimals": 18,
-    "logoURI": "./arb/0x848e0ba28b637e8490d88bae51fa99c87116409b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x848e0ba28b637e8490d88bae51fa99c87116409b.png"
   },
   {
     "chainId": 42161,
@@ -1827,7 +1837,7 @@
     "name": "Frax Price Index",
     "symbol": "FPI",
     "decimals": 18,
-    "logoURI": "./arb/0x1b01514a2b3cdef16fd3c680a818a0ab97da8a09.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1b01514a2b3cdef16fd3c680a818a0ab97da8a09.png"
   },
   {
     "chainId": 42161,
@@ -1837,7 +1847,7 @@
     "name": "Frax Price Index Share",
     "symbol": "FPIS",
     "decimals": 18,
-    "logoURI": "./arb/0x3405e88af759992937b84e58f2fe691ef0eea320.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3405e88af759992937b84e58f2fe691ef0eea320.png"
   },
   {
     "chainId": 42161,
@@ -1847,7 +1857,7 @@
     "name": "Spectra Token",
     "symbol": "SPECTRA",
     "decimals": 18,
-    "logoURI": "./arb/0x64fcc3a02eeeba05ef701b7eed066c6ebd5d4e51.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x64fcc3a02eeeba05ef701b7eed066c6ebd5d4e51.png"
   },
   {
     "chainId": 42161,
@@ -1857,7 +1867,7 @@
     "name": "SWEAT",
     "symbol": "SWEAT",
     "decimals": 18,
-    "logoURI": "./arb/0xca7dec8550f43a5e46e3dfb95801f64280e75b27.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xca7dec8550f43a5e46e3dfb95801f64280e75b27.png"
   },
   {
     "chainId": 42161,
@@ -1867,7 +1877,7 @@
     "name": "Penpie Token",
     "symbol": "PNP",
     "decimals": 18,
-    "logoURI": "./arb/0x2ac2b254bc18cd4999f64773a966e4f4869c34ee.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x2ac2b254bc18cd4999f64773a966e4f4869c34ee.png"
   },
   {
     "chainId": 42161,
@@ -1877,7 +1887,7 @@
     "name": "Arowana",
     "symbol": "ARW",
     "decimals": 18,
-    "logoURI": "./arb/0x747952a59292a9b3862f3c59664b95e8b461ef45.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x747952a59292a9b3862f3c59664b95e8b461ef45.png"
   },
   {
     "chainId": 42161,
@@ -1887,7 +1897,7 @@
     "name": "Umami",
     "symbol": "UMAMI",
     "decimals": 9,
-    "logoURI": "./arb/0x1622bf67e6e5747b81866fe0b85178a93c7f86e3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1622bf67e6e5747b81866fe0b85178a93c7f86e3.png"
   },
   {
     "chainId": 42161,
@@ -1897,7 +1907,7 @@
     "name": "DMT",
     "symbol": "DMT",
     "decimals": 18,
-    "logoURI": "./arb/0x8b0e6f19ee57089f7649a455d89d7bc6314d04e8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x8b0e6f19ee57089f7649a455d89d7bc6314d04e8.png"
   },
   {
     "chainId": 42161,
@@ -1907,7 +1917,7 @@
     "name": "MXC Token",
     "symbol": "MXC",
     "decimals": 18,
-    "logoURI": "./arb/0xaedf7656fbb47c5b97dd529ac1d0e807e051f2dd.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xaedf7656fbb47c5b97dd529ac1d0e807e051f2dd.png"
   },
   {
     "chainId": 42161,
@@ -1917,7 +1927,7 @@
     "name": "US Sonic Dollar",
     "symbol": "USSD",
     "decimals": 18,
-    "logoURI": "./arb/0x000000000eccff26b795f73fb0a70d48da657fef.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x000000000eccff26b795f73fb0a70d48da657fef.png"
   },
   {
     "chainId": 42161,
@@ -1927,7 +1937,7 @@
     "name": "DecentralizedEURO",
     "symbol": "dEURO",
     "decimals": 18,
-    "logoURI": "./arb/0x5e85faf503621830ca857a5f38b982e0cc57d537.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x5e85faf503621830ca857a5f38b982e0cc57d537.png"
   },
   {
     "chainId": 42161,
@@ -1937,7 +1947,7 @@
     "name": "Ethos Reserve Note",
     "symbol": "ERN",
     "decimals": 18,
-    "logoURI": "./arb/0xa334884bf6b0a066d553d19e507315e839409e62.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa334884bf6b0a066d553d19e507315e839409e62.png"
   },
   {
     "chainId": 42161,
@@ -1947,7 +1957,7 @@
     "name": "Mynth",
     "symbol": "MNT",
     "decimals": 6,
-    "logoURI": "./arb/0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf.png"
   },
   {
     "chainId": 42161,
@@ -1957,7 +1967,7 @@
     "name": "MZR",
     "symbol": "MZR Token",
     "decimals": 18,
-    "logoURI": "./arb/0xbbea044f9e7c0520195e49ad1e561572e7e1b948.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xbbea044f9e7c0520195e49ad1e561572e7e1b948.png"
   },
   {
     "chainId": 42161,
@@ -1967,7 +1977,7 @@
     "name": "Truflation",
     "symbol": "TRUF",
     "decimals": 18,
-    "logoURI": "./arb/0xb59c8912c83157a955f9d715e556257f432c35d7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xb59c8912c83157a955f9d715e556257f432c35d7.png"
   },
   {
     "chainId": 42161,
@@ -1977,7 +1987,7 @@
     "name": "Nya",
     "symbol": "NYA",
     "decimals": 18,
-    "logoURI": "./arb/0x38F9bf9dCe51833Ec7f03C9dC218197999999999.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x38F9bf9dCe51833Ec7f03C9dC218197999999999.png"
   },
   {
     "chainId": 42161,
@@ -1987,7 +1997,7 @@
     "name": "Camelot token",
     "symbol": "GRAIL",
     "decimals": 18,
-    "logoURI": "./arb/0x3d9907f9a368ad0a51be60f7da3b97cf940982d8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3d9907f9a368ad0a51be60f7da3b97cf940982d8.png"
   },
   {
     "chainId": 42161,
@@ -1997,7 +2007,7 @@
     "name": "Perpetual",
     "symbol": "PERP",
     "decimals": 18,
-    "logoURI": "./arb/0x753d224bcf9aafacd81558c32341416df61d3dac.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x753d224bcf9aafacd81558c32341416df61d3dac.png"
   },
   {
     "chainId": 42161,
@@ -2007,7 +2017,7 @@
     "name": "Moons",
     "symbol": "MOON",
     "decimals": 18,
-    "logoURI": "./arb/0x24404dc041d74cd03cfe28855f555559390c931b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x24404dc041d74cd03cfe28855f555559390c931b.png"
   },
   {
     "chainId": 42161,
@@ -2017,7 +2027,7 @@
     "name": "Glo Dollar",
     "symbol": "USDGLO",
     "decimals": 18,
-    "logoURI": "./arb/0x4f604735c1cf31399c6e711d5962b2b3e0225ad3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4f604735c1cf31399c6e711d5962b2b3e0225ad3.png"
   },
   {
     "chainId": 42161,
@@ -2027,7 +2037,7 @@
     "name": "Rai Reflex Index",
     "symbol": "RAI",
     "decimals": 18,
-    "logoURI": "./arb/0xaef5bbcbfa438519a5ea80b4c7181b4e78d419f2.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xaef5bbcbfa438519a5ea80b4c7181b4e78d419f2.png"
   },
   {
     "chainId": 42161,
@@ -2037,7 +2047,7 @@
     "name": "Bitcoin.ℏ",
     "symbol": "BTC.ℏ[arb]",
     "decimals": 8,
-    "logoURI": "./arb/0xed6c7a7b116876A4BF225cbf044681F070684fA5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xed6c7a7b116876A4BF225cbf044681F070684fA5.png"
   },
   {
     "chainId": 42161,
@@ -2047,7 +2057,7 @@
     "name": "Meta",
     "symbol": "MTA",
     "decimals": 18,
-    "logoURI": "./arb/0x5298ee77a8f9e226898403ebac33e68a62f770a0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x5298ee77a8f9e226898403ebac33e68a62f770a0.png"
   },
   {
     "chainId": 42161,
@@ -2057,7 +2067,7 @@
     "name": "Cream",
     "symbol": "CREAM",
     "decimals": 18,
-    "logoURI": "./arb/0xf4d48ce3ee1ac3651998971541badbb9a14d7234.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf4d48ce3ee1ac3651998971541badbb9a14d7234.png"
   },
   {
     "chainId": 42161,
@@ -2067,7 +2077,7 @@
     "name": "Everclear",
     "symbol": "NEXT",
     "decimals": 18,
-    "logoURI": "./arb/0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8.png"
   },
   {
     "chainId": 42161,
@@ -2077,7 +2087,7 @@
     "name": "RIF US Dollar",
     "symbol": "USDRIF",
     "decimals": 18,
-    "logoURI": "./arb/0x8eef5ed361c6823156d936209e23a8e0349e5c61.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x8eef5ed361c6823156d936209e23a8e0349e5c61.png"
   },
   {
     "chainId": 42161,
@@ -2087,7 +2097,7 @@
     "name": "MXNB",
     "symbol": "MXNB",
     "decimals": 6,
-    "logoURI": "./arb/0xF197FFC28c23E0309B5559e7a166f2c6164C80aA.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xF197FFC28c23E0309B5559e7a166f2c6164C80aA.png"
   },
   {
     "chainId": 42161,
@@ -2097,7 +2107,7 @@
     "name": "US Nerite Dollar",
     "symbol": "USND",
     "decimals": 18,
-    "logoURI": "./arb/0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49.png"
   },
   {
     "chainId": 42161,
@@ -2107,7 +2117,7 @@
     "name": "Aura",
     "symbol": "AURA",
     "decimals": 18,
-    "logoURI": "./arb/0x1509706a6c66CA549ff0cB464de88231DDBe213B.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1509706a6c66CA549ff0cB464de88231DDBe213B.png"
   },
   {
     "chainId": 42161,
@@ -2117,7 +2127,7 @@
     "name": "UXLINK Token",
     "symbol": "UXLINK",
     "decimals": 18,
-    "logoURI": "./arb/0x1a6b3a62391eccaaa992ade44cd4afe6bec8cff1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1a6b3a62391eccaaa992ade44cd4afe6bec8cff1.png"
   },
   {
     "chainId": 42161,
@@ -2127,7 +2137,7 @@
     "name": "Magpie Token",
     "symbol": "MGP",
     "decimals": 18,
-    "logoURI": "./arb/0xa61f74247455a40b01b0559ff6274441fafa22a3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa61f74247455a40b01b0559ff6274441fafa22a3.png"
   },
   {
     "chainId": 42161,
@@ -2137,7 +2147,7 @@
     "name": "AllUnity EUR",
     "symbol": "EURAU",
     "decimals": 6,
-    "logoURI": "./arb/0x4933a85b5b5466fbaf179f72d3de273c287ec2c2.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4933a85b5b5466fbaf179f72d3de273c287ec2c2.png"
   },
   {
     "chainId": 42161,
@@ -2147,7 +2157,7 @@
     "name": "Bitoro",
     "symbol": "$BTORO",
     "decimals": 18,
-    "logoURI": "./arb/0xb6212b633c941e9be168c4b9c2d9e785f1cd42fb.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xb6212b633c941e9be168c4b9c2d9e785f1cd42fb.png"
   },
   {
     "chainId": 42161,
@@ -2157,7 +2167,7 @@
     "name": "Titan",
     "symbol": "TITN",
     "decimals": 18,
-    "logoURI": "./arb/0xe62bfbe57763ec24c0f130426f34dbce11fc5b06.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xe62bfbe57763ec24c0f130426f34dbce11fc5b06.png"
   },
   {
     "chainId": 42161,
@@ -2167,7 +2177,7 @@
     "name": "Fuse Token",
     "symbol": "FUSE",
     "decimals": 18,
-    "logoURI": "./arb/0xbdef0e9ef12e689f366fe494a7a7d0dad25d9286.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xbdef0e9ef12e689f366fe494a7a7d0dad25d9286.png"
   },
   {
     "chainId": 42161,
@@ -2177,7 +2187,7 @@
     "name": "KIMA",
     "symbol": "KIMA",
     "decimals": 18,
-    "logoURI": "./arb/0x94fcd9c18f99538c0f7c61c5500ca79f0d5c4dab.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x94fcd9c18f99538c0f7c61c5500ca79f0d5c4dab.png"
   },
   {
     "chainId": 42161,
@@ -2187,7 +2197,7 @@
     "name": "Rigo Token",
     "symbol": "GRG",
     "decimals": 18,
-    "logoURI": "./arb/0x7f4638a58c0615037decc86f1dae60e55fe92874.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7f4638a58c0615037decc86f1dae60e55fe92874.png"
   },
   {
     "chainId": 42161,
@@ -2197,7 +2207,7 @@
     "name": "ICHI",
     "symbol": "ICHI",
     "decimals": 18,
-    "logoURI": "./arb/0xadf5dd3e51bf28ab4f07e684ecf5d00691818790.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xadf5dd3e51bf28ab4f07e684ecf5d00691818790.png"
   },
   {
     "chainId": 42161,
@@ -2207,7 +2217,7 @@
     "name": "Wrapped ZYX",
     "symbol": "WZYX",
     "decimals": 18,
-    "logoURI": "./arb/0x377c6e37633e390aef9afb4f5e0b16689351eed4.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x377c6e37633e390aef9afb4f5e0b16689351eed4.png"
   },
   {
     "chainId": 42161,
@@ -2217,7 +2227,7 @@
     "name": "Jones DAO",
     "symbol": "JONES",
     "decimals": 18,
-    "logoURI": "./arb/0x10393c20975cf177a3513071bc110f7962cd67da.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x10393c20975cf177a3513071bc110f7962cd67da.png"
   },
   {
     "chainId": 42161,
@@ -2227,7 +2237,7 @@
     "name": "RUBIC TOKEN",
     "symbol": "RBC",
     "decimals": 18,
-    "logoURI": "./arb/0x10aaed289a7b1b0155bf4b86c862f297e84465e0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x10aaed289a7b1b0155bf4b86c862f297e84465e0.png"
   },
   {
     "chainId": 42161,
@@ -2237,7 +2247,7 @@
     "name": "Connect Financial",
     "symbol": "CNFI",
     "decimals": 18,
-    "logoURI": "./arb/0x6f5401c53e2769c858665621d22ddbf53d8d27c5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6f5401c53e2769c858665621d22ddbf53d8d27c5.png"
   },
   {
     "chainId": 42161,
@@ -2247,7 +2257,7 @@
     "name": "VNX",
     "symbol": "VNX",
     "decimals": 9,
-    "logoURI": "./arb/0xb638f8eb4f242eb1883de8553998aa89624e9e81.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xb638f8eb4f242eb1883de8553998aa89624e9e81.png"
   },
   {
     "chainId": 42161,
@@ -2257,7 +2267,7 @@
     "name": "StrykeToken",
     "symbol": "SYK",
     "decimals": 18,
-    "logoURI": "./arb/0xacc51ffdef63fb0c014c882267c3a17261a5ed50.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xacc51ffdef63fb0c014c882267c3a17261a5ed50.png"
   },
   {
     "chainId": 42161,
@@ -2267,7 +2277,7 @@
     "name": "Parallel Governance Token",
     "symbol": "PRL",
     "decimals": 18,
-    "logoURI": "./arb/0xfd28f108e95f4d41daae9dbfff707d677985998e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xfd28f108e95f4d41daae9dbfff707d677985998e.png"
   },
   {
     "chainId": 42161,
@@ -2277,7 +2287,7 @@
     "name": "Scalara NFT Index",
     "symbol": "NFTI",
     "decimals": 18,
-    "logoURI": "./arb/0xcfe3fbc98d80f7eca0bc76cd1f406a19dd425896.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xcfe3fbc98d80f7eca0bc76cd1f406a19dd425896.png"
   },
   {
     "chainId": 42161,
@@ -2287,7 +2297,7 @@
     "name": "Strips Token",
     "symbol": "STRP",
     "decimals": 18,
-    "logoURI": "./arb/0x326c33fd1113c1f29b35b4407f3d6312a8518431.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x326c33fd1113c1f29b35b4407f3d6312a8518431.png"
   },
   {
     "chainId": 42161,
@@ -2297,7 +2307,7 @@
     "name": "Sperax USD",
     "symbol": "USDs",
     "decimals": 18,
-    "logoURI": "./arb/0xd74f5255d557944cf7dd0e45ff521520002d5748.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xd74f5255d557944cf7dd0e45ff521520002d5748.png"
   },
   {
     "chainId": 42161,
@@ -2307,7 +2317,7 @@
     "name": "DigitalDollar",
     "symbol": "DUSD",
     "decimals": 6,
-    "logoURI": "./arb/0xf0b5ceefc89684889e5f7e0a7775bd100fcd3709.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf0b5ceefc89684889e5f7e0a7775bd100fcd3709.png"
   },
   {
     "chainId": 42161,
@@ -2317,7 +2327,7 @@
     "name": "Lift Dollar",
     "symbol": "USDL",
     "decimals": 18,
-    "logoURI": "./arb/0x7f850b0ab1988dd17b69ac564c1e2857949e4dee.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7f850b0ab1988dd17b69ac564c1e2857949e4dee.png"
   },
   {
     "chainId": 42161,
@@ -2327,7 +2337,7 @@
     "name": "IPOR Token",
     "symbol": "IPOR",
     "decimals": 18,
-    "logoURI": "./arb/0x34229b3f16fbcdfa8d8d9d17c0852f9496f4c7bb.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x34229b3f16fbcdfa8d8d9d17c0852f9496f4c7bb.png"
   },
   {
     "chainId": 42161,
@@ -2337,7 +2347,7 @@
     "name": "LoungeM",
     "symbol": "LZM",
     "decimals": 8,
-    "logoURI": "./arb/0x723ce01b57dfd7148785b90d66275005aa2edd17.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x723ce01b57dfd7148785b90d66275005aa2edd17.png"
   },
   {
     "chainId": 42161,
@@ -2347,7 +2357,7 @@
     "name": "Diversified Staked ETH Index (dsETH)",
     "symbol": "dsETH",
     "decimals": 18,
-    "logoURI": "./arb/0x95b11aca35d35ac8b8a88e1f7792873bbea7cebb.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x95b11aca35d35ac8b8a88e1f7792873bbea7cebb.png"
   },
   {
     "chainId": 42161,
@@ -2357,7 +2367,7 @@
     "name": "dForce",
     "symbol": "DF",
     "decimals": 18,
-    "logoURI": "./arb/0xae6aab43c4f3e0cea4ab83752c278f8debaba689.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xae6aab43c4f3e0cea4ab83752c278f8debaba689.png"
   },
   {
     "chainId": 42161,
@@ -2367,7 +2377,7 @@
     "name": "dForce DF",
     "symbol": "iDF",
     "decimals": 18,
-    "logoURI": "./arb/0xaea8e2e7c97c5b7cd545d3b152f669bae29c4a63.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xaea8e2e7c97c5b7cd545d3b152f669bae29c4a63.png"
   },
   {
     "chainId": 42161,
@@ -2377,7 +2387,7 @@
     "name": "XDAO",
     "symbol": "XDAO",
     "decimals": 18,
-    "logoURI": "./arb/0x71eeba415a523f5c952cc2f06361d5443545ad28.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x71eeba415a523f5c952cc2f06361d5443545ad28.png"
   },
   {
     "chainId": 42161,
@@ -2387,7 +2397,7 @@
     "name": "Xend Finance",
     "symbol": "XEND",
     "decimals": 18,
-    "logoURI": "./arb/0x1797367ffb6d18ca4cf6e4ab67e00cd044ec2e87.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1797367ffb6d18ca4cf6e4ab67e00cd044ec2e87.png"
   },
   {
     "chainId": 42161,
@@ -2397,7 +2407,7 @@
     "name": "Metaverse Index",
     "symbol": "MVI",
     "decimals": 18,
-    "logoURI": "./arb/0x0104a6fa30540dc1d9f45d2797f05eea79304525.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0104a6fa30540dc1d9f45d2797f05eea79304525.png"
   },
   {
     "chainId": 42161,
@@ -2407,7 +2417,7 @@
     "name": "Flashstake",
     "symbol": "FLASH",
     "decimals": 18,
-    "logoURI": "./arb/0xc628534100180582e43271448098cb2c185795bd.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc628534100180582e43271448098cb2c185795bd.png"
   },
   {
     "chainId": 42161,
@@ -2417,7 +2427,7 @@
     "name": "Kenshi",
     "symbol": "KNS",
     "decimals": 18,
-    "logoURI": "./arb/0xf1264873436a0771e440e2b28072fafcc5eebd01.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf1264873436a0771e440e2b28072fafcc5eebd01.png"
   },
   {
     "chainId": 42161,
@@ -2427,7 +2437,7 @@
     "name": "DEUS",
     "symbol": "DEUS",
     "decimals": 18,
-    "logoURI": "./arb/0xde5ed76e7c05ec5e4572cfc88d1acea165109e44.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xde5ed76e7c05ec5e4572cfc88d1acea165109e44.png"
   },
   {
     "chainId": 42161,
@@ -2437,7 +2447,7 @@
     "name": "Rari Governance Token",
     "symbol": "RGT",
     "decimals": 18,
-    "logoURI": "./arb/0xef888bca6ab6b1d26dbec977c455388ecd794794.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xef888bca6ab6b1d26dbec977c455388ecd794794.png"
   },
   {
     "chainId": 42161,
@@ -2447,7 +2457,7 @@
     "name": "Kitty Inu",
     "symbol": "kitty",
     "decimals": 18,
-    "logoURI": "./arb/0x9e30239205320b4b23c71e1b087ed2550d9971be.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x9e30239205320b4b23c71e1b087ed2550d9971be.png"
   },
   {
     "chainId": 42161,
@@ -2457,7 +2467,7 @@
     "name": "AlphaToken",
     "symbol": "ALPHA",
     "decimals": 18,
-    "logoURI": "./arb/0xc9cbf102c73fb77ec14f8b4c8bd88e050a6b2646.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc9cbf102c73fb77ec14f8b4c8bd88e050a6b2646.png"
   },
   {
     "chainId": 42161,
@@ -2467,7 +2477,7 @@
     "name": "Emorya Finance",
     "symbol": "EMR",
     "decimals": 9,
-    "logoURI": "./arb/0x223e2de9ee2d1ebcb87b506cc70f174995d2944d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x223e2de9ee2d1ebcb87b506cc70f174995d2944d.png"
   },
   {
     "chainId": 42161,
@@ -2477,7 +2487,7 @@
     "name": "Wrapped PAW",
     "symbol": "wPAW",
     "decimals": 18,
-    "logoURI": "./arb/0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb.png"
   },
   {
     "chainId": 42161,
@@ -2487,7 +2497,7 @@
     "name": "OpulousToken",
     "symbol": "OPUL",
     "decimals": 18,
-    "logoURI": "./arb/0x0c5fa0e07949f941a6c2c29a008252db1527d6ee.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0c5fa0e07949f941a6c2c29a008252db1527d6ee.png"
   },
   {
     "chainId": 42161,
@@ -2497,7 +2507,7 @@
     "name": "Notional",
     "symbol": "NOTE",
     "decimals": 8,
-    "logoURI": "./arb/0x019be259bc299f3f653688c7655c87f998bc7bc1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x019be259bc299f3f653688c7655c87f998bc7bc1.png"
   },
   {
     "chainId": 42161,
@@ -2507,7 +2517,7 @@
     "name": "GameSwift",
     "symbol": "GSWIFT",
     "decimals": 18,
-    "logoURI": "./arb/0x580e933d90091b9ce380740e3a4a39c67eb85b4c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x580e933d90091b9ce380740e3a4a39c67eb85b4c.png"
   },
   {
     "chainId": 42161,
@@ -2517,7 +2527,7 @@
     "name": "youwho",
     "symbol": "YOU",
     "decimals": 18,
-    "logoURI": "./arb/0x2fac624899a844e0628bfdcc70efcd25f6e90b95.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x2fac624899a844e0628bfdcc70efcd25f6e90b95.png"
   },
   {
     "chainId": 42161,
@@ -2527,7 +2537,7 @@
     "name": "PoolTogether",
     "symbol": "POOL",
     "decimals": 18,
-    "logoURI": "./arb/0xcf934e2402a5e072928a39a956964eb8f2b5b79c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xcf934e2402a5e072928a39a956964eb8f2b5b79c.png"
   },
   {
     "chainId": 42161,
@@ -2537,7 +2547,7 @@
     "name": "Talos",
     "symbol": "T",
     "decimals": 9,
-    "logoURI": "./arb/0x30a538effd91acefb1b12ce9bc0074ed18c9dfc9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x30a538effd91acefb1b12ce9bc0074ed18c9dfc9.png"
   },
   {
     "chainId": 42161,
@@ -2547,7 +2557,7 @@
     "name": "Alchemy",
     "symbol": "ALCH",
     "decimals": 18,
-    "logoURI": "./arb/0x0e15258734300290a651fdbae8deb039a8e7a2fa.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0e15258734300290a651fdbae8deb039a8e7a2fa.png"
   },
   {
     "chainId": 42161,
@@ -2557,7 +2567,7 @@
     "name": "Vesta",
     "symbol": "VSTA",
     "decimals": 18,
-    "logoURI": "./arb/0xa684cd057951541187f288294a1e1c2646aa2d24.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa684cd057951541187f288294a1e1c2646aa2d24.png"
   },
   {
     "chainId": 42161,
@@ -2567,7 +2577,7 @@
     "name": "Factor",
     "symbol": "FCTR",
     "decimals": 18,
-    "logoURI": "./arb/0x6dd963c510c2d2f09d5eddb48ede45fed063eb36.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6dd963c510c2d2f09d5eddb48ede45fed063eb36.png"
   },
   {
     "chainId": 42161,
@@ -2577,7 +2587,7 @@
     "name": "Boop",
     "symbol": "Boop",
     "decimals": 18,
-    "logoURI": "./arb/0x13a7dedb7169a17be92b0e3c7c2315b46f4772b3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x13a7dedb7169a17be92b0e3c7c2315b46f4772b3.png"
   },
   {
     "chainId": 42161,
@@ -2587,7 +2597,7 @@
     "name": "BarnBridge Governance Token",
     "symbol": "BOND",
     "decimals": 18,
-    "logoURI": "./arb/0x0d81e50bc677fa67341c44d7eaa9228dee64a4e1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0d81e50bc677fa67341c44d7eaa9228dee64a4e1.png"
   },
   {
     "chainId": 42161,
@@ -2597,7 +2607,7 @@
     "name": "BOB",
     "symbol": "BOB",
     "decimals": 18,
-    "logoURI": "./arb/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B.png"
   },
   {
     "chainId": 42161,
@@ -2607,7 +2617,7 @@
     "name": "Swapr",
     "symbol": "SWPR",
     "decimals": 18,
-    "logoURI": "./arb/0xde903e2712288a1da82942dddf2c20529565ac30.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xde903e2712288a1da82942dddf2c20529565ac30.png"
   },
   {
     "chainId": 42161,
@@ -2617,7 +2627,7 @@
     "name": "Jarvis Reward Token",
     "symbol": "JRT",
     "decimals": 18,
-    "logoURI": "./arb/0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e.png"
   },
   {
     "chainId": 42161,
@@ -2627,7 +2637,7 @@
     "name": "Plutus",
     "symbol": "PLS",
     "decimals": 18,
-    "logoURI": "./arb/0x51318b7d00db7acc4026c88c3952b66278b6a67f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x51318b7d00db7acc4026c88c3952b66278b6a67f.png"
   },
   {
     "chainId": 42161,
@@ -2637,7 +2647,7 @@
     "name": "0xBitcoin Token",
     "symbol": "0xBTC",
     "decimals": 8,
-    "logoURI": "./arb/0x7cb16cb78ea464ad35c8a50abf95dff3c9e09d5d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7cb16cb78ea464ad35c8a50abf95dff3c9e09d5d.png"
   },
   {
     "chainId": 42161,
@@ -2647,7 +2657,7 @@
     "name": "PRFI",
     "symbol": "PRFI",
     "decimals": 18,
-    "logoURI": "./arb/0x7bbcf1b600565ae023a1806ef637af4739de3255.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7bbcf1b600565ae023a1806ef637af4739de3255.png"
   },
   {
     "chainId": 42161,
@@ -2657,7 +2667,7 @@
     "name": "HORD Token [via ChainPort.io]",
     "symbol": "HORD",
     "decimals": 18,
-    "logoURI": "./arb/0xb1bc21f748ae2be95674876710bc6d78235480e0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xb1bc21f748ae2be95674876710bc6d78235480e0.png"
   },
   {
     "chainId": 42161,
@@ -2667,7 +2677,7 @@
     "name": "DEAD",
     "symbol": "DEAD",
     "decimals": 18,
-    "logoURI": "./arb/0xf0197f10ea542a67914ecc0ec5304dc9df1faf6f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf0197f10ea542a67914ecc0ec5304dc9df1faf6f.png"
   },
   {
     "chainId": 42161,
@@ -2677,7 +2687,7 @@
     "name": "Stobox Token v.3",
     "symbol": "STBU",
     "decimals": 18,
-    "logoURI": "./arb/0x1cb9bd2c6e7f4a7de3778547d46c8d4c22abc093.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1cb9bd2c6e7f4a7de3778547d46c8d4c22abc093.png"
   },
   {
     "chainId": 42161,
@@ -2687,7 +2697,7 @@
     "name": "Deri",
     "symbol": "DERI",
     "decimals": 18,
-    "logoURI": "./arb/0x21e60ee73f17ac0a411ae5d690f908c3ed66fe12.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x21e60ee73f17ac0a411ae5d690f908c3ed66fe12.png"
   },
   {
     "chainId": 42161,
@@ -2697,7 +2707,7 @@
     "name": "GAM3S.GG",
     "symbol": "G3",
     "decimals": 18,
-    "logoURI": "./arb/0xc24a365a870821eb83fd216c9596edd89479d8d7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc24a365a870821eb83fd216c9596edd89479d8d7.png"
   },
   {
     "chainId": 42161,
@@ -2707,7 +2717,7 @@
     "name": "Hundred Finance",
     "symbol": "HND",
     "decimals": 18,
-    "logoURI": "./arb/0x10010078a54396f62c96df8532dc2b4847d47ed3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x10010078a54396f62c96df8532dc2b4847d47ed3.png"
   },
   {
     "chainId": 42161,
@@ -2717,7 +2727,7 @@
     "name": "Synthetix USD",
     "symbol": "USDx",
     "decimals": 18,
-    "logoURI": "./arb/0xb2f30a7c980f052f02563fb518dcc39e6bf38175.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xb2f30a7c980f052f02563fb518dcc39e6bf38175.png"
   },
   {
     "chainId": 42161,
@@ -2727,7 +2737,7 @@
     "name": "Donut",
     "symbol": "DONUT",
     "decimals": 18,
-    "logoURI": "./arb/0xf42e2b8bc2af8b110b65be98db1321b1ab8d44f5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf42e2b8bc2af8b110b65be98db1321b1ab8d44f5.png"
   },
   {
     "chainId": 42161,
@@ -2737,7 +2747,7 @@
     "name": "Gravita Debt Token",
     "symbol": "GRAI",
     "decimals": 18,
-    "logoURI": "./arb/0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487.png"
   },
   {
     "chainId": 42161,
@@ -2747,7 +2757,7 @@
     "name": "iBTC",
     "symbol": "IBTC",
     "decimals": 8,
-    "logoURI": "./arb/0x050c24dbf1eec17babe5fc585f06116a259cc77a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x050c24dbf1eec17babe5fc585f06116a259cc77a.png"
   },
   {
     "chainId": 42161,
@@ -2757,7 +2767,7 @@
     "name": "CheckDot",
     "symbol": "CDT",
     "decimals": 18,
-    "logoURI": "./arb/0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece.png"
   },
   {
     "chainId": 42161,
@@ -2767,7 +2777,7 @@
     "name": "Popcorn",
     "symbol": "POP",
     "decimals": 18,
-    "logoURI": "./arb/0x68ead55c258d6fa5e46d67fc90f53211eab885be.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x68ead55c258d6fa5e46d67fc90f53211eab885be.png"
   },
   {
     "chainId": 42161,
@@ -2777,7 +2787,7 @@
     "name": "OpenOcean",
     "symbol": "OOE",
     "decimals": 18,
-    "logoURI": "./arb/0xdcbf4cb83d27c408b30dd7f39bfcabd7176b1ba3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xdcbf4cb83d27c408b30dd7f39bfcabd7176b1ba3.png"
   },
   {
     "chainId": 42161,
@@ -2787,7 +2797,7 @@
     "name": "Silo Token",
     "symbol": "SILO",
     "decimals": 18,
-    "logoURI": "./arb/0x09f569af991c730cae05a392bae6490558ef2214.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x09f569af991c730cae05a392bae6490558ef2214.png"
   },
   {
     "chainId": 42161,
@@ -2797,7 +2807,7 @@
     "name": "Seedworld",
     "symbol": "SWORLD",
     "decimals": 18,
-    "logoURI": "./arb/0x968be3f7bfef0f8edc3c1ad90232ebb0da0867aa.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x968be3f7bfef0f8edc3c1ad90232ebb0da0867aa.png"
   },
   {
     "chainId": 42161,
@@ -2807,7 +2817,7 @@
     "name": "ArbiDoge",
     "symbol": "ADoge",
     "decimals": 18,
-    "logoURI": "./arb/0x155f0dd04424939368972f4e1838687d6a831151.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x155f0dd04424939368972f4e1838687d6a831151.png"
   },
   {
     "chainId": 42161,
@@ -2817,7 +2827,7 @@
     "name": "EARNM",
     "symbol": "EARNM",
     "decimals": 18,
-    "logoURI": "./arb/0x3e62fed35c97145e6b445704b8ce74b2544776a9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3e62fed35c97145e6b445704b8ce74b2544776a9.png"
   },
   {
     "chainId": 42161,
@@ -2827,7 +2837,7 @@
     "name": "Pepe Community",
     "symbol": "PEPE",
     "decimals": 18,
-    "logoURI": "./arb/0xef4a1d459d62dfd2ebb9c45b04f90f0a7ba1d56e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xef4a1d459d62dfd2ebb9c45b04f90f0a7ba1d56e.png"
   },
   {
     "chainId": 42161,
@@ -2837,7 +2847,7 @@
     "name": "Lumoz token",
     "symbol": "MOZ",
     "decimals": 18,
-    "logoURI": "./arb/0xe16e2548a576ad448fb014bbe85284d7f3542df5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xe16e2548a576ad448fb014bbe85284d7f3542df5.png"
   },
   {
     "chainId": 42161,
@@ -2847,7 +2857,7 @@
     "name": "handleFOREX",
     "symbol": "FOREX",
     "decimals": 18,
-    "logoURI": "./arb/0xDb298285FE4C5410B05390cA80e8Fbe9DE1F259B.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xDb298285FE4C5410B05390cA80e8Fbe9DE1F259B.png"
   },
   {
     "chainId": 42161,
@@ -2857,7 +2867,7 @@
     "name": "EUROe Stablecoin",
     "symbol": "EUROe",
     "decimals": 6,
-    "logoURI": "./arb/0xcF985abA4647a432E60efcEeB8054BBd64244305.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xcF985abA4647a432E60efcEeB8054BBd64244305.png"
   },
   {
     "chainId": 42161,
@@ -2867,7 +2877,7 @@
     "name": "Wrapped ACME",
     "symbol": "WACME",
     "decimals": 8,
-    "logoURI": "./arb/0xDF4Ef6EE483953fE3B84ABd08C6A060445c01170.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xDF4Ef6EE483953fE3B84ABd08C6A060445c01170.png"
   },
   {
     "chainId": 42161,
@@ -2877,7 +2887,7 @@
     "name": "Wombat Token",
     "symbol": "WOM",
     "decimals": 18,
-    "logoURI": "./arb/0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96.png"
   },
   {
     "chainId": 42161,
@@ -2887,7 +2897,7 @@
     "name": "Sector",
     "symbol": "SECT",
     "decimals": 18,
-    "logoURI": "./arb/0x0b63c61bba4a876a6eb8b5e596800f7649a9b71e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0b63c61bba4a876a6eb8b5e596800f7649a9b71e.png"
   },
   {
     "chainId": 42161,
@@ -2897,7 +2907,7 @@
     "name": "Level Token",
     "symbol": "LVL",
     "decimals": 18,
-    "logoURI": "./arb/0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149.png"
   },
   {
     "chainId": 42161,
@@ -2907,7 +2917,7 @@
     "name": "Avarik Saga",
     "symbol": "AVRK",
     "decimals": 18,
-    "logoURI": "./arb/0xa71e2738704e367798baa2755af5a10499634953.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa71e2738704e367798baa2755af5a10499634953.png"
   },
   {
     "chainId": 42161,
@@ -2917,7 +2927,7 @@
     "name": "xSpace Token",
     "symbol": "xSPACE",
     "decimals": 18,
-    "logoURI": "./arb/0x1d1498166ddceee616a6d99868e1e0677300056f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1d1498166ddceee616a6d99868e1e0677300056f.png"
   },
   {
     "chainId": 42161,
@@ -2927,7 +2937,7 @@
     "name": "SparkPoint",
     "symbol": "SRK",
     "decimals": 18,
-    "logoURI": "./arb/0x9d0bfe46891573c12021942c7d28f15ebb641988.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x9d0bfe46891573c12021942c7d28f15ebb641988.png"
   },
   {
     "chainId": 42161,
@@ -2937,7 +2947,7 @@
     "name": "ROOBEE",
     "symbol": "ROOBEE",
     "decimals": 18,
-    "logoURI": "./arb/0x3bd2dfd03bc7c3011ed7fb8c4d0949b382726cee.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3bd2dfd03bc7c3011ed7fb8c4d0949b382726cee.png"
   },
   {
     "chainId": 42161,
@@ -2947,7 +2957,7 @@
     "name": "CADAICO",
     "symbol": "CADAI",
     "decimals": 18,
-    "logoURI": "./arb/0x4debfb9ed639144cf1e401674af361ffffcefb58.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4debfb9ed639144cf1e401674af361ffffcefb58.png"
   },
   {
     "chainId": 42161,
@@ -2957,7 +2967,7 @@
     "name": "Polkamon",
     "symbol": "PMON",
     "decimals": 18,
-    "logoURI": "./arb/0xbc9b77aca82f6be43927076d71cd453b625165b8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xbc9b77aca82f6be43927076d71cd453b625165b8.png"
   },
   {
     "chainId": 42161,
@@ -2967,7 +2977,7 @@
     "name": "GALAXIS Token",
     "symbol": "GALAXIS",
     "decimals": 18,
-    "logoURI": "./arb/0xa5312c3e42a82d459162b2a3bd7ffc4f9099b911.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa5312c3e42a82d459162b2a3bd7ffc4f9099b911.png"
   },
   {
     "chainId": 42161,
@@ -2977,7 +2987,7 @@
     "name": "Bitcointry Token",
     "symbol": "BTTY",
     "decimals": 18,
-    "logoURI": "./arb/0x575388f9b5e6c509bfe111cbc591a96c0d4b23e0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x575388f9b5e6c509bfe111cbc591a96c0d4b23e0.png"
   },
   {
     "chainId": 42161,
@@ -2987,7 +2997,7 @@
     "name": "BAC",
     "symbol": "BAC",
     "decimals": 18,
-    "logoURI": "./arb/0x6f67043201c903bbcbc129750cb3b328dd56a0a5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6f67043201c903bbcbc129750cb3b328dd56a0a5.png"
   },
   {
     "chainId": 42161,
@@ -2997,7 +3007,7 @@
     "name": "EDE",
     "symbol": "EDE",
     "decimals": 18,
-    "logoURI": "./arb/0xccd3891c1452b7cb0e4632774b9365dc4ee24f20.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xccd3891c1452b7cb0e4632774b9365dc4ee24f20.png"
   },
   {
     "chainId": 42161,
@@ -3007,7 +3017,7 @@
     "name": "Flux",
     "symbol": "FLUX",
     "decimals": 18,
-    "logoURI": "./arb/0xf80d589b3dbe130c270a69f1a69d050f268786df.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf80d589b3dbe130c270a69f1a69d050f268786df.png"
   },
   {
     "chainId": 42161,
@@ -3017,7 +3027,7 @@
     "name": "Avive",
     "symbol": "Avive",
     "decimals": 18,
-    "logoURI": "./arb/0x5117f4ad0bc70dbb3b05bf39a1ec1ee40dd67654.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x5117f4ad0bc70dbb3b05bf39a1ec1ee40dd67654.png"
   },
   {
     "chainId": 42161,
@@ -3027,7 +3037,7 @@
     "name": "Lyra Token",
     "symbol": "LYRA",
     "decimals": 18,
-    "logoURI": "./arb/0x079504b86d38119f859c4194765029f692b7b7aa.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x079504b86d38119f859c4194765029f692b7b7aa.png"
   },
   {
     "chainId": 42161,
@@ -3037,7 +3047,7 @@
     "name": "Vox.Finance",
     "symbol": "VOX",
     "decimals": 18,
-    "logoURI": "./arb/0x2ed14d1788dfb780fd216706096aed018514eccd.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x2ed14d1788dfb780fd216706096aed018514eccd.png"
   },
   {
     "chainId": 42161,
@@ -3047,7 +3057,7 @@
     "name": "Wisdomise",
     "symbol": "WSDM",
     "decimals": 6,
-    "logoURI": "./arb/0x5f2f8818002dc64753daedf4a6cb2ccb757cd220.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x5f2f8818002dc64753daedf4a6cb2ccb757cd220.png"
   },
   {
     "chainId": 42161,
@@ -3057,7 +3067,7 @@
     "name": "Arken Token",
     "symbol": "ARKEN",
     "decimals": 18,
-    "logoURI": "./arb/0xaf5db6e1cc585ca312e8c8f7c499033590cf5c98.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xaf5db6e1cc585ca312e8c8f7c499033590cf5c98.png"
   },
   {
     "chainId": 42161,
@@ -3067,7 +3077,7 @@
     "name": "XYRO",
     "symbol": "XYRO",
     "decimals": 18,
-    "logoURI": "./arb/0xaeac3b55c3522157ecda7ec8fcb86c832faa28af.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xaeac3b55c3522157ecda7ec8fcb86c832faa28af.png"
   },
   {
     "chainId": 42161,
@@ -3077,7 +3087,7 @@
     "name": "Antimatter.Finance Governance Token",
     "symbol": "MATTER",
     "decimals": 18,
-    "logoURI": "./arb/0xaaa62d9584cbe8e4d68a43ec91bff4ff1fadb202.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xaaa62d9584cbe8e4d68a43ec91bff4ff1fadb202.png"
   },
   {
     "chainId": 42161,
@@ -3087,7 +3097,7 @@
     "name": "Edgeware",
     "symbol": "EDG",
     "decimals": 18,
-    "logoURI": "./arb/0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270.png"
   },
   {
     "chainId": 42161,
@@ -3097,7 +3107,7 @@
     "name": "Goons of Balatroon",
     "symbol": "GOB",
     "decimals": 18,
-    "logoURI": "./arb/0xa2f9ecf83a48b86265ff5fd36cdbaaa1f349916c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa2f9ecf83a48b86265ff5fd36cdbaaa1f349916c.png"
   },
   {
     "chainId": 42161,
@@ -3107,7 +3117,7 @@
     "name": "Runbot",
     "symbol": "RBOT",
     "decimals": 18,
-    "logoURI": "./arb/0x53ce5f2a18a623317357d6366ec59b47cbb0060d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x53ce5f2a18a623317357d6366ec59b47cbb0060d.png"
   },
   {
     "chainId": 42161,
@@ -3117,7 +3127,7 @@
     "name": "Godcoin",
     "symbol": "GOD",
     "decimals": 18,
-    "logoURI": "./arb/0xb5130f4767ab0acc579f25a76e8f9e977cb3f948.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xb5130f4767ab0acc579f25a76e8f9e977cb3f948.png"
   },
   {
     "chainId": 42161,
@@ -3127,7 +3137,7 @@
     "name": "Crypto Unicorns",
     "symbol": "CU",
     "decimals": 18,
-    "logoURI": "./arb/0x89c49a3fa372920ac23ce757a029e6936c0b8e02.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x89c49a3fa372920ac23ce757a029e6936c0b8e02.png"
   },
   {
     "chainId": 42161,
@@ -3137,7 +3147,7 @@
     "name": "BetSwirl v2",
     "symbol": "BETS",
     "decimals": 18,
-    "logoURI": "./arb/0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5.png"
   },
   {
     "chainId": 42161,
@@ -3147,7 +3157,7 @@
     "name": "Cane Corso",
     "symbol": "CORSI",
     "decimals": 18,
-    "logoURI": "./arb/0x13654df31871b5d01e5fba8e6c21a5d0344820f5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x13654df31871b5d01e5fba8e6c21a5d0344820f5.png"
   },
   {
     "chainId": 42161,
@@ -3157,7 +3167,7 @@
     "name": "VEMP",
     "symbol": "VEMP",
     "decimals": 18,
-    "logoURI": "./arb/0xaf7e3f16d747e77e927dc94287f86eb95a64d83d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xaf7e3f16d747e77e927dc94287f86eb95a64d83d.png"
   },
   {
     "chainId": 42161,
@@ -3167,7 +3177,7 @@
     "name": "Seneca",
     "symbol": "SEN",
     "decimals": 18,
-    "logoURI": "./arb/0x154388a4650d63acc823e06ef9e47c1eddd3cbb2.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x154388a4650d63acc823e06ef9e47c1eddd3cbb2.png"
   },
   {
     "chainId": 42161,
@@ -3177,7 +3187,7 @@
     "name": "Florence Finance Medici",
     "symbol": "FFM",
     "decimals": 18,
-    "logoURI": "./arb/0x3269a3C00AB86c753856fD135d97b87FACB0d848.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3269a3C00AB86c753856fD135d97b87FACB0d848.png"
   },
   {
     "chainId": 42161,
@@ -3187,7 +3197,7 @@
     "name": "FORE Protocol",
     "symbol": "FORE",
     "decimals": 18,
-    "logoURI": "./arb/0xcbe94d75ec713b7ead84f55620dc3174beeb1cfe.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xcbe94d75ec713b7ead84f55620dc3174beeb1cfe.png"
   },
   {
     "chainId": 42161,
@@ -3197,7 +3207,7 @@
     "name": "DFYN Token",
     "symbol": "DFYN",
     "decimals": 18,
-    "logoURI": "./arb/0x1d54aa7e322e02a0453c0f2fa21505ce7f2e9e93.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1d54aa7e322e02a0453c0f2fa21505ce7f2e9e93.png"
   },
   {
     "chainId": 42161,
@@ -3207,7 +3217,7 @@
     "name": "Vertex",
     "symbol": "VRTX",
     "decimals": 18,
-    "logoURI": "./arb/0x95146881b86b3ee99e63705ec87afe29fcc044d9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x95146881b86b3ee99e63705ec87afe29fcc044d9.png"
   },
   {
     "chainId": 42161,
@@ -3217,7 +3227,7 @@
     "name": "Flourishing AI Token",
     "symbol": "AI",
     "decimals": 18,
-    "logoURI": "./arb/0x8d7c2588c365b9e98Ea464b63DBCCDf13ECd9809.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x8d7c2588c365b9e98Ea464b63DBCCDf13ECd9809.png"
   },
   {
     "chainId": 42161,
@@ -3227,7 +3237,7 @@
     "name": "URD Token",
     "symbol": "URD",
     "decimals": 18,
-    "logoURI": "./arb/0x842216e0aa2ae608699f7b1063f26ce6b30c5311.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x842216e0aa2ae608699f7b1063f26ce6b30c5311.png"
   },
   {
     "chainId": 42161,
@@ -3237,7 +3247,7 @@
     "name": "Pet Token",
     "symbol": "PET",
     "decimals": 18,
-    "logoURI": "./arb/0x43c25f828390de5a3648864eb485cc523e039e67.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x43c25f828390de5a3648864eb485cc523e039e67.png"
   },
   {
     "chainId": 42161,
@@ -3247,7 +3257,7 @@
     "name": "Buffer Token",
     "symbol": "BFR",
     "decimals": 18,
-    "logoURI": "./arb/0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d.png"
   },
   {
     "chainId": 42161,
@@ -3257,7 +3267,7 @@
     "name": "Hop",
     "symbol": "HOP",
     "decimals": 18,
-    "logoURI": "./arb/0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC.png"
   },
   {
     "chainId": 42161,
@@ -3267,7 +3277,7 @@
     "name": "NEU",
     "symbol": "NEU",
     "decimals": 18,
-    "logoURI": "./arb/0x6609BE1547166D1C4605F3A243FDCFf467e600C3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6609BE1547166D1C4605F3A243FDCFf467e600C3.png"
   },
   {
     "chainId": 42161,
@@ -3277,7 +3287,7 @@
     "name": "Bitindi Chain",
     "symbol": "BNI",
     "decimals": 18,
-    "logoURI": "./arb/0x22e736d05b2519e34dff54bfdb99ec37a66c518d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x22e736d05b2519e34dff54bfdb99ec37a66c518d.png"
   },
   {
     "chainId": 42161,
@@ -3287,7 +3297,7 @@
     "name": "AiMalls",
     "symbol": "AIT",
     "decimals": 18,
-    "logoURI": "./arb/0x533173d3f7a23c48ebb34a591dcce409ba759441.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x533173d3f7a23c48ebb34a591dcce409ba759441.png"
   },
   {
     "chainId": 42161,
@@ -3297,7 +3307,7 @@
     "name": "Lodestar",
     "symbol": "LODE",
     "decimals": 18,
-    "logoURI": "./arb/0xf19547f9ed24aa66b03c3a552d181ae334fbb8db.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf19547f9ed24aa66b03c3a552d181ae334fbb8db.png"
   },
   {
     "chainId": 42161,
@@ -3307,7 +3317,7 @@
     "name": "Volta Protocol Token",
     "symbol": "VOLTA",
     "decimals": 18,
-    "logoURI": "./arb/0x417a1afd44250314bffb11ff68e989775e990ab6.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x417a1afd44250314bffb11ff68e989775e990ab6.png"
   },
   {
     "chainId": 42161,
@@ -3317,7 +3327,7 @@
     "name": "Wild Goat Coin",
     "symbol": "WGC",
     "decimals": 6,
-    "logoURI": "./arb/0xc53ac24320e3a54c7211e4993c8095078a0cb3cf.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc53ac24320e3a54c7211e4993c8095078a0cb3cf.png"
   },
   {
     "chainId": 42161,
@@ -3327,7 +3337,7 @@
     "name": "SHARBI",
     "symbol": "$SHARBI",
     "decimals": 9,
-    "logoURI": "./arb/0xaa54e84a3e6e5a80288d2c2f8e36ea5ca3a3ca30.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xaa54e84a3e6e5a80288d2c2f8e36ea5ca3a3ca30.png"
   },
   {
     "chainId": 42161,
@@ -3337,7 +3347,7 @@
     "name": "PickleToken",
     "symbol": "PICKLE",
     "decimals": 18,
-    "logoURI": "./arb/0x965772e0e9c84b6f359c8597c891108dcf1c5b1a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x965772e0e9c84b6f359c8597c891108dcf1c5b1a.png"
   },
   {
     "chainId": 42161,
@@ -3347,7 +3357,7 @@
     "name": "Ramses",
     "symbol": "RAM",
     "decimals": 18,
-    "logoURI": "./arb/0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418.png"
   },
   {
     "chainId": 42161,
@@ -3357,7 +3367,7 @@
     "name": "Kuma World",
     "symbol": "KUMA",
     "decimals": 18,
-    "logoURI": "./arb/0x0de59c86c306b9fead9fb67e65551e2b6897c3f6.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0de59c86c306b9fead9fb67e65551e2b6897c3f6.png"
   },
   {
     "chainId": 42161,
@@ -3367,7 +3377,7 @@
     "name": "O3 Swap Token",
     "symbol": "O3",
     "decimals": 18,
-    "logoURI": "./arb/0xee9801669c6138e84bd50deb500827b776777d28.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xee9801669c6138e84bd50deb500827b776777d28.png"
   },
   {
     "chainId": 42161,
@@ -3377,7 +3387,7 @@
     "name": "Wrapped Avian",
     "symbol": "wAVN",
     "decimals": 18,
-    "logoURI": "./arb/0x7c648c00a225a15fda0b3d285d898e23d599b1fe.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7c648c00a225a15fda0b3d285d898e23d599b1fe.png"
   },
   {
     "chainId": 42161,
@@ -3387,7 +3397,7 @@
     "name": "GG",
     "symbol": "GG",
     "decimals": 18,
-    "logoURI": "./arb/0x000000000026839b3f4181f2cf69336af6153b99.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x000000000026839b3f4181f2cf69336af6153b99.png"
   },
   {
     "chainId": 42161,
@@ -3397,7 +3407,7 @@
     "name": "GOVI",
     "symbol": "GOVI",
     "decimals": 18,
-    "logoURI": "./arb/0x07e49d5de43dda6162fa28d24d5935c151875283.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x07e49d5de43dda6162fa28d24d5935c151875283.png"
   },
   {
     "chainId": 42161,
@@ -3407,7 +3417,7 @@
     "name": "DegenReborn Token",
     "symbol": "DEGEN",
     "decimals": 18,
-    "logoURI": "./arb/0x881ee52679537c6834fdeeb3673da2e3ecb50df6.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x881ee52679537c6834fdeeb3673da2e3ecb50df6.png"
   },
   {
     "chainId": 42161,
@@ -3417,7 +3427,7 @@
     "name": "KAP Games Token",
     "symbol": "KAP",
     "decimals": 18,
-    "logoURI": "./arb/0x965d00aa7abc62ca10132e641d08593435ac811d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x965d00aa7abc62ca10132e641d08593435ac811d.png"
   },
   {
     "chainId": 42161,
@@ -3427,7 +3437,7 @@
     "name": "Primex Finance",
     "symbol": "PMX",
     "decimals": 18,
-    "logoURI": "./arb/0x0b3eaead748facdb9d943d3407011f16eb17d0cf.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0b3eaead748facdb9d943d3407011f16eb17d0cf.png"
   },
   {
     "chainId": 42161,
@@ -3437,7 +3447,7 @@
     "name": "Royale",
     "symbol": "ROY",
     "decimals": 18,
-    "logoURI": "./arb/0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE.png"
   },
   {
     "chainId": 42161,
@@ -3447,7 +3457,7 @@
     "name": "Parallax Token",
     "symbol": "PLX",
     "decimals": 18,
-    "logoURI": "./arb/0xc8ccbd97b96834b976c995a67bf46e5754e2c48e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc8ccbd97b96834b976c995a67bf46e5754e2c48e.png"
   },
   {
     "chainId": 42161,
@@ -3457,7 +3467,7 @@
     "name": "Omni Exchange Token",
     "symbol": "OMNI",
     "decimals": 18,
-    "logoURI": "./arb/0xf7178122a087ef8f5c7bea362b7dabe38f20bf05.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf7178122a087ef8f5c7bea362b7dabe38f20bf05.png"
   },
   {
     "chainId": 42161,
@@ -3467,7 +3477,7 @@
     "name": "Quack Token",
     "symbol": "QUACK",
     "decimals": 18,
-    "logoURI": "./arb/0x59DEBED8D46a0cB823D8BE8b957adD987eAd39aa.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x59DEBED8D46a0cB823D8BE8b957adD987eAd39aa.png"
   },
   {
     "chainId": 42161,
@@ -3477,7 +3487,7 @@
     "name": "VelaToken",
     "symbol": "VELA",
     "decimals": 18,
-    "logoURI": "./arb/0x088cd8f5eF3652623c22D48b1605DCfE860Cd704.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x088cd8f5eF3652623c22D48b1605DCfE860Cd704.png"
   },
   {
     "chainId": 42161,
@@ -3487,7 +3497,7 @@
     "name": "Collab.Land",
     "symbol": "COLLAB",
     "decimals": 18,
-    "logoURI": "./arb/0xf18c263ec50cc211ef3f172228549b6618f10613.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf18c263ec50cc211ef3f172228549b6618f10613.png"
   },
   {
     "chainId": 42161,
@@ -3497,7 +3507,7 @@
     "name": "Poison.Finance Poison",
     "symbol": "POI$ON",
     "decimals": 18,
-    "logoURI": "./arb/0x31C91D8Fb96BfF40955DD2dbc909B36E8b104Dde.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x31C91D8Fb96BfF40955DD2dbc909B36E8b104Dde.png"
   },
   {
     "chainId": 42161,
@@ -3507,7 +3517,7 @@
     "name": "Auctus Token",
     "symbol": "AUC",
     "decimals": 18,
-    "logoURI": "./arb/0xea986d33ef8a20a96120ecc44dbdd49830192043.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xea986d33ef8a20a96120ecc44dbdd49830192043.png"
   },
   {
     "chainId": 42161,
@@ -3517,7 +3527,7 @@
     "name": "ZigZag",
     "symbol": "ZZ",
     "decimals": 18,
-    "logoURI": "./arb/0xada42bb73b42e0472a994218fb3799dfcda21237.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xada42bb73b42e0472a994218fb3799dfcda21237.png"
   },
   {
     "chainId": 42161,
@@ -3527,7 +3537,7 @@
     "name": "Hamachi",
     "symbol": "HAMI",
     "decimals": 18,
-    "logoURI": "./arb/0x02150e97271fdc0d6e3a16d9094a0948266f07dd.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x02150e97271fdc0d6e3a16d9094a0948266f07dd.png"
   },
   {
     "chainId": 42161,
@@ -3537,7 +3547,7 @@
     "name": "Indexed",
     "symbol": "NDX",
     "decimals": 18,
-    "logoURI": "./arb/0xb965029343d55189c25a7f3e0c9394dc0f5d41b1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xb965029343d55189c25a7f3e0c9394dc0f5d41b1.png"
   },
   {
     "chainId": 42161,
@@ -3547,7 +3557,7 @@
     "name": "Wombex Token",
     "symbol": "WMX",
     "decimals": 18,
-    "logoURI": "./arb/0x5190F06EaceFA2C552dc6BD5e763b81C73293293.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x5190F06EaceFA2C552dc6BD5e763b81C73293293.png"
   },
   {
     "chainId": 42161,
@@ -3557,7 +3567,7 @@
     "name": "Equation",
     "symbol": "EQU",
     "decimals": 18,
-    "logoURI": "./arb/0x87aaffdf26c6885f6010219208d5b161ec7609c0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x87aaffdf26c6885f6010219208d5b161ec7609c0.png"
   },
   {
     "chainId": 42161,
@@ -3567,7 +3577,7 @@
     "name": "Cap",
     "symbol": "CAP",
     "decimals": 18,
-    "logoURI": "./arb/0x031d35296154279dc1984dcd93e392b1f946737b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x031d35296154279dc1984dcd93e392b1f946737b.png"
   },
   {
     "chainId": 42161,
@@ -3577,7 +3587,7 @@
     "name": "Kinto",
     "symbol": "K",
     "decimals": 18,
-    "logoURI": "./arb/0x6ba19ee69d5dde3ab70185c801fa404f66fedb58.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6ba19ee69d5dde3ab70185c801fa404f66fedb58.png"
   },
   {
     "chainId": 42161,
@@ -3587,7 +3597,7 @@
     "name": "BlackHat",
     "symbol": "BLKC",
     "decimals": 8,
-    "logoURI": "./arb/0x8626264B6a1B4e920905Efd381002abA52EA0Eea.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x8626264B6a1B4e920905Efd381002abA52EA0Eea.png"
   },
   {
     "chainId": 42161,
@@ -3597,7 +3607,7 @@
     "name": "xToken",
     "symbol": "XTK",
     "decimals": 18,
-    "logoURI": "./arb/0xf0a5717ec0883ee56438932b0fe4a20822735fba.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf0a5717ec0883ee56438932b0fe4a20822735fba.png"
   },
   {
     "chainId": 42161,
@@ -3607,7 +3617,7 @@
     "name": "YUPFUN Token",
     "symbol": "YUPFUN",
     "decimals": 6,
-    "logoURI": "./arb/0xd2ac0ed4180d6e8afc7a0bfd9e61356d90a23f6d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xd2ac0ed4180d6e8afc7a0bfd9e61356d90a23f6d.png"
   },
   {
     "chainId": 42161,
@@ -3617,7 +3627,7 @@
     "name": "Standard Token",
     "symbol": "TST",
     "decimals": 18,
-    "logoURI": "./arb/0xf5a27e55c748bcddbfea5477cb9ae924f0f7fd2e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf5a27e55c748bcddbfea5477cb9ae924f0f7fd2e.png"
   },
   {
     "chainId": 42161,
@@ -3627,7 +3637,7 @@
     "name": "Aluna",
     "symbol": "ALN",
     "decimals": 18,
-    "logoURI": "./arb/0x9b3fa2a7c3eb36d048a5d38d81e7fafc6bc47b25.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x9b3fa2a7c3eb36d048a5d38d81e7fafc6bc47b25.png"
   },
   {
     "chainId": 42161,
@@ -3637,7 +3647,7 @@
     "name": "GoBlank Token",
     "symbol": "BLANK",
     "decimals": 18,
-    "logoURI": "./arb/0xa5ec9d64b64b8b9e94feaa7538c084b38117e7ba.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa5ec9d64b64b8b9e94feaa7538c084b38117e7ba.png"
   },
   {
     "chainId": 42161,
@@ -3647,7 +3657,7 @@
     "name": "KNOW",
     "symbol": "KNOW",
     "decimals": 18,
-    "logoURI": "./arb/0x3572f8f8c2d8f4ec9469bb1c8573439c7500771e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3572f8f8c2d8f4ec9469bb1c8573439c7500771e.png"
   },
   {
     "chainId": 42161,
@@ -3657,7 +3667,7 @@
     "name": "Zyber Token",
     "symbol": "ZYB",
     "decimals": 18,
-    "logoURI": "./arb/0x3b475f6f2f41853706afc9fa6a6b8c5df1a2724c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3b475f6f2f41853706afc9fa6a6b8c5df1a2724c.png"
   },
   {
     "chainId": 42161,
@@ -3667,7 +3677,7 @@
     "name": "Astra DAO",
     "symbol": "ASTRADAO",
     "decimals": 18,
-    "logoURI": "./arb/0xd3188e0df68559c0b63361f6160c57ad88b239d8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xd3188e0df68559c0b63361f6160c57ad88b239d8.png"
   },
   {
     "chainId": 42161,
@@ -3677,7 +3687,7 @@
     "name": "GenomesDAO",
     "symbol": "GENE",
     "decimals": 18,
-    "logoURI": "./arb/0x59a729658e9245b0cf1f8cb9fb37945d2b06ea27.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x59a729658e9245b0cf1f8cb9fb37945d2b06ea27.png"
   },
   {
     "chainId": 42161,
@@ -3687,7 +3697,7 @@
     "name": "OpenBlox Token",
     "symbol": "OBX",
     "decimals": 18,
-    "logoURI": "./arb/0x188fb5f5ae5bbe4154d5778f2bbb2fb985c94d25.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x188fb5f5ae5bbe4154d5778f2bbb2fb985c94d25.png"
   },
   {
     "chainId": 42161,
@@ -3697,7 +3707,7 @@
     "name": "Dackie Token",
     "symbol": "DACKIE",
     "decimals": 18,
-    "logoURI": "./arb/0x47C337Bd5b9344a6F3D6f58C474D9D8cd419D8cA.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x47C337Bd5b9344a6F3D6f58C474D9D8cd419D8cA.png"
   },
   {
     "chainId": 42161,
@@ -3707,7 +3717,7 @@
     "name": "TapToken",
     "symbol": "TAP",
     "decimals": 18,
-    "logoURI": "./arb/0x2c650dab03a59332e2e0c0c4a7f726913e5028c1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x2c650dab03a59332e2e0c0c4a7f726913e5028c1.png"
   },
   {
     "chainId": 42161,
@@ -3717,7 +3727,7 @@
     "name": "YIN Finance",
     "symbol": "YIN",
     "decimals": 18,
-    "logoURI": "./arb/0x794baab6b878467f93ef17e2f2851ce04e3e34c8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x794baab6b878467f93ef17e2f2851ce04e3e34c8.png"
   },
   {
     "chainId": 42161,
@@ -3727,7 +3737,7 @@
     "name": "YieldBricks",
     "symbol": "YBR",
     "decimals": 18,
-    "logoURI": "./arb/0x11920f139a3121c2836e01551d43f95b3c31159c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x11920f139a3121c2836e01551d43f95b3c31159c.png"
   },
   {
     "chainId": 42161,
@@ -3737,7 +3747,7 @@
     "name": "Doubloon Token",
     "symbol": "DBL",
     "decimals": 18,
-    "logoURI": "./arb/0xd3f1da62cafb7e7bc6531ff1cef6f414291f03d3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xd3f1da62cafb7e7bc6531ff1cef6f414291f03d3.png"
   },
   {
     "chainId": 42161,
@@ -3747,7 +3757,7 @@
     "name": "ETHforestAI",
     "symbol": "ETHFAI",
     "decimals": 18,
-    "logoURI": "./arb/0x67C31056358b8977Ea95a3a899dD380D4BceD706.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x67C31056358b8977Ea95a3a899dD380D4BceD706.png"
   },
   {
     "chainId": 42161,
@@ -3757,7 +3767,7 @@
     "name": "Synonym Finance",
     "symbol": "SYNO",
     "decimals": 18,
-    "logoURI": "./arb/0x577Fd586c9E6BA7f2E85E025D5824DBE19896656.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x577Fd586c9E6BA7f2E85E025D5824DBE19896656.png"
   },
   {
     "chainId": 42161,
@@ -3767,7 +3777,7 @@
     "name": "Vesta Stable",
     "symbol": "VST",
     "decimals": 18,
-    "logoURI": "./arb/0x64343594ab9b56e99087bfa6f2335db24c2d1f17.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x64343594ab9b56e99087bfa6f2335db24c2d1f17.png"
   },
   {
     "chainId": 42161,
@@ -3777,7 +3787,7 @@
     "name": "aarna atv111",
     "symbol": "atv111",
     "decimals": 18,
-    "logoURI": "./arb/0xE1a6BDA42FBAfAE38607598386a1050613c1a64B.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xE1a6BDA42FBAfAE38607598386a1050613c1a64B.png"
   },
   {
     "chainId": 42161,
@@ -3787,7 +3797,7 @@
     "name": "LYS",
     "symbol": "LYS",
     "decimals": 18,
-    "logoURI": "./arb/0xa4f595ba35161c9ffe3db8c03991b9c2cbb26c6b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa4f595ba35161c9ffe3db8c03991b9c2cbb26c6b.png"
   },
   {
     "chainId": 42161,
@@ -3797,7 +3807,7 @@
     "name": "aarna atv USDC",
     "symbol": "atvUSDC",
     "decimals": 18,
-    "logoURI": "./arb/0x15F7AD22Caa786B1237B27d4324c7E4a93c5e66b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x15F7AD22Caa786B1237B27d4324c7E4a93c5e66b.png"
   },
   {
     "chainId": 42161,
@@ -3807,7 +3817,7 @@
     "name": "SolvBTC Ethena",
     "symbol": "SolvBTC.ENA",
     "decimals": 18,
-    "logoURI": "./arb/0xafafd68afe3fe65d376eec9eab1802616cfaccb8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xafafd68afe3fe65d376eec9eab1802616cfaccb8.png"
   },
   {
     "chainId": 42161,
@@ -3817,7 +3827,7 @@
     "name": "BitPro",
     "symbol": "BITPRO",
     "decimals": 18,
-    "logoURI": "./arb/0xdbae615958708c0bc61234d2624b95077b017eb7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xdbae615958708c0bc61234d2624b95077b017eb7.png"
   },
   {
     "chainId": 42161,
@@ -3827,7 +3837,7 @@
     "name": "Aave Arbitrum WBTC",
     "symbol": "aArbWBTC",
     "decimals": 8,
-    "logoURI": "./arb/0x078f358208685046a11c85e8ad32895ded33a249.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x078f358208685046a11c85e8ad32895ded33a249.png"
   },
   {
     "chainId": 42161,
@@ -3837,7 +3847,7 @@
     "name": "pTokens BTC",
     "symbol": "pBTC",
     "decimals": 18,
-    "logoURI": "./arb/0x115d8bf0a53e751f8a472f88d587944ec1c8ca6d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x115d8bf0a53e751f8a472f88d587944ec1c8ca6d.png"
   },
   {
     "chainId": 42161,
@@ -3847,7 +3857,7 @@
     "name": "Savvy BTC",
     "symbol": "svBTC",
     "decimals": 18,
-    "logoURI": "./arb/0xeee18334c414a47fb886a7317e1885b2bfb8c2a6.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xeee18334c414a47fb886a7317e1885b2bfb8c2a6.png"
   },
   {
     "chainId": 42161,
@@ -3857,7 +3867,7 @@
     "name": "Governance OHM",
     "symbol": "gOHM",
     "decimals": 18,
-    "logoURI": "./arb/0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1.png"
   },
   {
     "chainId": 42161,
@@ -3867,7 +3877,7 @@
     "name": "High Yield ETH Index",
     "symbol": "hyETH",
     "decimals": 18,
-    "logoURI": "./arb/0x8b5d1d8b3466ec21f8ee33ce63f319642c026142.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x8b5d1d8b3466ec21f8ee33ce63f319642c026142.png"
   },
   {
     "chainId": 42161,
@@ -3877,7 +3887,7 @@
     "name": "Mineral Token",
     "symbol": "MXTK",
     "decimals": 18,
-    "logoURI": "./arb/0x3e4ffeb394b371aaaa0998488046ca19d870d9ba.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3e4ffeb394b371aaaa0998488046ca19d870d9ba.png"
   },
   {
     "chainId": 42161,
@@ -3887,7 +3897,7 @@
     "name": "Aave Arbitrum wstETH",
     "symbol": "aArbwstETH",
     "decimals": 18,
-    "logoURI": "./arb/0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff.png"
   },
   {
     "chainId": 42161,
@@ -3897,7 +3907,7 @@
     "name": "Aave Arbitrum rETH",
     "symbol": "aArbrETH",
     "decimals": 18,
-    "logoURI": "./arb/0x8eb270e296023e9d92081fdf967ddd7878724424.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x8eb270e296023e9d92081fdf967ddd7878724424.png"
   },
   {
     "chainId": 42161,
@@ -3907,7 +3917,7 @@
     "name": "Savvy ETH",
     "symbol": "svETH",
     "decimals": 18,
-    "logoURI": "./arb/0xf7728582002ef82908c8242cf552e969ba863ffa.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf7728582002ef82908c8242cf552e969ba863ffa.png"
   },
   {
     "chainId": 42161,
@@ -3917,7 +3927,7 @@
     "name": "YieldFi yETH",
     "symbol": "yETH",
     "decimals": 18,
-    "logoURI": "./arb/0x1f52edf2815bfa625890b61d6bf43ddc24671fe8.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1f52edf2815bfa625890b61d6bf43ddc24671fe8.png"
   },
   {
     "chainId": 42161,
@@ -3927,7 +3937,7 @@
     "name": "YieldFi vyETH",
     "symbol": "vyETH",
     "decimals": 18,
-    "logoURI": "./arb/0x8c93a6752bfe29fda26eba8df4390c642e6a7f90.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x8c93a6752bfe29fda26eba8df4390c642e6a7f90.png"
   },
   {
     "chainId": 42161,
@@ -3937,7 +3947,7 @@
     "name": "Backed Tesla Inc",
     "symbol": "bTSLA",
     "decimals": 18,
-    "logoURI": "./arb/0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038.png"
   },
   {
     "chainId": 42161,
@@ -3947,7 +3957,7 @@
     "name": "Backed Coinbase Global",
     "symbol": "bCOIN",
     "decimals": 18,
-    "logoURI": "./arb/0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9.png"
   },
   {
     "chainId": 42161,
@@ -3957,7 +3967,7 @@
     "name": "Backed NVIDIA Corp",
     "symbol": "bNVDA",
     "decimals": 18,
-    "logoURI": "./arb/0xa34c5e0abe843e10461e2c9586ea03e55dbcc495.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa34c5e0abe843e10461e2c9586ea03e55dbcc495.png"
   },
   {
     "chainId": 42161,
@@ -3967,7 +3977,7 @@
     "name": "Backed GOVIES 0-6 months EURO investment grade",
     "symbol": "bC3M",
     "decimals": 18,
-    "logoURI": "./arb/0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7.png"
   },
   {
     "chainId": 42161,
@@ -3977,7 +3987,7 @@
     "name": "Backed MicroStrategy Inc",
     "symbol": "bMSTR",
     "decimals": 18,
-    "logoURI": "./arb/0xaC28C9178ACc8BA4A11A29E013a3A2627086e422.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xaC28C9178ACc8BA4A11A29E013a3A2627086e422.png"
   },
   {
     "chainId": 42161,
@@ -3987,7 +3997,7 @@
     "name": "Backed IB01 $ Treasury Bond 0-1yr",
     "symbol": "bIB01",
     "decimals": 18,
-    "logoURI": "./arb/0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5.png"
   },
   {
     "chainId": 42161,
@@ -3997,7 +4007,7 @@
     "name": "Aave Arbitrum AAVE",
     "symbol": "aArbAAVE",
     "decimals": 18,
-    "logoURI": "./arb/0xf329e36c7bf6e5e86ce2150875a84ce77f477375.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf329e36c7bf6e5e86ce2150875a84ce77f477375.png"
   },
   {
     "chainId": 42161,
@@ -4007,7 +4017,7 @@
     "name": "Bazaars",
     "symbol": "BZR",
     "decimals": 18,
-    "logoURI": "./arb/0x85cb098bdcd3ca929d2cd18fc7a2669ff0362242.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x85cb098bdcd3ca929d2cd18fc7a2669ff0362242.png"
   },
   {
     "chainId": 42161,
@@ -4017,7 +4027,7 @@
     "name": "EverValueCoin",
     "symbol": "EVA",
     "decimals": 18,
-    "logoURI": "./arb/0x45d9831d8751b2325f3dbf48db748723726e1c8c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x45d9831d8751b2325f3dbf48db748723726e1c8c.png"
   },
   {
     "chainId": 42161,
@@ -4027,7 +4037,7 @@
     "name": "M by M^0",
     "symbol": "M",
     "decimals": 6,
-    "logoURI": "./arb/0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b.png"
   },
   {
     "chainId": 42161,
@@ -4037,7 +4047,7 @@
     "name": "Aave Arbitrum LINK",
     "symbol": "aArbLINK",
     "decimals": 18,
-    "logoURI": "./arb/0x191c10aa4af7c30e871e70c95db0e4eb77237530.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x191c10aa4af7c30e871e70c95db0e4eb77237530.png"
   },
   {
     "chainId": 42161,
@@ -4047,7 +4057,7 @@
     "name": "Backed HIGH € High Yield Corp Bond",
     "symbol": "bHIGH",
     "decimals": 18,
-    "logoURI": "./arb/0x20C64dEE8FdA5269A78f2D5BDBa861CA1d83DF7a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x20C64dEE8FdA5269A78f2D5BDBa861CA1d83DF7a.png"
   },
   {
     "chainId": 42161,
@@ -4057,7 +4067,7 @@
     "name": "Backed ERNA $ Ultrashort Bond",
     "symbol": "bERNA",
     "decimals": 18,
-    "logoURI": "./arb/0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245.png"
   },
   {
     "chainId": 42161,
@@ -4067,7 +4077,7 @@
     "name": "Backed IBTA $ Treasury Bond 1-3yr",
     "symbol": "bIBTA",
     "decimals": 18,
-    "logoURI": "./arb/0x52d134c6DB5889FaD3542A09eAf7Aa90C0fdf9E4.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x52d134c6DB5889FaD3542A09eAf7Aa90C0fdf9E4.png"
   },
   {
     "chainId": 42161,
@@ -4077,7 +4087,7 @@
     "name": "Lumi Finance Token",
     "symbol": "LUA",
     "decimals": 18,
-    "logoURI": "./arb/0xc3abc47863524ced8daf3ef98d74dd881e131c38.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc3abc47863524ced8daf3ef98d74dd881e131c38.png"
   },
   {
     "chainId": 42161,
@@ -4087,7 +4097,7 @@
     "name": "Backed Niu Technologies",
     "symbol": "bNIU",
     "decimals": 18,
-    "logoURI": "./arb/0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x2f11eeee0bf21e7661a22dbbbb9068f4ad191b86.png"
   },
   {
     "chainId": 42161,
@@ -4097,7 +4107,7 @@
     "name": "Omicron",
     "symbol": "OMIC",
     "decimals": 9,
-    "logoURI": "./arb/0x86b3353387f560295a8fa7902679735e5f076bd5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x86b3353387f560295a8fa7902679735e5f076bd5.png"
   },
   {
     "chainId": 42161,
@@ -4107,7 +4117,7 @@
     "name": "Gains Network USDC",
     "symbol": "gUSDC",
     "decimals": 6,
-    "logoURI": "./arb/0xd3443ee1e91aF28e5FB858Fbd0D72A63bA8046E0.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xd3443ee1e91aF28e5FB858Fbd0D72A63bA8046E0.png"
   },
   {
     "chainId": 42161,
@@ -4117,7 +4127,7 @@
     "name": "Wien Euro Reserve Coin",
     "symbol": "WERC",
     "decimals": 18,
-    "logoURI": "./arb/0x17d805a3f817e0e4e4d46c59d7c155bd907d8333.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x17d805a3f817e0e4e4d46c59d7c155bd907d8333.png"
   },
   {
     "chainId": 42161,
@@ -4127,7 +4137,7 @@
     "name": "Aave Arbitrum EURS",
     "symbol": "aArbEURS",
     "decimals": 2,
-    "logoURI": "./arb/0x6d80113e533a2c0fe82eabd35f1875dcea89ea97.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6d80113e533a2c0fe82eabd35f1875dcea89ea97.png"
   },
   {
     "chainId": 42161,
@@ -4137,7 +4147,7 @@
     "name": "Frax Price Index",
     "symbol": "FPI",
     "decimals": 18,
-    "logoURI": "./arb/0x90581eca9469d8d7f5d3b60f4715027adfcf7927.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x90581eca9469d8d7f5d3b60f4715027adfcf7927.png"
   },
   {
     "chainId": 42161,
@@ -4147,7 +4157,7 @@
     "name": "Luminex Defi Finance",
     "symbol": "LFUSD",
     "decimals": 18,
-    "logoURI": "./arb/0x0f1b825a734bd1b885ec82780189f4534b291a28.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0f1b825a734bd1b885ec82780189f4534b291a28.png"
   },
   {
     "chainId": 42161,
@@ -4157,7 +4167,7 @@
     "name": "EURC",
     "symbol": "EURC",
     "decimals": 18,
-    "logoURI": "./arb/0xaddfd192daa492b772ea5c180e79570dec92ff5c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xaddfd192daa492b772ea5c180e79570dec92ff5c.png"
   },
   {
     "chainId": 42161,
@@ -4167,7 +4177,7 @@
     "name": "xDollar Stablecoin",
     "symbol": "xUSD",
     "decimals": 18,
-    "logoURI": "./arb/0x3509f19581afedeff07c53592bc0ca84e4855475.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3509f19581afedeff07c53592bc0ca84e4855475.png"
   },
   {
     "chainId": 42161,
@@ -4177,7 +4187,7 @@
     "name": "VOLT",
     "symbol": "VOLT",
     "decimals": 18,
-    "logoURI": "./arb/0x6ba6f18a290cd55cf1b00be2bec5c954cb29fac5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6ba6f18a290cd55cf1b00be2bec5c954cb29fac5.png"
   },
   {
     "chainId": 42161,
@@ -4187,7 +4197,7 @@
     "name": "Aave Arbitrum LUSD",
     "symbol": "aArbLUSD",
     "decimals": 18,
-    "logoURI": "./arb/0x8ffdf2de812095b1d19cb146e4c004587c0a0692.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x8ffdf2de812095b1d19cb146e4c004587c0a0692.png"
   },
   {
     "chainId": 42161,
@@ -4197,7 +4207,7 @@
     "name": "Aave Arbitrum DAI",
     "symbol": "aArbDAI",
     "decimals": 18,
-    "logoURI": "./arb/0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee.png"
   },
   {
     "chainId": 42161,
@@ -4207,7 +4217,7 @@
     "name": "Aave Arbitrum USDCn",
     "symbol": "aArbUSDCn",
     "decimals": 6,
-    "logoURI": "./arb/0x724dc807b04555b71ed48a6896b6f41593b8c637.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x724dc807b04555b71ed48a6896b6f41593b8c637.png"
   },
   {
     "chainId": 42161,
@@ -4217,7 +4227,7 @@
     "name": "Aave Arbitrum USDC",
     "symbol": "aArbUSDC",
     "decimals": 6,
-    "logoURI": "./arb/0x625e7708f30ca75bfd92586e17077590c60eb4cd.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x625e7708f30ca75bfd92586e17077590c60eb4cd.png"
   },
   {
     "chainId": 42161,
@@ -4227,7 +4237,7 @@
     "name": "Frontier Stable Token",
     "symbol": "FRNT",
     "decimals": 6,
-    "logoURI": "./arb/0x5e817f2abccb9095585d26c2a3ce234a440574fc.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x5e817f2abccb9095585d26c2a3ce234a440574fc.png"
   },
   {
     "chainId": 42161,
@@ -4237,7 +4247,7 @@
     "name": "Aave Arbitrum USDT",
     "symbol": "aArbUSDT",
     "decimals": 6,
-    "logoURI": "./arb/0x6ab707aca953edaefbc4fd23ba73294241490620.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6ab707aca953edaefbc4fd23ba73294241490620.png"
   },
   {
     "chainId": 42161,
@@ -4247,7 +4257,7 @@
     "name": "Axelar Wrapped USDT",
     "symbol": "axlUSDT",
     "decimals": 6,
-    "logoURI": "./arb/0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6.png"
   },
   {
     "chainId": 42161,
@@ -4257,7 +4267,7 @@
     "name": "Aave Arbitrum FRAX",
     "symbol": "aArbFRAX",
     "decimals": 18,
-    "logoURI": "./arb/0x38d693ce1df5aadf7bc62595a37d667ad57922e5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x38d693ce1df5aadf7bc62595a37d667ad57922e5.png"
   },
   {
     "chainId": 42161,
@@ -4267,7 +4277,7 @@
     "name": "Fractal Protocol Vault Token",
     "symbol": "USDF",
     "decimals": 6,
-    "logoURI": "./arb/0xae48b7c8e096896e32d53f10d0bf89f82ec7b987.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xae48b7c8e096896e32d53f10d0bf89f82ec7b987.png"
   },
   {
     "chainId": 42161,
@@ -4277,7 +4287,7 @@
     "name": "Savvy USD",
     "symbol": "svUSD",
     "decimals": 18,
-    "logoURI": "./arb/0xF202Ab403Cd7E90197ec0f010ee897E283037706.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xF202Ab403Cd7E90197ec0f010ee897E283037706.png"
   },
   {
     "chainId": 42161,
@@ -4287,7 +4297,7 @@
     "name": "Yieldflow",
     "symbol": "YFLOW",
     "decimals": 18,
-    "logoURI": "./arb/0x113a05170273e9087f5d0e0cdee0388478a1546d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x113a05170273e9087f5d0e0cdee0388478a1546d.png"
   },
   {
     "chainId": 42161,
@@ -4297,7 +4307,7 @@
     "name": "Abachi",
     "symbol": "ABI",
     "decimals": 18,
-    "logoURI": "./arb/0xb827710314a05bcbee9180e11c2abe5823289422.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xb827710314a05bcbee9180e11c2abe5823289422.png"
   },
   {
     "chainId": 42161,
@@ -4307,7 +4317,7 @@
     "name": "USD0 Liquid Bond",
     "symbol": "USD0++",
     "decimals": 18,
-    "logoURI": "./arb/0x2B65F9d2e4B84a2dF6ff0525741b75d1276a9C2F.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x2B65F9d2e4B84a2dF6ff0525741b75d1276a9C2F.png"
   },
   {
     "chainId": 42161,
@@ -4317,7 +4327,7 @@
     "name": "LIBERA - Multichain High APR Farming",
     "symbol": "LIBERA",
     "decimals": 18,
-    "logoURI": "./arb/0xF0f14634971C43d872d1cF1785195C0Ce1000a9d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xF0f14634971C43d872d1cF1785195C0Ce1000a9d.png"
   },
   {
     "chainId": 42161,
@@ -4327,7 +4337,7 @@
     "name": "handleUSD",
     "symbol": "fxUSD",
     "decimals": 18,
-    "logoURI": "./arb/0x8616E8EA83f048ab9A5eC513c9412Dd2993bcE3F.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x8616E8EA83f048ab9A5eC513c9412Dd2993bcE3F.png"
   },
   {
     "chainId": 42161,
@@ -4337,7 +4347,7 @@
     "name": "QIAN second generation dollar",
     "symbol": "QSD",
     "decimals": 18,
-    "logoURI": "./arb/0x5837d843d49ffdefc78fe09b5f371427c917946f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x5837d843d49ffdefc78fe09b5f371427c917946f.png"
   },
   {
     "chainId": 42161,
@@ -4347,7 +4357,7 @@
     "name": "MYRC",
     "symbol": "MYRC",
     "decimals": 18,
-    "logoURI": "./arb/0x3ed03e95dd894235090b3d4a49e0c3239edce59e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x3ed03e95dd894235090b3d4a49e0c3239edce59e.png"
   },
   {
     "chainId": 42161,
@@ -4357,7 +4367,7 @@
     "name": "Multichain",
     "symbol": "MULTI",
     "decimals": 18,
-    "logoURI": "./arb/0x9fb9a33956351cf4fa040f65a13b835a3c8764e3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x9fb9a33956351cf4fa040f65a13b835a3c8764e3.png"
   },
   {
     "chainId": 42161,
@@ -4367,7 +4377,7 @@
     "name": "Uranium3o8",
     "symbol": "U",
     "decimals": 18,
-    "logoURI": "./arb/0x6604b5da093f3f35066c6c79e51d581a44c35288.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6604b5da093f3f35066c6c79e51d581a44c35288.png"
   },
   {
     "chainId": 42161,
@@ -4377,7 +4387,7 @@
     "name": "YachtingVerse",
     "symbol": "YACHT",
     "decimals": 18,
-    "logoURI": "./arb/0xdE70AeD3d14d39b4955147EfcF272334bdB75AB5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xdE70AeD3d14d39b4955147EfcF272334bdB75AB5.png"
   },
   {
     "chainId": 42161,
@@ -4387,7 +4397,7 @@
     "name": "gmUSD",
     "symbol": "gmUSD",
     "decimals": 18,
-    "logoURI": "./arb/0xec13336bbd50790a00cdc0feddf11287eaf92529.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xec13336bbd50790a00cdc0feddf11287eaf92529.png"
   },
   {
     "chainId": 42161,
@@ -4397,7 +4407,7 @@
     "name": "Arbys",
     "symbol": "ARBYS",
     "decimals": 18,
-    "logoURI": "./arb/0x86a1012d437bbff84fbdf62569d12d4fd3396f8c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x86a1012d437bbff84fbdf62569d12d4fd3396f8c.png"
   },
   {
     "chainId": 42161,
@@ -4407,7 +4417,7 @@
     "name": "Minato",
     "symbol": "MNTO",
     "decimals": 18,
-    "logoURI": "./arb/0xf0dfad1817b5ba73726b02ab34dd4b4b00bcd392.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf0dfad1817b5ba73726b02ab34dd4b4b00bcd392.png"
   },
   {
     "chainId": 42161,
@@ -4417,7 +4427,7 @@
     "name": "Aave Arbitrum ARB",
     "symbol": "aArbARB",
     "decimals": 18,
-    "logoURI": "./arb/0x6533afac2e7bccb20dca161449a13a32d391fb00.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6533afac2e7bccb20dca161449a13a32d391fb00.png"
   },
   {
     "chainId": 42161,
@@ -4427,7 +4437,7 @@
     "name": "BonzAI DePIN",
     "symbol": "BONZAI",
     "decimals": 18,
-    "logoURI": "./arb/0x0a84edf70f30325151631ce7a61307d1f4d619a3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0a84edf70f30325151631ce7a61307d1f4d619a3.png"
   },
   {
     "chainId": 42161,
@@ -4437,7 +4447,7 @@
     "name": "GrantiX Token",
     "symbol": "GRANT",
     "decimals": 18,
-    "logoURI": "./arb/0x7ce42e8a5a42eb15f0c9a08ee9a079d99b1d83cf.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7ce42e8a5a42eb15f0c9a08ee9a079d99b1d83cf.png"
   },
   {
     "chainId": 42161,
@@ -4447,7 +4457,7 @@
     "name": "BrightPool Exchange Token",
     "symbol": "BRIX",
     "decimals": 9,
-    "logoURI": "./arb/0xf65247b6ed3e7fdbac313959b3f62475fbb5f8e4.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf65247b6ed3e7fdbac313959b3f62475fbb5f8e4.png"
   },
   {
     "chainId": 42161,
@@ -4457,7 +4467,7 @@
     "name": "Listapie",
     "symbol": "LTP",
     "decimals": 18,
-    "logoURI": "./arb/0xa73959804651eed0d4bd04293a675cb832c20454.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa73959804651eed0d4bd04293a675cb832c20454.png"
   },
   {
     "chainId": 42161,
@@ -4467,7 +4477,7 @@
     "name": "Route",
     "symbol": "ROUTE",
     "decimals": 18,
-    "logoURI": "./arb/0x5298060a95205be6dd4abc21910a4bb23d6dcd8b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x5298060a95205be6dd4abc21910a4bb23d6dcd8b.png"
   },
   {
     "chainId": 42161,
@@ -4477,7 +4487,7 @@
     "name": "QIAN governance token",
     "symbol": "KUN",
     "decimals": 18,
-    "logoURI": "./arb/0x04cb2d263a7489f02d813eaab9ba1bb8466347f2.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x04cb2d263a7489f02d813eaab9ba1bb8466347f2.png"
   },
   {
     "chainId": 42161,
@@ -4487,7 +4497,7 @@
     "name": "CreDA Protocol Token",
     "symbol": "CREDA",
     "decimals": 18,
-    "logoURI": "./arb/0xc136e6b376a9946b156db1ed3a34b08afdaed76d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc136e6b376a9946b156db1ed3a34b08afdaed76d.png"
   },
   {
     "chainId": 42161,
@@ -4497,7 +4507,7 @@
     "name": "Money on Chain",
     "symbol": "MOC",
     "decimals": 18,
-    "logoURI": "./arb/0x6a4db980360fc55762e32f6921610601e1882846.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6a4db980360fc55762e32f6921610601e1882846.png"
   },
   {
     "chainId": 42161,
@@ -4507,7 +4517,7 @@
     "name": "Stabilize Token",
     "symbol": "STBZ",
     "decimals": 18,
-    "logoURI": "./arb/0x2c110867ca90e43d372c1c2e92990b00ea32818b.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x2c110867ca90e43d372c1c2e92990b00ea32818b.png"
   },
   {
     "chainId": 42161,
@@ -4517,7 +4527,7 @@
     "name": "AsgardX",
     "symbol": "ODIN",
     "decimals": 18,
-    "logoURI": "./arb/0xeE9857dE0e55d4A54D36a5A5a73A15e57435FdCA.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xeE9857dE0e55d4A54D36a5A5a73A15e57435FdCA.png"
   },
   {
     "chainId": 42161,
@@ -4527,7 +4537,7 @@
     "name": "Black Rabbit AI",
     "symbol": "BRAIN",
     "decimals": 18,
-    "logoURI": "./arb/0x847db21ef9de627c23d3dff470af6599b1a30d3f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x847db21ef9de627c23d3dff470af6599b1a30d3f.png"
   },
   {
     "chainId": 42161,
@@ -4537,7 +4547,7 @@
     "name": "FluidFi",
     "symbol": "FLUID",
     "decimals": 18,
-    "logoURI": "./arb/0x876ec6be52486eeec06bc06434f3e629d695c6ba.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x876ec6be52486eeec06bc06434f3e629d695c6ba.png"
   },
   {
     "chainId": 42161,
@@ -4547,7 +4557,7 @@
     "name": "Altranium",
     "symbol": "ALTR",
     "decimals": 18,
-    "logoURI": "./arb/0xb9600c807f069d27f92a2a65b48f12eeef7e2007.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xb9600c807f069d27f92a2a65b48f12eeef7e2007.png"
   },
   {
     "chainId": 42161,
@@ -4557,7 +4567,7 @@
     "name": "KillSwitchToken",
     "symbol": "KSW",
     "decimals": 18,
-    "logoURI": "./arb/0xdc7179416c08c15f689d9214a3bec2dd003deabc.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xdc7179416c08c15f689d9214a3bec2dd003deabc.png"
   },
   {
     "chainId": 42161,
@@ -4567,7 +4577,7 @@
     "name": "BrincToken",
     "symbol": "BRC",
     "decimals": 18,
-    "logoURI": "./arb/0xb5de3f06af62d8428a8bf7b4400ea42ad2e0bc53.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xb5de3f06af62d8428a8bf7b4400ea42ad2e0bc53.png"
   },
   {
     "chainId": 42161,
@@ -4577,7 +4587,7 @@
     "name": "xPet.tech Token",
     "symbol": "XPET",
     "decimals": 18,
-    "logoURI": "./arb/0x00cbcf7b3d37844e44b888bc747bdd75fcf4e555.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x00cbcf7b3d37844e44b888bc747bdd75fcf4e555.png"
   },
   {
     "chainId": 42161,
@@ -4587,7 +4597,7 @@
     "name": "The Bet",
     "symbol": "BET",
     "decimals": 18,
-    "logoURI": "./arb/0x9eb6299e4bb6669e42cb295a254c8492f67ae2c6.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x9eb6299e4bb6669e42cb295a254c8492f67ae2c6.png"
   },
   {
     "chainId": 42161,
@@ -4597,7 +4607,7 @@
     "name": "Emdx Token",
     "symbol": "EMDX",
     "decimals": 18,
-    "logoURI": "./arb/0xda71ea8ef58d015de8c5cea8f7b890db3a103e67.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xda71ea8ef58d015de8c5cea8f7b890db3a103e67.png"
   },
   {
     "chainId": 42161,
@@ -4607,7 +4617,7 @@
     "name": "BitcoinBR",
     "symbol": "BTCBR",
     "decimals": 18,
-    "logoURI": "./arb/0x75c5f6d32d8ef3a4f0f43f7792aa08e8678972f9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x75c5f6d32d8ef3a4f0f43f7792aa08e8678972f9.png"
   },
   {
     "chainId": 42161,
@@ -4617,7 +4627,7 @@
     "name": "YFX",
     "symbol": "YFX",
     "decimals": 18,
-    "logoURI": "./arb/0x569deb225441fd18bde18aed53e2ec7eb4e10d93.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x569deb225441fd18bde18aed53e2ec7eb4e10d93.png"
   },
   {
     "chainId": 42161,
@@ -4627,7 +4637,7 @@
     "name": "Impermax",
     "symbol": "IMX",
     "decimals": 18,
-    "logoURI": "./arb/0x9c67ee39e3c4954396b9142010653f17257dd39c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x9c67ee39e3c4954396b9142010653f17257dd39c.png"
   },
   {
     "chainId": 42161,
@@ -4637,7 +4647,7 @@
     "name": "Nulswap",
     "symbol": "NSWAP",
     "decimals": 8,
-    "logoURI": "./arb/0xfdad8edc724277e975f4955d288c6eb5b20a3146.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xfdad8edc724277e975f4955d288c6eb5b20a3146.png"
   },
   {
     "chainId": 42161,
@@ -4647,7 +4657,7 @@
     "name": "Amy Finance Token",
     "symbol": "AMY",
     "decimals": 18,
-    "logoURI": "./arb/0x8fbd420956fdd301f4493500fd0bcaaa80f2389c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x8fbd420956fdd301f4493500fd0bcaaa80f2389c.png"
   },
   {
     "chainId": 42161,
@@ -4657,7 +4667,7 @@
     "name": "OreoSwap",
     "symbol": "OREO",
     "decimals": 18,
-    "logoURI": "./arb/0x319e222de462ac959baf2aec848697aec2bbd770.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x319e222de462ac959baf2aec848697aec2bbd770.png"
   },
   {
     "chainId": 42161,
@@ -4667,7 +4677,7 @@
     "name": "Quoll Token",
     "symbol": "QUO",
     "decimals": 18,
-    "logoURI": "./arb/0xf00d8790a76ee5a5dbc10eacac39151aa2af0331.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf00d8790a76ee5a5dbc10eacac39151aa2af0331.png"
   },
   {
     "chainId": 42161,
@@ -4677,7 +4687,7 @@
     "name": "ZENF Token",
     "symbol": "ZENF",
     "decimals": 18,
-    "logoURI": "./arb/0xa6099b214e8d069911702bc92ef274f63c476c5a.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa6099b214e8d069911702bc92ef274f63c476c5a.png"
   },
   {
     "chainId": 42161,
@@ -4687,7 +4697,7 @@
     "name": "Lotto",
     "symbol": "LOTTO",
     "decimals": 18,
-    "logoURI": "./arb/0x4a35ca865abec4205430081ccdf768610e06bfbc.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4a35ca865abec4205430081ccdf768610e06bfbc.png"
   },
   {
     "chainId": 42161,
@@ -4697,7 +4707,7 @@
     "name": "Beluga Token",
     "symbol": "BELA",
     "decimals": 18,
-    "logoURI": "./arb/0x09090e22118b375f2c7b95420c04414E4bf68e1A.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x09090e22118b375f2c7b95420c04414E4bf68e1A.png"
   },
   {
     "chainId": 42161,
@@ -4707,7 +4717,7 @@
     "name": "Promethios",
     "symbol": "FIRE",
     "decimals": 9,
-    "logoURI": "./arb/0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776.png"
   },
   {
     "chainId": 42161,
@@ -4717,7 +4727,7 @@
     "name": "OnyxDAO Token",
     "symbol": "ONYX",
     "decimals": 18,
-    "logoURI": "./arb/0xB7cD6C8C4600AeD9985d2c0Eb174e0BEe56E8854.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xB7cD6C8C4600AeD9985d2c0Eb174e0BEe56E8854.png"
   },
   {
     "chainId": 42161,
@@ -4727,7 +4737,7 @@
     "name": "Thrupenny",
     "symbol": "TPY",
     "decimals": 8,
-    "logoURI": "./arb/0xa279301414012c53bc7b7a21788d33e244efbecc.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa279301414012c53bc7b7a21788d33e244efbecc.png"
   },
   {
     "chainId": 42161,
@@ -4737,7 +4747,7 @@
     "name": "MAGICToken",
     "symbol": "MAGIC",
     "decimals": 18,
-    "logoURI": "./arb/0x2c852d3334188be136bfc540ef2bb8c37b590bad.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x2c852d3334188be136bfc540ef2bb8c37b590bad.png"
   },
   {
     "chainId": 42161,
@@ -4747,7 +4757,7 @@
     "name": "TRN",
     "symbol": "TRN",
     "decimals": 18,
-    "logoURI": "./arb/0x1114982539a2bfb84e8b9e4e320bbc04532a9e44.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1114982539a2bfb84e8b9e4e320bbc04532a9e44.png"
   },
   {
     "chainId": 42161,
@@ -4757,7 +4767,7 @@
     "name": "HonorWorld Token",
     "symbol": "HWT",
     "decimals": 18,
-    "logoURI": "./arb/0xbcc9c1763d54427bdf5efb6e9eb9494e5a1fbabf.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xbcc9c1763d54427bdf5efb6e9eb9494e5a1fbabf.png"
   },
   {
     "chainId": 42161,
@@ -4767,7 +4777,7 @@
     "name": "GonnaMakeIt",
     "symbol": "GMI",
     "decimals": 18,
-    "logoURI": "./arb/0x044e874f23f9a7e5dad696554a116c4bb62fecb7.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x044e874f23f9a7e5dad696554a116c4bb62fecb7.png"
   },
   {
     "chainId": 42161,
@@ -4777,7 +4787,7 @@
     "name": "BPET",
     "symbol": "BPET",
     "decimals": 18,
-    "logoURI": "./arb/0x6daf586b7370b14163171544fca24abcc0862ac5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x6daf586b7370b14163171544fca24abcc0862ac5.png"
   },
   {
     "chainId": 42161,
@@ -4787,7 +4797,7 @@
     "name": "Agatech",
     "symbol": "AGATA",
     "decimals": 18,
-    "logoURI": "./arb/0xda315aad0c080b40a3859b0b039fec4f28b56797.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xda315aad0c080b40a3859b0b039fec4f28b56797.png"
   },
   {
     "chainId": 42161,
@@ -4797,7 +4807,7 @@
     "name": "Quantlytica Token",
     "symbol": "QTLX",
     "decimals": 18,
-    "logoURI": "./arb/0x4d840b741bc05fde325d4ec0b4cfcd0cea237e4e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4d840b741bc05fde325d4ec0b4cfcd0cea237e4e.png"
   },
   {
     "chainId": 42161,
@@ -4807,7 +4817,7 @@
     "name": "OpenLeverage Token V2",
     "symbol": "OLE",
     "decimals": 18,
-    "logoURI": "./arb/0x7Be5Dd337CC6cE3e474F64E2A92A566445290864.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7Be5Dd337CC6cE3e474F64E2A92A566445290864.png"
   },
   {
     "chainId": 42161,
@@ -4817,7 +4827,7 @@
     "name": "FUMoney",
     "symbol": "FU",
     "decimals": 18,
-    "logoURI": "./arb/0x130096af9163b185cae4a833f856760199fc6ceb.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x130096af9163b185cae4a833f856760199fc6ceb.png"
   },
   {
     "chainId": 42161,
@@ -4827,7 +4837,7 @@
     "name": "Gud Guess",
     "symbol": "GG",
     "decimals": 18,
-    "logoURI": "./arb/0x9306f15e4cd8ab9ef017aa720a4a63da73418d00.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x9306f15e4cd8ab9ef017aa720a4a63da73418d00.png"
   },
   {
     "chainId": 42161,
@@ -4837,7 +4847,7 @@
     "name": "Locker Token",
     "symbol": "LKT",
     "decimals": 18,
-    "logoURI": "./arb/0xd3E133a0A14Bb8B595e5Fbf9851c7c783685BA69.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xd3E133a0A14Bb8B595e5Fbf9851c7c783685BA69.png"
   },
   {
     "chainId": 42161,
@@ -4847,7 +4857,7 @@
     "name": "Betero",
     "symbol": "BTE",
     "decimals": 18,
-    "logoURI": "./arb/0x782617249085AA28A367fEB49CF811434660cEE5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x782617249085AA28A367fEB49CF811434660cEE5.png"
   },
   {
     "chainId": 42161,
@@ -4857,7 +4867,7 @@
     "name": "SecureChain AI",
     "symbol": "SCAI",
     "decimals": 18,
-    "logoURI": "./arb/0x0f13fc8a93ab8edc9fde0a1e19aac693161599a5.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0f13fc8a93ab8edc9fde0a1e19aac693161599a5.png"
   },
   {
     "chainId": 42161,
@@ -4867,7 +4877,7 @@
     "name": "MemePad",
     "symbol": "MEPAD",
     "decimals": 18,
-    "logoURI": "./arb/0x05814372e9820c0ebdcba26d0a7c20655f4ff23f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x05814372e9820c0ebdcba26d0a7c20655f4ff23f.png"
   },
   {
     "chainId": 42161,
@@ -4877,7 +4887,7 @@
     "name": "Alt Markets",
     "symbol": "AMX",
     "decimals": 6,
-    "logoURI": "./arb/0xB2d948Be3a74ECCe80378D4093E6cD7f4dC1Cf9C.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xB2d948Be3a74ECCe80378D4093E6cD7f4dC1Cf9C.png"
   },
   {
     "chainId": 42161,
@@ -4887,7 +4897,7 @@
     "name": "Zippie",
     "symbol": "ZIPT",
     "decimals": 18,
-    "logoURI": "./arb/0x0f61b24272af65eacf6adfe507028957698e032f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x0f61b24272af65eacf6adfe507028957698e032f.png"
   },
   {
     "chainId": 42161,
@@ -4897,7 +4907,7 @@
     "name": "ArbiNYAN",
     "symbol": "NYAN",
     "decimals": 18,
-    "logoURI": "./arb/0xed3fb761414da74b74f33e5c5a1f78104b188dfc.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xed3fb761414da74b74f33e5c5a1f78104b188dfc.png"
   },
   {
     "chainId": 42161,
@@ -4907,7 +4917,7 @@
     "name": "YOGI",
     "symbol": "YOGI",
     "decimals": 9,
-    "logoURI": "./arb/0xf387359fAb862eaEF4B7C03D2174755918c58D4d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf387359fAb862eaEF4B7C03D2174755918c58D4d.png"
   },
   {
     "chainId": 42161,
@@ -4917,7 +4927,7 @@
     "name": "SharkySwap",
     "symbol": "SHARKY",
     "decimals": 18,
-    "logoURI": "./arb/0x73ed68b834e44096eb4bea6edead038c945722f1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x73ed68b834e44096eb4bea6edead038c945722f1.png"
   },
   {
     "chainId": 42161,
@@ -4927,7 +4937,7 @@
     "name": "Anima",
     "symbol": "ANIMA",
     "decimals": 18,
-    "logoURI": "./arb/0xccd05a0fcfc1380e9da27862adb2198e58e0d66f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xccd05a0fcfc1380e9da27862adb2198e58e0d66f.png"
   },
   {
     "chainId": 42161,
@@ -4937,7 +4947,7 @@
     "name": "TurismoAI",
     "symbol": "TURAI",
     "decimals": 18,
-    "logoURI": "./arb/0xc4663f169aafb1d4506ce189d63810e24a8b63ea.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc4663f169aafb1d4506ce189d63810e24a8b63ea.png"
   },
   {
     "chainId": 42161,
@@ -4947,7 +4957,7 @@
     "name": "Arbucks",
     "symbol": "BUCK",
     "decimals": 18,
-    "logoURI": "./arb/0xafd871f684f21ab9d7137608c71808f83d75e6fc.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xafd871f684f21ab9d7137608c71808f83d75e6fc.png"
   },
   {
     "chainId": 42161,
@@ -4957,7 +4967,7 @@
     "name": "Rodeo",
     "symbol": "RDO",
     "decimals": 18,
-    "logoURI": "./arb/0x033f193b3fceb22a440e89a2867e8fee181594d9.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x033f193b3fceb22a440e89a2867e8fee181594d9.png"
   },
   {
     "chainId": 42161,
@@ -4967,7 +4977,7 @@
     "name": "Plexus",
     "symbol": "PLX",
     "decimals": 18,
-    "logoURI": "./arb/0xfb853acea0e76f73f8274b521fe1611c888670cc.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xfb853acea0e76f73f8274b521fe1611c888670cc.png"
   },
   {
     "chainId": 42161,
@@ -4977,7 +4987,7 @@
     "name": "Kommunitas",
     "symbol": "KOM",
     "decimals": 8,
-    "logoURI": "./arb/0xA58663FAEF461761e44066ea26c1FCddF2927B80.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xA58663FAEF461761e44066ea26c1FCddF2927B80.png"
   },
   {
     "chainId": 42161,
@@ -4987,7 +4997,7 @@
     "name": "QiDao",
     "symbol": "QI",
     "decimals": 18,
-    "logoURI": "./arb/0xb9c8f0d3254007ee4b98970b94544e473cd610ec.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xb9c8f0d3254007ee4b98970b94544e473cd610ec.png"
   },
   {
     "chainId": 42161,
@@ -4997,7 +5007,7 @@
     "name": "Shell",
     "symbol": "SHELL",
     "decimals": 18,
-    "logoURI": "./arb/0xe47ba52f326806559c1dec7ddd997f6957d0317d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xe47ba52f326806559c1dec7ddd997f6957d0317d.png"
   },
   {
     "chainId": 42161,
@@ -5007,7 +5017,7 @@
     "name": "CHUNKS",
     "symbol": "CHUNKS",
     "decimals": 18,
-    "logoURI": "./arb/0x894A3abB764A0EF5Da69C62336aC3c15B88bf106.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x894A3abB764A0EF5Da69C62336aC3c15B88bf106.png"
   },
   {
     "chainId": 42161,
@@ -5017,7 +5027,7 @@
     "name": "ArbiRoul Casino Chip",
     "symbol": "ROUL",
     "decimals": 18,
-    "logoURI": "./arb/0xc7831178793868a75122eaaff634ece07a2ecaaa.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc7831178793868a75122eaaff634ece07a2ecaaa.png"
   },
   {
     "chainId": 42161,
@@ -5027,7 +5037,7 @@
     "name": "Layer2DAO",
     "symbol": "L2DAO",
     "decimals": 18,
-    "logoURI": "./arb/0x2cab3abfc1670d1a452df502e216a66883cdf079.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x2cab3abfc1670d1a452df502e216a66883cdf079.png"
   },
   {
     "chainId": 42161,
@@ -5037,7 +5047,7 @@
     "name": "HOOD AI",
     "symbol": "HOOD",
     "decimals": 18,
-    "logoURI": "./arb/0x1eb747cace61eab366c98a18617b7e210d03818e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1eb747cace61eab366c98a18617b7e210d03818e.png"
   },
   {
     "chainId": 42161,
@@ -5047,7 +5057,7 @@
     "name": "Bridge",
     "symbol": "BRG",
     "decimals": 18,
-    "logoURI": "./arb/0xc9c4fd7579133701fa2769b6955e7e56bb386db1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc9c4fd7579133701fa2769b6955e7e56bb386db1.png"
   },
   {
     "chainId": 42161,
@@ -5057,7 +5067,7 @@
     "name": "Ola",
     "symbol": "OLA",
     "decimals": 18,
-    "logoURI": "./arb/0xb6943e6792645ef84366f35773232057f60b6b6e.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xb6943e6792645ef84366f35773232057f60b6b6e.png"
   },
   {
     "chainId": 42161,
@@ -5067,7 +5077,7 @@
     "name": "RICE",
     "symbol": "RICE",
     "decimals": 18,
-    "logoURI": "./arb/0xf4ac71a71b7b4d95b9f04b603a7b9ed87762d5f3.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf4ac71a71b7b4d95b9f04b603a7b9ed87762d5f3.png"
   },
   {
     "chainId": 42161,
@@ -5077,7 +5087,7 @@
     "name": "Carbon",
     "symbol": "CARBON",
     "decimals": 18,
-    "logoURI": "./arb/0xfa42da1bd08341537a44a4ca9d236d1c00a98b40.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xfa42da1bd08341537a44a4ca9d236d1c00a98b40.png"
   },
   {
     "chainId": 42161,
@@ -5087,7 +5097,7 @@
     "name": "GO!",
     "symbol": "GO!",
     "decimals": 18,
-    "logoURI": "./arb/0x739e93844ADaBFD58b00b2BEd540d1661d9aF682.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x739e93844ADaBFD58b00b2BEd540d1661d9aF682.png"
   },
   {
     "chainId": 42161,
@@ -5097,7 +5107,7 @@
     "name": "Boost",
     "symbol": "BOOST",
     "decimals": 18,
-    "logoURI": "./arb/0xd44e8f8768d4ed25119921a53802d8758a5b20dd.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xd44e8f8768d4ed25119921a53802d8758a5b20dd.png"
   },
   {
     "chainId": 42161,
@@ -5107,7 +5117,7 @@
     "name": "DEGEN Index",
     "symbol": "DEGEN",
     "decimals": 18,
-    "logoURI": "./arb/0xae6e3540e97b0b9ea8797b157b510e133afb6282.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xae6e3540e97b0b9ea8797b157b510e133afb6282.png"
   },
   {
     "chainId": 42161,
@@ -5117,7 +5127,7 @@
     "name": "OxAI",
     "symbol": "OXAI",
     "decimals": 18,
-    "logoURI": "./arb/0xb84527d59b6ecb96f433029ecc890d4492c5dce1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xb84527d59b6ecb96f433029ecc890d4492c5dce1.png"
   },
   {
     "chainId": 42161,
@@ -5127,7 +5137,7 @@
     "name": "MAGIKAL.ai",
     "symbol": "MGKL",
     "decimals": 18,
-    "logoURI": "./arb/0x8aBfa6a4F4B9865b0e7ACfDCe1839A2584636d06.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x8aBfa6a4F4B9865b0e7ACfDCe1839A2584636d06.png"
   },
   {
     "chainId": 42161,
@@ -5137,7 +5147,7 @@
     "name": "Shiba Cartel",
     "symbol": "PESOS",
     "decimals": 9,
-    "logoURI": "./arb/0x17afc249db786fC300f2d26381Fec5CF0C3913Fb.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x17afc249db786fC300f2d26381Fec5CF0C3913Fb.png"
   },
   {
     "chainId": 42161,
@@ -5147,7 +5157,7 @@
     "name": "RocketVerse",
     "symbol": "RKV",
     "decimals": 18,
-    "logoURI": "./arb/0xea1E79D4A0d347EDcAdd78d98a7dA65d15E8cbA1.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xea1E79D4A0d347EDcAdd78d98a7dA65d15E8cbA1.png"
   },
   {
     "chainId": 42161,
@@ -5157,7 +5167,7 @@
     "name": "Cryption Network Token",
     "symbol": "CNT",
     "decimals": 18,
-    "logoURI": "./arb/0x989d099d29f62b839c8cbd41c82c6554a5515752.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x989d099d29f62b839c8cbd41c82c6554a5515752.png"
   },
   {
     "chainId": 42161,
@@ -5167,7 +5177,7 @@
     "name": "SafeBLAST",
     "symbol": "BLAST",
     "decimals": 9,
-    "logoURI": "./arb/0xe0eb31082bbf8252f7425c6dd72a8c6b3bfbe99f.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xe0eb31082bbf8252f7425c6dd72a8c6b3bfbe99f.png"
   },
   {
     "chainId": 42161,
@@ -5177,7 +5187,7 @@
     "name": "Snow Leopard",
     "symbol": "SNL",
     "decimals": 18,
-    "logoURI": "./arb/0xc5a861787f3e173f2b004d5cfa6a717f5dc5484d.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xc5a861787f3e173f2b004d5cfa6a717f5dc5484d.png"
   },
   {
     "chainId": 42161,
@@ -5187,7 +5197,7 @@
     "name": "EthereumMax",
     "symbol": "EMAX",
     "decimals": 18,
-    "logoURI": "./arb/0x123389C2f0e9194d9bA98c21E63c375B67614108.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x123389C2f0e9194d9bA98c21E63c375B67614108.png"
   },
   {
     "chainId": 42161,
@@ -5197,7 +5207,7 @@
     "name": "AIPEOPLE",
     "symbol": "AIPEOPLE",
     "decimals": 6,
-    "logoURI": "./arb/0x72bd2bc9AD82C010434a5c4B5322aE18ac4f0087.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x72bd2bc9AD82C010434a5c4B5322aE18ac4f0087.png"
   },
   {
     "chainId": 42161,
@@ -5207,7 +5217,7 @@
     "name": "AISHIB",
     "symbol": "AISHIB",
     "decimals": 6,
-    "logoURI": "./arb/0xf1a82bfa7fceb8b8741e7e04a6b8efd348ca6393.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xf1a82bfa7fceb8b8741e7e04a6b8efd348ca6393.png"
   },
   {
     "chainId": 42161,
@@ -5217,7 +5227,7 @@
     "name": "alXAI",
     "symbol": "alXAI",
     "decimals": 18,
-    "logoURI": "./arb/0x4ac623237de0aa622b4fdf4da63cf97216371acf.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4ac623237de0aa622b4fdf4da63cf97216371acf.png"
   },
   {
     "chainId": 42161,
@@ -5227,7 +5237,7 @@
     "name": "BrickblockToken",
     "symbol": "BBK",
     "decimals": 18,
-    "logoURI": "./arb/0x9d95795f33bc541620d073c2511ddfb95145aa41.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x9d95795f33bc541620d073c2511ddfb95145aa41.png"
   },
   {
     "chainId": 42161,
@@ -5237,7 +5247,7 @@
     "name": "DEFI Top 5 Tokens Index",
     "symbol": "DEFI5",
     "decimals": 18,
-    "logoURI": "./arb/0xdeba25af35e4097146d7629055e0ec3c71706324.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xdeba25af35e4097146d7629055e0ec3c71706324.png"
   },
   {
     "chainId": 42161,
@@ -5247,7 +5257,7 @@
     "name": "Euro Union",
     "symbol": "EURC",
     "decimals": 18,
-    "logoURI": "./arb/0x31094ed0f645dbd5efb6aca5b9a05e8ee0efb386.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x31094ed0f645dbd5efb6aca5b9a05e8ee0efb386.png"
   },
   {
     "chainId": 42161,
@@ -5257,7 +5267,7 @@
     "name": "IDOSToken",
     "symbol": "IDOS",
     "decimals": 18,
-    "logoURI": "./arb/0x68731d6f14b827bbcffbebb62b19daa18de1d79c.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x68731d6f14b827bbcffbebb62b19daa18de1d79c.png"
   },
   {
     "chainId": 42161,
@@ -5267,7 +5277,7 @@
     "name": "Intelligent Monsters",
     "symbol": "IMON",
     "decimals": 18,
-    "logoURI": "./arb/0x9631be8566fC71d91970b10AcfdEe29F21Da6C27.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x9631be8566fC71d91970b10AcfdEe29F21Da6C27.png"
   },
   {
     "chainId": 42161,
@@ -5277,7 +5287,7 @@
     "name": "Liberty Finance Token",
     "symbol": "LIBFI",
     "decimals": 18,
-    "logoURI": "./arb/0x45cc3c0a3ae7355e0745de607691d188409f7a95.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x45cc3c0a3ae7355e0745de607691d188409f7a95.png"
   },
   {
     "chainId": 42161,
@@ -5287,7 +5297,7 @@
     "name": "Staked ACME",
     "symbol": "stACME",
     "decimals": 8,
-    "logoURI": "./arb/0x7AC168c81F4F3820Fa3F22603ce5864D6aB3C547.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7AC168c81F4F3820Fa3F22603ce5864D6aB3C547.png"
   },
   {
     "chainId": 42161,
@@ -5297,7 +5307,7 @@
     "name": "stXAI",
     "symbol": "stXAI",
     "decimals": 18,
-    "logoURI": "./arb/0xab5c23bdbe99d75a7ae4756e7ccefd0a97b37e78.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xab5c23bdbe99d75a7ae4756e7ccefd0a97b37e78.png"
   },
   {
     "chainId": 42161,
@@ -5307,6 +5317,6 @@
     "name": "Swaprum Token",
     "symbol": "SAPR",
     "decimals": 18,
-    "logoURI": "./arb/0x2aE25460c44d578E6f41aB900a7A5425b6492C16.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x2aE25460c44d578E6f41aB900a7A5425b6492C16.png"
   }
 ]

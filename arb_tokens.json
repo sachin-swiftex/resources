@@ -181,16 +181,6 @@
   },
   {
     "chainId": 42161,
-    "asset": "BlackRock USD Institutional Digital Liquidity Fund",
-    "type": "ERC-20",
-    "address": "0xa6525ae43edcd03dc08e775774dcabd3bb925872",
-    "name": "BlackRock USD Institutional Digital Liquidity Fund",
-    "symbol": "BUIDL",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xa6525ae43edcd03dc08e775774dcabd3bb925872.png"
-  },
-  {
-    "chainId": 42161,
     "asset": "Polkadot Token (Relay Chain)",
     "type": "ERC-20",
     "address": "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8",

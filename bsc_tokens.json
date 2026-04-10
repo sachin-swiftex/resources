@@ -351,16 +351,6 @@
   },
   {
     "chainId": 56,
-    "asset": "BlackRock USD Institutional Digital Liquidity Fund",
-    "type": "BEP-20",
-    "address": "0x2D5BdC96D9C8AabBDB38c9A27398513e7E5ef84F",
-    "name": "BlackRock USD Institutional Digital Liquidity Fund",
-    "symbol": "BUIDL",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x2D5BdC96D9C8AabBDB38c9A27398513e7E5ef84F.png"
-  },
-  {
-    "chainId": 56,
     "asset": "Binance-Peg Polkadot Token",
     "type": "BEP-20",
     "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",

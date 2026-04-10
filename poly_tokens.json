@@ -54,7 +54,7 @@
     "asset": "BlackRock USD Institutional Digital Liquidity Fund",
     "type": "ERC-20",
     "address": "0x2893ef551b6dd69f661ac00f11d93e5dc5dc0e99",
-    "name": "BlackRock USD Institutional Digital Liquidity Fund",
+    "name": "BUIDL",
     "symbol": "BUIDL",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/poly/0x2893ef551b6dd69f661ac00f11d93e5dc5dc0e99.png"
@@ -144,7 +144,7 @@
     "asset": "Ondo Short-Term U.S. Government Bond Fund",
     "type": "ERC-20",
     "address": "0xba11c5effa33c4d6f8f593cfa394241cfe925811",
-    "name": "Ondo Short-Term U.S. Government Bond Fund",
+    "name": "OUSG",
     "symbol": "OUSG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/poly/0xba11c5effa33c4d6f8f593cfa394241cfe925811.png"
@@ -214,7 +214,7 @@
     "asset": "Coinbase Wrapped Staked ETH (FXERC20)",
     "type": "ERC-20",
     "address": "0x4b4327db1600b8b1440163f667e199cef35385f5",
-    "name": "Coinbase Wrapped Staked ETH (FXERC20)",
+    "name": "Coinbase Wrapped Staked ETH",
     "symbol": "fxcbETH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/poly/0x4b4327db1600b8b1440163f667e199cef35385f5.png"
@@ -1644,7 +1644,7 @@
     "asset": "Hamilton Lane SCOPE Securitize Tokenized Feeder Fund LP",
     "type": "ERC-20",
     "address": "0x4c5ca366e26409845624e29b62c388a06961a792",
-    "name": "Hamilton Lane SCOPE Securitize Tokenized Feeder Fund LP",
+    "name": "HLSCOPE",
     "symbol": "HLSCOPE",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/poly/0x4c5ca366e26409845624e29b62c388a06961a792.png"
@@ -6104,7 +6104,7 @@
     "asset": "Spiko Digital Assets Cash and Carry Fund (EUR hedged)",
     "type": "ERC-20",
     "address": "0x99f70a0e1786402a6796c6b0aa997ef340a5c6da",
-    "name": "Spiko Digital Assets Cash and Carry Fund (EUR hedged)",
+    "name": "eurSPKCC",
     "symbol": "eurSPKCC",
     "decimals": 5,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/poly/0x99f70a0e1786402a6796c6b0aa997ef340a5c6da.png"
@@ -7354,7 +7354,7 @@
     "asset": "Franklin OnChain U.S. Government Money Fund",
     "type": "ERC-20",
     "address": "0x408a634b8a8f0de729b48574a3a7ec3fe820b00a",
-    "name": "Franklin OnChain U.S. Government Money Fund",
+    "name": "BENJI",
     "symbol": "BENJI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/poly/0x408a634b8a8f0de729b48574a3a7ec3fe820b00a.png"
@@ -8244,7 +8244,7 @@
     "asset": "Backed GOVIES 0-6 months EURO investment grade",
     "type": "ERC-20",
     "address": "0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7",
-    "name": "Backed GOVIES 0-6 months EURO investment grade",
+    "name": "bC3M",
     "symbol": "bC3M",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/poly/0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7.png"
@@ -8604,7 +8604,7 @@
     "asset": "Spiko Amundi Overnight Swap Fund (EUR)",
     "type": "ERC-20",
     "address": "0x272ea767712cc4839f4a27ee35eb73116158c8a2",
-    "name": "Spiko Amundi Overnight Swap Fund (EUR)",
+    "name": "Spiko Amundi Overnight Swap Fund",
     "symbol": "eurSAFO",
     "decimals": 5,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/poly/0x272ea767712cc4839f4a27ee35eb73116158c8a2.png"
@@ -8634,7 +8634,7 @@
     "asset": "Spiko Amundi Overnight Swap Fund (CHF)",
     "type": "ERC-20",
     "address": "0x9de2b2dcdcf43540e47143f28484b6d15118f089",
-    "name": "Spiko Amundi Overnight Swap Fund (CHF)",
+    "name": "Spiko Amundi Overnight Swap Fund",
     "symbol": "chfSAFO",
     "decimals": 5,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/poly/0x9de2b2dcdcf43540e47143f28484b6d15118f089.png"

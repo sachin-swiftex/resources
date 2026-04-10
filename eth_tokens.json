@@ -20574,7 +20574,7 @@
     "asset": "Vanguard Total Stock Market ETF (Ondo Tokenized)",
     "type": "ERC-20",
     "address": "0x57b392146848c6321bb2a3d4358df1bdeacdc62a",
-    "name": "Vanguard Total Stock Market ETF (Ondo Tokenized)",
+    "name": "Vanguard Total Stock Market ETF",
     "symbol": "VTIon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x57b392146848c6321bb2a3d4358df1bdeacdc62a.png"

@@ -904,7 +904,7 @@
     "asset": "Curve.fi Factory Plain Pool: Overnight/Curve",
     "type": "ERC-20",
     "address": "0xda3de145054ed30ee937865d31b500505c4bdfe7",
-    "name": "Curve.fi Factory Plain Pool: Overnight/Curve",
+    "name": "USD+crvUSD-f",
     "symbol": "USD+crvUSD-f",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0xda3de145054ed30ee937865d31b500505c4bdfe7.png"
@@ -6694,7 +6694,7 @@
     "asset": "Backed GOVIES 0-6 months EURO investment grade",
     "type": "ERC-20",
     "address": "0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7",
-    "name": "Backed GOVIES 0-6 months EURO investment grade",
+    "name": "bC3M",
     "symbol": "bC3M",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7.png"
@@ -7574,7 +7574,7 @@
     "asset": "Aaavegotchi Autonomous Agent by Virtuals",
     "type": "ERC-20",
     "address": "0x5cf8338e74374eab368784900d6aeca460afa9aa",
-    "name": "Aaavegotchi Autonomous Agent by Virtuals",
+    "name": "Aaavegotchi Autonomous Agent",
     "symbol": "GOTCHI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0x5cf8338e74374eab368784900d6aeca460afa9aa.png"

@@ -1424,7 +1424,7 @@
     "asset": "Impossible Decentralized Incubator Access Token",
     "type": "ERC-20",
     "address": "0xd91903d548f19c0fc0a6b9ed09d2f72b4dfe7144",
-    "name": "Impossible Decentralized Incubator Access Token",
+    "name": "IDIA",
     "symbol": "IDIA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xd91903d548f19c0fc0a6b9ed09d2f72b4dfe7144.png"
@@ -3964,7 +3964,7 @@
     "asset": "Backed GOVIES 0-6 months EURO investment grade",
     "type": "ERC-20",
     "address": "0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7",
-    "name": "Backed GOVIES 0-6 months EURO investment grade",
+    "name": "bC3M",
     "symbol": "bC3M",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7.png"

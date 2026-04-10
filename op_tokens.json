@@ -134,7 +134,7 @@
     "asset": "BlackRock USD Institutional Digital Liquidity Fund",
     "type": "ERC-20",
     "address": "0xa1cdab15bba75a80df4089cafba013e376957cf5",
-    "name": "BlackRock USD Institutional Digital Liquidity Fund",
+    "name": "BUIDL",
     "symbol": "BUIDL",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xa1cdab15bba75a80df4089cafba013e376957cf5.png"

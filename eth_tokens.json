@@ -17731,16 +17731,6 @@
   },
   {
     "chainId": 1,
-    "asset": "Vanguard Value ETF (Ondo Tokenized)",
-    "type": "ERC-20",
-    "address": "0x84e8f1b9b40dd1832925702459d12ffb14d97bf3",
-    "name": "Vanguard Value ETF (Ondo Tokenized)",
-    "symbol": "VTVon",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x84e8f1b9b40dd1832925702459d12ffb14d97bf3.png"
-  },
-  {
-    "chainId": 1,
     "asset": "Compound ChainLink Token",
     "type": "ERC-20",
     "address": "0xface851a4921ce59e912d19329929ce6da6eb0c7",

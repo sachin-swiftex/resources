@@ -304,7 +304,7 @@
     "asset": "BlackRock USD Institutional Digital Liquidity Fund",
     "type": "ERC-20",
     "address": "0x7712c34205737192402172409a8f7ccef8aa2aec",
-    "name": "BlackRock USD Institutional Digital Liquidity Fund",
+    "name": "BUIDL",
     "symbol": "BUIDL",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x7712c34205737192402172409a8f7ccef8aa2aec.png"
@@ -314,7 +314,7 @@
     "asset": "BlackRock USD Institutional Digital Liquidity Fund - I Class",
     "type": "ERC-20",
     "address": "0x6a9DA2D710BB9B700acde7Cb81F10F1fF8C89041",
-    "name": "BlackRock USD Institutional Digital Liquidity Fund - I Class",
+    "name": "BUIDL - I Class",
     "symbol": "BUIDL-I",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x6a9DA2D710BB9B700acde7Cb81F10F1fF8C89041.png"
@@ -591,16 +591,6 @@
   },
   {
     "chainId": 1,
-    "asset": "Superstate Short Duration US Government Securities Fund",
-    "type": "ERC-20",
-    "address": "0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e",
-    "name": "Superstate Short Duration US Government Securities Fund",
-    "symbol": "USTB",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x43415eB6ff9DB7E26A15b704e7A3eDCe97d31C4e.png"
-  },
-  {
-    "chainId": 1,
     "asset": "Polygon Ecosystem Token",
     "type": "ERC-20",
     "address": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
@@ -764,7 +754,7 @@
     "asset": "Ondo Short-Term U.S. Government Bond Fund",
     "type": "ERC-20",
     "address": "0x1b19c19393e2d034d8ff31ff34c81252fcbbee92",
-    "name": "Ondo Short-Term U.S. Government Bond Fund",
+    "name": "Ondo Short-Term U.S. Gov. Bond Fund",
     "symbol": "OUSG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x1b19c19393e2d034d8ff31ff34c81252fcbbee92.png"
@@ -1258,16 +1248,6 @@
     "symbol": "kBTC",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98.png"
-  },
-  {
-    "chainId": 1,
-    "asset": "(Wormhole)",
-    "type": "ERC-20",
-    "address": "0x756bfb452cfe36a5bc82e4f5f4261a89a18c242b",
-    "name": "",
-    "symbol": "",
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x756bfb452cfe36a5bc82e4f5f4261a89a18c242b.png"
   },
   {
     "chainId": 1,
@@ -3941,16 +3921,6 @@
   },
   {
     "chainId": 1,
-    "asset": "Staked Memecoin",
-    "type": "ERC-20",
-    "address": "0xc059a531b4234d05e9ef4ac51028f7e6156e2cce",
-    "name": "Staked Memecoin",
-    "symbol": "",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xc059a531b4234d05e9ef4ac51028f7e6156e2cce.png"
-  },
-  {
-    "chainId": 1,
     "asset": "Hive Token",
     "type": "ERC-20",
     "address": "0x6b6b78672795d079a3697a987e1da5cb3d8eae38",
@@ -4944,7 +4914,7 @@
     "asset": "iShares Core S&P 500 ETF (Ondo Tokenized)",
     "type": "ERC-20",
     "address": "0x62cA254a363dc3c748e7E955c20447aB5bF06fF7",
-    "name": "iShares Core S&P 500 ETF (Ondo Tokenized)",
+    "name": "iShares Core S&P 500 ETF",
     "symbol": "IVVon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x62cA254a363dc3c748e7E955c20447aB5bF06fF7.png"
@@ -5331,16 +5301,6 @@
   },
   {
     "chainId": 1,
-    "asset": "iShares 20+ Year Treasury Bond ETF (Ondo Tokenized)",
-    "type": "ERC-20",
-    "address": "0x992651bfeb9a0dcc4457610e284ba66d86489d4d",
-    "name": "iShares 20+ Year Treasury Bond ETF (Ondo Tokenized)",
-    "symbol": "TLTon",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x992651bfeb9a0dcc4457610e284ba66d86489d4d.png"
-  },
-  {
-    "chainId": 1,
     "asset": "Aurora",
     "type": "ERC-20",
     "address": "0xaaaaaa20d9e0e2461697782ef11675f668207961",
@@ -5594,7 +5554,7 @@
     "asset": "iShares Core MSCI EAFE ETF (Ondo Tokenized)",
     "type": "ERC-20",
     "address": "0xFEFf7a377A86462F5a2A872009722C154707F09e",
-    "name": "iShares Core MSCI EAFE ETF (Ondo Tokenized)",
+    "name": "IEFAon",
     "symbol": "IEFAon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xFEFf7a377A86462F5a2A872009722C154707F09e.png"
@@ -5774,7 +5734,7 @@
     "asset": "iShares Core US Aggregate Bond ETF (Ondo Tokenized)",
     "type": "ERC-20",
     "address": "0xfF7CF16aA2fFc463b996DB2f7B7cf0130336899D",
-    "name": "iShares Core US Aggregate Bond ETF (Ondo Tokenized)",
+    "name": "iShares Core US Aggregate Bond ETF",
     "symbol": "AGGon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xfF7CF16aA2fFc463b996DB2f7B7cf0130336899D.png"
@@ -5974,7 +5934,7 @@
     "asset": "Plasma syrupUSD Pre-deposit Midas Vault",
     "type": "ERC-20",
     "address": "0x2fE058CcF29f123f9dd2aEC0418AA66a877d8E50",
-    "name": "Plasma syrupUSD Pre-deposit Midas Vault",
+    "name": "Plasma syrupUSD Pre-deposit Midas",
     "symbol": "msyrupUSDp",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x2fE058CcF29f123f9dd2aEC0418AA66a877d8E50.png"
@@ -6284,7 +6244,7 @@
     "asset": "iShares Core S&P Total US Stock Market ETF (Ondo Tokenized)",
     "type": "ERC-20",
     "address": "0x0692481C369E2BDc728A69ae31b848343a4567Be",
-    "name": "iShares Core S&P Total US Stock Market ETF (Ondo Tokenized)",
+    "name": "ITOTon",
     "symbol": "ITOTon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x0692481C369E2BDc728A69ae31b848343a4567Be.png"
@@ -6944,7 +6904,7 @@
     "asset": "iShares Core MSCI Emerging Markets ETF (Ondo Tokenized)",
     "type": "ERC-20",
     "address": "0xcdd60d15125bf3362b6838d2506b0fa33bc1a515",
-    "name": "iShares Core MSCI Emerging Markets ETF (Ondo Tokenized)",
+    "name": "IEMGon",
     "symbol": "IEMGon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xcdd60d15125bf3362b6838d2506b0fa33bc1a515.png"
@@ -7034,7 +6994,7 @@
     "asset": "iShares Russell 1000 Growth ETF (Ondo Tokenized)",
     "type": "ERC-20",
     "address": "0x8d05432C2786e3F93f1a9A62b9572DBf54f3ea06",
-    "name": "iShares Russell 1000 Growth ETF (Ondo Tokenized)",
+    "name": "iShares Russell 1000 Growth ETF",
     "symbol": "IWFon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x8d05432C2786e3F93f1a9A62b9572DBf54f3ea06.png"
@@ -7224,7 +7184,7 @@
     "asset": "Impossible Decentralized Incubator Access Token",
     "type": "ERC-20",
     "address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
-    "name": "Impossible Decentralized Incubator Access Token",
+    "name": "IDIA",
     "symbol": "IDIA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89.png"
@@ -7754,7 +7714,7 @@
     "asset": "iShares MSCI Emerging Markets ETF (Ondo Tokenized)",
     "type": "ERC-20",
     "address": "0x77A1a02e4a888ADA8620b93C30dE8a41E621126c",
-    "name": "iShares MSCI Emerging Markets ETF (Ondo Tokenized)",
+    "name": "iShares MSCI Emerging Markets ETF",
     "symbol": "EEMon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x77A1a02e4a888ADA8620b93C30dE8a41E621126c.png"
@@ -8524,7 +8484,7 @@
     "asset": "Hamilton Lane SCOPE Securitize Tokenized Feeder Fund LP",
     "type": "ERC-20",
     "address": "0xda2ffa104356688e74d9340519b8c17f00d7752e",
-    "name": "Hamilton Lane SCOPE Securitize Tokenized Feeder Fund LP",
+    "name": "HLSCOPE",
     "symbol": "HLSCOPE",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xda2ffa104356688e74d9340519b8c17f00d7752e.png"
@@ -8604,7 +8564,7 @@
     "asset": "iShares Russell 2000 Value ETF (Ondo Tokenized)",
     "type": "ERC-20",
     "address": "0x9DCf7f739B8C0270E2FC0Cc8D0DaBe355a150dBa",
-    "name": "iShares Russell 2000 Value ETF (Ondo Tokenized)",
+    "name": "iShares Russell 2000 Value ETF",
     "symbol": "IWNon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x9DCf7f739B8C0270E2FC0Cc8D0DaBe355a150dBa.png"
@@ -8908,16 +8868,6 @@
     "symbol": "WBUY",
     "decimals": 2,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x396ec402b42066864c406d1ac3bc86b575003ed8.png"
-  },
-  {
-    "chainId": 1,
-    "asset": "Star Atlas (Wormhole)",
-    "type": "ERC-20",
-    "address": "0xb9f747162ab1e95d07361f9048bcdf6edda9eea7",
-    "name": "",
-    "symbol": "",
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xb9f747162ab1e95d07361f9048bcdf6edda9eea7.png"
   },
   {
     "chainId": 1,
@@ -9318,16 +9268,6 @@
     "symbol": "KOon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x74a03d741226f738098C35da8188E57acA50d146.png"
-  },
-  {
-    "chainId": 1,
-    "asset": "Taiwan Semiconductor Manufacturing (Ondo Tokenized)",
-    "type": "ERC-20",
-    "address": "0x3Cafdbfe682aec17d5acE2f97A2f3ab3dCf6a4A9",
-    "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized)",
-    "symbol": "TSMon",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x3Cafdbfe682aec17d5acE2f97A2f3ab3dCf6a4A9.png"
   },
   {
     "chainId": 1,
@@ -9794,7 +9734,7 @@
     "asset": "iShares Russell 2000 ETF (Ondo Tokenized)",
     "type": "ERC-20",
     "address": "0x070D79021dD7e841123cB0CF554993bF683c511D",
-    "name": "iShares Russell 2000 ETF (Ondo Tokenized)",
+    "name": "iShares Russell 2000 ETF",
     "symbol": "IWMon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x070D79021dD7e841123cB0CF554993bF683c511D.png"
@@ -10034,7 +9974,7 @@
     "asset": "iShares Core S&P MidCap ETF (Ondo Tokenized)",
     "type": "ERC-20",
     "address": "0xFd50Fc4E3686a8DA814c5C3D6121d8aB98a537F0",
-    "name": "iShares Core S&P MidCap ETF (Ondo Tokenized)",
+    "name": "IJHon",
     "symbol": "IJHon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xFd50Fc4E3686a8DA814c5C3D6121d8aB98a537F0.png"
@@ -11458,16 +11398,6 @@
     "symbol": "SRM",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF.png"
-  },
-  {
-    "chainId": 1,
-    "asset": "Serum",
-    "type": "ERC-20",
-    "address": "0xe3adaa4fb7c92ab833ee08b3561d9c434aa2a3ee",
-    "name": "",
-    "symbol": "",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xe3adaa4fb7c92ab833ee08b3561d9c434aa2a3ee.png"
   },
   {
     "chainId": 1,
@@ -13504,7 +13434,7 @@
     "asset": "iBoxx $ High Yield Corporate Bond ETF (Ondo Tokenized)",
     "type": "ERC-20",
     "address": "0xed3618bb8778f8ebbe2f241da532227591771d04",
-    "name": "iBoxx $ High Yield Corporate Bond ETF (Ondo Tokenized)",
+    "name": "HYGon",
     "symbol": "HYGon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xed3618bb8778f8ebbe2f241da532227591771d04.png"
@@ -13608,16 +13538,6 @@
     "symbol": "CRMon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x55720eF5b023Fd043AE5F8D2e526030207978950.png"
-  },
-  {
-    "chainId": 1,
-    "asset": "ProShares UltraPro QQQ (Ondo Tokenized)",
-    "type": "ERC-20",
-    "address": "0xa45cd7ac9865b9539166ebaf2abc362df4736580",
-    "name": "ProShares UltraPro QQQ (Ondo Tokenized)",
-    "symbol": "TQQQon",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xa45cd7ac9865b9539166ebaf2abc362df4736580.png"
   },
   {
     "chainId": 1,
@@ -14404,7 +14324,7 @@
     "asset": "Apollo Global Management (Ondo Tokenized)",
     "type": "ERC-20",
     "address": "0x4D21aFfD27183B07335935F81A5C26b6A5A15355",
-    "name": "Apollo Global Management (Ondo Tokenized)",
+    "name": "Apollo Global Management",
     "symbol": "APOon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x4D21aFfD27183B07335935F81A5C26b6A5A15355.png"
@@ -15544,7 +15464,7 @@
     "asset": "abrdn Physical Palladium Shares ETF (Ondo Tokenized)",
     "type": "ERC-20",
     "address": "0x0ce36d199bd6851788e03392568849394cbde722",
-    "name": "abrdn Physical Palladium Shares ETF (Ondo Tokenized)",
+    "name": "abrdn Physical Palladium Shares ETF",
     "symbol": "PALLon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x0ce36d199bd6851788e03392568849394cbde722.png"
@@ -26064,7 +25984,7 @@
     "asset": "American Airlines Group (Ondo Tokenized)",
     "type": "ERC-20",
     "address": "0xbe8eb7b51a08f9d52bb6c8c7eca699f0f89bfc02",
-    "name": "American Airlines Group (Ondo Tokenized)",
+    "name": "American Airlines Group",
     "symbol": "AALon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xbe8eb7b51a08f9d52bb6c8c7eca699f0f89bfc02.png"
@@ -29504,7 +29424,7 @@
     "asset": "Blockchain Cuties Universe Governance Token",
     "type": "ERC-20",
     "address": "0x14da7b27b2e0fedefe0a664118b0c9bc68e2e9af",
-    "name": "Blockchain Cuties Universe Governance Token",
+    "name": "BCUG",
     "symbol": "BCUG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x14da7b27b2e0fedefe0a664118b0c9bc68e2e9af.png"
@@ -29918,16 +29838,6 @@
     "symbol": "CRDT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xDaab5E695bb0E8Ce8384ee56BA38fA8290618e52.png"
-  },
-  {
-    "chainId": 1,
-    "asset": "WisdomTree Floating Rate Treasury Fund (Ondo Tokenized)",
-    "type": "ERC-20",
-    "address": "0xfb82561a955bf59b9263301126af490d3799e231",
-    "name": "WisdomTree Floating Rate Treasury Fund (Ondo Tokenized)",
-    "symbol": "USFRon",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xfb82561a955bf59b9263301126af490d3799e231.png"
   },
   {
     "chainId": 1,

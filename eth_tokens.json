@@ -7,7 +7,7 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0X0000000000000000000000000000000000000000.png",
-    "type":"NATIVE"
+    "type": "NATIVE"
   },
   {
     "chainId": 1,
@@ -34,7 +34,7 @@
     "asset": "USDC",
     "type": "ERC-20",
     "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-    "name": "USDC",
+    "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
@@ -44,7 +44,7 @@
     "asset": "stETH",
     "type": "ERC-20",
     "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
-    "name": "stETH",
+    "name": "Liquid staked Ether 2.0",
     "symbol": "stETH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xae7ab96520de3a18e5e111b5eaab095312d7fe84.png"
@@ -264,7 +264,7 @@
     "asset": "Cronos Coin",
     "type": "ERC-20",
     "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
-    "name": "Cronos Coin",
+    "name": "CRO",
     "symbol": "CRO",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b.png"
@@ -704,7 +704,7 @@
     "asset": "Lombard Staked BTC",
     "type": "ERC-20",
     "address": "0x8236a87084f8b84306f72007f36f2618a5634494",
-    "name": "Lombard Staked BTC",
+    "name": "Lombard Staked Bitcoin",
     "symbol": "LBTC",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x8236a87084f8b84306f72007f36f2618a5634494.png"
@@ -724,7 +724,7 @@
     "asset": "FunctionBTC",
     "type": "ERC-20",
     "address": "0xc96de26018a54d51c097160568752c4e3bd6c364",
-    "name": "FunctionBTC",
+    "name": "Fire Bitcoin",
     "symbol": "FBTC",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xc96de26018a54d51c097160568752c4e3bd6c364.png"
@@ -744,7 +744,7 @@
     "asset": "Ethena",
     "type": "ERC-20",
     "address": "0x57e114B691Db790C35207b2e685D4A43181e6061",
-    "name": "Ethena",
+    "name": "ENA",
     "symbol": "ENA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x57e114B691Db790C35207b2e685D4A43181e6061.png"
@@ -784,7 +784,7 @@
     "asset": "VeChain",
     "type": "ERC-20",
     "address": "0xd850942ef8811f2a866692a623011bde52a462c1",
-    "name": "VeChain",
+    "name": "VeChain Token",
     "symbol": "VEN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xd850942ef8811f2a866692a623011bde52a462c1.png"
@@ -824,7 +824,7 @@
     "asset": "GHO Token",
     "type": "ERC-20",
     "address": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
-    "name": "GHO Token",
+    "name": "Gho Token",
     "symbol": "GHO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f.png"
@@ -934,8 +934,8 @@
     "asset": "ezETH",
     "type": "ERC-20",
     "address": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
-    "name": "ezETH",
-    "symbol": "Renzo Restaked ETH",
+    "name": "Renzo Restaked ETH",
+    "symbol": "ezETH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xbf5495Efe5DB9ce00f80364C8B423567e58d2110.png"
   },
@@ -954,7 +954,7 @@
     "asset": "EURC",
     "type": "ERC-20",
     "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
-    "name": "EURC",
+    "name": "Euro Coin",
     "symbol": "EURC",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c.png"
@@ -1074,7 +1074,7 @@
     "asset": "AINFT",
     "type": "ERC-20",
     "address": "0x198d14f2ad9ce69e76ea330b374de4957c3f850a",
-    "name": "AINFT",
+    "name": "APENFT",
     "symbol": "NFT",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x198d14f2ad9ce69e76ea330b374de4957c3f850a.png"
@@ -1084,7 +1084,7 @@
     "asset": "Gnosis",
     "type": "ERC-20",
     "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
-    "name": "Gnosis",
+    "name": "Gnosis Token",
     "symbol": "GNO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x6810e776880c02933d47db1b9fc05908e5386b96.png"
@@ -1264,7 +1264,7 @@
     "asset": "(Wormhole)",
     "type": "ERC-20",
     "address": "0x756bfb452cfe36a5bc82e4f5f4261a89a18c242b",
-    "name": "(Wormhole)",
+    "name": "",
     "symbol": "",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x756bfb452cfe36a5bc82e4f5f4261a89a18c242b.png"
@@ -1404,7 +1404,7 @@
     "asset": "Starknet Token",
     "type": "ERC-20",
     "address": "0xca14007eff0db1f8135f4c25b34de49ab0d42766",
-    "name": "Starknet Token",
+    "name": "StarkNet Token",
     "symbol": "STRK",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xca14007eff0db1f8135f4c25b34de49ab0d42766.png"
@@ -1444,7 +1444,7 @@
     "asset": "SwissBorg",
     "type": "ERC-20",
     "address": "0xba9d4199fab4f26efe3551d490e3821486f135ba",
-    "name": "SwissBorg",
+    "name": "SwissBorg Token",
     "symbol": "CHSB",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xba9d4199fab4f26efe3551d490e3821486f135ba.png"
@@ -1464,7 +1464,7 @@
     "asset": "Onyxcoin",
     "type": "ERC-20",
     "address": "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18",
-    "name": "Onyxcoin",
+    "name": "Chain",
     "symbol": "XCN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18.png"
@@ -1524,7 +1524,7 @@
     "asset": "Decentraland",
     "type": "ERC-20",
     "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
-    "name": "Decentraland",
+    "name": "Decentraland MANA",
     "symbol": "MANA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x0f5d2fb29fb7d3cfee444a200298f468908cc942.png"
@@ -1634,7 +1634,7 @@
     "asset": "BAT",
     "type": "ERC-20",
     "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
-    "name": "BAT",
+    "name": "Basic Attention Token",
     "symbol": "BAT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x0d8775f648430679a709e98d2b0cb6250d2887ef.png"
@@ -1704,7 +1704,7 @@
     "asset": "Trace",
     "type": "ERC-20",
     "address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
-    "name": "Trace",
+    "name": "Trace Token",
     "symbol": "TRAC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f.png"
@@ -2094,7 +2094,7 @@
     "asset": "ZRX",
     "type": "ERC-20",
     "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
-    "name": "ZRX",
+    "name": "0x Protocol Token",
     "symbol": "ZRX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xe41d2489571d322189246dafa5ebde1f4699f498.png"
@@ -2344,7 +2344,7 @@
     "asset": "Wrapped ROSE (Wormhole)",
     "type": "ERC-20",
     "address": "0x26b80fbfc01b71495f477d5237071242e0d959d7",
-    "name": "Wrapped ROSE (Wormhole)",
+    "name": "Wrapped ROSE",
     "symbol": "wROSE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x26b80fbfc01b71495f477d5237071242e0d959d7.png"
@@ -2454,7 +2454,7 @@
     "asset": "Renzo Restaked LST",
     "type": "ERC-20",
     "address": "0x8c9532a60e0e7c6bbd2b2c1303f63ace1c3e9811",
-    "name": "Renzo Restaked LST",
+    "name": "Renzo Restaked LST ",
     "symbol": "pzETH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x8c9532a60e0e7c6bbd2b2c1303f63ace1c3e9811.png"
@@ -2464,7 +2464,7 @@
     "asset": "ELF",
     "type": "ERC-20",
     "address": "0xbf2179859fc6d5bee9bf9158632dc51678a4100e",
-    "name": "ELF",
+    "name": "ELF Token",
     "symbol": "ELF",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xbf2179859fc6d5bee9bf9158632dc51678a4100e.png"
@@ -2524,7 +2524,7 @@
     "asset": "SuperVerse",
     "type": "ERC-20",
     "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
-    "name": "SuperVerse",
+    "name": "SuperFarm",
     "symbol": "SUPER",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55.png"
@@ -2894,7 +2894,7 @@
     "asset": "Zedxion",
     "type": "ERC-20",
     "address": "0xbafdabadcf19d0cfbbe0ab9c69cf050d86ff888c",
-    "name": "Zedxion",
+    "name": "Zedxion ",
     "symbol": "Zedxion",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xbafdabadcf19d0cfbbe0ab9c69cf050d86ff888c.png"
@@ -2984,7 +2984,7 @@
     "asset": "Request",
     "type": "ERC-20",
     "address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
-    "name": "Request",
+    "name": "Request Token",
     "symbol": "REQ",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x8f8221afbb33998d8584a2b05749ba73c37a938a.png"
@@ -3014,7 +3014,7 @@
     "asset": "mTBILL",
     "type": "ERC-20",
     "address": "0xDD629E5241CbC5919847783e6C96B2De4754e438",
-    "name": "mTBILL",
+    "name": "Midas US Treasury Bill Token",
     "symbol": "mTBILL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xDD629E5241CbC5919847783e6C96B2De4754e438.png"
@@ -3324,7 +3324,7 @@
     "asset": "Rocket Pool",
     "type": "ERC-20",
     "address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
-    "name": "Rocket Pool",
+    "name": "Rocket Pool Protocol",
     "symbol": "RPL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xd33526068d116ce69f19a9ee46f0bd304f21a51f.png"
@@ -3364,7 +3364,7 @@
     "asset": "StatusNetwork",
     "type": "ERC-20",
     "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
-    "name": "StatusNetwork",
+    "name": "Status Network Token",
     "symbol": "SNT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x744d70fdbe2ba4cf95131626614a1763df805b9e.png"
@@ -3394,7 +3394,7 @@
     "asset": "EnjinCoin",
     "type": "ERC-20",
     "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
-    "name": "EnjinCoin",
+    "name": "Enjin Coin",
     "symbol": "ENJ",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c.png"
@@ -3664,7 +3664,7 @@
     "asset": "BLOCKv",
     "type": "ERC-20",
     "address": "0x340d2bde5eb28c1eed91b2f790723e3b160613b7",
-    "name": "BLOCKv",
+    "name": "BLOCKv Token",
     "symbol": "VEE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x340d2bde5eb28c1eed91b2f790723e3b160613b7.png"
@@ -3704,7 +3704,7 @@
     "asset": "Celo Dollar (Wormhole)",
     "type": "ERC-20",
     "address": "0xC22956c3CFeC3Ee9A9925abeE044F05Bc47f6632",
-    "name": "Celo Dollar (Wormhole)",
+    "name": "Celo Dollar",
     "symbol": "cUSD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xC22956c3CFeC3Ee9A9925abeE044F05Bc47f6632.png"
@@ -3744,7 +3744,7 @@
     "asset": "LON Token",
     "type": "ERC-20",
     "address": "0x0000000000095413afc295d19edeb1ad7b71c952",
-    "name": "LON Token",
+    "name": "Tokenlon",
     "symbol": "LON",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x0000000000095413afc295d19edeb1ad7b71c952.png"
@@ -3884,7 +3884,7 @@
     "asset": "WOO",
     "type": "ERC-20",
     "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
-    "name": "WOO",
+    "name": "Wootrade Network",
     "symbol": "WOO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x4691937a7508860f876c9c0a2a617e7d9e945d4b.png"
@@ -3914,7 +3914,7 @@
     "asset": "Bancor",
     "type": "ERC-20",
     "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
-    "name": "Bancor",
+    "name": "Bancor Network Token",
     "symbol": "BNT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c.png"
@@ -3945,7 +3945,7 @@
     "type": "ERC-20",
     "address": "0xc059a531b4234d05e9ef4ac51028f7e6156e2cce",
     "name": "Staked Memecoin",
-    "symbol": "sMEME",
+    "symbol": "",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xc059a531b4234d05e9ef4ac51028f7e6156e2cce.png"
   },
@@ -4044,7 +4044,7 @@
     "asset": "TORN Token",
     "type": "ERC-20",
     "address": "0x77777feddddffc19ff86db637967013e6c6a116c",
-    "name": "TORN Token",
+    "name": "TornadoCash",
     "symbol": "TORN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x77777feddddffc19ff86db637967013e6c6a116c.png"
@@ -4074,7 +4074,7 @@
     "asset": "RLC",
     "type": "ERC-20",
     "address": "0x607F4C5BB672230e8672085532f7e901544a7375",
-    "name": "RLC",
+    "name": "iEx.ec Network Token",
     "symbol": "RLC",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x607F4C5BB672230e8672085532f7e901544a7375.png"
@@ -4144,7 +4144,7 @@
     "asset": "WAX Token",
     "type": "ERC-20",
     "address": "0x39bb259f66e1c59d5abef88375979b4d20d98022",
-    "name": "WAX Token",
+    "name": "Wax Token",
     "symbol": "WAX",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x39bb259f66e1c59d5abef88375979b4d20d98022.png"
@@ -4504,7 +4504,7 @@
     "asset": "CargoX",
     "type": "ERC-20",
     "address": "0xb6ee9668771a79be7967ee29a63d4184f8097143",
-    "name": "CargoX",
+    "name": "CargoX Token",
     "symbol": "CXO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xb6ee9668771a79be7967ee29a63d4184f8097143.png"
@@ -4794,7 +4794,7 @@
     "asset": "Amber",
     "type": "ERC-20",
     "address": "0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce",
-    "name": "Amber",
+    "name": "Amber Token",
     "symbol": "AMB",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce.png"
@@ -4964,7 +4964,7 @@
     "asset": "Galxe",
     "type": "ERC-20",
     "address": "0x5faa989af96af85384b8a938c2ede4a7378d9875",
-    "name": "Galxe",
+    "name": "Project Galaxy",
     "symbol": "GAL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x5faa989af96af85384b8a938c2ede4a7378d9875.png"
@@ -5154,7 +5154,7 @@
     "asset": "HUNT Token",
     "type": "ERC-20",
     "address": "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5",
-    "name": "HUNT Token",
+    "name": "HuntToken",
     "symbol": "HUNT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5.png"
@@ -5834,7 +5834,7 @@
     "asset": "Storj",
     "type": "ERC-20",
     "address": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac",
-    "name": "Storj",
+    "name": "StorjToken",
     "symbol": "STORJ",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac.png"
@@ -5884,7 +5884,7 @@
     "asset": "",
     "type": "ERC-20",
     "address": "0xec6432b90e7fd4d9f872cc5c781f05b617db861e",
-    "name": "",
+    "name": "Decimalchain",
     "symbol": "DEL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xec6432b90e7fd4d9f872cc5c781f05b617db861e.png"
@@ -6264,7 +6264,7 @@
     "asset": "AdEx",
     "type": "ERC-20",
     "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
-    "name": "AdEx",
+    "name": "AdEx Network",
     "symbol": "ADX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xADE00C28244d5CE17D72E40330B1c318cD12B7c3.png"
@@ -6655,7 +6655,7 @@
     "type": "ERC-20",
     "address": "0xc71b5f631354be6853efe9c3ab6b9590f8302e81",
     "name": "Polyhedra Network",
-    "symbol": "ZKJ",
+    "symbol": "ZK",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xc71b5f631354be6853efe9c3ab6b9590f8302e81.png"
   },
@@ -6734,7 +6734,7 @@
     "asset": "Treehouse",
     "type": "ERC-20",
     "address": "0x77146784315ba81904d654466968e3a7c196d1f3",
-    "name": "Treehouse",
+    "name": "Treehouse Token",
     "symbol": "TREE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x77146784315ba81904d654466968e3a7c196d1f3.png"
@@ -7184,7 +7184,7 @@
     "asset": "OMG Network",
     "type": "ERC-20",
     "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
-    "name": "OMG Network",
+    "name": "OMGToken",
     "symbol": "OMG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07.png"
@@ -7494,7 +7494,7 @@
     "asset": "MCDEX Token",
     "type": "ERC-20",
     "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
-    "name": "MCDEX Token",
+    "name": "MUX Protocol",
     "symbol": "MCB",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42.png"
@@ -7684,7 +7684,7 @@
     "asset": "NimiqNetwork",
     "type": "ERC-20",
     "address": "0xcfb98637bcae43C13323EAa1731cED2B716962fD",
-    "name": "NimiqNetwork",
+    "name": "Nimiq Network Interim Token",
     "symbol": "NET",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xcfb98637bcae43C13323EAa1731cED2B716962fD.png"
@@ -8124,7 +8124,7 @@
     "asset": "district0x",
     "type": "ERC-20",
     "address": "0x0abdace70d3790235af448c88547603b945604ea",
-    "name": "district0x",
+    "name": "district0x Network Token",
     "symbol": "DNT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x0abdace70d3790235af448c88547603b945604ea.png"
@@ -8304,7 +8304,7 @@
     "asset": "/send",
     "type": "ERC-20",
     "address": "0x3f14920c99beb920afa163031c4e47a3e03b3e4a",
-    "name": "/send",
+    "name": "Send Token",
     "symbol": "send",
     "decimals": 0,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x3f14920c99beb920afa163031c4e47a3e03b3e4a.png"
@@ -8394,8 +8394,8 @@
     "asset": "Wrapped LUNC Token",
     "type": "ERC-20",
     "address": "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9",
-    "name": "Wrapped LUNC Token",
-    "symbol": "LUNC",
+    "name": "Wrapped LUNA Token",
+    "symbol": "LUNA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9.png"
   },
@@ -8644,7 +8644,7 @@
     "asset": "Bluzelle",
     "type": "ERC-20",
     "address": "0x5732046a883704404f284ce41ffadd5b007fd668",
-    "name": "Bluzelle",
+    "name": "Bluzelle Token",
     "symbol": "BLZ",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x5732046a883704404f284ce41ffadd5b007fd668.png"
@@ -8664,7 +8664,7 @@
     "asset": "SAN",
     "type": "ERC-20",
     "address": "0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098",
-    "name": "SAN",
+    "name": "SANtiment network token",
     "symbol": "SAN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098.png"
@@ -8914,8 +8914,8 @@
     "asset": "Star Atlas (Wormhole)",
     "type": "ERC-20",
     "address": "0xb9f747162ab1e95d07361f9048bcdf6edda9eea7",
-    "name": "Star Atlas (Wormhole)",
-    "symbol": "ATLAS",
+    "name": "",
+    "symbol": "",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xb9f747162ab1e95d07361f9048bcdf6edda9eea7.png"
   },
@@ -8964,7 +8964,7 @@
     "asset": "Loom",
     "type": "ERC-20",
     "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
-    "name": "Loom",
+    "name": "LoomToken",
     "symbol": "LOOM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0.png"
@@ -9044,7 +9044,7 @@
     "asset": "Celo Euro (Wormhole)",
     "type": "ERC-20",
     "address": "0xee586e7eaad39207f0549bc65f19e336942c992f",
-    "name": "Celo Euro (Wormhole)",
+    "name": "Celo Euro",
     "symbol": "cEUR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xee586e7eaad39207f0549bc65f19e336942c992f.png"
@@ -9444,7 +9444,7 @@
     "asset": "Republic",
     "type": "ERC-20",
     "address": "0x408e41876cccdc0f92210600ef50372656052a38",
-    "name": "Republic",
+    "name": "Republic Token",
     "symbol": "REN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x408e41876cccdc0f92210600ef50372656052a38.png"
@@ -9514,7 +9514,7 @@
     "asset": "Panther",
     "type": "ERC-20",
     "address": "0x909E34d3f6124C324ac83DccA84b74398a6fa173",
-    "name": "Panther",
+    "name": "$ZKP Token",
     "symbol": "$ZKP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x909E34d3f6124C324ac83DccA84b74398a6fa173.png"
@@ -9624,7 +9624,7 @@
     "asset": "Kendu",
     "type": "ERC-20",
     "address": "0xaa95f26e30001251fb905d264aa7b00ee9df6c18",
-    "name": "Kendu",
+    "name": "Kendu Inu",
     "symbol": "Kendu",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xaa95f26e30001251fb905d264aa7b00ee9df6c18.png"
@@ -9724,7 +9724,7 @@
     "asset": "Walton",
     "type": "ERC-20",
     "address": "0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
-    "name": "Walton",
+    "name": "Walton Token",
     "symbol": "WTC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74.png"
@@ -11464,8 +11464,8 @@
     "asset": "Serum",
     "type": "ERC-20",
     "address": "0xe3adaa4fb7c92ab833ee08b3561d9c434aa2a3ee",
-    "name": "Serum",
-    "symbol": "SRM",
+    "name": "",
+    "symbol": "",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xe3adaa4fb7c92ab833ee08b3561d9c434aa2a3ee.png"
   },
@@ -11664,7 +11664,7 @@
     "asset": "AirSwap",
     "type": "ERC-20",
     "address": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
-    "name": "AirSwap",
+    "name": "AirSwap Token",
     "symbol": "AST",
     "decimals": 4,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x27054b13b1b798b345b591a4d22e6562d47ea75a.png"
@@ -11874,7 +11874,7 @@
     "asset": "KyberNetwork",
     "type": "ERC-20",
     "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
-    "name": "KyberNetwork",
+    "name": "Kyber Network Crystal",
     "symbol": "KNC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xdd974d5c2e2928dea5f71b9825b8b646686bd200.png"
@@ -12074,7 +12074,7 @@
     "asset": "Fusion",
     "type": "ERC-20",
     "address": "0xd0352a019e9ab9d757776f532377aaebd36fd541",
-    "name": "Fusion",
+    "name": "Fusion Token",
     "symbol": "FSN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xd0352a019e9ab9d757776f532377aaebd36fd541.png"
@@ -12484,7 +12484,7 @@
     "asset": "Populous",
     "type": "ERC-20",
     "address": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
-    "name": "Populous",
+    "name": "Populous Platform",
     "symbol": "PPT",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a.png"
@@ -12624,7 +12624,7 @@
     "asset": "Arm Holdings plc",
     "type": "ERC-20",
     "address": "0x5bf1b2a808598c0ef4af1673a5457d86fe6d7b3d",
-    "name": "Arm Holdings plc",
+    "name": "Arm Holdings plc (Ondo Tokenized)",
     "symbol": "ARMon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x5bf1b2a808598c0ef4af1673a5457d86fe6d7b3d.png"
@@ -13074,7 +13074,7 @@
     "asset": "LockTrip",
     "type": "ERC-20",
     "address": "0x5e3346444010135322268a4630d2ed5f8d09446c",
-    "name": "LockTrip",
+    "name": "LockChain",
     "symbol": "LOC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x5e3346444010135322268a4630d2ed5f8d09446c.png"
@@ -13084,7 +13084,7 @@
     "asset": "Dock",
     "type": "ERC-20",
     "address": "0xe5dada80aa6477e85d09747f2842f7993d0df71c",
-    "name": "Dock",
+    "name": "DockToken",
     "symbol": "DOCK",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xe5dada80aa6477e85d09747f2842f7993d0df71c.png"
@@ -13204,7 +13204,7 @@
     "asset": "CAD Coin",
     "type": "ERC-20",
     "address": "0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef",
-    "name": "CAD Coin",
+    "name": "CADC",
     "symbol": "CADC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef.png"
@@ -13494,7 +13494,7 @@
     "asset": "Abyss",
     "type": "ERC-20",
     "address": "0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6",
-    "name": "Abyss",
+    "name": "ABYSS",
     "symbol": "ABYSS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6.png"
@@ -13754,7 +13754,7 @@
     "asset": "Bread",
     "type": "ERC-20",
     "address": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
-    "name": "Bread",
+    "name": "Bread Token",
     "symbol": "BRD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x558ec3152e2eb2174905cd19aea4e34a23de9ad6.png"
@@ -14454,7 +14454,7 @@
     "asset": "apM Coin",
     "type": "ERC-20",
     "address": "0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c",
-    "name": "apM Coin",
+    "name": "APM Coin",
     "symbol": "APM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c.png"
@@ -14694,7 +14694,7 @@
     "asset": "Lift Dollar",
     "type": "ERC-20",
     "address": "0xbdc7c08592ee4aa51d06c27ee23d5087d65adbcd",
-    "name": "Lift Dollar",
+    "name": "Lift Dollar - Deprecated",
     "symbol": "USDL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xbdc7c08592ee4aa51d06c27ee23d5087d65adbcd.png"
@@ -15004,7 +15004,7 @@
     "asset": "PointPay Crypto Banking Token V2",
     "type": "ERC-20",
     "address": "0x95aa5d2dbd3c16ee3fdea82d5c6ec3e38ce3314f",
-    "name": "PointPay Crypto Banking Token V2",
+    "name": " PointPay Crypto Banking Token V2 ",
     "symbol": "PXP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x95aa5d2dbd3c16ee3fdea82d5c6ec3e38ce3314f.png"
@@ -15645,7 +15645,7 @@
     "type": "ERC-20",
     "address": "0x4DF812F6064def1e5e029f1ca858777CC98D2D81",
     "name": "Xaurum",
-    "symbol": "Xaurum",
+    "symbol": "XAUR",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x4DF812F6064def1e5e029f1ca858777CC98D2D81.png"
   },
@@ -15714,8 +15714,8 @@
     "asset": "Wrapped USTC Token",
     "type": "ERC-20",
     "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
-    "name": "Wrapped USTC Token",
-    "symbol": "USTC",
+    "name": "Wrapped UST Token",
+    "symbol": "UST",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xa47c8bf37f92abed4a126bda807a7b7498661acd.png"
   },
@@ -15844,7 +15844,7 @@
     "asset": "BiorLabs",
     "type": "ERC-20",
     "address": "0xfbcb83037d770b28f758530022897362521b6141",
-    "name": "BiorLabs",
+    "name": "BiorBank",
     "symbol": "BYB",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xfbcb83037d770b28f758530022897362521b6141.png"
@@ -16104,7 +16104,7 @@
     "asset": "Lord of Dragons Governance Token",
     "type": "ERC-20",
     "address": "0xba58444c8050ed9385b7417533a73644036d21eb",
-    "name": "Lord of Dragons Governance Token",
+    "name": " Lord of Dragons Governance Token",
     "symbol": "LOGT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xba58444c8050ed9385b7417533a73644036d21eb.png"
@@ -16354,7 +16354,7 @@
     "asset": "EthLend",
     "type": "ERC-20",
     "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
-    "name": "EthLend",
+    "name": "EthLend Token",
     "symbol": "LEND",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03.png"
@@ -16694,7 +16694,7 @@
     "asset": "Eden",
     "type": "ERC-20",
     "address": "0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559",
-    "name": "Eden",
+    "name": "EDEN",
     "symbol": "EDEN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559.png"
@@ -16794,7 +16794,7 @@
     "asset": "Flyp.me",
     "type": "ERC-20",
     "address": "0x8f0921f30555624143d427b340b1156914882c10",
-    "name": "Flyp.me",
+    "name": "Flyp.me Token",
     "symbol": "FYP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x8f0921f30555624143d427b340b1156914882c10.png"
@@ -17074,7 +17074,7 @@
     "asset": "SmartMesh",
     "type": "ERC-20",
     "address": "0x55f93985431fc9304077687a35a1ba103dc1e081",
-    "name": "SmartMesh",
+    "name": "SmartMesh Token",
     "symbol": "SMT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x55f93985431fc9304077687a35a1ba103dc1e081.png"
@@ -17154,7 +17154,7 @@
     "asset": "Bloom",
     "type": "ERC-20",
     "address": "0x107c4504cd79c5d2696ea0030a8dd4e92601b82e",
-    "name": "Bloom",
+    "name": "Bloom Token",
     "symbol": "BLT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x107c4504cd79c5d2696ea0030a8dd4e92601b82e.png"
@@ -17574,8 +17574,8 @@
     "asset": "LAtoken",
     "type": "ERC-20",
     "address": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf",
-    "name": "LAtoken",
-    "symbol": "LA",
+    "name": "LAToken",
+    "symbol": "LAToken",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf.png"
   },
@@ -17844,8 +17844,8 @@
     "asset": "LunarCrush Token",
     "type": "ERC-20",
     "address": "0xA87135285Ae208e22068AcDBFf64B11Ec73EAa5A",
-    "name": "LunarCrush Token",
-    "symbol": "Lunr",
+    "name": "Ethereum-bridged Lunr Token",
+    "symbol": "eLunr",
     "decimals": 4,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xA87135285Ae208e22068AcDBFf64B11Ec73EAa5A.png"
   },
@@ -18094,7 +18094,7 @@
     "asset": "ZeusShieldCoin",
     "type": "ERC-20",
     "address": "0x7A41e0517a5ecA4FdbC7FbebA4D4c47B9fF6DC63",
-    "name": "ZeusShieldCoin",
+    "name": "Zeus Shield Coin",
     "symbol": "ZSC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x7A41e0517a5ecA4FdbC7FbebA4D4c47B9fF6DC63.png"
@@ -18184,7 +18184,7 @@
     "asset": "NapoleonX",
     "type": "ERC-20",
     "address": "0x28b5e12cce51f15594b0b91d5b5adaa70f684a02",
-    "name": "NapoleonX",
+    "name": "NapoleonX Token",
     "symbol": "NPX",
     "decimals": 2,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x28b5e12cce51f15594b0b91d5b5adaa70f684a02.png"
@@ -18494,7 +18494,7 @@
     "asset": "RipioCreditNetwork",
     "type": "ERC-20",
     "address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
-    "name": "RipioCreditNetwork",
+    "name": "Ripio Credit Network Token",
     "symbol": "RCN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6.png"
@@ -18584,7 +18584,7 @@
     "asset": "Nebulas",
     "type": "ERC-20",
     "address": "0x5d65D971895Edc438f465c17DB6992698a52318D",
-    "name": "Nebulas",
+    "name": "Nebulas Token",
     "symbol": "NAS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x5d65D971895Edc438f465c17DB6992698a52318D.png"
@@ -18624,7 +18624,7 @@
     "asset": "USDT (Wormhole)",
     "type": "ERC-20",
     "address": "0x1cdd2eab61112697626f7b4bb0e23da4febf7b7c",
-    "name": "USDT (Wormhole)",
+    "name": "USDT",
     "symbol": "USDT",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x1cdd2eab61112697626f7b4bb0e23da4febf7b7c.png"
@@ -19214,8 +19214,8 @@
     "asset": "Open Custody Protocol",
     "type": "ERC-20",
     "address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
-    "name": "Open Custody Protocol",
-    "symbol": "OPEN",
+    "name": "Qredo Token",
+    "symbol": "QRDO",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x4123a133ae3c521fd134d7b13a2dec35b56c2463.png"
   },
@@ -19224,7 +19224,7 @@
     "asset": "FLIP",
     "type": "ERC-20",
     "address": "0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3",
-    "name": "FLIP",
+    "name": "FLIP Token",
     "symbol": "FLP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3.png"
@@ -19664,7 +19664,7 @@
     "asset": "TenXPay",
     "type": "ERC-20",
     "address": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280",
-    "name": "TenXPay",
+    "name": "TenX Pay Token",
     "symbol": "PAY",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280.png"
@@ -19684,7 +19684,7 @@
     "asset": "Cindicator",
     "type": "ERC-20",
     "address": "0xd4c435f5b09f855c3317c8524cb1f586e42795fa",
-    "name": "Cindicator",
+    "name": "Cindicator Token",
     "symbol": "CND",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xd4c435f5b09f855c3317c8524cb1f586e42795fa.png"
@@ -20354,7 +20354,7 @@
     "asset": "TTC Protocol (TTC)",
     "type": "ERC-20",
     "address": "0x9389434852b94bbad4c8afed5b7bdbc5ff0c2275",
-    "name": "TTC Protocol (TTC)",
+    "name": "TTC",
     "symbol": "TTC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x9389434852b94bbad4c8afed5b7bdbc5ff0c2275.png"
@@ -20494,7 +20494,7 @@
     "asset": "Zus",
     "type": "ERC-20",
     "address": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78",
-    "name": "Zus",
+    "name": "0chain",
     "symbol": "ZCN",
     "decimals": 10,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xb9EF770B6A5e12E45983C5D80545258aA38F3B78.png"
@@ -20645,7 +20645,7 @@
     "type": "ERC-20",
     "address": "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
     "name": "Dentacoin",
-    "symbol": "Dentacoin",
+    "symbol": "٨",
     "decimals": 0,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6.png"
   },
@@ -21244,7 +21244,7 @@
     "asset": "Squid Pro Quo",
     "type": "ERC-20",
     "address": "0x7ebab7190d3d574ce82d29f2fa1422f18e29969c",
-    "name": "Squid Pro Quo",
+    "name": "Squill",
     "symbol": "SQUILL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x7ebab7190d3d574ce82d29f2fa1422f18e29969c.png"
@@ -21724,7 +21724,7 @@
     "asset": "Decentraweb",
     "type": "ERC-20",
     "address": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
-    "name": "Decentraweb",
+    "name": "DecentraWeb",
     "symbol": "DWEB",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xE7f58A92476056627f9FdB92286778aBd83b285F.png"
@@ -21944,7 +21944,7 @@
     "asset": "ChangeBank",
     "type": "ERC-20",
     "address": "0x7d4b8cce0591c9044a22ee543533b72e976e36c3",
-    "name": "ChangeBank",
+    "name": "Change COIN",
     "symbol": "CAG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x7d4b8cce0591c9044a22ee543533b72e976e36c3.png"
@@ -22124,7 +22124,7 @@
     "asset": "WePower",
     "type": "ERC-20",
     "address": "0x4CF488387F035FF08c371515562CBa712f9015d4",
-    "name": "WePower",
+    "name": "WePower Token",
     "symbol": "WPR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x4CF488387F035FF08c371515562CBa712f9015d4.png"
@@ -22684,7 +22684,7 @@
     "asset": "MAHA.xyz",
     "type": "ERC-20",
     "address": "0x745407c86df8db893011912d3ab28e68b62e49b0",
-    "name": "MAHA.xyz",
+    "name": "MahaDAO",
     "symbol": "MAHA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x745407c86df8db893011912d3ab28e68b62e49b0.png"
@@ -23825,7 +23825,7 @@
     "type": "ERC-20",
     "address": "0x64b78325d7495D6d4be92f234fa3f3B8d8964B8b",
     "name": "SHOP",
-    "symbol": "SHOP",
+    "symbol": " SHOP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x64b78325d7495D6d4be92f234fa3f3B8d8964B8b.png"
   },
@@ -23894,7 +23894,7 @@
     "asset": "aarna afi 802v2",
     "type": "ERC-20",
     "address": "0xb68e430c56ed9e548e864a68a60f9d41f993b32c",
-    "name": "aarna afi 802v2",
+    "name": "aarna afi 802v2 ",
     "symbol": "afi 802v2",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xb68e430c56ed9e548e864a68a60f9d41f993b32c.png"
@@ -23984,7 +23984,7 @@
     "asset": "SNGLS",
     "type": "ERC-20",
     "address": "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009",
-    "name": "SNGLS",
+    "name": "SingularDTV",
     "symbol": "SNGLS",
     "decimals": 0,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009.png"
@@ -24214,7 +24214,7 @@
     "asset": "Bounty0x",
     "type": "ERC-20",
     "address": "0xd2d6158683aee4cc838067727209a0aaf4359de3",
-    "name": "Bounty0x",
+    "name": "Bounty0x Token",
     "symbol": "BNTY",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xd2d6158683aee4cc838067727209a0aaf4359de3.png"
@@ -24235,7 +24235,7 @@
     "type": "ERC-20",
     "address": "0xD015422879A1308ba557510345E944B912b9aB73",
     "name": "FreeTrump",
-    "symbol": "TRUMP",
+    "symbol": "TRUMP ",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xD015422879A1308ba557510345E944B912b9aB73.png"
   },
@@ -24734,7 +24734,7 @@
     "asset": "KAP Games Token",
     "type": "ERC-20",
     "address": "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569",
-    "name": "KAP Games Token",
+    "name": "Kapital DAO Token",
     "symbol": "KAP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x9625ce7753ace1fa1865a47aae2c5c2ce4418569.png"
@@ -25024,7 +25024,7 @@
     "asset": "MediShares",
     "type": "ERC-20",
     "address": "0x66186008C1050627F979d464eABb258860563dbE",
-    "name": "MediShares",
+    "name": "MediShares Token",
     "symbol": "MDS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x66186008C1050627F979d464eABb258860563dbE.png"
@@ -25284,7 +25284,7 @@
     "asset": "VIB",
     "type": "ERC-20",
     "address": "0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724",
-    "name": "VIB",
+    "name": "Vibe",
     "symbol": "VIB",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724.png"
@@ -25404,7 +25404,7 @@
     "asset": "BitcoinEthereumTetherBNBXRPUSDCDogecoinCardanoSolanaTronMaticLitecoinPolkadotShibaInuDaiBitcoinCashW",
     "type": "ERC-20",
     "address": "0x586a7cfe21e55ec0e24f0bfb118f77fe4ca87bab",
-    "name": "BitcoinEthereumTetherBNBXRPUSDCDogecoinCardanoSolanaTronMaticLitecoinPolkadotShibaInuDaiBitcoinCashW",
+    "name": "BitcoinEthereumTetherBNBXRPUSDCDogecoinCardanoSolanaTronMaticLitecoinPolkadotShibaInuDaiBitcoinCashWrappedBitcoinAvaxTonLinkStellarLEOUNITUSDAtomMoneroOKBEthereumClassicHederaInternetComputerFilecoinMantleLidoDaoAptosArbitrumCronosVechainNEARQuantOptismMakerTheGraphAaveXDCNetworkAlgorandTheSandboxAxieInfinityMultuversXStacksTezosUSDDThetaNetworkBitcoinSVManaSynthetixInjectiveApeCoinFantomNeiRendereCashFlowKavaChilizKucoinTokenGalaCurveDaoTOkenPaxDollarRocketPoolKlaytnZcashPaxGoldIOTATetherGoldFraxShareTerraClassicCasperGMXPepeBitTorrentCompoundMinaSuiHuobiTokenGateTokenTrustWalletTokenBoneDashNEXOGeminiDollarArweaveThorChaindYdXWooNetworkZiliqaCAKEInu",
     "symbol": "CRYPTO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x586a7cfe21e55ec0e24f0bfb118f77fe4ca87bab.png"
@@ -25494,7 +25494,7 @@
     "asset": "Lunyr",
     "type": "ERC-20",
     "address": "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
-    "name": "Lunyr",
+    "name": "Lunyr Token",
     "symbol": "LUN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xfa05A73FfE78ef8f1a739473e462c54bae6567D9.png"
@@ -25694,7 +25694,7 @@
     "asset": "ContentBox Token",
     "type": "ERC-20",
     "address": "0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f",
-    "name": "ContentBox Token",
+    "name": "BOX Token",
     "symbol": "BOX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f.png"
@@ -25704,7 +25704,7 @@
     "asset": "Hiveterminal Token",
     "type": "ERC-20",
     "address": "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
-    "name": "Hiveterminal Token",
+    "name": "Hive Project Token",
     "symbol": "HVN",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D.png"
@@ -26204,7 +26204,7 @@
     "asset": "Sator (Wormhole)",
     "type": "ERC-20",
     "address": "0x3ef389f264e07fff3106a3926f2a166d1393086f",
-    "name": "Sator (Wormhole)",
+    "name": "Sator",
     "symbol": "SAO",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x3ef389f264e07fff3106a3926f2a166d1393086f.png"
@@ -26434,7 +26434,7 @@
     "asset": "ebox Token",
     "type": "ERC-20",
     "address": "0x33840024177a7daca3468912363bed8b425015c5",
-    "name": "ebox Token",
+    "name": "ethbox Token",
     "symbol": "EBOX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x33840024177a7daca3468912363bed8b425015c5.png"
@@ -26444,7 +26444,7 @@
     "asset": "Auctus",
     "type": "ERC-20",
     "address": "0xc12d099be31567add4e4e4d0d45691c3f58f5663",
-    "name": "Auctus",
+    "name": "Auctus Token",
     "symbol": "AUC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xc12d099be31567add4e4e4d0d45691c3f58f5663.png"
@@ -26994,7 +26994,7 @@
     "asset": "NearPAD Token",
     "type": "ERC-20",
     "address": "0xea7cc765ebc94c4805e3bff28d7e4ae48d06468a",
-    "name": "NearPAD Token",
+    "name": "NearPad Token",
     "symbol": "PAD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xea7cc765ebc94c4805e3bff28d7e4ae48d06468a.png"
@@ -28364,7 +28364,7 @@
     "asset": "REMME",
     "type": "ERC-20",
     "address": "0x83984d6142934bb535793a82adb0a46ef0f66b6d",
-    "name": "REMME",
+    "name": "REMME token",
     "symbol": "REM",
     "decimals": 4,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x83984d6142934bb535793a82adb0a46ef0f66b6d.png"
@@ -28394,7 +28394,7 @@
     "asset": "Gems",
     "type": "ERC-20",
     "address": "0xc7bba5b765581efb2cdd2679db5bea9ee79b201f",
-    "name": "Gems",
+    "name": "Gems Token",
     "symbol": "GEM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0xc7bba5b765581efb2cdd2679db5bea9ee79b201f.png"
@@ -29064,7 +29064,7 @@
     "asset": "Damex Token",
     "type": "ERC-20",
     "address": "0x00e679ba63b509182c349f5614f0a07cdd0ce0c5",
-    "name": "Damex Token",
+    "name": "Damex Token (Deprecated)",
     "symbol": "DAMEX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x00e679ba63b509182c349f5614f0a07cdd0ce0c5.png"
@@ -29744,7 +29744,7 @@
     "asset": "Ccore",
     "type": "ERC-20",
     "address": "0x679badc551626e01b23ceecefbc9b877ea18fc46",
-    "name": "Ccore",
+    "name": "Ccore Token",
     "symbol": "CCO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x679badc551626e01b23ceecefbc9b877ea18fc46.png"

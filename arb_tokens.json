@@ -14,8 +14,8 @@
     "asset": "Bridged USDC",
     "type": "ERC-20",
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "name": "Bridged USDC",
-    "symbol": "USDC.e",
+    "name": "USD Coin (Arb1)",
+    "symbol": "USDC",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.png"
   },
@@ -314,7 +314,7 @@
     "asset": "GHO Token",
     "type": "ERC-20",
     "address": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
-    "name": "GHO Token",
+    "name": "Gho Token",
     "symbol": "GHO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33.png"
@@ -544,8 +544,8 @@
     "asset": "LUNC",
     "type": "ERC-20",
     "address": "0x1A4dA80967373fd929961e976b4b53ceeC063a15",
-    "name": "LUNC",
-    "symbol": "LUNC",
+    "name": "LUNA",
+    "symbol": "LUNA",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x1A4dA80967373fd929961e976b4b53ceeC063a15.png"
   },
@@ -754,7 +754,7 @@
     "asset": "Tether Gold",
     "type": "ERC-20",
     "address": "0x40461291347e1ecbb09499f3371d3f17f10d7159",
-    "name": "Tether Gold",
+    "name": "XAUt0",
     "symbol": "XAUt0",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x40461291347e1ecbb09499f3371d3f17f10d7159.png"
@@ -964,7 +964,7 @@
     "asset": "WOO",
     "type": "ERC-20",
     "address": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b",
-    "name": "WOO",
+    "name": "Wootrade Network",
     "symbol": "WOO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b.png"
@@ -1055,7 +1055,7 @@
     "type": "ERC-20",
     "address": "0x13780E6d5696DD91454F6d3BbC2616687fEa43d0",
     "name": "TerraUSD",
-    "symbol": "USTC",
+    "symbol": "UST",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x13780E6d5696DD91454F6d3BbC2616687fEa43d0.png"
   },
@@ -1514,7 +1514,7 @@
     "asset": "MCDEX Token",
     "type": "ERC-20",
     "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
-    "name": "MCDEX Token",
+    "name": "MUX Protocol",
     "symbol": "MCB",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42.png"
@@ -1804,8 +1804,8 @@
     "asset": "agEUR",
     "type": "ERC-20",
     "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
-    "name": "agEUR",
-    "symbol": "agEUR",
+    "name": "EURA (previously agEUR)",
+    "symbol": "EURA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7.png"
   },
@@ -2075,7 +2075,7 @@
     "type": "ERC-20",
     "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
     "name": "Everclear",
-    "symbol": "NEXT",
+    "symbol": "CLEAR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8.png"
   },
@@ -2324,7 +2324,7 @@
     "asset": "Lift Dollar",
     "type": "ERC-20",
     "address": "0x7f850b0ab1988dd17b69ac564c1e2857949e4dee",
-    "name": "Lift Dollar",
+    "name": "Lift Dollar - Deprecated",
     "symbol": "USDL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x7f850b0ab1988dd17b69ac564c1e2857949e4dee.png"
@@ -2834,7 +2834,7 @@
     "asset": "Pepe Community",
     "type": "ERC-20",
     "address": "0xef4a1d459d62dfd2ebb9c45b04f90f0a7ba1d56e",
-    "name": "Pepe Community",
+    "name": "Pepe",
     "symbol": "PEPE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xef4a1d459d62dfd2ebb9c45b04f90f0a7ba1d56e.png"
@@ -3424,7 +3424,7 @@
     "asset": "KAP Games Token",
     "type": "ERC-20",
     "address": "0x965d00aa7abc62ca10132e641d08593435ac811d",
-    "name": "KAP Games Token",
+    "name": "Kapital DAO Token",
     "symbol": "KAP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0x965d00aa7abc62ca10132e641d08593435ac811d.png"
@@ -3814,8 +3814,8 @@
     "asset": "SolvBTC Ethena",
     "type": "ERC-20",
     "address": "0xafafd68afe3fe65d376eec9eab1802616cfaccb8",
-    "name": "SolvBTC Ethena",
-    "symbol": "SolvBTC.ENA",
+    "name": "SolvBTC Trading Strategy Vault",
+    "symbol": "SolvBTC.TRADING",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0xafafd68afe3fe65d376eec9eab1802616cfaccb8.png"
   },

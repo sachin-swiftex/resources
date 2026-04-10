@@ -84,8 +84,8 @@
     "asset": "USD Coin (Bridged from Ethereum)",
     "type": "ERC-20",
     "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
-    "name": "USD Coin (Bridged from Ethereum)",
-    "symbol": "USDC.e",
+    "name": "USD Coin",
+    "symbol": "USDC",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x7f5c764cbc14f9669b88837ca1490cca17c31607.png"
   },
@@ -534,8 +534,8 @@
     "asset": "exactly USDC",
     "type": "ERC-20",
     "address": "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873",
-    "name": "exactly USDC",
-    "symbol": "exaUSDC",
+    "name": "exactly USDC.e",
+    "symbol": "exaUSDC.e",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x81c9a7b55a4df39a9b7b5f781ec0e53539694873.png"
   },
@@ -724,7 +724,7 @@
     "asset": "DexToro Pro",
     "type": "ERC-20",
     "address": "0x1cef2d62af4cd26673c7416957cc4ec619a696a7",
-    "name": "DexToro Pro",
+    "name": "DexToro",
     "symbol": "DTORO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x1cef2d62af4cd26673c7416957cc4ec619a696a7.png"
@@ -734,7 +734,7 @@
     "asset": "WOO",
     "type": "ERC-20",
     "address": "0x871f2F2ff935FD1eD867842FF2a7bfD051A5E527",
-    "name": "WOO",
+    "name": "Wootrade Network",
     "symbol": "WOO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x871f2F2ff935FD1eD867842FF2a7bfD051A5E527.png"
@@ -865,7 +865,7 @@
     "type": "ERC-20",
     "address": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
     "name": "Everclear",
-    "symbol": "NEXT",
+    "symbol": "CLEAR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8.png"
   },

@@ -14,7 +14,7 @@
     "asset": "USDC",
     "type": "ERC-20",
     "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
-    "name": "USDC",
+    "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.png"
@@ -135,7 +135,7 @@
     "type": "ERC-20",
     "address": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
     "name": "Wrapped eETH",
-    "symbol": "weETH.base",
+    "symbol": "weETH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0x04c0599ae5a44757c0af6f9ec3b93da8976c150a.png"
   },
@@ -274,7 +274,7 @@
     "asset": "Lombard Staked BTC",
     "type": "ERC-20",
     "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
-    "name": "Lombard Staked BTC",
+    "name": "Lombard Staked Bitcoin",
     "symbol": "LBTC",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0xecac9c5f704e954931349da37f60e39f515c11c1.png"
@@ -1114,7 +1114,7 @@
     "asset": "B3 (Base)",
     "type": "ERC-20",
     "address": "0xb3b32f9f8827d4634fe7d973fa1034ec9fddb3b3",
-    "name": "B3 (Base)",
+    "name": "B3",
     "symbol": "B3",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0xb3b32f9f8827d4634fe7d973fa1034ec9fddb3b3.png"
@@ -1234,7 +1234,7 @@
     "asset": "Bridged Tether USD",
     "type": "ERC-20",
     "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
-    "name": "Bridged Tether USD",
+    "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2.png"
@@ -1404,7 +1404,7 @@
     "asset": "REI",
     "type": "ERC-20",
     "address": "0x6b2504a03ca4d43d0d73776f6ad46dab2f2a4cfd",
-    "name": "REI",
+    "name": "Unit 00 - Rei",
     "symbol": "REI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0x6b2504a03ca4d43d0d73776f6ad46dab2f2a4cfd.png"
@@ -1584,7 +1584,7 @@
     "asset": "Cookie DAO",
     "type": "ERC-20",
     "address": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
-    "name": "Cookie DAO",
+    "name": "Cookie",
     "symbol": "COOKIE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0xc0041ef357b183448b235a8ea73ce4e4ec8c265f.png"
@@ -2324,7 +2324,7 @@
     "asset": "Kendu",
     "type": "ERC-20",
     "address": "0xef73611f98da6e57e0776317957af61b59e09ed7",
-    "name": "Kendu",
+    "name": "Kendu Inu",
     "symbol": "Kendu",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0xef73611f98da6e57e0776317957af61b59e09ed7.png"
@@ -2434,8 +2434,8 @@
     "asset": "agEUR",
     "type": "ERC-20",
     "address": "0xa61beb4a3d02decb01039e378237032b351125b4",
-    "name": "agEUR",
-    "symbol": "agEUR",
+    "name": "EURA (previously agEUR)",
+    "symbol": "EURA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0xa61beb4a3d02decb01039e378237032b351125b4.png"
   },
@@ -2514,7 +2514,7 @@
     "asset": "Mr. Miggles",
     "type": "ERC-20",
     "address": "0xb1a03eda10342529bbf8eb700a06c60441fef25d",
-    "name": "Mr. Miggles",
+    "name": "Mister Miggles",
     "symbol": "MIGGLES",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0xb1a03eda10342529bbf8eb700a06c60441fef25d.png"
@@ -3054,7 +3054,7 @@
     "asset": "WLTH",
     "type": "ERC-20",
     "address": "0x99b2b1a2adb02b38222adcd057783d7e5d1fcc7d",
-    "name": "WLTH",
+    "name": "Common Wealth Token",
     "symbol": "WLTH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0x99b2b1a2adb02b38222adcd057783d7e5d1fcc7d.png"
@@ -4874,7 +4874,7 @@
     "asset": "Eden",
     "type": "ERC-20",
     "address": "0xda1D88Fd16e1fEE9FDf2579A1c41E880B75DdE8b",
-    "name": "Eden",
+    "name": "Edenlayer",
     "symbol": "EDEN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0xda1D88Fd16e1fEE9FDf2579A1c41E880B75DdE8b.png"
@@ -4914,7 +4914,7 @@
     "asset": "BevorAI",
     "type": "ERC-20",
     "address": "0xf5f2a79eeccf6e7f4c570c803f529930e29cc96b",
-    "name": "BevorAI",
+    "name": "CertaiK by Virtuals",
     "symbol": "CERTAI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0xf5f2a79eeccf6e7f4c570c803f529930e29cc96b.png"
@@ -5064,8 +5064,8 @@
     "asset": "Virtu by Virtuals",
     "type": "ERC-20",
     "address": "0x41e0fe1317bd6e8944b037cd59b22d428c1434c2",
-    "name": "Virtu by Virtuals",
-    "symbol": "VIRTU",
+    "name": "Virtu  by Virtuals",
+    "symbol": "VIRTU ",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0x41e0fe1317bd6e8944b037cd59b22d428c1434c2.png"
   },
@@ -5714,8 +5714,8 @@
     "asset": "dockerzxbt",
     "type": "ERC-20",
     "address": "0x56f8ad6112c2db9f9848243531b277ce1c3be30c",
-    "name": "dockerzxbt",
-    "symbol": "dockerzxbt",
+    "name": "Docker",
+    "symbol": "docker",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0x56f8ad6112c2db9f9848243531b277ce1c3be30c.png"
   },
@@ -5884,7 +5884,7 @@
     "asset": "Law of Attraction",
     "type": "ERC-20",
     "address": "0x8d3419b9a18651f3926a205ee0b1acea1e7192de",
-    "name": "Law of Attraction",
+    "name": "Law of  Attraction",
     "symbol": "LOA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0x8d3419b9a18651f3926a205ee0b1acea1e7192de.png"
@@ -7514,8 +7514,8 @@
     "asset": "GEORGE",
     "type": "ERC-20",
     "address": "0x301cbf069cbe1157209b776afd5c9cdaaaacdfe1",
-    "name": "GEORGE",
-    "symbol": "GEORGE",
+    "name": "GEORGE ",
+    "symbol": "GEORGE ",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0x301cbf069cbe1157209b776afd5c9cdaaaacdfe1.png"
   },

@@ -25401,16 +25401,6 @@
   },
   {
     "chainId": 1,
-    "asset": "BitcoinEthereumTetherBNBXRPUSDCDogecoinCardanoSolanaTronMaticLitecoinPolkadotShibaInuDaiBitcoinCashW",
-    "type": "ERC-20",
-    "address": "0x586a7cfe21e55ec0e24f0bfb118f77fe4ca87bab",
-    "name": "BitcoinEthereumTetherBNBXRPUSDCDogecoinCardanoSolanaTronMaticLitecoinPolkadotShibaInuDaiBitcoinCashWrappedBitcoinAvaxTonLinkStellarLEOUNITUSDAtomMoneroOKBEthereumClassicHederaInternetComputerFilecoinMantleLidoDaoAptosArbitrumCronosVechainNEARQuantOptismMakerTheGraphAaveXDCNetworkAlgorandTheSandboxAxieInfinityMultuversXStacksTezosUSDDThetaNetworkBitcoinSVManaSynthetixInjectiveApeCoinFantomNeiRendereCashFlowKavaChilizKucoinTokenGalaCurveDaoTOkenPaxDollarRocketPoolKlaytnZcashPaxGoldIOTATetherGoldFraxShareTerraClassicCasperGMXPepeBitTorrentCompoundMinaSuiHuobiTokenGateTokenTrustWalletTokenBoneDashNEXOGeminiDollarArweaveThorChaindYdXWooNetworkZiliqaCAKEInu",
-    "symbol": "CRYPTO",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x586a7cfe21e55ec0e24f0bfb118f77fe4ca87bab.png"
-  },
-  {
-    "chainId": 1,
     "asset": "GATSBY",
     "type": "ERC-20",
     "address": "0xCA7Af58da871736994Ce360f51eC6cd28351A3Df",

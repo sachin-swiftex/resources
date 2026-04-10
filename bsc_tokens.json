@@ -24,7 +24,7 @@
     "asset": "Binance-Peg Ethereum Token",
     "type": "BEP-20",
     "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
-    "name": "Binance-Peg Ethereum Token",
+    "name": "Ethereum Token",
     "symbol": "ETH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
@@ -44,8 +44,8 @@
     "asset": "Binance-Peg BSC-USD",
     "type": "BEP-20",
     "address": "0x55d398326f99059ff775485246999027b3197955",
-    "name": "Binance-Peg BSC-USD",
-    "symbol": "BSC-USD",
+    "name": "Tether USD",
+    "symbol": "USDT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x55d398326f99059ff775485246999027b3197955.png"
   },
@@ -64,7 +64,7 @@
     "asset": "Binance-Peg XRP Token",
     "type": "BEP-20",
     "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
-    "name": "Binance-Peg XRP Token",
+    "name": "XRP Token",
     "symbol": "XRP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe.png"
@@ -84,7 +84,7 @@
     "asset": "Binance-Peg USD Coin",
     "type": "BEP-20",
     "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
-    "name": "Binance-Peg USD Coin",
+    "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
@@ -114,7 +114,7 @@
     "asset": "Binance-Peg Dogecoin Token",
     "type": "BEP-20",
     "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
-    "name": "Binance-Peg Dogecoin Token",
+    "name": "Dogecoin",
     "symbol": "DOGE",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xba2ae424d960c26247dd6c32edc70b295c744c43.png"
@@ -124,7 +124,7 @@
     "asset": "Binance-Peg Cardano Token",
     "type": "BEP-20",
     "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
-    "name": "Binance-Peg Cardano Token",
+    "name": "Cardano Token",
     "symbol": "ADA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47.png"
@@ -144,7 +144,7 @@
     "asset": "Binance-Peg Bitcoin Cash Token",
     "type": "BEP-20",
     "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
-    "name": "Binance-Peg Bitcoin Cash Token",
+    "name": "Bitcoin Cash Token",
     "symbol": "BCH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x8ff795a6f4d97e7887c79bea79aba5cc76444adf.png"
@@ -154,7 +154,7 @@
     "asset": "Binance-Peg ChainLink Token",
     "type": "BEP-20",
     "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
-    "name": "Binance-Peg ChainLink Token",
+    "name": "ChainLink Token",
     "symbol": "LINK",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd.png"
@@ -194,7 +194,7 @@
     "asset": "Binance-Peg Dai Token",
     "type": "BEP-20",
     "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
-    "name": "Binance-Peg Dai Token",
+    "name": "Dai Token",
     "symbol": "DAI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
@@ -224,7 +224,7 @@
     "asset": "Binance-Peg BTCB Token",
     "type": "BEP-20",
     "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
-    "name": "Binance-Peg BTCB Token",
+    "name": "BTCB Token",
     "symbol": "BTCB",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
@@ -234,7 +234,7 @@
     "asset": "Binance-Peg Zcash Token",
     "type": "BEP-20",
     "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
-    "name": "Binance-Peg Zcash Token",
+    "name": "Zcash Token",
     "symbol": "ZEC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb.png"
@@ -254,7 +254,7 @@
     "asset": "Binance-Peg Litecoin Token",
     "type": "BEP-20",
     "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
-    "name": "Binance-Peg Litecoin Token",
+    "name": "Litecoin Token",
     "symbol": "LTC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x4338665cbb7b2485a8855a139b75d5e34ab0db94.png"
@@ -264,7 +264,7 @@
     "asset": "Binance-Peg Avalanche Token",
     "type": "BEP-20",
     "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
-    "name": "Binance-Peg Avalanche Token",
+    "name": "Avalanche",
     "symbol": "AVAX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x1ce0c2827e2ef14d5c4f29a091d735a204794041.png"
@@ -284,7 +284,7 @@
     "asset": "Binance-Peg SHIBA INU Token",
     "type": "BEP-20",
     "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
-    "name": "Binance-Peg SHIBA INU Token",
+    "name": "SHIBA INU",
     "symbol": "SHIB",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x2859e4544c4bb03966803b044a93563bd2d0dd4d.png"
@@ -334,7 +334,7 @@
     "asset": "Binance-Peg BitTorrent Token",
     "type": "BEP-20",
     "address": "0x8595f9da7b868b1822194faed312235e43007b49",
-    "name": "Binance-Peg BitTorrent Token",
+    "name": "BitTorrent",
     "symbol": "BTT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x8595f9da7b868b1822194faed312235e43007b49.png"
@@ -344,7 +344,7 @@
     "asset": "Binance-Peg PAX Gold",
     "type": "BEP-20",
     "address": "0x7950865a9140cb519342433146ed5b40c6f210f7",
-    "name": "Binance-Peg PAX Gold",
+    "name": "PAX Gold",
     "symbol": "PAXG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x7950865a9140cb519342433146ed5b40c6f210f7.png"
@@ -364,7 +364,7 @@
     "asset": "Binance-Peg Polkadot Token",
     "type": "BEP-20",
     "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
-    "name": "Binance-Peg Polkadot Token",
+    "name": "Polkadot Token",
     "symbol": "DOT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png"
@@ -384,7 +384,7 @@
     "asset": "Binance-Peg Uniswap",
     "type": "BEP-20",
     "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
-    "name": "Binance-Peg Uniswap",
+    "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xbf5140a22578168fd562dccf235e5d43a02ce9b1.png"
@@ -404,7 +404,7 @@
     "asset": "Binance-Peg NEAR Protocol",
     "type": "BEP-20",
     "address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
-    "name": "Binance-Peg NEAR Protocol",
+    "name": "NEAR Protocol",
     "symbol": "NEAR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x1fa4a73a3f0133f0025378af00236f3abdee5d63.png"
@@ -434,7 +434,7 @@
     "asset": "Binance-Peg Aave Token",
     "type": "BEP-20",
     "address": "0xfb6115445bff7b52feb98650c87f44907e58f802",
-    "name": "Binance-Peg Aave Token",
+    "name": "Aave Token",
     "symbol": "AAVE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xfb6115445bff7b52feb98650c87f44907e58f802.png"
@@ -454,7 +454,7 @@
     "asset": "Binance-Peg Ethereum Classic",
     "type": "BEP-20",
     "address": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
-    "name": "Binance-Peg Ethereum Classic",
+    "name": "Ethereum Classic",
     "symbol": "ETC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x3d6545b08693dae087e957cb1180ee38b9e3c25e.png"
@@ -474,7 +474,7 @@
     "asset": "Binance-Peg Elrond Token",
     "type": "BEP-20",
     "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
-    "name": "Binance-Peg Elrond Token",
+    "name": "Elrond",
     "symbol": "EGLD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe.png"
@@ -484,7 +484,7 @@
     "asset": "Binance-Peg Paxos Standard",
     "type": "BEP-20",
     "address": "0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094",
-    "name": "Binance-Peg Paxos Standard",
+    "name": "Paxos Standard",
     "symbol": "PAX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094.png"
@@ -504,7 +504,7 @@
     "asset": "Binance-Peg Cosmos Token",
     "type": "BEP-20",
     "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
-    "name": "Binance-Peg Cosmos Token",
+    "name": "Cosmos Token",
     "symbol": "ATOM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x0eb3a705fc54725037cc9e008bdede697f62f335.png"
@@ -514,7 +514,7 @@
     "asset": "FunctionBTC",
     "type": "BEP-20",
     "address": "0xc96de26018a54d51c097160568752c4e3bd6c364",
-    "name": "FunctionBTC",
+    "name": "Fire Bitcoin",
     "symbol": "FBTC",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xc96de26018a54d51c097160568752c4e3bd6c364.png"
@@ -554,7 +554,7 @@
     "asset": "Binance-Peg Synthetix Network Token",
     "type": "BEP-20",
     "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
-    "name": "Binance-Peg Synthetix Network Token",
+    "name": "Synthetix Network Token",
     "symbol": "SNX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x9ac983826058b8a9c7aa1c9171441191232e8404.png"
@@ -564,7 +564,7 @@
     "asset": "Binance-Peg Filecoin",
     "type": "BEP-20",
     "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
-    "name": "Binance-Peg Filecoin",
+    "name": "Filecoin",
     "symbol": "FIL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153.png"
@@ -704,7 +704,7 @@
     "asset": "Binance-Peg Tezos Token",
     "type": "BEP-20",
     "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
-    "name": "Binance-Peg Tezos Token",
+    "name": "Tezos Token",
     "symbol": "XTZ",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x16939ef78684453bfdfb47825f8a5f714f12623a.png"
@@ -734,7 +734,7 @@
     "asset": "Binance-Peg MANTRA DAO Token",
     "type": "BEP-20",
     "address": "0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2",
-    "name": "Binance-Peg MANTRA DAO Token",
+    "name": "MANTRA DAO",
     "symbol": "OM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2.png"
@@ -744,7 +744,7 @@
     "asset": "Binance-Peg APENFT Token",
     "type": "BEP-20",
     "address": "0x1fc9004ec7e5722891f5f38bae7678efcb11d34d",
-    "name": "Binance-Peg APENFT Token",
+    "name": "APENFT",
     "symbol": "NFT",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x1fc9004ec7e5722891f5f38bae7678efcb11d34d.png"
@@ -934,7 +934,7 @@
     "asset": "Binance-Peg Axie Infinity Shard Token",
     "type": "BEP-20",
     "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
-    "name": "Binance-Peg Axie Infinity Shard Token",
+    "name": "Axie Infinity Shard",
     "symbol": "AXS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x715d400f88c167884bbcc41c5fea407ed4d2f8a0.png"
@@ -944,7 +944,7 @@
     "asset": "Onyxcoin",
     "type": "BEP-20",
     "address": "0x7324c7c0d95cebc73eea7e85cbaac0dbdf88a05b",
-    "name": "Onyxcoin",
+    "name": "Chain",
     "symbol": "XCN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x7324c7c0d95cebc73eea7e85cbaac0dbdf88a05b.png"
@@ -1004,7 +1004,7 @@
     "asset": "Binance-Peg Compound Coin",
     "type": "BEP-20",
     "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
-    "name": "Binance-Peg Compound Coin",
+    "name": "Compound Coin",
     "symbol": "COMP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x52ce071bd9b1c4b00a0b92d298c512478cad67e8.png"
@@ -1074,7 +1074,7 @@
     "asset": "Binance-Peg Basic Attention Token",
     "type": "BEP-20",
     "address": "0x101d82428437127bf1608f699cd651e6abf9766e",
-    "name": "Binance-Peg Basic Attention Token",
+    "name": "Basic Attention Token",
     "symbol": "BAT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x101d82428437127bf1608f699cd651e6abf9766e.png"
@@ -1094,7 +1094,7 @@
     "asset": "Binance-Peg eCash Token",
     "type": "BEP-20",
     "address": "0x0ef2e7602add1733bfdb17ac3094d0421b502ca3",
-    "name": "Binance-Peg eCash Token",
+    "name": "eCash",
     "symbol": "XEC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x0ef2e7602add1733bfdb17ac3094d0421b502ca3.png"
@@ -1264,7 +1264,7 @@
     "asset": "Binance-Peg yearn.finance",
     "type": "BEP-20",
     "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
-    "name": "Binance-Peg yearn.finance",
+    "name": "yearn.finance",
     "symbol": "YFI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e.png"
@@ -1294,7 +1294,7 @@
     "asset": "Binance-Peg Ontology Token",
     "type": "BEP-20",
     "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
-    "name": "Binance-Peg Ontology Token",
+    "name": "Ontology Token",
     "symbol": "ONT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xfd7b3a77848f1c2d67e05e54d78d174a0c850335.png"
@@ -1444,7 +1444,7 @@
     "asset": "Binance-Peg ELF Token",
     "type": "BEP-20",
     "address": "0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9",
-    "name": "Binance-Peg ELF Token",
+    "name": "ELF Token",
     "symbol": "ELF",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9.png"
@@ -1644,7 +1644,7 @@
     "asset": "Binance-Peg FLOW Token",
     "type": "BEP-20",
     "address": "0xc943c5320b9c18c153d1e2d12cc3074bebfb31a2",
-    "name": "Binance-Peg FLOW Token",
+    "name": "FLOW",
     "symbol": "FLOW",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xc943c5320b9c18c153d1e2d12cc3074bebfb31a2.png"
@@ -1734,7 +1734,7 @@
     "asset": "Binance-Peg IoTeX Network",
     "type": "BEP-20",
     "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
-    "name": "Binance-Peg IoTeX Network",
+    "name": "IoTeX Network",
     "symbol": "IOTX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x9678e42cebeb63f23197d726b29b1cb20d0064e5.png"
@@ -1764,7 +1764,7 @@
     "asset": "Binance-Peg TornadoCash Token",
     "type": "BEP-20",
     "address": "0x1ba8d3c4c219b124d351f603060663bd1bcd9bbf",
-    "name": "Binance-Peg TornadoCash Token",
+    "name": "TornadoCash",
     "symbol": "TORN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x1ba8d3c4c219b124d351f603060663bd1bcd9bbf.png"
@@ -1814,7 +1814,7 @@
     "asset": "Binance-Peg Pax Dollar Token",
     "type": "BEP-20",
     "address": "0xb3c11196a4f3b1da7c23d9fb0a3dde9c6340934f",
-    "name": "Binance-Peg Pax Dollar Token",
+    "name": "Pax Dollar",
     "symbol": "USDP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xb3c11196a4f3b1da7c23d9fb0a3dde9c6340934f.png"
@@ -1844,7 +1844,7 @@
     "asset": "Binance-Peg BUSD Token",
     "type": "BEP-20",
     "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-    "name": "Binance-Peg BUSD Token",
+    "name": "BUSD Token",
     "symbol": "BUSD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
@@ -1924,7 +1924,7 @@
     "asset": "Binance-Peg Band Protocol Token",
     "type": "BEP-20",
     "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
-    "name": "Binance-Peg Band Protocol Token",
+    "name": "Band Protocol Token",
     "symbol": "BAND",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18.png"
@@ -1954,7 +1954,7 @@
     "asset": "Binance-Peg COTI Token",
     "type": "BEP-20",
     "address": "0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb",
-    "name": "Binance-Peg COTI Token",
+    "name": "COTI Token",
     "symbol": "COTI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb.png"
@@ -2084,7 +2084,7 @@
     "asset": "Binance-Peg Cartesi Token",
     "type": "BEP-20",
     "address": "0x8da443f84fea710266c8eb6bc34b71702d033ef2",
-    "name": "Binance-Peg Cartesi Token",
+    "name": "Cartesi Token",
     "symbol": "CTSI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x8da443f84fea710266c8eb6bc34b71702d033ef2.png"
@@ -2104,7 +2104,7 @@
     "asset": "WOO",
     "type": "BEP-20",
     "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
-    "name": "WOO",
+    "name": "Wootrade Network",
     "symbol": "WOO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x4691937a7508860f876c9c0a2a617e7d9e945d4b.png"
@@ -2124,7 +2124,7 @@
     "asset": "Binance-Peg Bancor Network Token",
     "type": "BEP-20",
     "address": "0xa069008a669e2af00a86673d9d584cfb524a42cc",
-    "name": "Binance-Peg Bancor Network Token",
+    "name": "Bancor Network Token",
     "symbol": "BNT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xa069008a669e2af00a86673d9d584cfb524a42cc.png"
@@ -2174,7 +2174,7 @@
     "asset": "Binance-Peg Phala Network Token",
     "type": "BEP-20",
     "address": "0x0112e557d400474717056c4e6d40edd846f38351",
-    "name": "Binance-Peg Phala Network Token",
+    "name": "Phala Network",
     "symbol": "PHA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x0112e557d400474717056c4e6d40edd846f38351.png"
@@ -2334,7 +2334,7 @@
     "asset": "Shentu Chain",
     "type": "BEP-20",
     "address": "0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929",
-    "name": "Shentu Chain",
+    "name": "CertiK Token",
     "symbol": "CTK",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929.png"
@@ -2404,8 +2404,8 @@
     "asset": "Wrapped USTC Token",
     "type": "BEP-20",
     "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
-    "name": "Wrapped USTC Token",
-    "symbol": "USTC",
+    "name": "Wrapped UST Token",
+    "symbol": "UST",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x23396cf899ca06c4472205fc903bdb4de249d6fc.png"
   },
@@ -2564,7 +2564,7 @@
     "asset": "Binance-Peg Kyber Network Crystal Token",
     "type": "BEP-20",
     "address": "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b",
-    "name": "Binance-Peg Kyber Network Crystal Token",
+    "name": "Kyber Network Crystal",
     "symbol": "KNC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b.png"
@@ -2604,7 +2604,7 @@
     "asset": "Galxe",
     "type": "BEP-20",
     "address": "0xe4cc45bb5dbda06db6183e8bf016569f40497aa5",
-    "name": "Galxe",
+    "name": "Project Galaxy",
     "symbol": "GAL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xe4cc45bb5dbda06db6183e8bf016569f40497aa5.png"
@@ -2624,7 +2624,7 @@
     "asset": "Binance-Peg Smooth Love Potion",
     "type": "BEP-20",
     "address": "0x070a08beef8d36734dd67a491202ff35a6a16d97",
-    "name": "Binance-Peg Smooth Love Potion",
+    "name": "Smooth Love Potion",
     "symbol": "SLP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x070a08beef8d36734dd67a491202ff35a6a16d97.png"
@@ -2884,8 +2884,8 @@
     "asset": "Ankr Eth2 Reward Bearing Bond",
     "type": "BEP-20",
     "address": "0x973616ff3b9d8f88411c5b4e6f928ee541e4d01f",
-    "name": "Ankr Eth2 Reward Bearing Bond",
-    "symbol": "aETH",
+    "name": "Ankr ETH2 Reward Bearing Certificate",
+    "symbol": "aETHc",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x973616ff3b9d8f88411c5b4e6f928ee541e4d01f.png"
   },
@@ -3104,7 +3104,7 @@
     "asset": "Binance-Peg Celer Token",
     "type": "BEP-20",
     "address": "0x1f9f6a696c6fd109cd3956f45dc709d2b3902163",
-    "name": "Binance-Peg Celer Token",
+    "name": "CelerToken",
     "symbol": "CELR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x1f9f6a696c6fd109cd3956f45dc709d2b3902163.png"
@@ -3204,7 +3204,7 @@
     "asset": "Binance-Peg Paris Saint-Germain Token",
     "type": "BEP-20",
     "address": "0xbc5609612b7c44bef426de600b5fd1379db2ecf1",
-    "name": "Binance-Peg Paris Saint-Germain Token",
+    "name": "Paris Saint-Germain",
     "symbol": "PSG",
     "decimals": 2,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xbc5609612b7c44bef426de600b5fd1379db2ecf1.png"
@@ -3254,7 +3254,7 @@
     "asset": "Binance-Peg OG Token",
     "type": "BEP-20",
     "address": "0xf05e45ad22150677a017fbd94b84fbb63dc9b44c",
-    "name": "Binance-Peg OG Token",
+    "name": "OG",
     "symbol": "OG",
     "decimals": 2,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xf05e45ad22150677a017fbd94b84fbb63dc9b44c.png"
@@ -3264,7 +3264,7 @@
     "asset": "Cookie DAO",
     "type": "BEP-20",
     "address": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
-    "name": "Cookie DAO",
+    "name": "Cookie",
     "symbol": "COOKIE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xc0041ef357b183448b235a8ea73ce4e4ec8c265f.png"
@@ -3474,7 +3474,7 @@
     "asset": "Binance-Peg wazirx token",
     "type": "BEP-20",
     "address": "0x8e17ed70334c87ece574c9d537bc153d8609e2a3",
-    "name": "Binance-Peg wazirx token",
+    "name": "wazirx token",
     "symbol": "WRX",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x8e17ed70334c87ece574c9d537bc153d8609e2a3.png"
@@ -3484,7 +3484,7 @@
     "asset": "Binance-Peg AS Roma Token",
     "type": "BEP-20",
     "address": "0x80d5f92c2c8c682070c95495313ddb680b267320",
-    "name": "Binance-Peg AS Roma Token",
+    "name": " AS Roma",
     "symbol": "ASR",
     "decimals": 2,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x80d5f92c2c8c682070c95495313ddb680b267320.png"
@@ -3534,7 +3534,7 @@
     "asset": "APX Token",
     "type": "BEP-20",
     "address": "0x78F5d389F5CDCcFc41594aBaB4B0Ed02F31398b3",
-    "name": "APX Token",
+    "name": "ApolloX Token",
     "symbol": "APX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x78F5d389F5CDCcFc41594aBaB4B0Ed02F31398b3.png"
@@ -3774,7 +3774,7 @@
     "asset": "Binance-Peg Atletico de Madrid Token",
     "type": "BEP-20",
     "address": "0x25e9d05365c867e59c1904e7463af9f312296f9e",
-    "name": "Binance-Peg Atletico de Madrid Token",
+    "name": "Atletico de Madrid",
     "symbol": "ATM",
     "decimals": 2,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x25e9d05365c867e59c1904e7463af9f312296f9e.png"
@@ -3864,7 +3864,7 @@
     "asset": "Binance-Peg Juventus Token",
     "type": "BEP-20",
     "address": "0xc40c9a843e1c6d01b7578284a9028854f6683b1b",
-    "name": "Binance-Peg Juventus Token",
+    "name": "Juventus",
     "symbol": "JUV",
     "decimals": 2,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xc40c9a843e1c6d01b7578284a9028854f6683b1b.png"
@@ -4074,7 +4074,7 @@
     "asset": "Public Masterpiece Token",
     "type": "BEP-20",
     "address": "0x68ae2f202799be2008c89e2100257e66f77da1f3",
-    "name": "Public Masterpiece Token",
+    "name": "Public Meme Token",
     "symbol": "PMT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x68ae2f202799be2008c89e2100257e66f77da1f3.png"
@@ -4344,7 +4344,7 @@
     "asset": "Bitcoin Limited Edition",
     "type": "BEP-20",
     "address": "0x9d2144328e1d618f54cd38540f5ee50671f6a208",
-    "name": "Bitcoin Limited Edition",
+    "name": "Bitcoin Limited Edition ",
     "symbol": "BTCLE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x9d2144328e1d618f54cd38540f5ee50671f6a208.png"
@@ -4574,7 +4574,7 @@
     "asset": "Bluzelle Token",
     "type": "BEP-20",
     "address": "0x935a544bf5816e3a7c13db2efe3009ffda0acda2",
-    "name": "Bluzelle Token",
+    "name": "Bluzelle Token ",
     "symbol": "BLZ",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x935a544bf5816e3a7c13db2efe3009ffda0acda2.png"
@@ -4774,8 +4774,8 @@
     "asset": "Wrapped LUNC Token",
     "type": "BEP-20",
     "address": "0xECCF35F941Ab67FfcAA9A1265C2fF88865caA005",
-    "name": "Wrapped LUNC Token",
-    "symbol": "LUNC",
+    "name": "Wrapped LUNA Token",
+    "symbol": "LUNA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xECCF35F941Ab67FfcAA9A1265C2fF88865caA005.png"
   },
@@ -4954,7 +4954,7 @@
     "asset": "DogeKing",
     "type": "BEP-20",
     "address": "0x641EC142E67ab213539815f67e4276975c2f8D50",
-    "name": "DogeKing",
+    "name": "DogeKing ",
     "symbol": "DogeKing",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x641EC142E67ab213539815f67e4276975c2f8D50.png"
@@ -5534,7 +5534,7 @@
     "asset": "Binance-Peg IDEX Token",
     "type": "BEP-20",
     "address": "0x0856978f7ffff0a2471b4520e3521c4b3343e36f",
-    "name": "Binance-Peg IDEX Token",
+    "name": "IDEX Token ",
     "symbol": "IDEX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x0856978f7ffff0a2471b4520e3521c4b3343e36f.png"
@@ -6125,7 +6125,7 @@
     "type": "BEP-20",
     "address": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
     "name": "Everclear",
-    "symbol": "NEXT",
+    "symbol": "CLEAR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8.png"
   },
@@ -6294,7 +6294,7 @@
     "asset": "Binance-Peg YFII.finance Token",
     "type": "BEP-20",
     "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
-    "name": "Binance-Peg YFII.finance Token",
+    "name": "YFII.finance Token",
     "symbol": "YFII",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x7f70642d88cf1c4a3a7abb072b53b929b653eda5.png"
@@ -7174,7 +7174,7 @@
     "asset": "Binance-Peg Firo Token",
     "type": "BEP-20",
     "address": "0xd5d0322b6bab6a762c79f8c81a0b674778e13aed",
-    "name": "Binance-Peg Firo Token",
+    "name": "Firo",
     "symbol": "FIRO",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xd5d0322b6bab6a762c79f8c81a0b674778e13aed.png"
@@ -7734,7 +7734,7 @@
     "asset": "Binance-Peg Komodo Token",
     "type": "BEP-20",
     "address": "0x2003f7ba57ea956b05b85c60b4b2ceea9b111256",
-    "name": "Binance-Peg Komodo Token",
+    "name": "Komodo",
     "symbol": "KMD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x2003f7ba57ea956b05b85c60b4b2ceea9b111256.png"
@@ -7814,7 +7814,7 @@
     "asset": "Binance-Peg dForce Token",
     "type": "BEP-20",
     "address": "0x4a9a2b2b04549c3927dd2c9668a5ef3fca473623",
-    "name": "Binance-Peg dForce Token",
+    "name": "dForce",
     "symbol": "DF",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x4a9a2b2b04549c3927dd2c9668a5ef3fca473623.png"
@@ -8734,7 +8734,7 @@
     "asset": "Cashaa",
     "type": "BEP-20",
     "address": "0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c",
-    "name": "Cashaa",
+    "name": " Cashaa",
     "symbol": "CAS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c.png"
@@ -8754,7 +8754,7 @@
     "asset": "Jarvis Reward Token (Wormhole)",
     "type": "BEP-20",
     "address": "0x414f9e74ba3a9d0acce65182809492f41ac671e0",
-    "name": "Jarvis Reward Token (Wormhole)",
+    "name": "Jarvis Reward Token",
     "symbol": "JRT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x414f9e74ba3a9d0acce65182809492f41ac671e0.png"
@@ -8804,7 +8804,7 @@
     "asset": "Gem Exchange and Trading (Wormhole)",
     "type": "BEP-20",
     "address": "0x3107c0a1126268ca303f8d99c712392fa596e6d7",
-    "name": "Gem Exchange and Trading (Wormhole)",
+    "name": "Gem Exchange and Trading",
     "symbol": "GXT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x3107c0a1126268ca303f8d99c712392fa596e6d7.png"
@@ -9255,7 +9255,7 @@
     "type": "BEP-20",
     "address": "0x43adc41cf63666ebb1938b11256f0ea3f16e6932",
     "name": "DOGEWHALE",
-    "symbol": "DOGEWHALE",
+    "symbol": "DWHALE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x43adc41cf63666ebb1938b11256f0ea3f16e6932.png"
   },
@@ -9444,8 +9444,8 @@
     "asset": "LunarCrush Token",
     "type": "BEP-20",
     "address": "0x37807D4fbEB84124347B8899Dd99616090D3e304",
-    "name": "LunarCrush Token",
-    "symbol": "Lunr",
+    "name": "Ethereum-bridged Lunr Token",
+    "symbol": "eLunr",
     "decimals": 4,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x37807D4fbEB84124347B8899Dd99616090D3e304.png"
   },
@@ -9764,7 +9764,7 @@
     "asset": "Sharplink Gaming (Ondo Tokenized)",
     "type": "BEP-20",
     "address": "0x99e01f02d66455bb106d91d469c9eaf6ab4904f6",
-    "name": "Sharplink Gaming (Ondo Tokenized)",
+    "name": "SharpLink Gaming (Ondo Tokenized)",
     "symbol": "SBETon",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x99e01f02d66455bb106d91d469c9eaf6ab4904f6.png"
@@ -10234,7 +10234,7 @@
     "asset": "Book of B",
     "type": "BEP-20",
     "address": "0xc9ad421f96579ace066ec188a7bba472fb83017f",
-    "name": "Book of B",
+    "name": "Book of Binance",
     "symbol": "BOOK",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xc9ad421f96579ace066ec188a7bba472fb83017f.png"
@@ -11004,8 +11004,8 @@
     "asset": "KALISSA",
     "type": "BEP-20",
     "address": "0x950481789959cd6d77f1b88c2e1f61e30608c4e2",
-    "name": "KALISSA",
-    "symbol": "KALI",
+    "name": "KALISSA ",
+    "symbol": "KALI ",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x950481789959cd6d77f1b88c2e1f61e30608c4e2.png"
   },
@@ -11124,7 +11124,7 @@
     "asset": "SKYHASH",
     "type": "BEP-20",
     "address": "0xca003170865d064002d0ee140d3092efa60cd74c",
-    "name": "SKYHASH",
+    "name": "SKYHASH ",
     "symbol": "SKH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xca003170865d064002d0ee140d3092efa60cd74c.png"
@@ -11395,7 +11395,7 @@
     "type": "BEP-20",
     "address": "0xeeed90aa795c0e7d90fcec0fcfaa7bf6fc13c20a",
     "name": "Transient",
-    "symbol": "TSCT",
+    "symbol": "TSCT ",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xeeed90aa795c0e7d90fcec0fcfaa7bf6fc13c20a.png"
   },
@@ -12094,7 +12094,7 @@
     "asset": "Football World Community",
     "type": "BEP-20",
     "address": "0x6d3a160b86edcd46d8f9bba25c2f88cccade19fc",
-    "name": "Football World Community",
+    "name": "QATAR 2022 TOKEN",
     "symbol": "Fwc",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x6d3a160b86edcd46d8f9bba25c2f88cccade19fc.png"
@@ -12274,7 +12274,7 @@
     "asset": "Lunos",
     "type": "BEP-20",
     "address": "0x474021845C4643113458ea4414bdb7fB74A01A77",
-    "name": "Lunos",
+    "name": "UnoRe",
     "symbol": "UNO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x474021845C4643113458ea4414bdb7fB74A01A77.png"
@@ -13554,7 +13554,7 @@
     "asset": "SERENITY",
     "type": "BEP-20",
     "address": "0x84affeef925cdce87f8a99b7b2e540da5140fc09",
-    "name": "SERENITY",
+    "name": "SerenityShield",
     "symbol": "SERSH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x84affeef925cdce87f8a99b7b2e540da5140fc09.png"
@@ -14164,7 +14164,7 @@
     "asset": "Bitlocus Token (Wormhole)",
     "type": "BEP-20",
     "address": "0x51e7b598c9155b9dccb04eb42519f6eec9c841e9",
-    "name": "Bitlocus Token (Wormhole)",
+    "name": "Bitlocus Token",
     "symbol": "BTL",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x51e7b598c9155b9dccb04eb42519f6eec9c841e9.png"
@@ -15345,7 +15345,7 @@
     "type": "BEP-20",
     "address": "0x5d4fc38ea39cd80a81c121d4747aed6cab454a2d",
     "name": "0xsim by Virtuals",
-    "symbol": "SAGE",
+    "symbol": "SAGE ",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x5d4fc38ea39cd80a81c121d4747aed6cab454a2d.png"
   },
@@ -16304,7 +16304,7 @@
     "asset": "Thoreumv3 - Thoreum.Capital",
     "type": "BEP-20",
     "address": "0xce1b3e5087e8215876af976032382dd338cf8401",
-    "name": "Thoreumv3 - Thoreum.Capital",
+    "name": "Thoreumv4 - Thoreum.AI",
     "symbol": "THOREUM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xce1b3e5087e8215876af976032382dd338cf8401.png"
@@ -16314,7 +16314,7 @@
     "asset": "Binance-Peg Maker",
     "type": "BEP-20",
     "address": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350",
-    "name": "Binance-Peg Maker",
+    "name": "Maker",
     "symbol": "MKR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x5f0da599bb2cccfcf6fdfd7d81743b6020864350.png"
@@ -16434,7 +16434,7 @@
     "asset": "Binance-Peg Bitcoin Cash ABC",
     "type": "BEP-20",
     "address": "0xd475c9c934dcd6d5f1cac530585aa5ba14185b92",
-    "name": "Binance-Peg Bitcoin Cash ABC",
+    "name": "Bitcoin Cash ABC",
     "symbol": "BCHA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xd475c9c934dcd6d5f1cac530585aa5ba14185b92.png"
@@ -16464,7 +16464,7 @@
     "asset": "Car",
     "type": "BEP-20",
     "address": "0xbb1106c7deb7cc60efa51391760b14aed8cb5bed",
-    "name": "Car",
+    "name": "Car ",
     "symbol": "Car",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xbb1106c7deb7cc60efa51391760b14aed8cb5bed.png"
@@ -16494,7 +16494,7 @@
     "asset": "Trip",
     "type": "BEP-20",
     "address": "0xc9bfb93d75645c4681bb63794abf1acad44725e7",
-    "name": "Trip",
+    "name": "Trip ",
     "symbol": "Trip",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xc9bfb93d75645c4681bb63794abf1acad44725e7.png"
@@ -16504,7 +16504,7 @@
     "asset": "RealEstate",
     "type": "BEP-20",
     "address": "0x32477cf0e324f9a9cb49e8803fa4de9f80f8d0d4",
-    "name": "RealEstate",
+    "name": "RealEstate ",
     "symbol": "RealEstate",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x32477cf0e324f9a9cb49e8803fa4de9f80f8d0d4.png"
@@ -17494,7 +17494,7 @@
     "asset": "Wrapped GICT",
     "type": "BEP-20",
     "address": "0x27b2d695ef01d10ee96582a23db201b0aa338639",
-    "name": "Wrapped GICT",
+    "name": "Wrapped  GICT",
     "symbol": "WGICT",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x27b2d695ef01d10ee96582a23db201b0aa338639.png"
@@ -17584,7 +17584,7 @@
     "asset": "Bafi Finance Token",
     "type": "BEP-20",
     "address": "0xa2f46fe221f34dac4cf078e6946a7cb4e373ad28",
-    "name": "Bafi Finance Token",
+    "name": "Bafi Finance Token ",
     "symbol": "BAFI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xa2f46fe221f34dac4cf078e6946a7cb4e373ad28.png"
@@ -17884,7 +17884,7 @@
     "asset": "BANQUE UNIVERSAL",
     "type": "BEP-20",
     "address": "0x912ef48f4da0c68d6c7c6d0b35d4e62e71771f33",
-    "name": "BANQUE UNIVERSAL",
+    "name": "BANQUE UNIVERSAL ",
     "symbol": "CBU",
     "decimals": 4,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x912ef48f4da0c68d6c7c6d0b35d4e62e71771f33.png"
@@ -18214,7 +18214,7 @@
     "asset": "HPSv2",
     "type": "BEP-20",
     "address": "0xc9D53A339F3c22E016C6fA1E3Eb85AC32c75fED2",
-    "name": "HPSv2",
+    "name": "HPSv2 ",
     "symbol": "HPS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xc9D53A339F3c22E016C6fA1E3Eb85AC32c75fED2.png"
@@ -18424,7 +18424,7 @@
     "asset": "Binance-Peg EOS Token",
     "type": "BEP-20",
     "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
-    "name": "Binance-Peg EOS Token",
+    "name": "EOS Token",
     "symbol": "EOS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6.png"
@@ -18434,7 +18434,7 @@
     "asset": "EXENO",
     "type": "BEP-20",
     "address": "0x35c3e9411179e91f2b35cc20b7727d2edf3e8e9a",
-    "name": "EXENO",
+    "name": "EXENO COIN",
     "symbol": "EXN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x35c3e9411179e91f2b35cc20b7727d2edf3e8e9a.png"
@@ -19544,7 +19544,7 @@
     "asset": "FidoMeta",
     "type": "BEP-20",
     "address": "0xd1baaED91361CEa01a2D9be0Ca8988756163971a",
-    "name": "FidoMeta",
+    "name": "Fido Meta",
     "symbol": "FMC",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xd1baaED91361CEa01a2D9be0Ca8988756163971a.png"
@@ -20794,7 +20794,7 @@
     "asset": "AMC FIGHT NIGHT",
     "type": "BEP-20",
     "address": "0x1496fb27d8cf1887d21cac161987821859ca56ba",
-    "name": "AMC FIGHT NIGHT",
+    "name": "AMC FIGHT NIGHTS",
     "symbol": "AMC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x1496fb27d8cf1887d21cac161987821859ca56ba.png"
@@ -20844,8 +20844,8 @@
     "asset": "Froggie",
     "type": "BEP-20",
     "address": "0xa45f5eb48cecd034751651aeeda6271bd5df8888",
-    "name": "Froggie",
-    "symbol": "Froggie",
+    "name": "Froggie ",
+    "symbol": "Froggie ",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xa45f5eb48cecd034751651aeeda6271bd5df8888.png"
   },
@@ -22434,8 +22434,8 @@
     "asset": "WORTHWHILE",
     "type": "BEP-20",
     "address": "0x2decb6d8789777910ca5e425370bc9b6e5eb7b9c",
-    "name": "WORTHWHILE",
-    "symbol": "WHE",
+    "name": "WORTHWHILE ",
+    "symbol": "WHE ",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x2decb6d8789777910ca5e425370bc9b6e5eb7b9c.png"
   },
@@ -22514,7 +22514,7 @@
     "asset": "IOI Token via ChainPort.io",
     "type": "BEP-20",
     "address": "0x959229d94c9060552daea25ac17193bca65d7884",
-    "name": "IOI Token via ChainPort.io",
+    "name": "IOI Token  via ChainPort.io",
     "symbol": "IOI",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x959229d94c9060552daea25ac17193bca65d7884.png"
@@ -22784,7 +22784,7 @@
     "asset": "Cheese NFT",
     "type": "BEP-20",
     "address": "0xc6d866628b5a1c63e196557c1ba189211b779f64",
-    "name": "Cheese NFT",
+    "name": "Cheese NFT ",
     "symbol": "CNFT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xc6d866628b5a1c63e196557c1ba189211b779f64.png"
@@ -23384,7 +23384,7 @@
     "asset": "Binance-Peg Token Club",
     "type": "BEP-20",
     "address": "0xca0a9df6a8cad800046c1ddc5755810718b65c44",
-    "name": "Binance-Peg Token Club",
+    "name": "Token Club",
     "symbol": "TCT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xca0a9df6a8cad800046c1ddc5755810718b65c44.png"
@@ -23394,7 +23394,7 @@
     "asset": "Crypto Classic",
     "type": "BEP-20",
     "address": "0xf7bcac494fd9530c183dae30db48d45144ff2c77",
-    "name": "Crypto Classic",
+    "name": "Crypto Classic ",
     "symbol": "CRC",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xf7bcac494fd9530c183dae30db48d45144ff2c77.png"
@@ -24044,7 +24044,7 @@
     "asset": "Quick Transfer coin plus",
     "type": "BEP-20",
     "address": "0xbd817c2e531b1b31f211f50f59fbc87ebc50ef48",
-    "name": "Quick Transfer coin plus",
+    "name": "Quick Transfer coin plus ",
     "symbol": "QTCC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xbd817c2e531b1b31f211f50f59fbc87ebc50ef48.png"
@@ -25634,7 +25634,7 @@
     "asset": "ANOMUS",
     "type": "BEP-20",
     "address": "0x5224f552f110ec78e6e0468138950ae5f3040942",
-    "name": "ANOMUS",
+    "name": "ANOMUS ",
     "symbol": "ANOM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x5224f552f110ec78e6e0468138950ae5f3040942.png"
@@ -28204,8 +28204,8 @@
     "asset": "Affinity",
     "type": "BEP-20",
     "address": "0xface67c5ce2bb48c29779b0dede5360cc9ef5fd5",
-    "name": "Affinity",
-    "symbol": "AFNTY",
+    "name": "OldAffinity",
+    "symbol": "OAFF",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xface67c5ce2bb48c29779b0dede5360cc9ef5fd5.png"
   },
@@ -29224,7 +29224,7 @@
     "asset": "Wrapped Pivx Lite",
     "type": "BEP-20",
     "address": "0x57B1e6851E172fdc8A1ebABe2eeBDEAcbB274749",
-    "name": "Wrapped Pivx Lite",
+    "name": "Wrapped Pivx Lite ",
     "symbol": "WPIVXL",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x57B1e6851E172fdc8A1ebABe2eeBDEAcbB274749.png"
@@ -29364,8 +29364,8 @@
     "asset": "Reflex Finance V2",
     "type": "BEP-20",
     "address": "0x2f499c6DA2C84063BB7e0CB1C478687210cDB615",
-    "name": "Reflex Finance V2",
-    "symbol": "REFLEX V2",
+    "name": "ReflexV2",
+    "symbol": "RFX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x2f499c6DA2C84063BB7e0CB1C478687210cDB615.png"
   },
@@ -30144,7 +30144,7 @@
     "asset": "Binance-Peg SushiToken",
     "type": "BEP-20",
     "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
-    "name": "Binance-Peg SushiToken",
+    "name": "SushiToken",
     "symbol": "SUSHI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x947950bcc74888a40ffa2593c5798f11fc9124c4.png"
@@ -30244,7 +30244,7 @@
     "asset": "Chainstake DEFI",
     "type": "BEP-20",
     "address": "0x98899db6c9aec89e1c8353f290dafd68a1ae9e40",
-    "name": "Chainstake DEFI",
+    "name": "Chainstake DEFI ",
     "symbol": "CD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0x98899db6c9aec89e1c8353f290dafd68a1ae9e40.png"
@@ -31304,7 +31304,7 @@
     "asset": "Telas Mundi",
     "type": "BEP-20",
     "address": "0xde9d1597fc1e8ee8050b6517bce3b794cab24845",
-    "name": "Telas Mundi",
+    "name": "Telas Mundi ",
     "symbol": "Telas Mundi",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/bsc/0xde9d1597fc1e8ee8050b6517bce3b794cab24845.png"

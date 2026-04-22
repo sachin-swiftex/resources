@@ -184,7 +184,7 @@
     "asset": "Kelp DAO Wrapped rsETH",
     "address": "0x87eEE96D50Fb761AD85B1c982d28A042169d61b1",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x87eEE96D50Fb761AD85B1c982d28A042169d61b1/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32690.png",
     "chainId": 10,
     "symbol": "WRSETH",
     "type": "ERC-20"
@@ -294,7 +294,7 @@
     "asset": "Exactly Protocol",
     "address": "0x1e925De1c68ef83bD98eE3E130eF14a50309C01B",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x1e925De1c68ef83bD98eE3E130eF14a50309C01B/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/27736.png",
     "chainId": 10,
     "symbol": "EXA",
     "type": "ERC-20"
@@ -334,7 +334,7 @@
     "asset": "Wowbit",
     "address": "0x03cc5feF38896537c10Fcb30A53A1B12be101da6",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x03cc5feF38896537c10Fcb30A53A1B12be101da6/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/2892.png",
     "chainId": 10,
     "symbol": "WWB",
     "type": "ERC-20"
@@ -344,7 +344,7 @@
     "asset": "Ethos Reserve Note",
     "address": "0xc5b001DC33727F8F26880B184090D3E252470D45",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xc5b001DC33727F8F26880B184090D3E252470D45/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24370.png",
     "chainId": 10,
     "symbol": "ERN",
     "type": "ERC-20"
@@ -354,7 +354,7 @@
     "asset": "Extra Finance",
     "address": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x2dAD3a13ef0C6366220f989157009e501e7938F8/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/27603.png",
     "chainId": 10,
     "symbol": "EXTRA",
     "type": "ERC-20"
@@ -364,7 +364,7 @@
     "asset": "Blue Norva",
     "address": "0xa50B23cDfB2eC7c590e84f403256f67cE6dffB84",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xa50B23cDfB2eC7c590e84f403256f67cE6dffB84/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/26714.png",
     "chainId": 10,
     "symbol": "BLU",
     "type": "ERC-20"
@@ -374,7 +374,7 @@
     "asset": "Overnight",
     "address": "0x3b08fcd15280e7B5A6e404c4abb87F7C774D1B2e",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x3b08fcd15280e7B5A6e404c4abb87F7C774D1B2e/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/28229.png",
     "chainId": 10,
     "symbol": "OVN",
     "type": "ERC-20"
@@ -384,9 +384,79 @@
     "asset": "Overnight DAI+",
     "address": "0x970D50d09F3a656b43E11B0D45241a84e3a6e011",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x970D50d09F3a656b43E11B0D45241a84e3a6e011/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/25222.png",
     "chainId": 10,
     "symbol": "DAI+",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Okcash",
+    "asset": "Okcash",
+    "address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189/logo.png",
+    "chainId": 10,
+    "symbol": "OK",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Thales DAO",
+    "asset": "Thales DAO",
+    "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x217D47011b23BB961eB6D93cA9945B7501a5BB11/logo.png",
+    "chainId": 10,
+    "symbol": "THALES",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Sonne",
+    "asset": "Sonne",
+    "address": "0x1DB2466d9F5e10D7090E7152B68d62703a2245F0",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x1DB2466d9F5e10D7090E7152B68d62703a2245F0/logo.png",
+    "chainId": 10,
+    "symbol": "SONNE",
+    "type": "ERC-20"
+  },
+  {
+    "name": "USDA",
+    "asset": "USDA",
+    "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x0000206329b97DB379d5E1Bf586BbDB969C63274/logo.png",
+    "chainId": 10,
+    "symbol": "USDA",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Collab.Land",
+    "asset": "Collab.Land",
+    "address": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A/logo.png",
+    "chainId": 10,
+    "symbol": "COLLAB",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Mai Stablecoin",
+    "asset": "Mai Stablecoin",
+    "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xdFA46478F9e5EA86d57387849598dbFB2e964b02/logo.png",
+    "chainId": 10,
+    "symbol": "MAI",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Oath",
+    "asset": "Oath",
+    "address": "0x39FdE572a18448F8139b7788099F0a0740f51205",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x39FdE572a18448F8139b7788099F0a0740f51205/logo.png",
+    "chainId": 10,
+    "symbol": "OATH",
     "type": "ERC-20"
   },
   {
@@ -410,23 +480,13 @@
     "type": "ERC-20"
   },
   {
-    "name": "Oath",
-    "asset": "Oath",
-    "address": "0x39FdE572a18448F8139b7788099F0a0740f51205",
+    "name": "Elk",
+    "asset": "Elk",
+    "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x39FdE572a18448F8139b7788099F0a0740f51205/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "chainId": 10,
-    "symbol": "OATH",
-    "type": "ERC-20"
-  },
-  {
-    "name": "BOB",
-    "asset": "BOB",
-    "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B/logo.png",
-    "chainId": 10,
-    "symbol": "BOB",
+    "symbol": "ELK",
     "type": "ERC-20"
   },
   {
@@ -440,83 +500,13 @@
     "type": "ERC-20"
   },
   {
-    "name": "Elk",
-    "asset": "Elk",
-    "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+    "name": "BOB",
+    "asset": "BOB",
+    "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B/logo.png",
     "chainId": 10,
-    "symbol": "ELK",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Okcash",
-    "asset": "Okcash",
-    "address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189/logo.png",
-    "chainId": 10,
-    "symbol": "OK",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Sonne",
-    "asset": "Sonne",
-    "address": "0x1DB2466d9F5e10D7090E7152B68d62703a2245F0",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x1DB2466d9F5e10D7090E7152B68d62703a2245F0/logo.png",
-    "chainId": 10,
-    "symbol": "SONNE",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Collab.Land",
-    "asset": "Collab.Land",
-    "address": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A/logo.png",
-    "chainId": 10,
-    "symbol": "COLLAB",
-    "type": "ERC-20"
-  },
-  {
-    "name": "USDA",
-    "asset": "USDA",
-    "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x0000206329b97DB379d5E1Bf586BbDB969C63274/logo.png",
-    "chainId": 10,
-    "symbol": "USDA",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Thales DAO",
-    "asset": "Thales DAO",
-    "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x217D47011b23BB961eB6D93cA9945B7501a5BB11/logo.png",
-    "chainId": 10,
-    "symbol": "THALES",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Mai Stablecoin",
-    "asset": "Mai Stablecoin",
-    "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xdFA46478F9e5EA86d57387849598dbFB2e964b02/logo.png",
-    "chainId": 10,
-    "symbol": "MAI",
-    "type": "ERC-20"
-  },
-  {
-    "name": "RadioShack",
-    "asset": "RadioShack",
-    "address": "0xf899e3909B4492859d44260E1de41A9E663e70F5",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xf899e3909B4492859d44260E1de41A9E663e70F5/logo.png",
-    "chainId": 10,
-    "symbol": "RADIO",
+    "symbol": "BOB",
     "type": "ERC-20"
   },
   {
@@ -527,6 +517,16 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x6F0fecBC276de8fC69257065fE47C5a03d986394/logo.png",
     "chainId": 10,
     "symbol": "POP",
+    "type": "ERC-20"
+  },
+  {
+    "name": "RadioShack",
+    "asset": "RadioShack",
+    "address": "0xf899e3909B4492859d44260E1de41A9E663e70F5",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xf899e3909B4492859d44260E1de41A9E663e70F5/logo.png",
+    "chainId": 10,
+    "symbol": "RADIO",
     "type": "ERC-20"
   },
   {
@@ -547,26 +547,6 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xcdB4bB51801A1F399d4402c61bC098a72c382E65/logo.png",
     "chainId": 10,
     "symbol": "OPX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Layer2DAO",
-    "asset": "Layer2DAO",
-    "address": "0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44/logo.png",
-    "chainId": 10,
-    "symbol": "L2DAO",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Build",
-    "asset": "Build",
-    "address": "0xe4dE4B87345815C71aa843ea4841bCdc682637bb",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xe4dE4B87345815C71aa843ea4841bCdc682637bb/logo.png",
-    "chainId": 10,
-    "symbol": "BUILD",
     "type": "ERC-20"
   },
   {
@@ -600,11 +580,31 @@
     "type": "ERC-20"
   },
   {
+    "name": "Build",
+    "asset": "Build",
+    "address": "0xe4dE4B87345815C71aa843ea4841bCdc682637bb",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xe4dE4B87345815C71aa843ea4841bCdc682637bb/logo.png",
+    "chainId": 10,
+    "symbol": "BUILD",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Layer2DAO",
+    "asset": "Layer2DAO",
+    "address": "0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44/logo.png",
+    "chainId": 10,
+    "symbol": "L2DAO",
+    "type": "ERC-20"
+  },
+  {
     "name": "DexToro Pro",
     "asset": "DexToro Pro",
     "address": "0x1CeF2d62aF4cd26673C7416957CC4Ec619A696a7",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x1CeF2d62aF4cd26673C7416957CC4Ec619A696a7/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/29669.png",
     "chainId": 10,
     "symbol": "DTORO",
     "type": "ERC-20"
@@ -614,7 +614,7 @@
     "asset": "NEROX AI",
     "address": "0xD42Fe55e8A43b546aA75fdA6483073be1d7EF74c",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xD42Fe55e8A43b546aA75fdA6483073be1d7EF74c/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/34728.png",
     "chainId": 10,
     "symbol": "NEROX",
     "type": "ERC-20"
@@ -624,7 +624,7 @@
     "asset": "Pika Protocol",
     "address": "0x9A601C5bb360811d96A23689066af316a30c3027",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x9A601C5bb360811d96A23689066af316a30c3027/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/25148.png",
     "chainId": 10,
     "symbol": "PIKA",
     "type": "ERC-20"
@@ -634,9 +634,19 @@
     "asset": "Chris World Asset",
     "address": "0x34C0431C98cd37F8359f4445477619a815CB36bd",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x34C0431C98cd37F8359f4445477619a815CB36bd/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/31150.png",
     "chainId": 10,
     "symbol": "CWA",
+    "type": "ERC-20"
+  },
+  {
+    "name": "yearn.finance",
+    "asset": "yearn.finance",
+    "address": "0x9046D36440290FfDE54FE0DD84Db8b1CfEE9107B",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x9046D36440290FfDE54FE0DD84Db8b1CfEE9107B/logo.png",
+    "chainId": 10,
+    "symbol": "YFI",
     "type": "ERC-20"
   },
   {
@@ -714,7 +724,7 @@
     "asset": "SWRM Token",
     "address": "0xd42d421f96160B7B9aD1078867B95C4Aa4CA98b5",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xd42d421f96160B7B9aD1078867B95C4Aa4CA98b5/logo.png",
+    "logoURI": "https://dd.dexscreener.com/ds-data/tokens/optimism/0xd42d421f96160b7b9ad1078867b95c4aa4ca98b5.png",
     "chainId": 10,
     "symbol": "SWRM",
     "type": "ERC-20"
@@ -727,16 +737,6 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xffD27b572246f35c992EfB28DD8cB730b93Ed301/logo.png",
     "chainId": 10,
     "symbol": "Rubicon",
-    "type": "ERC-20"
-  },
-  {
-    "name": "yearn.finance",
-    "asset": "yearn.finance",
-    "address": "0x9046D36440290FfDE54FE0DD84Db8b1CfEE9107B",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x9046D36440290FfDE54FE0DD84Db8b1CfEE9107B/logo.png",
-    "chainId": 10,
-    "symbol": "YFI",
     "type": "ERC-20"
   },
   {

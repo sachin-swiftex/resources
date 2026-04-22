@@ -1,15 +1,5 @@
 [
   {
-    "asset": "Optimism",
-    "name": "Optimism",
-    "symbol": "OP",
-    "address": "0X0000000000000000000000000000000000000000",
-    "chainId": 10,
-    "decimals": 18,
-    "type": "NATIVE",
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0X0000000000000000000000000000000000000000.png"
-  },
-  {
     "chainId": 10,
     "asset": "Optimism",
     "type": "ERC-20",
@@ -111,16 +101,6 @@
   },
   {
     "chainId": 10,
-    "asset": "Aave Optimism WBTC",
-    "type": "ERC-20",
-    "address": "0x078f358208685046a11c85e8ad32895ded33a249",
-    "name": "Aave Optimism WBTC",
-    "symbol": "aOptWBTC",
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x078f358208685046a11c85e8ad32895ded33a249.png"
-  },
-  {
-    "chainId": 10,
     "asset": "PCM",
     "type": "ERC-20",
     "address": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
@@ -128,16 +108,6 @@
     "symbol": "PCM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "BlackRock USD Institutional Digital Liquidity Fund",
-    "type": "ERC-20",
-    "address": "0xa1cdab15bba75a80df4089cafba013e376957cf5",
-    "name": "BUIDL",
-    "symbol": "BUIDL",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xa1cdab15bba75a80df4089cafba013e376957cf5.png"
   },
   {
     "chainId": 10,
@@ -161,16 +131,6 @@
   },
   {
     "chainId": 10,
-    "asset": "Magic Internet Money",
-    "type": "ERC-20",
-    "address": "0xb153fb3d196a8eb25522705560ac152eeec57901",
-    "name": "Magic Internet Money",
-    "symbol": "MIM",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xb153fb3d196a8eb25522705560ac152eeec57901.png"
-  },
-  {
-    "chainId": 10,
     "asset": "Dai Stablecoin",
     "type": "ERC-20",
     "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
@@ -178,26 +138,6 @@
     "symbol": "DAI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Frax Ether",
-    "type": "ERC-20",
-    "address": "0x6806411765af15bddd26f8f544a34cc40cb9838b",
-    "name": "Frax Ether",
-    "symbol": "frxETH",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x6806411765af15bddd26f8f544a34cc40cb9838b.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Aave Optimism USDT",
-    "type": "ERC-20",
-    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
-    "name": "Aave Optimism USDT",
-    "symbol": "aOptUSDT",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x6ab707aca953edaefbc4fd23ba73294241490620.png"
   },
   {
     "chainId": 10,
@@ -231,26 +171,6 @@
   },
   {
     "chainId": 10,
-    "asset": "Aave Optimism rETH",
-    "type": "ERC-20",
-    "address": "0x724dc807b04555b71ed48a6896b6f41593b8c637",
-    "name": "Aave Optimism rETH",
-    "symbol": "aOptrETH",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x724dc807b04555b71ed48a6896b6f41593b8c637.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Defi.Money Stablecoin",
-    "type": "ERC-20",
-    "address": "0x69420f9e38a4e60a62224c489be4bf7a94402496",
-    "name": "Defi.Money Stablecoin",
-    "symbol": "MONEY",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x69420f9e38a4e60a62224c489be4bf7a94402496.png"
-  },
-  {
-    "chainId": 10,
     "asset": "Alchemix ETH",
     "type": "ERC-20",
     "address": "0x3e29d3a9316dab217754d13b28646b76607c5f04",
@@ -258,16 +178,6 @@
     "symbol": "alETH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x3e29d3a9316dab217754d13b28646b76607c5f04.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "exactly USDC",
-    "type": "ERC-20",
-    "address": "0x6926b434cce9b5b7966ae1bfeef6d0a7dcf3a8bb",
-    "name": "exactly USDC",
-    "symbol": "exaUSDC",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x6926b434cce9b5b7966ae1bfeef6d0a7dcf3a8bb.png"
   },
   {
     "chainId": 10,
@@ -331,16 +241,6 @@
   },
   {
     "chainId": 10,
-    "asset": "Aave Optimism DAI",
-    "type": "ERC-20",
-    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
-    "name": "Aave Optimism DAI",
-    "symbol": "aOptDAI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee.png"
-  },
-  {
-    "chainId": 10,
     "asset": "Moo BIFI",
     "type": "ERC-20",
     "address": "0xc55e93c62874d8100dbd2dfe307edc1036ad5434",
@@ -361,36 +261,6 @@
   },
   {
     "chainId": 10,
-    "asset": "Staked Frax Ether",
-    "type": "ERC-20",
-    "address": "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45",
-    "name": "Staked Frax Ether",
-    "symbol": "sfrxETH",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x3ec3849c33291a9ef4c5db86de593eb4a37fde45.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Tarot",
-    "type": "ERC-20",
-    "address": "0x1f514a61bcde34f94bc39731235690ab9da737f7",
-    "name": "Tarot",
-    "symbol": "TAROT",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x1f514a61bcde34f94bc39731235690ab9da737f7.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Aave Optimism LINK",
-    "type": "ERC-20",
-    "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
-    "name": "Aave Optimism LINK",
-    "symbol": "aOptLINK",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x191c10aa4af7c30e871e70c95db0e4eb77237530.png"
-  },
-  {
-    "chainId": 10,
     "asset": "Frax",
     "type": "ERC-20",
     "address": "0x2e3d870790dc77a83dd1d18184acc7439a53f475",
@@ -398,26 +268,6 @@
     "symbol": "FRAX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x2e3d870790dc77a83dd1d18184acc7439a53f475.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "IronBank",
-    "type": "ERC-20",
-    "address": "0x00a35fd824c717879bf370e70ac6868b95870dfb",
-    "name": "IronBank",
-    "symbol": "IB",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x00a35fd824c717879bf370e70ac6868b95870dfb.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Aave Optimism AAVE",
-    "type": "ERC-20",
-    "address": "0xf329e36c7bf6e5e86ce2150875a84ce77f477375",
-    "name": "Aave Optimism AAVE",
-    "symbol": "aOptAAVE",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xf329e36c7bf6e5e86ce2150875a84ce77f477375.png"
   },
   {
     "chainId": 10,
@@ -441,16 +291,6 @@
   },
   {
     "chainId": 10,
-    "asset": "SecureChain AI",
-    "type": "ERC-20",
-    "address": "0x0f13fc8a93ab8edc9fde0a1e19aac693161599a5",
-    "name": "SecureChain AI",
-    "symbol": "SCAI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x0f13fc8a93ab8edc9fde0a1e19aac693161599a5.png"
-  },
-  {
-    "chainId": 10,
     "asset": "Dola USD Stablecoin",
     "type": "ERC-20",
     "address": "0x8ae125e8653821e851f12a49f7765db9a9ce7384",
@@ -458,26 +298,6 @@
     "symbol": "DOLA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x8ae125e8653821e851f12a49f7765db9a9ce7384.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "CheckDot",
-    "type": "ERC-20",
-    "address": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
-    "name": "CheckDot",
-    "symbol": "CDT",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Frax Price Index",
-    "type": "ERC-20",
-    "address": "0xc5d43a94e26fca47a9b21cf547ae4aa0268670e1",
-    "name": "Frax Price Index",
-    "symbol": "FPI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xc5d43a94e26fca47a9b21cf547ae4aa0268670e1.png"
   },
   {
     "chainId": 10,
@@ -501,16 +321,6 @@
   },
   {
     "chainId": 10,
-    "asset": "Synth sETH",
-    "type": "ERC-20",
-    "address": "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49",
-    "name": "Synth sETH",
-    "symbol": "sETH",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xe405de8f52ba7559f9df3c368500b6e6ae6cee49.png"
-  },
-  {
-    "chainId": 10,
     "asset": "Frax Share",
     "type": "ERC-20",
     "address": "0x67ccea5bb16181e7b4109c9c2143c24a1c2205be",
@@ -531,26 +341,6 @@
   },
   {
     "chainId": 10,
-    "asset": "exactly USDC",
-    "type": "ERC-20",
-    "address": "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873",
-    "name": "exactly USDC.e",
-    "symbol": "exaUSDC.e",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x81c9a7b55a4df39a9b7b5f781ec0e53539694873.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Minerva",
-    "type": "ERC-20",
-    "address": "0xe4d8701c69b3b94a620ff048e4226c895b67b2c0",
-    "name": "Minerva",
-    "symbol": "MINE",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xe4d8701c69b3b94a620ff048e4226c895b67b2c0.png"
-  },
-  {
-    "chainId": 10,
     "asset": "Wormhole Token",
     "type": "ERC-20",
     "address": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
@@ -558,26 +348,6 @@
     "symbol": "W",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Synth sBTC",
-    "type": "ERC-20",
-    "address": "0x298b9b95708152ff6968aafd889c6586e9169f1d",
-    "name": "Synth sBTC",
-    "symbol": "sBTC",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x298b9b95708152ff6968aafd889c6586e9169f1d.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Giveth Token",
-    "type": "ERC-20",
-    "address": "0x528cdc92eab044e1e39fe43b9514bfdab4412b98",
-    "name": "Giveth Token",
-    "symbol": "GIV",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x528cdc92eab044e1e39fe43b9514bfdab4412b98.png"
   },
   {
     "chainId": 10,
@@ -601,26 +371,6 @@
   },
   {
     "chainId": 10,
-    "asset": "Aave Optimism LUSD",
-    "type": "ERC-20",
-    "address": "0x8eb270e296023e9d92081fdf967ddd7878724424",
-    "name": "Aave Optimism LUSD",
-    "symbol": "aOptLUSD",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x8eb270e296023e9d92081fdf967ddd7878724424.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "RadioShack Token",
-    "type": "ERC-20",
-    "address": "0xf899e3909b4492859d44260e1de41a9e663e70f5",
-    "name": "RadioShack Token",
-    "symbol": "RADIO",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xf899e3909b4492859d44260e1de41a9e663e70f5.png"
-  },
-  {
-    "chainId": 10,
     "asset": "USD+",
     "type": "ERC-20",
     "address": "0x73cb180bf0521828d8849bc8cf2b920918e23032",
@@ -628,16 +378,6 @@
     "symbol": "USD+",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x73cb180bf0521828d8849bc8cf2b920918e23032.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "MetalSwap",
-    "type": "ERC-20",
-    "address": "0x3e5d9d8a63cc8a88748f229999cf59487e90721e",
-    "name": "MetalSwap",
-    "symbol": "XMT",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x3e5d9d8a63cc8a88748f229999cf59487e90721e.png"
   },
   {
     "chainId": 10,
@@ -651,16 +391,6 @@
   },
   {
     "chainId": 10,
-    "asset": "Nya",
-    "type": "ERC-20",
-    "address": "0x38F9bf9dCe51833Ec7f03C9dC218197999999999",
-    "name": "Nya",
-    "symbol": "NYA",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x38F9bf9dCe51833Ec7f03C9dC218197999999999.png"
-  },
-  {
-    "chainId": 10,
     "asset": "Collab.Land",
     "type": "ERC-20",
     "address": "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a",
@@ -671,16 +401,6 @@
   },
   {
     "chainId": 10,
-    "asset": "Coinbase Wrapped Staked ETH",
-    "type": "ERC-20",
-    "address": "0xaddb6a0412de1ba0f936dcaeb8aaa24578dcf3b2",
-    "name": "Coinbase Wrapped Staked ETH",
-    "symbol": "cbETH",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xaddb6a0412de1ba0f936dcaeb8aaa24578dcf3b2.png"
-  },
-  {
-    "chainId": 10,
     "asset": "Kromatika",
     "type": "ERC-20",
     "address": "0xf98dcd95217e15e05d8638da4c91125e59590b07",
@@ -688,16 +408,6 @@
     "symbol": "KROM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xf98dcd95217e15e05d8638da4c91125e59590b07.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Kyber Network Crystal v2",
-    "type": "ERC-20",
-    "address": "0xa00e3a3511aac35ca78530c85007afcd31753819",
-    "name": "Kyber Network Crystal v2",
-    "symbol": "KNC",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xa00e3a3511aac35ca78530c85007afcd31753819.png"
   },
   {
     "chainId": 10,
@@ -731,46 +441,6 @@
   },
   {
     "chainId": 10,
-    "asset": "WOO",
-    "type": "ERC-20",
-    "address": "0x871f2F2ff935FD1eD867842FF2a7bfD051A5E527",
-    "name": "Wootrade Network",
-    "symbol": "WOO",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x871f2F2ff935FD1eD867842FF2a7bfD051A5E527.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Hyperlane",
-    "type": "ERC-20",
-    "address": "0x9923db8d7fbacc2e69e87fad19b886c81cd74979",
-    "name": "Hyperlane",
-    "symbol": "HYPER",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x9923db8d7fbacc2e69e87fad19b886c81cd74979.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Kryll",
-    "type": "ERC-20",
-    "address": "0x2ed6222cb75e353b8789bec7bb443b7ec9022021",
-    "name": "Kryll",
-    "symbol": "KRL",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x2ed6222cb75e353b8789bec7bb443b7ec9022021.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Autonolas",
-    "type": "ERC-20",
-    "address": "0xfc2e6e6bcbd49ccf3a5f029c79984372dcbfe527",
-    "name": "Autonolas",
-    "symbol": "OLAS",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xfc2e6e6bcbd49ccf3a5f029c79984372dcbfe527.png"
-  },
-  {
-    "chainId": 10,
     "asset": "USDe",
     "type": "ERC-20",
     "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
@@ -781,36 +451,6 @@
   },
   {
     "chainId": 10,
-    "asset": "Jarvis Reward Token",
-    "type": "ERC-20",
-    "address": "0x15e770b95edd73fd96b02ece0266247d50895e76",
-    "name": "Jarvis Reward Token",
-    "symbol": "JRT",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x15e770b95edd73fd96b02ece0266247d50895e76.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Synth sLINK",
-    "type": "ERC-20",
-    "address": "0xc5db22719a06418028a40a9b5e9a7c02959d0d08",
-    "name": "Synth sLINK",
-    "symbol": "sLINK",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xc5db22719a06418028a40a9b5e9a7c02959d0d08.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "BLOCKv",
-    "type": "ERC-20",
-    "address": "0xe3c332a5dce0e1d9bc2cc72a68437790570c28a4",
-    "name": "BLOCKv",
-    "symbol": "VEE",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xe3c332a5dce0e1d9bc2cc72a68437790570c28a4.png"
-  },
-  {
-    "chainId": 10,
     "asset": "Balancer",
     "type": "ERC-20",
     "address": "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
@@ -818,16 +458,6 @@
     "symbol": "BAL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Promethios",
-    "type": "ERC-20",
-    "address": "0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776",
-    "name": "Promethios",
-    "symbol": "FIRE",
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776.png"
   },
   {
     "chainId": 10,
@@ -871,26 +501,6 @@
   },
   {
     "chainId": 10,
-    "asset": "Bolide",
-    "type": "ERC-20",
-    "address": "0x048c6bad48c51436764ed1fdb3c9d1c25d2c0ada",
-    "name": "Bolide",
-    "symbol": "BLID",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x048c6bad48c51436764ed1fdb3c9d1c25d2c0ada.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "YieldFi yUSD",
-    "type": "ERC-20",
-    "address": "0x4772D2e014F9fC3a820C444e3313968e9a5C8121",
-    "name": "YieldFi yUSD",
-    "symbol": "yUSD",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x4772D2e014F9fC3a820C444e3313968e9a5C8121.png"
-  },
-  {
-    "chainId": 10,
     "asset": "xSpace Token",
     "type": "ERC-20",
     "address": "0x1D1498166DDCEeE616a6d99868e1E0677300056f",
@@ -901,36 +511,6 @@
   },
   {
     "chainId": 10,
-    "asset": "ROOBEE",
-    "type": "ERC-20",
-    "address": "0xb12c13e66ade1f72f71834f2fc5082db8c091358",
-    "name": "ROOBEE",
-    "symbol": "ROOBEE",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xb12c13e66ade1f72f71834f2fc5082db8c091358.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Ionic",
-    "type": "ERC-20",
-    "address": "0x887d1c6a4f3548279c2a8a9d0fa61b5d458d14fc",
-    "name": "Ionic",
-    "symbol": "ION",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x887d1c6a4f3548279c2a8a9d0fa61b5d458d14fc.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Aura",
-    "type": "ERC-20",
-    "address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
-    "name": "Aura",
-    "symbol": "AURA",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x1509706a6c66CA549ff0cB464de88231DDBe213B.png"
-  },
-  {
-    "chainId": 10,
     "asset": "TrueUSD",
     "type": "ERC-20",
     "address": "0xcb59a0a753fdb7491d5f3d794316f1ade197b21e",
@@ -938,176 +518,6 @@
     "symbol": "TUSD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xcb59a0a753fdb7491d5f3d794316f1ade197b21e.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Erica Social Token",
-    "type": "ERC-20",
-    "address": "0x7b0bcc23851bbf7601efc9e9fe532bf5284f65d3",
-    "name": "Erica Social Token",
-    "symbol": "EST",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x7b0bcc23851bbf7601efc9e9fe532bf5284f65d3.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Equalizer",
-    "type": "ERC-20",
-    "address": "0x81ab7e0d570b01411fcc4afd3d50ec8c241cb74b",
-    "name": "Equalizer",
-    "symbol": "EQZ",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x81ab7e0d570b01411fcc4afd3d50ec8c241cb74b.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "O3 Swap Token",
-    "type": "ERC-20",
-    "address": "0xee9801669c6138e84bd50deb500827b776777d28",
-    "name": "O3 Swap Token",
-    "symbol": "O3",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xee9801669c6138e84bd50deb500827b776777d28.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Spectra Token",
-    "type": "ERC-20",
-    "address": "0x248f43b622ce2f35a14db3fc528284730b619cd5",
-    "name": "Spectra Token",
-    "symbol": "SPECTRA",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x248f43b622ce2f35a14db3fc528284730b619cd5.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Penpie Token",
-    "type": "ERC-20",
-    "address": "0xC4a65A93dD6CD9717551ebE827E8baEe025d1d7E",
-    "name": "Penpie Token",
-    "symbol": "PNP",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xC4a65A93dD6CD9717551ebE827E8baEe025d1d7E.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Frax USD",
-    "type": "ERC-20",
-    "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
-    "name": "Frax USD",
-    "symbol": "frxUSD",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x80eede496655fb9047dd39d9f418d5483ed600df.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Minato",
-    "type": "ERC-20",
-    "address": "0xc04fb38f10ad352c5f16bd4546f7456e7f1a2d9e",
-    "name": "Minato",
-    "symbol": "MNTO",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xc04fb38f10ad352c5f16bd4546f7456e7f1a2d9e.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Frax Price Index Share",
-    "type": "ERC-20",
-    "address": "0x8368dca5ce2a4db530c0f6e535d90b6826428dee",
-    "name": "Frax Price Index Share",
-    "symbol": "FPIS",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x8368dca5ce2a4db530c0f6e535d90b6826428dee.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Celo native asset",
-    "type": "ERC-20",
-    "address": "0x9b88d293b7a791e40d36a39765ffd5a1b9b5c349",
-    "name": "Celo native asset",
-    "symbol": "CELO",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x9b88d293b7a791e40d36a39765ffd5a1b9b5c349.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Rocket Pool Protocol",
-    "type": "ERC-20",
-    "address": "0xc81d1f0eb955b0c020e5d5b264e1ff72c14d1401",
-    "name": "Rocket Pool Protocol",
-    "symbol": "RPL",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xc81d1f0eb955b0c020e5d5b264e1ff72c14d1401.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Staked USDe",
-    "type": "ERC-20",
-    "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
-    "name": "Staked USDe",
-    "symbol": "sUSDe",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Wombat Token",
-    "type": "ERC-20",
-    "address": "0xd2612b256f6f76fea8c6fbca0bf3166d0d13a668",
-    "name": "Wombat Token",
-    "symbol": "WOM",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xd2612b256f6f76fea8c6fbca0bf3166d0d13a668.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Pyth Network",
-    "type": "ERC-20",
-    "address": "0x99C59ACeBFEF3BBFB7129DC90D1a11DB0E91187f",
-    "name": "Pyth Network",
-    "symbol": "PYTH",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x99C59ACeBFEF3BBFB7129DC90D1a11DB0E91187f.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "1INCH Token",
-    "type": "ERC-20",
-    "address": "0xAd42D013ac31486B73b6b059e748172994736426",
-    "name": "1INCH Token",
-    "symbol": "1INCH",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xAd42D013ac31486B73b6b059e748172994736426.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Sipher Token",
-    "type": "ERC-20",
-    "address": "0xb94944669f7967e16588e55ac41be0d5ef399dcd",
-    "name": "Sipher Token",
-    "symbol": "SIPHER",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xb94944669f7967e16588e55ac41be0d5ef399dcd.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Geyser",
-    "type": "ERC-20",
-    "address": "0x117cfd9060525452db4a34d51c0b3b7599087f05",
-    "name": "Geyser",
-    "symbol": "GYSR",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x117cfd9060525452db4a34d51c0b3b7599087f05.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Quack Token",
-    "type": "ERC-20",
-    "address": "0x59DEBED8D46a0cB823D8BE8b957adD987eAd39aa",
-    "name": "Quack Token",
-    "symbol": "QUACK",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x59DEBED8D46a0cB823D8BE8b957adD987eAd39aa.png"
   },
   {
     "chainId": 10,
@@ -1131,46 +541,6 @@
   },
   {
     "chainId": 10,
-    "asset": "Zunami Token",
-    "type": "ERC-20",
-    "address": "0x25193034153afb4251a8e02a8db0deaef4c876f6",
-    "name": "Zunami Token",
-    "symbol": "ZUN",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x25193034153afb4251a8e02a8db0deaef4c876f6.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "YieldFi yToken",
-    "type": "ERC-20",
-    "address": "0x895e15020c3f52ddd4d8e9514eb83c39f53b1579",
-    "name": "YieldFi yToken",
-    "symbol": "yUSD",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x895e15020c3f52ddd4d8e9514eb83c39f53b1579.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Dackie Token",
-    "type": "ERC-20",
-    "address": "0x47C337Bd5b9344a6F3D6f58C474D9D8cd419D8cA",
-    "name": "Dackie Token",
-    "symbol": "DACKIE",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x47C337Bd5b9344a6F3D6f58C474D9D8cd419D8cA.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Decentralized EURO",
-    "type": "ERC-20",
-    "address": "0x1b5f7fa46ed0f487f049c42f374ca4827d65a264",
-    "name": "Decentralized EURO",
-    "symbol": "dEURO",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x1b5f7fa46ed0f487f049c42f374ca4827d65a264.png"
-  },
-  {
-    "chainId": 10,
     "asset": "Agatech",
     "type": "ERC-20",
     "address": "0x3b29f94a99f198c5de418c11a6ded4b355b9530c",
@@ -1178,256 +548,6 @@
     "symbol": "AGATA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x3b29f94a99f198c5de418c11a6ded4b355b9530c.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Wild Goat Coin",
-    "type": "ERC-20",
-    "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
-    "name": "Wild Goat Coin",
-    "symbol": "WGC",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x3d63825b0d8669307366e6c8202f656b9e91d368.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "The Doge NFT",
-    "type": "ERC-20",
-    "address": "0x8F69Ee043d52161Fd29137AeDf63f5e70cd504D5",
-    "name": "The Doge NFT",
-    "symbol": "DOG",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x8F69Ee043d52161Fd29137AeDf63f5e70cd504D5.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "ENA",
-    "type": "ERC-20",
-    "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
-    "name": "ENA",
-    "symbol": "ENA",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x58538e6a46e07434d7e7375bc268d3cb839c0133.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "SafeBLAST",
-    "type": "ERC-20",
-    "address": "0xd1a891e6eccb7471ebd6bc352f57150d4365db21",
-    "name": "SafeBLAST",
-    "symbol": "BLAST",
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xd1a891e6eccb7471ebd6bc352f57150d4365db21.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Parallel Governance Token",
-    "type": "ERC-20",
-    "address": "0xfd28f108e95f4d41daae9dbfff707d677985998e",
-    "name": "Parallel Governance Token",
-    "symbol": "PRL",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xfd28f108e95f4d41daae9dbfff707d677985998e.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Rari Governance Token",
-    "type": "ERC-20",
-    "address": "0xb548f63d4405466b36c0c0ac3318a22fdcec711a",
-    "name": "Rari Governance Token",
-    "symbol": "RGT",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xb548f63d4405466b36c0c0ac3318a22fdcec711a.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "SWEAT",
-    "type": "ERC-20",
-    "address": "0x38761749330c23d681d136e8ea3fc47d4bb93db3",
-    "name": "SWEAT",
-    "symbol": "SWEAT",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x38761749330c23d681d136e8ea3fc47d4bb93db3.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "RLUSD",
-    "type": "ERC-20",
-    "address": "0x8d58c0c60b8d6b88fa98b291a646db34d0f98258",
-    "name": "RLUSD",
-    "symbol": "RLUSD",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x8d58c0c60b8d6b88fa98b291a646db34d0f98258.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Frax Ether",
-    "type": "ERC-20",
-    "address": "0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050",
-    "name": "Frax Ether",
-    "symbol": "frxETH",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "yearn.finance",
-    "type": "ERC-20",
-    "address": "0x9046d36440290ffde54fe0dd84db8b1cfee9107b",
-    "name": "yearn.finance",
-    "symbol": "YFI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x9046d36440290ffde54fe0dd84db8b1cfee9107b.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Ankr Network",
-    "type": "ERC-20",
-    "address": "0xaeaeed23478c3a4b798e4ed40d8b7f41366ae861",
-    "name": "Ankr Network",
-    "symbol": "ANKR",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xaeaeed23478c3a4b798e4ed40d8b7f41366ae861.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Venus XVS",
-    "type": "ERC-20",
-    "address": "0x4a971e87ad1f61f7f3081645f52a99277ae917cf",
-    "name": "Venus XVS",
-    "symbol": "XVS",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x4a971e87ad1f61f7f3081645f52a99277ae917cf.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Frankencoin",
-    "type": "ERC-20",
-    "address": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553",
-    "name": "Frankencoin",
-    "symbol": "ZCHF",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Dimo",
-    "type": "ERC-20",
-    "address": "0x5eaa326fb2fc97facce6a79a304876dad0f2e96c",
-    "name": "Dimo",
-    "symbol": "DIMO",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x5eaa326fb2fc97facce6a79a304876dad0f2e96c.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "USDp",
-    "type": "ERC-20",
-    "address": "0x90337e484b1cb02132fc150d3afa262147348545",
-    "name": "USDp",
-    "symbol": "USDp",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x90337e484b1cb02132fc150d3afa262147348545.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "US Sonic Dollar",
-    "type": "ERC-20",
-    "address": "0x000000000eCcFf26B795F73fb0A70d48da657fEf",
-    "name": "US Sonic Dollar",
-    "symbol": "USSD",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x000000000eCcFf26B795F73fb0A70d48da657fEf.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "AllUnity EUR",
-    "type": "ERC-20",
-    "address": "0x4933a85b5b5466fbaf179f72d3de273c287ec2c2",
-    "name": "AllUnity EUR",
-    "symbol": "EURAU",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x4933a85b5b5466fbaf179f72d3de273c287ec2c2.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Velora",
-    "type": "ERC-20",
-    "address": "0x4e107a0000DB66f0E9Fd2039288Bf811dD1f9c74",
-    "name": "Velora",
-    "symbol": "VLR",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x4e107a0000DB66f0E9Fd2039288Bf811dD1f9c74.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "DEAD",
-    "type": "ERC-20",
-    "address": "0xf0197f10ea542a67914ecc0ec5304dc9df1faf6f",
-    "name": "DEAD",
-    "symbol": "DEAD",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xf0197f10ea542a67914ecc0ec5304dc9df1faf6f.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "iBTC",
-    "type": "ERC-20",
-    "address": "0x2bAa7E92F3F14883264BfA63058cC223Ad719438",
-    "name": "iBTC",
-    "symbol": "IBTC",
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x2bAa7E92F3F14883264BfA63058cC223Ad719438.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Dentacoin",
-    "type": "ERC-20",
-    "address": "0x1da650c3b2daa8aa9ff6f661d4156ce24d08a062",
-    "name": "Dentacoin",
-    "symbol": "DCN",
-    "decimals": 0,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x1da650c3b2daa8aa9ff6f661d4156ce24d08a062.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Omni Exchange Token",
-    "type": "ERC-20",
-    "address": "0xf7178122a087ef8f5c7bea362b7dabe38f20bf05",
-    "name": "Omni Exchange Token",
-    "symbol": "OMNI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xf7178122a087ef8f5c7bea362b7dabe38f20bf05.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "YUPFUN Token",
-    "type": "ERC-20",
-    "address": "0x53280c1ddf704192d0ec9c1376bb41e3b50412e0",
-    "name": "YUPFUN Token",
-    "symbol": "YUPFUN",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x53280c1ddf704192d0ec9c1376bb41e3b50412e0.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Inception Restaked stETH",
-    "type": "ERC-20",
-    "address": "0xd08C3F25862077056cb1b710937576Af899a4959",
-    "name": "Inception Restaked stETH",
-    "symbol": "InstETH",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xd08C3F25862077056cb1b710937576Af899a4959.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Zunami Omni ETH",
-    "type": "ERC-20",
-    "address": "0x2d691c2492e056adcae7ca317569af25910fc4cb",
-    "name": "Zunami Omni ETH",
-    "symbol": "zunETH",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x2d691c2492e056adcae7ca317569af25910fc4cb.png"
   },
   {
     "chainId": 10,
@@ -1441,56 +561,6 @@
   },
   {
     "chainId": 10,
-    "asset": "Frax Price Index",
-    "type": "ERC-20",
-    "address": "0x90581eca9469d8d7f5d3b60f4715027adfcf7927",
-    "name": "Frax Price Index",
-    "symbol": "FPI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x90581eca9469d8d7f5d3b60f4715027adfcf7927.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Frontier Stable Token",
-    "type": "ERC-20",
-    "address": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
-    "name": "Frontier Stable Token",
-    "symbol": "FRNT",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x5e817f2abccb9095585d26c2a3ce234a440574fc.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Zunami Omni USD",
-    "type": "ERC-20",
-    "address": "0xdc30b3bde2734a0bc55af01b38943ef04aacb423",
-    "name": "Zunami Omni USD",
-    "symbol": "zunUSD",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xdc30b3bde2734a0bc55af01b38943ef04aacb423.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "OxAI",
-    "type": "ERC-20",
-    "address": "0xe0ce60af0850bf54072635e66e79df17082a1109",
-    "name": "OxAI",
-    "symbol": "OXAI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xe0ce60af0850bf54072635e66e79df17082a1109.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Aave Optimism OP",
-    "type": "ERC-20",
-    "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
-    "name": "Aave Optimism OP",
-    "symbol": "aOptOP",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff.png"
-  },
-  {
-    "chainId": 10,
     "asset": "Aave Optimism SUSD",
     "type": "ERC-20",
     "address": "0x6d80113e533a2c0fe82eabd35f1875dcea89ea97",
@@ -1498,25 +568,5 @@
     "symbol": "aOptSUSD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x6d80113e533a2c0fe82eabd35f1875dcea89ea97.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "ERC4626-Wrapped Aave v3 DAI",
-    "type": "ERC-20",
-    "address": "0xe4c2a17f38fea3dcb3bb59ceb0ac0267416806e2",
-    "name": "ERC4626-Wrapped Aave v3 DAI",
-    "symbol": "waDAI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0xe4c2a17f38fea3dcb3bb59ceb0ac0267416806e2.png"
-  },
-  {
-    "chainId": 10,
-    "asset": "Prize WETH - Aave",
-    "type": "ERC-20",
-    "address": "0x29cb69d4780b53c1e5cd4d2b817142d2e9890715",
-    "name": "Prize WETH - Aave",
-    "symbol": "pWETH",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0x29cb69d4780b53c1e5cd4d2b817142d2e9890715.png"
   }
 ]

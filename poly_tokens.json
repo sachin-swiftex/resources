@@ -1,13 +1,13 @@
 [
   {
-    "name": "Polygon",
     "asset": "Polygon",
-    "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png",
-    "chainId": 137,
+    "name": "Poygon",
     "symbol": "POL",
-    "type": "NATIVE"
+    "address": "0X0000000000000000000000000000000000000000",
+    "chainId": 10,
+    "decimals": 18,
+    "type": "NATIVE",
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/poly/0X0000000000000000000000000000000000000000.png"
   },
   {
     "name": "Ether (Portal)",

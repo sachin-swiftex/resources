@@ -1,5 +1,15 @@
 [
   {
+    "asset": "Arbitrum",
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "address": "0X0000000000000000000000000000000000000000",
+    "chainId": 42161,
+    "decimals": 18,
+    "type": "NATIVE",
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/arb/0X0000000000000000000000000000000000000000.png"
+  },
+  {
     "name": "Tether USD",
     "asset": "Tether USD",
     "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",

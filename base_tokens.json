@@ -4010,26 +4010,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "Satoshi AI agent by Virtuals",
-    "asset": "Satoshi AI agent by Virtuals",
-    "address": "0x7588880d9c78E81FAde7b7e8DC0781E95995a792",
-    "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/34317.png",
-    "chainId": 8453,
-    "symbol": "SAINT",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Token.com",
-    "asset": "Token.com",
-    "address": "0xD758916365B361Cf833BB9c4c465ECd501dDd984",
-    "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/35542.png",
-    "chainId": 8453,
-    "symbol": "TOKEN",
-    "type": "ERC-20"
-  },
-  {
     "name": "Poncho",
     "asset": "Poncho",
     "address": "0xC2fE011C3885277c7F0e7ffd45Ff90cADc8ECD12",
@@ -4987,26 +4967,6 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32230.png",
     "chainId": 8453,
     "symbol": "RFL",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Touch Grass",
-    "asset": "Touch Grass",
-    "address": "0xBb4f69A0FCa3f63477B6B3b2A3E8491E5425A356",
-    "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32276.png",
-    "chainId": 8453,
-    "symbol": "GRASS",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Catson",
-    "asset": "Catson",
-    "address": "0xcA8e8d244f0d219a6Fc9e4793C635cEA98d0399C",
-    "decimals": 0,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32333.png",
-    "chainId": 8453,
-    "symbol": "CAT",
     "type": "ERC-20"
   },
   {
@@ -7010,36 +6970,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "Brad",
-    "asset": "Brad",
-    "address": "0x91Dd62e33c8d3F4EBEf942c1d98E1298bA0F0029",
-    "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/36815.png",
-    "chainId": 8453,
-    "symbol": "BRAD",
-    "type": "ERC-20"
-  },
-  {
-    "name": "America Party",
-    "asset": "America Party",
-    "address": "0x001CcBE97D737044d3897d04989d23455aAe255A",
-    "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/37351.png",
-    "chainId": 8453,
-    "symbol": "TAP",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Thesirion",
-    "asset": "Thesirion",
-    "address": "0x7772b39661b87a98521193b9f18f87cfabE401fa",
-    "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/36191.png",
-    "chainId": 8453,
-    "symbol": "TSO",
-    "type": "ERC-20"
-  },
-  {
     "name": "flocoin",
     "asset": "flocoin",
     "address": "0xdCD88CfeAD789f8cf6e3505DEd2d9dfF6f40b3dC",
@@ -8130,36 +8060,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "Peapods",
-    "asset": "Peapods",
-    "address": "0x02f92800F57BCD74066F5709F1Daa1A4302Df875",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x02f92800F57BCD74066F5709F1Daa1A4302Df875/logo.png",
-    "chainId": 8453,
-    "symbol": "PEAS",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Noggles",
-    "asset": "Noggles",
-    "address": "0x13741C5dF9aB03E7Aa9Fb3Bf1f714551dD5A5F8a",
-    "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27527.png",
-    "chainId": 8453,
-    "symbol": "NOGS",
-    "type": "ERC-20"
-  },
-  {
-    "name": "KRWQ",
-    "asset": "KRWQ",
-    "address": "0x370923D39f139C64813f173a1bf0b4f9Ba36a24f",
-    "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38807.png",
-    "chainId": 8453,
-    "symbol": "KRWQ",
-    "type": "ERC-20"
-  },
-  {
     "name": "Guanciale by Virtuals",
     "asset": "Guanciale by Virtuals",
     "address": "0xcc0adB6C436eB1f65B2f27733Bf926691b94c5f1",
@@ -9010,16 +8910,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "SENPI",
-    "asset": "SENPI",
-    "address": "0xD31b8028d448A4dBB57B1d37102722137f2c4418",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xD31b8028d448A4dBB57B1d37102722137f2c4418/logo.png",
-    "chainId": 8453,
-    "symbol": "SENPI",
-    "type": "ERC-20"
-  },
-  {
     "name": "DCAI",
     "asset": "DCAI",
     "address": "0xB8147CE9b0dac5F8165785DEc6494E57748e4B78",
@@ -9027,16 +8917,6 @@
     "logoURI": "https://bin.bnbstatic.com/images/web3-data/public/token/logos/D8EA938A18C1EE937627BF94BCB0163A.jpg",
     "chainId": 8453,
     "symbol": "DCAI",
-    "type": "ERC-20"
-  },
-  {
-    "name": "$PID",
-    "asset": "$PID",
-    "address": "0x401c30CF29aa4eE424B0945aCf9aA3667Da0a964",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x401c30CF29aa4eE424B0945aCf9aA3667Da0a964/logo.png",
-    "chainId": 8453,
-    "symbol": "$PID",
     "type": "ERC-20"
   },
   {
@@ -11010,16 +10890,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "SHADPS4 github.com/shadps4-emu/SHADPS4",
-    "asset": "SHADPS4 github.com/shadps4-emu/SHADPS4",
-    "address": "0xADFc5029fd35C00Cc5BB1a6Ee436125afbc1b60f",
-    "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xADFc5029fd35C00Cc5BB1a6Ee436125afbc1b60f/logo.png",
-    "chainId": 8453,
-    "symbol": "SHADPS4",
-    "type": "ERC-20"
-  },
-  {
     "name": "Litcoin",
     "asset": "Litcoin",
     "address": "0x316ffb9c875f900AdCF04889E415cC86b564EBa3",
@@ -11977,36 +11847,6 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xB92cAA0dB035BB2888112Dc201Ca1d4d2CD1d9DF/logo.png",
     "chainId": 8453,
     "symbol": "FLAY",
-    "type": "ERC-20"
-  },
-  {
-    "name": "LEETCODE-MASTER github.com/youngyangyang04/LEETCODE-MASTER",
-    "asset": "LEETCODE-MASTER github.com/youngyangyang04/LEETCODE-MASTER",
-    "address": "0xADFB4cc2EA551d983c572fD9105491E6bB7Df924",
-    "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xADFB4cc2EA551d983c572fD9105491E6bB7Df924/logo.png",
-    "chainId": 8453,
-    "symbol": "LEETCODE-MASTER",
-    "type": "ERC-20"
-  },
-  {
-    "name": "MAMO",
-    "asset": "MAMO",
-    "address": "0x958F57c8d8c3430fbA10647f2788E2dECf5402b1",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x958F57c8d8c3430fbA10647f2788E2dECf5402b1/logo.png",
-    "chainId": 8453,
-    "symbol": "MAMO",
-    "type": "ERC-20"
-  },
-  {
-    "name": "WOON",
-    "asset": "WOON",
-    "address": "0x85EAC631c800af804476b140F87039f742c28BA3",
-    "decimals": 18,
-    "logoURI": "https://bin.bnbstatic.com/images/web3-data/public/token/logos/BB3A9ED5B4F8B4FD02814F2A4606BD7A.jpg",
-    "chainId": 8453,
-    "symbol": "WOON",
     "type": "ERC-20"
   },
   {

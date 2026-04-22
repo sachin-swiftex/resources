@@ -1,13 +1,13 @@
 [
   {
-    "name": "Optimism",
     "asset": "Optimism",
-    "address": "0x4200000000000000000000000000000000000042",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x4200000000000000000000000000000000000042/logo.png",
-    "chainId": 10,
+    "name": "Optimism",
     "symbol": "OP",
-    "type": "NATIVE"
+    "address": "0X0000000000000000000000000000000000000000",
+    "chainId": 10,
+    "decimals": 18,
+    "type": "NATIVE",
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0X0000000000000000000000000000000000000000.png"
   },
   {
     "name": "Tether USD",

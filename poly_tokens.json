@@ -40,21 +40,21 @@
     "type": "ERC-20"
   },
   {
-    "name": "Wrapped BTC (Portal)",
-    "asset": "Wrapped BTC (Portal)",
-    "address": "0x5D49c278340655B56609FdF8976eb0612aF3a0C3",
-    "decimals": 8,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x5D49c278340655B56609FdF8976eb0612aF3a0C3/logo.png",
-    "chainId": 137,
-    "symbol": "WBTC",
-    "type": "ERC-20"
-  },
-  {
     "name": "(PoS) Wrapped BTC",
     "asset": "(PoS) Wrapped BTC",
     "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
     "decimals": 8,
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6/logo.png",
+    "chainId": 137,
+    "symbol": "WBTC",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped BTC (Portal)",
+    "asset": "Wrapped BTC (Portal)",
+    "address": "0x5D49c278340655B56609FdF8976eb0612aF3a0C3",
+    "decimals": 8,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x5D49c278340655B56609FdF8976eb0612aF3a0C3/logo.png",
     "chainId": 137,
     "symbol": "WBTC",
     "type": "ERC-20"
@@ -410,16 +410,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "UST (Wormhole)",
-    "asset": "UST (Wormhole)",
-    "address": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
-    "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59/logo.png",
-    "chainId": 137,
-    "symbol": "UST",
-    "type": "ERC-20"
-  },
-  {
     "name": "Cartesi Token (PoS)",
     "asset": "Cartesi Token (PoS)",
     "address": "0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B",
@@ -430,13 +420,13 @@
     "type": "ERC-20"
   },
   {
-    "name": "Kyber Network",
-    "asset": "Kyber Network",
-    "address": "0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C/logo.png",
+    "name": "UST (Wormhole)",
+    "asset": "UST (Wormhole)",
+    "address": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
+    "decimals": 6,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59/logo.png",
     "chainId": 137,
-    "symbol": "KNC",
+    "symbol": "UST",
     "type": "ERC-20"
   },
   {
@@ -447,6 +437,16 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x82617aA52dddf5Ed9Bb7B370ED777b3182A30fd1/logo.png",
     "chainId": 137,
     "symbol": "YGG",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Kyber Network",
+    "asset": "Kyber Network",
+    "address": "0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C/logo.png",
+    "chainId": 137,
+    "symbol": "KNC",
     "type": "ERC-20"
   },
   {
@@ -560,16 +560,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "PYR Token",
-    "asset": "PYR Token",
-    "address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x430EF9263E76DAE63c84292C3409D61c598E9682/logo.png",
-    "chainId": 137,
-    "symbol": "PYR",
-    "type": "ERC-20"
-  },
-  {
     "name": "VANRY",
     "asset": "VANRY",
     "address": "0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624",
@@ -577,6 +567,16 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624/logo.png",
     "chainId": 137,
     "symbol": "VANRY",
+    "type": "ERC-20"
+  },
+  {
+    "name": "PYR Token",
+    "asset": "PYR Token",
+    "address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x430EF9263E76DAE63c84292C3409D61c598E9682/logo.png",
+    "chainId": 137,
+    "symbol": "PYR",
     "type": "ERC-20"
   },
   {
@@ -730,16 +730,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "Axelar Wrapped USDC",
-    "asset": "Axelar Wrapped USDC",
-    "address": "0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed",
-    "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed/logo.png",
-    "chainId": 137,
-    "symbol": "axlUSDC",
-    "type": "ERC-20"
-  },
-  {
     "name": "Multichain",
     "asset": "Multichain",
     "address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
@@ -747,6 +737,16 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3/logo.png",
     "chainId": 137,
     "symbol": "MULTI",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Axelar Wrapped USDC",
+    "asset": "Axelar Wrapped USDC",
+    "address": "0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed",
+    "decimals": 6,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed/logo.png",
+    "chainId": 137,
+    "symbol": "axlUSDC",
     "type": "ERC-20"
   },
   {
@@ -1070,6 +1070,16 @@
     "type": "ERC-20"
   },
   {
+    "name": "BLOK",
+    "asset": "BLOK",
+    "address": "0x229b1b6C23ff8953D663C4cBB519717e323a0a84",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x229b1b6C23ff8953D663C4cBB519717e323a0a84/logo.png",
+    "chainId": 137,
+    "symbol": "BLOK",
+    "type": "ERC-20"
+  },
+  {
     "name": "OX",
     "asset": "OX",
     "address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
@@ -1090,16 +1100,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "Gravity Finance",
-    "asset": "Gravity Finance",
-    "address": "0x874e178A2f3f3F9d34db862453Cd756E7eAb0381",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x874e178A2f3f3F9d34db862453Cd756E7eAb0381/logo.png",
-    "chainId": 137,
-    "symbol": "GFI",
-    "type": "ERC-20"
-  },
-  {
     "name": "Orion Money (Portal)",
     "asset": "Orion Money (Portal)",
     "address": "0x5E0294Af1732498C77F8dB015a2d52a76298542B",
@@ -1110,6 +1110,16 @@
     "type": "ERC-20"
   },
   {
+    "name": "Gravity Finance",
+    "asset": "Gravity Finance",
+    "address": "0x874e178A2f3f3F9d34db862453Cd756E7eAb0381",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x874e178A2f3f3F9d34db862453Cd756E7eAb0381/logo.png",
+    "chainId": 137,
+    "symbol": "GFI",
+    "type": "ERC-20"
+  },
+  {
     "name": "DFYN Token (PoS)",
     "asset": "DFYN Token (PoS)",
     "address": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
@@ -1117,16 +1127,6 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97/logo.png",
     "chainId": 137,
     "symbol": "DFYN",
-    "type": "ERC-20"
-  },
-  {
-    "name": "BLOK",
-    "asset": "BLOK",
-    "address": "0x229b1b6C23ff8953D663C4cBB519717e323a0a84",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x229b1b6C23ff8953D663C4cBB519717e323a0a84/logo.png",
-    "chainId": 137,
-    "symbol": "BLOK",
     "type": "ERC-20"
   },
   {
@@ -1194,29 +1194,99 @@
     "asset": "GIFT",
     "address": "0xCfde7c43EDB3c9f71331AAc1003b099CE40c94ea",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xCfde7c43EDB3c9f71331AAc1003b099CE40c94ea/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/38622.png",
     "chainId": 137,
     "symbol": "GIFT",
     "type": "ERC-20"
   },
   {
-    "name": "IRON Titanium Token",
-    "asset": "IRON Titanium Token",
-    "address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+    "name": "PYQ",
+    "asset": "PYQ",
+    "address": "0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8/logo.png",
     "chainId": 137,
-    "symbol": "TITAN",
+    "symbol": "PYQ",
     "type": "ERC-20"
   },
   {
-    "name": "Daily COP",
-    "asset": "Daily COP",
-    "address": "0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A",
+    "name": "Polyroll Token",
+    "asset": "Polyroll Token",
+    "address": "0xC68e83a305b0FaD69E264A1769a0A070F190D2d6",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xC68e83a305b0FaD69E264A1769a0A070F190D2d6/logo.png",
     "chainId": 137,
-    "symbol": "DLYCOP",
+    "symbol": "ROLL",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Adamant",
+    "asset": "Adamant",
+    "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539/logo.png",
+    "chainId": 137,
+    "symbol": "ADDY",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Krill",
+    "asset": "Krill",
+    "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b/logo.png",
+    "chainId": 137,
+    "symbol": "Krill",
+    "type": "ERC-20"
+  },
+  {
+    "name": "SpaceRat",
+    "asset": "SpaceRat",
+    "address": "0x1132f58810Ee9fF13E97aECCd8DDa688Cc5eb8F4",
+    "decimals": 9,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x1132f58810Ee9fF13E97aECCd8DDa688Cc5eb8F4/logo.png",
+    "chainId": 137,
+    "symbol": "SRAT",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Ankr Staked MATIC",
+    "asset": "Ankr Staked MATIC",
+    "address": "0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58/logo.png",
+    "chainId": 137,
+    "symbol": "ankrMATIC",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Okcash",
+    "asset": "Okcash",
+    "address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189/logo.png",
+    "chainId": 137,
+    "symbol": "OK",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Coinerr",
+    "asset": "Coinerr",
+    "address": "0xFB32513135e3267995268E3099d2B6114d20B6eD",
+    "decimals": 9,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xFB32513135e3267995268E3099d2B6114d20B6eD/logo.png",
+    "chainId": 137,
+    "symbol": "ERR",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Cherry Token",
+    "asset": "Cherry Token",
+    "address": "0x8f36Cc333F55B09Bb71091409A3d7ADE399e3b1C",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x8f36Cc333F55B09Bb71091409A3d7ADE399e3b1C/logo.png",
+    "chainId": 137,
+    "symbol": "CHER",
     "type": "ERC-20"
   },
   {
@@ -1230,26 +1300,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "GoldPro",
-    "asset": "GoldPro",
-    "address": "0xACe7eb41D6BAd44907cdA84A122F052c74cB7826",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xACe7eb41D6BAd44907cdA84A122F052c74cB7826/logo.png",
-    "chainId": 137,
-    "symbol": "GPRO",
-    "type": "ERC-20"
-  },
-  {
-    "name": "MANTRA",
-    "asset": "MANTRA",
-    "address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea/logo.png",
-    "chainId": 137,
-    "symbol": "OM",
-    "type": "ERC-20"
-  },
-  {
     "name": "World$tateCoin",
     "asset": "World$tateCoin",
     "address": "0x77A6f2e9A9E44fd5D5C3F9bE9E52831fC1C3C0A0",
@@ -1257,16 +1307,6 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x77A6f2e9A9E44fd5D5C3F9bE9E52831fC1C3C0A0/logo.png",
     "chainId": 137,
     "symbol": "W$C",
-    "type": "ERC-20"
-  },
-  {
-    "name": "DEI",
-    "asset": "DEI",
-    "address": "0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3/logo.png",
-    "chainId": 137,
-    "symbol": "DEI",
     "type": "ERC-20"
   },
   {
@@ -1280,6 +1320,46 @@
     "type": "ERC-20"
   },
   {
+    "name": "MANTRA",
+    "asset": "MANTRA",
+    "address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea/logo.png",
+    "chainId": 137,
+    "symbol": "OM",
+    "type": "ERC-20"
+  },
+  {
+    "name": "IRON Titanium Token",
+    "asset": "IRON Titanium Token",
+    "address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A/logo.png",
+    "chainId": 137,
+    "symbol": "TITAN",
+    "type": "ERC-20"
+  },
+  {
+    "name": "GoldPro",
+    "asset": "GoldPro",
+    "address": "0xACe7eb41D6BAd44907cdA84A122F052c74cB7826",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xACe7eb41D6BAd44907cdA84A122F052c74cB7826/logo.png",
+    "chainId": 137,
+    "symbol": "GPRO",
+    "type": "ERC-20"
+  },
+  {
+    "name": "DEI",
+    "asset": "DEI",
+    "address": "0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3/logo.png",
+    "chainId": 137,
+    "symbol": "DEI",
+    "type": "ERC-20"
+  },
+  {
     "name": "DEUS",
     "asset": "DEUS",
     "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
@@ -1287,6 +1367,56 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44/logo.png",
     "chainId": 137,
     "symbol": "DEUS",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Daily COP",
+    "asset": "Daily COP",
+    "address": "0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A/logo.png",
+    "chainId": 137,
+    "symbol": "DLYCOP",
+    "type": "ERC-20"
+  },
+  {
+    "name": "XEN Crypto",
+    "asset": "XEN Crypto",
+    "address": "0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e/logo.png",
+    "chainId": 137,
+    "symbol": "mXEN",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Matic Aave interest bearing USDC",
+    "asset": "Matic Aave interest bearing USDC",
+    "address": "0x9719d867A500Ef117cC201206B8ab51e794d3F82",
+    "decimals": 6,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x9719d867A500Ef117cC201206B8ab51e794d3F82/logo.png",
+    "chainId": 137,
+    "symbol": "maUSDC",
+    "type": "ERC-20"
+  },
+  {
+    "name": "HARD",
+    "asset": "HARD",
+    "address": "0x8bdC1239840D4a0DB234F2E7D65dF83164D18e49",
+    "decimals": 6,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x8bdC1239840D4a0DB234F2E7D65dF83164D18e49/logo.png",
+    "chainId": 137,
+    "symbol": "HARD",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Satoshi Airline",
+    "asset": "Satoshi Airline",
+    "address": "0xb02eF03245fc7DF987BBd876768E6d441b7099B6",
+    "decimals": 8,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xb02eF03245fc7DF987BBd876768E6d441b7099B6/logo.png",
+    "chainId": 137,
+    "symbol": "JET",
     "type": "ERC-20"
   },
   {
@@ -1310,46 +1440,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "Pegaxy",
-    "asset": "Pegaxy",
-    "address": "0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE/logo.png",
-    "chainId": 137,
-    "symbol": "PGX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Qi Dao",
-    "asset": "Qi Dao",
-    "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x580A84C73811E1839F75d86d75d88cCa0c241fF4/logo.png",
-    "chainId": 137,
-    "symbol": "QI",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Matic Aave interest bearing USDC",
-    "asset": "Matic Aave interest bearing USDC",
-    "address": "0x9719d867A500Ef117cC201206B8ab51e794d3F82",
-    "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x9719d867A500Ef117cC201206B8ab51e794d3F82/logo.png",
-    "chainId": 137,
-    "symbol": "maUSDC",
-    "type": "ERC-20"
-  },
-  {
-    "name": "$ZKP Token",
-    "asset": "$ZKP Token",
-    "address": "0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC/logo.png",
-    "chainId": 137,
-    "symbol": "$ZKP",
-    "type": "ERC-20"
-  },
-  {
     "name": "Million",
     "asset": "Million",
     "address": "0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927",
@@ -1357,26 +1447,6 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927/logo.png",
     "chainId": 137,
     "symbol": "MM",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Satoshi Airline",
-    "asset": "Satoshi Airline",
-    "address": "0xb02eF03245fc7DF987BBd876768E6d441b7099B6",
-    "decimals": 8,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xb02eF03245fc7DF987BBd876768E6d441b7099B6/logo.png",
-    "chainId": 137,
-    "symbol": "JET",
-    "type": "ERC-20"
-  },
-  {
-    "name": "miMATIC",
-    "asset": "miMATIC",
-    "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
-    "chainId": 137,
-    "symbol": "miMATIC",
     "type": "ERC-20"
   },
   {
@@ -1390,23 +1460,43 @@
     "type": "ERC-20"
   },
   {
-    "name": "HARD",
-    "asset": "HARD",
-    "address": "0x8bdC1239840D4a0DB234F2E7D65dF83164D18e49",
-    "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x8bdC1239840D4a0DB234F2E7D65dF83164D18e49/logo.png",
+    "name": "Qi Dao",
+    "asset": "Qi Dao",
+    "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x580A84C73811E1839F75d86d75d88cCa0c241fF4/logo.png",
     "chainId": 137,
-    "symbol": "HARD",
+    "symbol": "QI",
     "type": "ERC-20"
   },
   {
-    "name": "XEN Crypto",
-    "asset": "XEN Crypto",
-    "address": "0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e",
+    "name": "miMATIC",
+    "asset": "miMATIC",
+    "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
     "chainId": 137,
-    "symbol": "mXEN",
+    "symbol": "miMATIC",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Pegaxy",
+    "asset": "Pegaxy",
+    "address": "0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE/logo.png",
+    "chainId": 137,
+    "symbol": "PGX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "$ZKP Token",
+    "asset": "$ZKP Token",
+    "address": "0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC/logo.png",
+    "chainId": 137,
+    "symbol": "$ZKP",
     "type": "ERC-20"
   },
   {
@@ -1420,223 +1510,13 @@
     "type": "ERC-20"
   },
   {
-    "name": "Ankr Staked MATIC",
-    "asset": "Ankr Staked MATIC",
-    "address": "0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58",
+    "name": "Ultimate Champions Token",
+    "asset": "Ultimate Champions Token",
+    "address": "0xED755dBa6Ec1eb520076Cec051a582A6d81A8253",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xED755dBa6Ec1eb520076Cec051a582A6d81A8253/logo.png",
     "chainId": 137,
-    "symbol": "ankrMATIC",
-    "type": "ERC-20"
-  },
-  {
-    "name": "SpaceRat",
-    "asset": "SpaceRat",
-    "address": "0x1132f58810Ee9fF13E97aECCd8DDa688Cc5eb8F4",
-    "decimals": 9,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x1132f58810Ee9fF13E97aECCd8DDa688Cc5eb8F4/logo.png",
-    "chainId": 137,
-    "symbol": "SRAT",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Polyroll Token",
-    "asset": "Polyroll Token",
-    "address": "0xC68e83a305b0FaD69E264A1769a0A070F190D2d6",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xC68e83a305b0FaD69E264A1769a0A070F190D2d6/logo.png",
-    "chainId": 137,
-    "symbol": "ROLL",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Coinerr",
-    "asset": "Coinerr",
-    "address": "0xFB32513135e3267995268E3099d2B6114d20B6eD",
-    "decimals": 9,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xFB32513135e3267995268E3099d2B6114d20B6eD/logo.png",
-    "chainId": 137,
-    "symbol": "ERR",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Adamant",
-    "asset": "Adamant",
-    "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539/logo.png",
-    "chainId": 137,
-    "symbol": "ADDY",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Cherry Token",
-    "asset": "Cherry Token",
-    "address": "0x8f36Cc333F55B09Bb71091409A3d7ADE399e3b1C",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x8f36Cc333F55B09Bb71091409A3d7ADE399e3b1C/logo.png",
-    "chainId": 137,
-    "symbol": "CHER",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Krill",
-    "asset": "Krill",
-    "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b/logo.png",
-    "chainId": 137,
-    "symbol": "Krill",
-    "type": "ERC-20"
-  },
-  {
-    "name": "PYQ",
-    "asset": "PYQ",
-    "address": "0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8/logo.png",
-    "chainId": 137,
-    "symbol": "PYQ",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Okcash",
-    "asset": "Okcash",
-    "address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189/logo.png",
-    "chainId": 137,
-    "symbol": "OK",
-    "type": "ERC-20"
-  },
-  {
-    "name": "EURA",
-    "asset": "EURA",
-    "address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4/logo.png",
-    "chainId": 137,
-    "symbol": "EURA",
-    "type": "ERC-20"
-  },
-  {
-    "name": "PolyDoge",
-    "asset": "PolyDoge",
-    "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x8A953CfE442c5E8855cc6c61b1293FA648BAE472/logo.png",
-    "chainId": 137,
-    "symbol": "PolyDoge",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Fish",
-    "asset": "Fish",
-    "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x3a3Df212b7AA91Aa0402B9035b098891d276572B/logo.png",
-    "chainId": 137,
-    "symbol": "FISH",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Bombcrypto Coin",
-    "asset": "Bombcrypto Coin",
-    "address": "0xB2C63830D4478cB331142FAc075A39671a5541dC",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xB2C63830D4478cB331142FAc075A39671a5541dC/logo.png",
-    "chainId": 137,
-    "symbol": "BOMB",
-    "type": "ERC-20"
-  },
-  {
-    "name": "CremePieSwap",
-    "asset": "CremePieSwap",
-    "address": "0xfad70FD116559914240faB82b0078c4E82a6a1B8",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xfad70FD116559914240faB82b0078c4E82a6a1B8/logo.png",
-    "chainId": 137,
-    "symbol": "CPIE",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Paint",
-    "asset": "Paint",
-    "address": "0x7c28F627eA3aEc8B882b51eb1935f66e5b875714",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x7c28F627eA3aEc8B882b51eb1935f66e5b875714/logo.png",
-    "chainId": 137,
-    "symbol": "PAINT",
-    "type": "ERC-20"
-  },
-  {
-    "name": "moonwolf.io",
-    "asset": "moonwolf.io",
-    "address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
-    "decimals": 9,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16/logo.png",
-    "chainId": 137,
-    "symbol": "WOLF",
-    "type": "ERC-20"
-  },
-  {
-    "name": "GameStation",
-    "asset": "GameStation",
-    "address": "0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47/logo.png",
-    "chainId": 137,
-    "symbol": "GAMER",
-    "type": "ERC-20"
-  },
-  {
-    "name": "PayBolt",
-    "asset": "PayBolt",
-    "address": "0xe580074A10360404AF3ABfe2d524D5806D993ea3",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xe580074A10360404AF3ABfe2d524D5806D993ea3/logo.png",
-    "chainId": 137,
-    "symbol": "PAY",
-    "type": "ERC-20"
-  },
-  {
-    "name": "300FIT Network",
-    "asset": "300FIT Network",
-    "address": "0xaD2eFE464c4F3b99255c594d0091e938D3bcDF97",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xaD2eFE464c4F3b99255c594d0091e938D3bcDF97/logo.png",
-    "chainId": 137,
-    "symbol": "FIT",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Ariadne",
-    "asset": "Ariadne",
-    "address": "0xB6EBc3ca1741a8f37551E44A51eC00aD417B38CA",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xB6EBc3ca1741a8f37551E44A51eC00aD417B38CA/logo.png",
-    "chainId": 137,
-    "symbol": "ARDN",
-    "type": "ERC-20"
-  },
-  {
-    "name": "b0rder1ess",
-    "asset": "b0rder1ess",
-    "address": "0xF36f79feb5d97e18C69078d8D13d941CaE447A04",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xF36f79feb5d97e18C69078d8D13d941CaE447A04/logo.png",
-    "chainId": 137,
-    "symbol": "b01",
-    "type": "ERC-20"
-  },
-  {
-    "name": "ISLAMICOIN",
-    "asset": "ISLAMICOIN",
-    "address": "0x9c891326Fd8b1a713974f73bb604677E1E63396D",
-    "decimals": 7,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x9c891326Fd8b1a713974f73bb604677E1E63396D/logo.png",
-    "chainId": 137,
-    "symbol": "ISLAMI",
+    "symbol": "CHAMP",
     "type": "ERC-20"
   },
   {
@@ -1650,13 +1530,13 @@
     "type": "ERC-20"
   },
   {
-    "name": "Equalizer",
-    "asset": "Equalizer",
-    "address": "0xEAf631ac57F3CDDDd261770dD47F85066131a156",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xEAf631ac57F3CDDDd261770dD47F85066131a156/logo.png",
+    "name": "DOGAMI",
+    "asset": "DOGAMI",
+    "address": "0x2F3E306d9F02ee8e8850F9040404918d0b345207",
+    "decimals": 5,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x2F3E306d9F02ee8e8850F9040404918d0b345207/logo.png",
     "chainId": 137,
-    "symbol": "EQZ",
+    "symbol": "DOGA",
     "type": "ERC-20"
   },
   {
@@ -1670,16 +1550,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "PearZap Token",
-    "asset": "PearZap Token",
-    "address": "0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44/logo.png",
-    "chainId": 137,
-    "symbol": "PEAR",
-    "type": "ERC-20"
-  },
-  {
     "name": "BLOCKv",
     "asset": "BLOCKv",
     "address": "0xf1c1A3C2481A3a8A3f173A9ab5Ade275292A6fA3",
@@ -1687,6 +1557,16 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xf1c1A3C2481A3a8A3f173A9ab5Ade275292A6fA3/logo.png",
     "chainId": 137,
     "symbol": "VEE",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Equalizer",
+    "asset": "Equalizer",
+    "address": "0xEAf631ac57F3CDDDd261770dD47F85066131a156",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xEAf631ac57F3CDDDd261770dD47F85066131a156/logo.png",
+    "chainId": 137,
+    "symbol": "EQZ",
     "type": "ERC-20"
   },
   {
@@ -1700,26 +1580,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "Ultimate Champions Token",
-    "asset": "Ultimate Champions Token",
-    "address": "0xED755dBa6Ec1eb520076Cec051a582A6d81A8253",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xED755dBa6Ec1eb520076Cec051a582A6d81A8253/logo.png",
-    "chainId": 137,
-    "symbol": "CHAMP",
-    "type": "ERC-20"
-  },
-  {
-    "name": "DOGAMI",
-    "asset": "DOGAMI",
-    "address": "0x2F3E306d9F02ee8e8850F9040404918d0b345207",
-    "decimals": 5,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x2F3E306d9F02ee8e8850F9040404918d0b345207/logo.png",
-    "chainId": 137,
-    "symbol": "DOGA",
-    "type": "ERC-20"
-  },
-  {
     "name": "BOB",
     "asset": "BOB",
     "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
@@ -1730,6 +1590,16 @@
     "type": "ERC-20"
   },
   {
+    "name": "PearZap Token",
+    "asset": "PearZap Token",
+    "address": "0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44/logo.png",
+    "chainId": 137,
+    "symbol": "PEAR",
+    "type": "ERC-20"
+  },
+  {
     "name": "HEX",
     "asset": "HEX",
     "address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
@@ -1737,6 +1607,206 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C/logo.png",
     "chainId": 137,
     "symbol": "HEX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Fish",
+    "asset": "Fish",
+    "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x3a3Df212b7AA91Aa0402B9035b098891d276572B/logo.png",
+    "chainId": 137,
+    "symbol": "FISH",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Ariadne",
+    "asset": "Ariadne",
+    "address": "0xB6EBc3ca1741a8f37551E44A51eC00aD417B38CA",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xB6EBc3ca1741a8f37551E44A51eC00aD417B38CA/logo.png",
+    "chainId": 137,
+    "symbol": "ARDN",
+    "type": "ERC-20"
+  },
+  {
+    "name": "ISLAMICOIN",
+    "asset": "ISLAMICOIN",
+    "address": "0x9c891326Fd8b1a713974f73bb604677E1E63396D",
+    "decimals": 7,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x9c891326Fd8b1a713974f73bb604677E1E63396D/logo.png",
+    "chainId": 137,
+    "symbol": "ISLAMI",
+    "type": "ERC-20"
+  },
+  {
+    "name": "CremePieSwap",
+    "asset": "CremePieSwap",
+    "address": "0xfad70FD116559914240faB82b0078c4E82a6a1B8",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xfad70FD116559914240faB82b0078c4E82a6a1B8/logo.png",
+    "chainId": 137,
+    "symbol": "CPIE",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Bombcrypto Coin",
+    "asset": "Bombcrypto Coin",
+    "address": "0xB2C63830D4478cB331142FAc075A39671a5541dC",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xB2C63830D4478cB331142FAc075A39671a5541dC/logo.png",
+    "chainId": 137,
+    "symbol": "BOMB",
+    "type": "ERC-20"
+  },
+  {
+    "name": "GameStation",
+    "asset": "GameStation",
+    "address": "0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47/logo.png",
+    "chainId": 137,
+    "symbol": "GAMER",
+    "type": "ERC-20"
+  },
+  {
+    "name": "moonwolf.io",
+    "asset": "moonwolf.io",
+    "address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+    "decimals": 9,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16/logo.png",
+    "chainId": 137,
+    "symbol": "WOLF",
+    "type": "ERC-20"
+  },
+  {
+    "name": "EURA",
+    "asset": "EURA",
+    "address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4/logo.png",
+    "chainId": 137,
+    "symbol": "EURA",
+    "type": "ERC-20"
+  },
+  {
+    "name": "b0rder1ess",
+    "asset": "b0rder1ess",
+    "address": "0xF36f79feb5d97e18C69078d8D13d941CaE447A04",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xF36f79feb5d97e18C69078d8D13d941CaE447A04/logo.png",
+    "chainId": 137,
+    "symbol": "b01",
+    "type": "ERC-20"
+  },
+  {
+    "name": "PolyDoge",
+    "asset": "PolyDoge",
+    "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x8A953CfE442c5E8855cc6c61b1293FA648BAE472/logo.png",
+    "chainId": 137,
+    "symbol": "PolyDoge",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Paint",
+    "asset": "Paint",
+    "address": "0x7c28F627eA3aEc8B882b51eb1935f66e5b875714",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x7c28F627eA3aEc8B882b51eb1935f66e5b875714/logo.png",
+    "chainId": 137,
+    "symbol": "PAINT",
+    "type": "ERC-20"
+  },
+  {
+    "name": "300FIT Network",
+    "asset": "300FIT Network",
+    "address": "0xaD2eFE464c4F3b99255c594d0091e938D3bcDF97",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xaD2eFE464c4F3b99255c594d0091e938D3bcDF97/logo.png",
+    "chainId": 137,
+    "symbol": "FIT",
+    "type": "ERC-20"
+  },
+  {
+    "name": "PayBolt",
+    "asset": "PayBolt",
+    "address": "0xe580074A10360404AF3ABfe2d524D5806D993ea3",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xe580074A10360404AF3ABfe2d524D5806D993ea3/logo.png",
+    "chainId": 137,
+    "symbol": "PAY",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Longinus",
+    "asset": "Longinus",
+    "address": "0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01",
+    "decimals": 9,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01/logo.png",
+    "chainId": 137,
+    "symbol": "LGNS",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped AVAX (Wormhole)",
+    "asset": "Wrapped AVAX (Wormhole)",
+    "address": "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a/logo.png",
+    "chainId": 137,
+    "symbol": "WAVAX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Vote-escrowed EverRise",
+    "asset": "Vote-escrowed EverRise",
+    "address": "0xDbA7b24257fC6e397cB7368B4BC922E944072f1b",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xDbA7b24257fC6e397cB7368B4BC922E944072f1b/logo.png",
+    "chainId": 137,
+    "symbol": "veRISE",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Ambire Wallet",
+    "asset": "Ambire Wallet",
+    "address": "0x564906ec1DF8399F00e4ad32c0eCAC0404a27A1c",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x564906ec1DF8399F00e4ad32c0eCAC0404a27A1c/logo.png",
+    "chainId": 137,
+    "symbol": "WALLET",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Staked USDA",
+    "asset": "Staked USDA",
+    "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776/logo.png",
+    "chainId": 137,
+    "symbol": "stUSD",
+    "type": "ERC-20"
+  },
+  {
+    "name": "THE BULLS ARMY",
+    "asset": "THE BULLS ARMY",
+    "address": "0x7e1AE068Ac4e0ffD7a84750c2FB093A0EAE9aEa2",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x7e1AE068Ac4e0ffD7a84750c2FB093A0EAE9aEa2/logo.png",
+    "chainId": 137,
+    "symbol": "TBA",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Colombian Peso",
+    "asset": "Colombian Peso",
+    "address": "0x8a1D45e102e886510e891d2Ec656a708991e2D76",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x8a1D45e102e886510e891d2Ec656a708991e2D76/logo.png",
+    "chainId": 137,
+    "symbol": "wCOP",
     "type": "ERC-20"
   },
   {
@@ -1937,76 +2007,6 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x337E7456B420bD3481e7FA61fA9850343d610d34/logo.png",
     "chainId": 137,
     "symbol": "wMXN",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Longinus",
-    "asset": "Longinus",
-    "address": "0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01",
-    "decimals": 9,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01/logo.png",
-    "chainId": 137,
-    "symbol": "LGNS",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped AVAX (Wormhole)",
-    "asset": "Wrapped AVAX (Wormhole)",
-    "address": "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a/logo.png",
-    "chainId": 137,
-    "symbol": "WAVAX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Vote-escrowed EverRise",
-    "asset": "Vote-escrowed EverRise",
-    "address": "0xDbA7b24257fC6e397cB7368B4BC922E944072f1b",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xDbA7b24257fC6e397cB7368B4BC922E944072f1b/logo.png",
-    "chainId": 137,
-    "symbol": "veRISE",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Ambire Wallet",
-    "asset": "Ambire Wallet",
-    "address": "0x564906ec1DF8399F00e4ad32c0eCAC0404a27A1c",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x564906ec1DF8399F00e4ad32c0eCAC0404a27A1c/logo.png",
-    "chainId": 137,
-    "symbol": "WALLET",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Staked USDA",
-    "asset": "Staked USDA",
-    "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776/logo.png",
-    "chainId": 137,
-    "symbol": "stUSD",
-    "type": "ERC-20"
-  },
-  {
-    "name": "THE BULLS ARMY",
-    "asset": "THE BULLS ARMY",
-    "address": "0x7e1AE068Ac4e0ffD7a84750c2FB093A0EAE9aEa2",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x7e1AE068Ac4e0ffD7a84750c2FB093A0EAE9aEa2/logo.png",
-    "chainId": 137,
-    "symbol": "TBA",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Colombian Peso",
-    "asset": "Colombian Peso",
-    "address": "0x8a1D45e102e886510e891d2Ec656a708991e2D76",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0x8a1D45e102e886510e891d2Ec656a708991e2D76/logo.png",
-    "chainId": 137,
-    "symbol": "wCOP",
     "type": "ERC-20"
   },
   {

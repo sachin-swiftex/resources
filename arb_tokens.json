@@ -74,7 +74,7 @@
     "asset": "Rain",
     "address": "0x25118290e6A5f4139381D072181157035864099d",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x25118290e6A5f4139381D072181157035864099d/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/38341.png",
     "chainId": 42161,
     "symbol": "RAIN",
     "type": "ERC-20"
@@ -127,7 +127,7 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8/logo.png",
     "chainId": 42161,
     "symbol": "USDC.e",
-    "type": "NATIVE"
+    "type": "ERC-20"
   },
   {
     "name": "Arbitrum",
@@ -154,7 +154,7 @@
     "asset": "USDai",
     "address": "0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/38562.png",
     "chainId": 42161,
     "symbol": "USDAI",
     "type": "ERC-20"
@@ -224,7 +224,7 @@
     "asset": "USD.AI",
     "address": "0x0C1c1C109FE34733fca54b82d7B46B75CFb71F6e",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x0C1c1C109FE34733fca54b82d7B46B75CFb71F6e/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/39870.png",
     "chainId": 42161,
     "symbol": "CHIP",
     "type": "ERC-20"
@@ -314,7 +314,7 @@
     "asset": "Loaded Lions",
     "address": "0x527e8D368298deA5a53be257e5300F4DBafb7a97",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x527e8D368298deA5a53be257e5300F4DBafb7a97/logo.png",
+    "logoURI": "https://dd.dexscreener.com/ds-data/tokens/arbitrum/0x527e8d368298dea5a53be257e5300f4dbafb7a97.png",
     "chainId": 42161,
     "symbol": "LION",
     "type": "ERC-20"
@@ -360,16 +360,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "WorldMobileToken",
-    "asset": "WorldMobileToken",
-    "address": "0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7",
-    "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7/logo.png",
-    "chainId": 42161,
-    "symbol": "WMTX",
-    "type": "ERC-20"
-  },
-  {
     "name": "Coinbase tokenized stock (xStock)",
     "asset": "Coinbase tokenized stock (xStock)",
     "address": "0x364f210f430eC2448Fc68A49203040F6124096F0",
@@ -377,6 +367,16 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x364f210f430eC2448Fc68A49203040F6124096F0/logo.png",
     "chainId": 42161,
     "symbol": "COINX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "WorldMobileToken",
+    "asset": "WorldMobileToken",
+    "address": "0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7",
+    "decimals": 6,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7/logo.png",
+    "chainId": 42161,
+    "symbol": "WMTX",
     "type": "ERC-20"
   },
   {
@@ -460,16 +460,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "Gold tokenized ETF (xStock)",
-    "asset": "Gold tokenized ETF (xStock)",
-    "address": "0x2380F2673C640fB67E2d6B55B44C62F0E0e69DA9",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x2380F2673C640fB67E2d6B55B44C62F0E0e69DA9/logo.png",
-    "chainId": 42161,
-    "symbol": "GLDX",
-    "type": "ERC-20"
-  },
-  {
     "name": "MicroStrategy tokenized stock (xStock)",
     "asset": "MicroStrategy tokenized stock (xStock)",
     "address": "0xAE2f842EF90C0d5213259Ab82639D5BBF649b08E",
@@ -480,11 +470,21 @@
     "type": "ERC-20"
   },
   {
+    "name": "Gold tokenized ETF (xStock)",
+    "asset": "Gold tokenized ETF (xStock)",
+    "address": "0x2380F2673C640fB67E2d6B55B44C62F0E0e69DA9",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x2380F2673C640fB67E2d6B55B44C62F0E0e69DA9/logo.png",
+    "chainId": 42161,
+    "symbol": "GLDX",
+    "type": "ERC-20"
+  },
+  {
     "name": "Subsquid",
     "asset": "Subsquid",
     "address": "0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/12894.png",
     "chainId": 42161,
     "symbol": "SQD",
     "type": "ERC-20"
@@ -574,7 +574,7 @@
     "asset": "MiL.k",
     "address": "0x374c5FB7979d5fDBAAd2d95409e235e5CBdfD43C",
     "decimals": 8,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x374c5FB7979d5fDBAAd2d95409e235e5CBdfD43C/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/5266.png",
     "chainId": 42161,
     "symbol": "MLK",
     "type": "ERC-20"
@@ -610,16 +610,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "MAGIC",
-    "asset": "MAGIC",
-    "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x539bdE0d7Dbd336b79148AA742883198BBF60342/logo.png",
-    "chainId": 42161,
-    "symbol": "MAGIC",
-    "type": "ERC-20"
-  },
-  {
     "name": "Intel tokenized stock (xStock)",
     "asset": "Intel tokenized stock (xStock)",
     "address": "0xf8A80D1cb9cFD70D03D655D9dF42339846F3B3C8",
@@ -627,6 +617,16 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xf8A80D1cb9cFD70D03D655D9dF42339846F3B3C8/logo.png",
     "chainId": 42161,
     "symbol": "INTCX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "MAGIC",
+    "asset": "MAGIC",
+    "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x539bdE0d7Dbd336b79148AA742883198BBF60342/logo.png",
+    "chainId": 42161,
+    "symbol": "MAGIC",
     "type": "ERC-20"
   },
   {
@@ -730,16 +730,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "Gains Network",
-    "asset": "Gains Network",
-    "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x18c11FD286C5EC11c3b683Caa813B77f5163A122/logo.png",
-    "chainId": 42161,
-    "symbol": "GNS",
-    "type": "ERC-20"
-  },
-  {
     "name": "TQQQ tokenized ETF (xStock)",
     "asset": "TQQQ tokenized ETF (xStock)",
     "address": "0xfDDDb57878eF9D6f681Ec4381DCB626b9E69AC86",
@@ -747,6 +737,16 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xfDDDb57878eF9D6f681Ec4381DCB626b9E69AC86/logo.png",
     "chainId": 42161,
     "symbol": "TQQQX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Gains Network",
+    "asset": "Gains Network",
+    "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x18c11FD286C5EC11c3b683Caa813B77f5163A122/logo.png",
+    "chainId": 42161,
+    "symbol": "GNS",
     "type": "ERC-20"
   },
   {
@@ -790,16 +790,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "Vanguard tokenized ETF (xStock)",
-    "asset": "Vanguard tokenized ETF (xStock)",
-    "address": "0xbD730E618bcD88C82dDeE52e10275CF2f88A4777",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xbD730E618bcD88C82dDeE52e10275CF2f88A4777/logo.png",
-    "chainId": 42161,
-    "symbol": "VTIX",
-    "type": "ERC-20"
-  },
-  {
     "name": "CrowdStrike tokenized stock (xStock)",
     "asset": "CrowdStrike tokenized stock (xStock)",
     "address": "0x214151022C2a5E380aB80CdaC31f23Ae554a7345",
@@ -810,6 +800,16 @@
     "type": "ERC-20"
   },
   {
+    "name": "Vanguard tokenized ETF (xStock)",
+    "asset": "Vanguard tokenized ETF (xStock)",
+    "address": "0xbD730E618bcD88C82dDeE52e10275CF2f88A4777",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xbD730E618bcD88C82dDeE52e10275CF2f88A4777/logo.png",
+    "chainId": 42161,
+    "symbol": "VTIX",
+    "type": "ERC-20"
+  },
+  {
     "name": "Honeywell tokenized stock (xStock)",
     "asset": "Honeywell tokenized stock (xStock)",
     "address": "0x62a48560861B0b451654bFffdb5be6E47aa8ff1B",
@@ -817,16 +817,6 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x62a48560861B0b451654bFffdb5be6E47aa8ff1B/logo.png",
     "chainId": 42161,
     "symbol": "HONX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "GYEN",
-    "asset": "GYEN",
-    "address": "0x589d35656641d6aB57A545F08cf473eCD9B6D5F7",
-    "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x589d35656641d6aB57A545F08cf473eCD9B6D5F7/logo.png",
-    "chainId": 42161,
-    "symbol": "GYEN",
     "type": "ERC-20"
   },
   {
@@ -847,6 +837,16 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xfBF2398dF672cEE4aFcC2A4A733222331c742a6A/logo.png",
     "chainId": 42161,
     "symbol": "ABBVX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "GYEN",
+    "asset": "GYEN",
+    "address": "0x589d35656641d6aB57A545F08cf473eCD9B6D5F7",
+    "decimals": 6,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x589d35656641d6aB57A545F08cf473eCD9B6D5F7/logo.png",
+    "chainId": 42161,
+    "symbol": "GYEN",
     "type": "ERC-20"
   },
   {
@@ -984,7 +984,7 @@
     "asset": "Hydranet",
     "address": "0xB0F66Bdb39acBb043308eb9Dbe78F5bB47ea5430",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xB0F66Bdb39acBb043308eb9Dbe78F5bB47ea5430/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/19689.png",
     "chainId": 42161,
     "symbol": "HDN",
     "type": "ERC-20"
@@ -994,7 +994,7 @@
     "asset": "Lava Network",
     "address": "0x11e969e9B3f89cB16D686a03Cd8508C9fC0361AF",
     "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x11e969e9B3f89cB16D686a03Cd8508C9fC0361AF/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32722.png",
     "chainId": 42161,
     "symbol": "LAVA",
     "type": "ERC-20"
@@ -1054,7 +1054,7 @@
     "asset": "XBorg",
     "address": "0x93FA0B88C0C78e45980Fa74cdd87469311b7B3E4",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x93FA0B88C0C78e45980Fa74cdd87469311b7B3E4/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/33081.png",
     "chainId": 42161,
     "symbol": "XBG",
     "type": "ERC-20"
@@ -1094,19 +1094,9 @@
     "asset": "Arowana",
     "address": "0x747952A59292a9B3862F3C59664B95e8B461eF45",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x747952A59292a9B3862F3C59664B95e8B461eF45/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/12485.png",
     "chainId": 42161,
     "symbol": "ARW",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Axelar Wrapped USDC",
-    "asset": "Axelar Wrapped USDC",
-    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-    "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xEB466342C4d449BC9f53A865D5Cb90586f405215/logo.png",
-    "chainId": 42161,
-    "symbol": "axlUSDC",
     "type": "ERC-20"
   },
   {
@@ -1117,6 +1107,16 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3/logo.png",
     "chainId": 42161,
     "symbol": "MULTI",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Axelar Wrapped USDC",
+    "asset": "Axelar Wrapped USDC",
+    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "decimals": 6,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xEB466342C4d449BC9f53A865D5Cb90586f405215/logo.png",
+    "chainId": 42161,
+    "symbol": "axlUSDC",
     "type": "ERC-20"
   },
   {
@@ -1134,7 +1134,7 @@
     "asset": "r/CryptoCurrency Moons",
     "address": "0x24404DC041d74cd03cFE28855F555559390C931b",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x24404DC041d74cd03cFE28855F555559390C931b/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/7396.png",
     "chainId": 42161,
     "symbol": "MOON",
     "type": "ERC-20"
@@ -1170,16 +1170,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "Byte",
-    "asset": "Byte",
-    "address": "0x847503FbF003cE8B005546Aa3c03B80b7C2F9771",
-    "decimals": 9,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x847503FbF003cE8B005546Aa3c03B80b7C2F9771/logo.png",
-    "chainId": 42161,
-    "symbol": "BYTE",
-    "type": "ERC-20"
-  },
-  {
     "name": "AIDOGE",
     "asset": "AIDOGE",
     "address": "0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b",
@@ -1187,6 +1177,16 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b/logo.png",
     "chainId": 42161,
     "symbol": "AIDOGE",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Byte",
+    "asset": "Byte",
+    "address": "0x847503FbF003cE8B005546Aa3c03B80b7C2F9771",
+    "decimals": 9,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x847503FbF003cE8B005546Aa3c03B80b7C2F9771/logo.png",
+    "chainId": 42161,
+    "symbol": "BYTE",
     "type": "ERC-20"
   },
   {
@@ -1204,7 +1204,7 @@
     "asset": "Equilibria Finance",
     "address": "0xBfbCFe8873fE28Dfa25f1099282b088D52bbAD9C",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xBfbCFe8873fE28Dfa25f1099282b088D52bbAD9C/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/26556.png",
     "chainId": 42161,
     "symbol": "EQB",
     "type": "ERC-20"
@@ -1234,19 +1234,9 @@
     "asset": "TMX",
     "address": "0xa057Bf62b7760ae11d782DaB5e081728BCDA7017",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xa057Bf62b7760ae11d782DaB5e081728BCDA7017/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/38480.png",
     "chainId": 42161,
     "symbol": "TMX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Comcast tokenized stock (xStock)",
-    "asset": "Comcast tokenized stock (xStock)",
-    "address": "0xBC7170a1280Be28513B4e940C681537EB25e39f4",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xBC7170a1280Be28513B4e940C681537EB25e39f4/logo.png",
-    "chainId": 42161,
-    "symbol": "CMCSAX",
     "type": "ERC-20"
   },
   {
@@ -1260,13 +1250,13 @@
     "type": "ERC-20"
   },
   {
-    "name": "dForce",
-    "asset": "dForce",
-    "address": "0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689",
+    "name": "Comcast tokenized stock (xStock)",
+    "asset": "Comcast tokenized stock (xStock)",
+    "address": "0xBC7170a1280Be28513B4e940C681537EB25e39f4",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xBC7170a1280Be28513B4e940C681537EB25e39f4/logo.png",
     "chainId": 42161,
-    "symbol": "DF",
+    "symbol": "CMCSAX",
     "type": "ERC-20"
   },
   {
@@ -1280,11 +1270,21 @@
     "type": "ERC-20"
   },
   {
+    "name": "dForce",
+    "asset": "dForce",
+    "address": "0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689/logo.png",
+    "chainId": 42161,
+    "symbol": "DF",
+    "type": "ERC-20"
+  },
+  {
     "name": "Neuron",
     "asset": "Neuron",
     "address": "0xdadeca1167fe47499e53Eb50F261103630974905",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xdadeca1167fe47499e53Eb50F261103630974905/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32516.png",
     "chainId": 42161,
     "symbol": "NRN",
     "type": "ERC-20"
@@ -1294,7 +1294,7 @@
     "asset": "WINR Protocol",
     "address": "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23681.png",
     "chainId": 42161,
     "symbol": "WINR",
     "type": "ERC-20"
@@ -1320,16 +1320,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "Johnson & Johnson tokenized stock (xStock)",
-    "asset": "Johnson & Johnson tokenized stock (xStock)",
-    "address": "0xdb0482cfaD4789798623E64b15eebA01b16e917C",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xdb0482cfaD4789798623E64b15eebA01b16e917C/logo.png",
-    "chainId": 42161,
-    "symbol": "JNJX",
-    "type": "ERC-20"
-  },
-  {
     "name": "JPMorgan Chase tokenized stock (xStock)",
     "asset": "JPMorgan Chase tokenized stock (xStock)",
     "address": "0xD9FC3E075d45254a1D834fEa18AF8041207DeA0A",
@@ -1337,6 +1327,16 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xD9FC3E075d45254a1D834fEa18AF8041207DeA0A/logo.png",
     "chainId": 42161,
     "symbol": "JPMX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Johnson & Johnson tokenized stock (xStock)",
+    "asset": "Johnson & Johnson tokenized stock (xStock)",
+    "address": "0xdb0482cfaD4789798623E64b15eebA01b16e917C",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xdb0482cfaD4789798623E64b15eebA01b16e917C/logo.png",
+    "chainId": 42161,
+    "symbol": "JNJX",
     "type": "ERC-20"
   },
   {
@@ -1354,7 +1354,7 @@
     "asset": "Sperax USD",
     "address": "0xD74f5255D557944cf7Dd0E45FF521520002D5748",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xD74f5255D557944cf7Dd0E45FF521520002D5748/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/17285.png",
     "chainId": 42161,
     "symbol": "USDs",
     "type": "ERC-20"
@@ -1504,7 +1504,7 @@
     "asset": "LoungeM",
     "address": "0x723cE01b57dFD7148785B90D66275005aa2eDD17",
     "decimals": 8,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x723cE01b57dFD7148785B90D66275005aa2eDD17/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/10440.png",
     "chainId": 42161,
     "symbol": "LZM",
     "type": "ERC-20"
@@ -1574,7 +1574,7 @@
     "asset": "Aark",
     "address": "0xCa4e51F6AD4AFd9d1068E5899De9dd7d73F3463D",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xCa4e51F6AD4AFd9d1068E5899De9dd7d73F3463D/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32217.png",
     "chainId": 42161,
     "symbol": "AARK",
     "type": "ERC-20"
@@ -1584,7 +1584,7 @@
     "asset": "CBPAY Global",
     "address": "0xd6cF874E24A9F5f43075142101A6b13735CDD424",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xd6cF874E24A9F5f43075142101A6b13735CDD424/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32992.png",
     "chainId": 42161,
     "symbol": "CBPAY",
     "type": "ERC-20"
@@ -1594,7 +1594,7 @@
     "asset": "TheStandard USD",
     "address": "0x2Ea0bE86990E8Dac0D09e4316Bb92086F304622d",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x2Ea0bE86990E8Dac0D09e4316Bb92086F304622d/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/33452.png",
     "chainId": 42161,
     "symbol": "USDS",
     "type": "ERC-20"
@@ -1607,6 +1607,16 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xA6a65AC27E76cD53cB790473E4345c46e5eBf961/logo.png",
     "chainId": 42161,
     "symbol": "NFLXX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Miracleplay",
+    "asset": "Miracleplay",
+    "address": "0xa4f63404b58C3efD9Db6D53352BD386fFa174e5A",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xa4f63404b58C3efD9Db6D53352BD386fFa174e5A/logo.png",
+    "chainId": 42161,
+    "symbol": "MPT",
     "type": "ERC-20"
   },
   {
@@ -1630,16 +1640,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "Miracleplay",
-    "asset": "Miracleplay",
-    "address": "0xa4f63404b58C3efD9Db6D53352BD386fFa174e5A",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xa4f63404b58C3efD9Db6D53352BD386fFa174e5A/logo.png",
-    "chainId": 42161,
-    "symbol": "MPT",
-    "type": "ERC-20"
-  },
-  {
     "name": "Chainge",
     "asset": "Chainge",
     "address": "0x51C601dC278EB2CFea8e52c4caA35B3d6a9A2c26",
@@ -1654,7 +1654,7 @@
     "asset": "RCADE",
     "address": "0x077574441C4F8763a37a2cFeE2ECb444aA60A15e",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x077574441C4F8763a37a2cFeE2ECb444aA60A15e/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/37260.png",
     "chainId": 42161,
     "symbol": "RCADE",
     "type": "ERC-20"
@@ -1694,7 +1694,7 @@
     "asset": "VEMP",
     "address": "0xaF7E3F16D747e77E927dc94287f86eb95a64d83D",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xaF7E3F16D747e77E927dc94287f86eb95a64d83D/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/11423.png",
     "chainId": 42161,
     "symbol": "VEMP",
     "type": "ERC-20"
@@ -1734,7 +1734,7 @@
     "asset": "AIRDROP2049",
     "address": "0xdc5F1BF636DcAdaE7e285A484Dc71A1F5adeE0A1",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xdc5F1BF636DcAdaE7e285A484Dc71A1F5adeE0A1/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/33338.png",
     "chainId": 42161,
     "symbol": "AIRDROP",
     "type": "ERC-20"
@@ -1744,7 +1744,7 @@
     "asset": "Neutra Finance",
     "address": "0x6609BE1547166D1C4605F3A243FDCFf467e600C3",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6609BE1547166D1C4605F3A243FDCFf467e600C3/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23296.png",
     "chainId": 42161,
     "symbol": "NEU",
     "type": "ERC-20"
@@ -1754,7 +1754,7 @@
     "asset": "SpaceCatch",
     "address": "0xbC4c97Fb9befaa8B41448e1dFcC5236dA543217F",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xbC4c97Fb9befaa8B41448e1dFcC5236dA543217F/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23665.png",
     "chainId": 42161,
     "symbol": "CATCH",
     "type": "ERC-20"
@@ -1774,7 +1774,7 @@
     "asset": "Slingshot",
     "address": "0x5F8a7c646511A790C53F171891E5d469cA884EdE",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x5F8a7c646511A790C53F171891E5d469cA884EdE/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/36035.png",
     "chainId": 42161,
     "symbol": "SLING",
     "type": "ERC-20"
@@ -1783,8 +1783,8 @@
     "name": "Espresso",
     "asset": "Espresso",
     "address": "0x3b8db18e69d6686Ad9371A423aFe3Dd1065C94f1",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x3b8db18e69d6686Ad9371A423aFe3Dd1065C94f1/logo.png",
+    "decimals": 0,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/39548.png",
     "chainId": 42161,
     "symbol": "ESP",
     "type": "ERC-20"
@@ -1794,7 +1794,7 @@
     "asset": "Contango",
     "address": "0xC760F9782F8ceA5B06D862574464729537159966",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xC760F9782F8ceA5B06D862574464729537159966/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/34045.png",
     "chainId": 42161,
     "symbol": "TANGO",
     "type": "ERC-20"
@@ -1804,7 +1804,7 @@
     "asset": "Kinto",
     "address": "0x6bA19Ee69D5DDe3aB70185C801fA404F66feDB58",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6bA19Ee69D5DDe3aB70185C801fA404F66feDB58/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/36142.png",
     "chainId": 42161,
     "symbol": "K",
     "type": "ERC-20"
@@ -1814,7 +1814,7 @@
     "asset": "Reboot",
     "address": "0x000000000026839b3f4181f2cF69336af6153b99",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x000000000026839b3f4181f2cF69336af6153b99/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/28867.png",
     "chainId": 42161,
     "symbol": "GG",
     "type": "ERC-20"
@@ -1824,7 +1824,7 @@
     "asset": "Credbull",
     "address": "0xD6b3d81868770083307840F513A3491960b95cb6",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xD6b3d81868770083307840F513A3491960b95cb6/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/33805.png",
     "chainId": 42161,
     "symbol": "CBL",
     "type": "ERC-20"
@@ -1834,7 +1834,7 @@
     "asset": "SUGARVERSE",
     "address": "0x6b43732a9AE9F8654d496c0A075Aa4Aa43057A0B",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6b43732a9AE9F8654d496c0A075Aa4Aa43057A0B/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/34376.png",
     "chainId": 42161,
     "symbol": "CNDY",
     "type": "ERC-20"
@@ -1844,7 +1844,7 @@
     "asset": "MyMetaTrader",
     "address": "0x27D8De4c30ffDE34e982482AE504fC7F23061f61",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x27D8De4c30ffDE34e982482AE504fC7F23061f61/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23627.png",
     "chainId": 42161,
     "symbol": "MMT",
     "type": "ERC-20"
@@ -1854,7 +1854,7 @@
     "asset": "Arbi Pepe",
     "address": "0xB85C6FBF780eB913dC34aA0B6F74D1e6A15c356f",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xB85C6FBF780eB913dC34aA0B6F74D1e6A15c356f/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24549.png",
     "chainId": 42161,
     "symbol": "PEPE",
     "type": "ERC-20"
@@ -1864,7 +1864,7 @@
     "asset": "LayerK",
     "address": "0x83A32F2818b6754F7d58af0e559fA9d3fA99ce13",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x83A32F2818b6754F7d58af0e559fA9d3fA99ce13/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/33199.png",
     "chainId": 42161,
     "symbol": "LYK",
     "type": "ERC-20"
@@ -1873,8 +1873,8 @@
     "name": "idOS",
     "asset": "idOS",
     "address": "0x68731d6F14B827bBCfFbEBb62b19Daa18de1d79c",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x68731d6F14B827bBCfFbEBb62b19Daa18de1d79c/logo.png",
+    "decimals": 0,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/39596.png",
     "chainId": 42161,
     "symbol": "IDOS",
     "type": "ERC-20"
@@ -1884,7 +1884,7 @@
     "asset": "EverValue Coin",
     "address": "0x45D9831d8751B2325f3DBf48db748723726e1C8c",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x45D9831d8751B2325f3DBf48db748723726e1C8c/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/33342.png",
     "chainId": 42161,
     "symbol": "EVA",
     "type": "ERC-20"
@@ -1894,7 +1894,7 @@
     "asset": "Tracer",
     "address": "0xd0e4fc5B430b0cAC0f59b7B8B66D40d0b3f64A6b",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xd0e4fc5B430b0cAC0f59b7B8B66D40d0b3f64A6b/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/38388.png",
     "chainId": 42161,
     "symbol": "TRCR",
     "type": "ERC-20"
@@ -1904,7 +1904,7 @@
     "asset": "Morpheus",
     "address": "0x092bAaDB7DEf4C3981454dD9c0A0D7FF07bCFc86",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x092bAaDB7DEf4C3981454dD9c0A0D7FF07bCFc86/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/31656.png",
     "chainId": 42161,
     "symbol": "MOR",
     "type": "ERC-20"
@@ -1914,7 +1914,7 @@
     "asset": "Tether USD (Bridge TC20)",
     "address": "0xEcA7fd17C861ae08Ee1dE6b756a7725F3cD217Be",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xEcA7fd17C861ae08Ee1dE6b756a7725F3cD217Be/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/38285.png",
     "chainId": 42161,
     "symbol": "ՍSDT‮C.",
     "type": "ERC-20"
@@ -1924,7 +1924,7 @@
     "asset": "t3rn",
     "address": "0x1114982539A2Bfb84e8B9e4e320bbC04532a9e44",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x1114982539A2Bfb84e8B9e4e320bbC04532a9e44/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24765.png",
     "chainId": 42161,
     "symbol": "TRN",
     "type": "ERC-20"
@@ -1934,7 +1934,7 @@
     "asset": "xUSD",
     "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
     "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/20317.png",
     "chainId": 42161,
     "symbol": "xUSD",
     "type": "ERC-20"
@@ -1944,7 +1944,7 @@
     "asset": "TridentDAO",
     "address": "0x602Eb0D99A5e3e76D1510372C4d2020e12EaEa8a",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x602Eb0D99A5e3e76D1510372C4d2020e12EaEa8a/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23412.png",
     "chainId": 42161,
     "symbol": "PSI",
     "type": "ERC-20"
@@ -1954,7 +1954,7 @@
     "asset": "GameOnForge",
     "address": "0x85b7FA2a3Cfe5ED48B619EC967750462A1FD9557",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x85b7FA2a3Cfe5ED48B619EC967750462A1FD9557/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/34491.png",
     "chainId": 42161,
     "symbol": "GO4",
     "type": "ERC-20"
@@ -1964,7 +1964,7 @@
     "asset": "Beyond Gaming",
     "address": "0x4D0145A56F312f9d27E623f0F816ecF7165B63f0",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x4D0145A56F312f9d27E623f0F816ecF7165B63f0/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/36667.png",
     "chainId": 42161,
     "symbol": "BDG",
     "type": "ERC-20"
@@ -1974,7 +1974,7 @@
     "asset": "Factor",
     "address": "0x6dD963C510c2D2f09d5eDdB48Ede45FeD063Eb36",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6dD963C510c2D2f09d5eDdB48Ede45FeD063Eb36/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23502.png",
     "chainId": 42161,
     "symbol": "FCTR",
     "type": "ERC-20"
@@ -1984,7 +1984,7 @@
     "asset": "AI Meta Club",
     "address": "0x299142a6370e1912156E53fBD4f25D7ba49DdcC5",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x299142a6370e1912156E53fBD4f25D7ba49DdcC5/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/26135.png",
     "chainId": 42161,
     "symbol": "AMC",
     "type": "ERC-20"
@@ -1994,7 +1994,7 @@
     "asset": "CADAI",
     "address": "0x4dEbFb9Ed639144CF1e401674Af361FFFfcefb58",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x4dEbFb9Ed639144CF1e401674Af361FFFfcefb58/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/31482.png",
     "chainId": 42161,
     "symbol": "CADAI",
     "type": "ERC-20"
@@ -2004,7 +2004,7 @@
     "asset": "Hermes Protocol",
     "address": "0x45940000009600102A1c002F0097C4A500fa00AB",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x45940000009600102A1c002F0097C4A500fa00AB/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/21272.png",
     "chainId": 42161,
     "symbol": "HERMES",
     "type": "ERC-20"
@@ -2014,7 +2014,7 @@
     "asset": "Arbidoge",
     "address": "0x155f0DD04424939368972f4e1838687d6a831151",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x155f0DD04424939368972f4e1838687d6a831151/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/11878.png",
     "chainId": 42161,
     "symbol": "ADOGE",
     "type": "ERC-20"
@@ -2024,7 +2024,7 @@
     "asset": "ArbiNYAN",
     "address": "0xeD3fB761414DA74b74F33e5c5a1f78104b188DfC",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xeD3fB761414DA74b74F33e5c5a1f78104b188DfC/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/11854.png",
     "chainId": 42161,
     "symbol": "NYAN",
     "type": "ERC-20"
@@ -2034,7 +2034,7 @@
     "asset": "Umami Finance",
     "address": "0x1622bF67e6e5747b81866fE0b85178a93C7F86e3",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x1622bF67e6e5747b81866fE0b85178a93C7F86e3/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/15480.png",
     "chainId": 42161,
     "symbol": "UMAMI",
     "type": "ERC-20"
@@ -2044,7 +2044,7 @@
     "asset": "Maia",
     "address": "0x00000000ea00F3F4000e7Ed5Ed91965b19f1009B",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x00000000ea00F3F4000e7Ed5Ed91965b19f1009B/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/17181.png",
     "chainId": 42161,
     "symbol": "MAIA",
     "type": "ERC-20"
@@ -2054,7 +2054,7 @@
     "asset": "PlutusDAO",
     "address": "0x51318B7D00db7ACc4026C88c3952B66278B6A67F",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x51318B7D00db7ACc4026C88c3952B66278B6A67F/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/19964.png",
     "chainId": 42161,
     "symbol": "PLS",
     "type": "ERC-20"
@@ -2064,7 +2064,7 @@
     "asset": "Aperture Finance",
     "address": "0x1C986661170c1834db49C3830130D4038eEeb866",
     "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x1C986661170c1834db49C3830130D4038eEeb866/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/21314.png",
     "chainId": 42161,
     "symbol": "APTR",
     "type": "ERC-20"
@@ -2074,7 +2074,7 @@
     "asset": "BattleFly",
     "address": "0x872bAD41CFc8BA731f811fEa8B2d0b9fd6369585",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x872bAD41CFc8BA731f811fEa8B2d0b9fd6369585/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/22770.png",
     "chainId": 42161,
     "symbol": "GFLY",
     "type": "ERC-20"
@@ -2084,7 +2084,7 @@
     "asset": "OreoSwap",
     "address": "0x319e222De462ac959BAf2aEc848697AeC2bbD770",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x319e222De462ac959BAf2aEc848697AeC2bbD770/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23057.png",
     "chainId": 42161,
     "symbol": "OREO",
     "type": "ERC-20"
@@ -2094,7 +2094,7 @@
     "asset": "Arcadeum",
     "address": "0x7F465507f058e17Ad21623927a120ac05CA32741",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x7F465507f058e17Ad21623927a120ac05CA32741/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23486.png",
     "chainId": 42161,
     "symbol": "ARC",
     "type": "ERC-20"
@@ -2104,7 +2104,7 @@
     "asset": "SolidLizard",
     "address": "0x463913D3a3D3D291667D53B8325c598Eb88D3B0e",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x463913D3a3D3D291667D53B8325c598Eb88D3B0e/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23573.png",
     "chainId": 42161,
     "symbol": "SLIZ",
     "type": "ERC-20"
@@ -2114,7 +2114,7 @@
     "asset": "Onchain Trade",
     "address": "0xB4B07b60455a2F38cBA98A8f3Dd161f7cA396a9c",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xB4B07b60455a2F38cBA98A8f3Dd161f7cA396a9c/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23563.png",
     "chainId": 42161,
     "symbol": "OT",
     "type": "ERC-20"
@@ -2124,7 +2124,7 @@
     "asset": "Alien",
     "address": "0x6740Acb82ac5C63A7ad2397ee1faed7c788F5f8c",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6740Acb82ac5C63A7ad2397ee1faed7c788F5f8c/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23631.png",
     "chainId": 42161,
     "symbol": "ALIEN",
     "type": "ERC-20"
@@ -2134,7 +2134,7 @@
     "asset": "PLEXUS",
     "address": "0xFB853ACEa0E76f73F8274B521FE1611C888670Cc",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xFB853ACEa0E76f73F8274B521FE1611C888670Cc/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23731.png",
     "chainId": 42161,
     "symbol": "PLX",
     "type": "ERC-20"
@@ -2144,7 +2144,7 @@
     "asset": "Ramses Exchange",
     "address": "0xAAA6C1E32C55A7Bfa8066A6FAE9b42650F262418",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xAAA6C1E32C55A7Bfa8066A6FAE9b42650F262418/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23858.png",
     "chainId": 42161,
     "symbol": "RAM",
     "type": "ERC-20"
@@ -2154,7 +2154,7 @@
     "asset": "Gridex",
     "address": "0x2F27118E3D2332aFb7d165140Cf1bB127eA6975d",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x2F27118E3D2332aFb7d165140Cf1bB127eA6975d/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23941.png",
     "chainId": 42161,
     "symbol": "GDX",
     "type": "ERC-20"
@@ -2164,7 +2164,7 @@
     "asset": "Sector Finance",
     "address": "0x0B63C61bba4a876a6eB8b5e596800F7649A9B71E",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x0B63C61bba4a876a6eB8b5e596800F7649A9B71E/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24059.png",
     "chainId": 42161,
     "symbol": "SECT",
     "type": "ERC-20"
@@ -2174,7 +2174,7 @@
     "asset": "Chronos",
     "address": "0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24158.png",
     "chainId": 42161,
     "symbol": "CHR",
     "type": "ERC-20"
@@ -2184,7 +2184,7 @@
     "asset": "LFGSwap Finance (Arbitrum)",
     "address": "0xF7a0b80681eC935d6dd9f3Af9826E68B99897d6D",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xF7a0b80681eC935d6dd9f3Af9826E68B99897d6D/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24171.png",
     "chainId": 42161,
     "symbol": "LFG",
     "type": "ERC-20"
@@ -2194,7 +2194,7 @@
     "asset": "Lodestar",
     "address": "0xF19547f9ED24aA66b03c3a552D181Ae334FBb8DB",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xF19547f9ED24aA66b03c3a552D181Ae334FBb8DB/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24178.png",
     "chainId": 42161,
     "symbol": "LODE",
     "type": "ERC-20"
@@ -2204,7 +2204,7 @@
     "asset": "ArbGPT",
     "address": "0xe021047851012D8e981EbD9F3C2CBB8945E996DA",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xe021047851012D8e981EbD9F3C2CBB8945E996DA/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24281.png",
     "chainId": 42161,
     "symbol": "GPT",
     "type": "ERC-20"
@@ -2213,8 +2213,8 @@
     "name": "AiShiba",
     "asset": "AiShiba",
     "address": "0xFA296FcA3c7DBa4a92A42Ec0B5E2138DA3b29050",
-    "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xFA296FcA3c7DBa4a92A42Ec0B5E2138DA3b29050/logo.png",
+    "decimals": 6,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24573.png",
     "chainId": 42161,
     "symbol": "shibai",
     "type": "ERC-20"
@@ -2224,7 +2224,7 @@
     "asset": "ArbiDex Token",
     "address": "0xD5954c3084a1cCd70B4dA011E67760B8e78aeE84",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xD5954c3084a1cCd70B4dA011E67760B8e78aeE84/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/25130.png",
     "chainId": 42161,
     "symbol": "ARX",
     "type": "ERC-20"
@@ -2234,7 +2234,7 @@
     "asset": "Realm Anima",
     "address": "0xcCd05A0fcfc1380e9Da27862Adb2198E58e0D66f",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xcCd05A0fcfc1380e9Da27862Adb2198E58e0D66f/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/25330.png",
     "chainId": 42161,
     "symbol": "ANIMA",
     "type": "ERC-20"
@@ -2244,7 +2244,7 @@
     "asset": "Roseon",
     "address": "0xDC8184ba488e949815d4AAfb35B3c56ad03B4179",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xDC8184ba488e949815d4AAfb35B3c56ad03B4179/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/9783.png",
     "chainId": 42161,
     "symbol": "ROSX",
     "type": "ERC-20"
@@ -2254,7 +2254,7 @@
     "asset": "Fluid USDC",
     "address": "0x4CFA50B7Ce747e2D61724fcAc57f24B748FF2b2A",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x4CFA50B7Ce747e2D61724fcAc57f24B748FF2b2A/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/26744.png",
     "chainId": 42161,
     "symbol": "FUSDC",
     "type": "ERC-20"
@@ -2264,7 +2264,7 @@
     "asset": "Kenshi",
     "address": "0xf1264873436A0771E440E2b28072FAfcC5EEBd01",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xf1264873436A0771E440E2b28072FAfcC5EEBd01/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/27006.png",
     "chainId": 42161,
     "symbol": "KNS",
     "type": "ERC-20"
@@ -2274,7 +2274,7 @@
     "asset": "Poison Finance",
     "address": "0x31C91D8Fb96BfF40955DD2dbc909B36E8b104Dde",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x31C91D8Fb96BfF40955DD2dbc909B36E8b104Dde/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23125.png",
     "chainId": 42161,
     "symbol": "POI$ON",
     "type": "ERC-20"
@@ -2284,7 +2284,7 @@
     "asset": "Avive World",
     "address": "0x5117f4Ad0bc70Dbb3B05bF39A1EC1Ee40DD67654",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x5117f4Ad0bc70Dbb3B05bF39A1EC1Ee40DD67654/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/28770.png",
     "chainId": 42161,
     "symbol": "AVIVE",
     "type": "ERC-20"
@@ -2294,7 +2294,7 @@
     "asset": "Smolcoin",
     "address": "0x9E64D3b9e8eC387a9a58CED80b71Ed815f8D82B5",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x9E64D3b9e8eC387a9a58CED80b71Ed815f8D82B5/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/28839.png",
     "chainId": 42161,
     "symbol": "SMOL",
     "type": "ERC-20"
@@ -2304,7 +2304,7 @@
     "asset": "Mizar",
     "address": "0xBBEa044f9e7c0520195e49Ad1e561572E7E1B948",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xBBEa044f9e7c0520195e49Ad1e561572E7E1B948/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23807.png",
     "chainId": 42161,
     "symbol": "MZR",
     "type": "ERC-20"
@@ -2314,7 +2314,7 @@
     "asset": "Grimace",
     "address": "0x764BFC309090E7f93EDcE53E5BeFa374CDCB7b8e",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x764BFC309090E7f93EDcE53E5BeFa374CDCB7b8e/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/30045.png",
     "chainId": 42161,
     "symbol": "GRIMACE",
     "type": "ERC-20"
@@ -2324,7 +2324,7 @@
     "asset": "Foxify",
     "address": "0x6bcc14B02CD624EbE1a8A665Cb6d4067Aa097230",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6bcc14B02CD624EbE1a8A665Cb6d4067Aa097230/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/30602.png",
     "chainId": 42161,
     "symbol": "FOX",
     "type": "ERC-20"
@@ -2334,7 +2334,7 @@
     "asset": "AI CODE",
     "address": "0x7C8a1A80FDd00C9Cccd6EbD573E9EcB49BFa2a59",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x7C8a1A80FDd00C9Cccd6EbD573E9EcB49BFa2a59/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24868.png",
     "chainId": 42161,
     "symbol": "AICODE",
     "type": "ERC-20"
@@ -2344,7 +2344,7 @@
     "asset": "Lumi Finance LUAUSD",
     "address": "0x1DD6b5F9281c6B4f043c02A83a46c2772024636c",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x1DD6b5F9281c6B4f043c02A83a46c2772024636c/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/30876.png",
     "chainId": 42161,
     "symbol": "LUAUSD",
     "type": "ERC-20"
@@ -2354,7 +2354,7 @@
     "asset": "Stryke",
     "address": "0xACC51FFDeF63fB0c014c882267C3A17261A5eD50",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xACC51FFDeF63fB0c014c882267C3A17261A5eD50/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32215.png",
     "chainId": 42161,
     "symbol": "SYK",
     "type": "ERC-20"
@@ -2364,7 +2364,7 @@
     "asset": "Astra DAO",
     "address": "0xd3188e0df68559c0B63361f6160c57Ad88B239D8",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xd3188e0df68559c0B63361f6160c57Ad88B239D8/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23234.png",
     "chainId": 42161,
     "symbol": "ASTRADAO",
     "type": "ERC-20"
@@ -2374,7 +2374,7 @@
     "asset": "WorldBrain Coin",
     "address": "0x7ae9AB13fC8945323b778b3F8678145E80Ec2Efb",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x7ae9AB13fC8945323b778b3F8678145E80Ec2Efb/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32603.png",
     "chainId": 42161,
     "symbol": "WBC",
     "type": "ERC-20"
@@ -2384,7 +2384,7 @@
     "asset": "HMX",
     "address": "0x83d6c8C06ac276465e4C92E7aC8C23740F435140",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x83d6c8C06ac276465e4C92E7aC8C23740F435140/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/29121.png",
     "chainId": 42161,
     "symbol": "HMX",
     "type": "ERC-20"
@@ -2394,7 +2394,7 @@
     "asset": "Autonomous Secure Dollar",
     "address": "0x33C88D4caC6aC34F77020915a2a88cd0417dC069",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x33C88D4caC6aC34F77020915a2a88cd0417dC069/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32781.png",
     "chainId": 42161,
     "symbol": "USSD",
     "type": "ERC-20"
@@ -2404,7 +2404,7 @@
     "asset": "Florence Finance Medici",
     "address": "0x3269a3C00AB86c753856fD135d97b87FACB0d848",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x3269a3C00AB86c753856fD135d97b87FACB0d848/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/29031.png",
     "chainId": 42161,
     "symbol": "FFM",
     "type": "ERC-20"
@@ -2414,7 +2414,7 @@
     "asset": "Army of Fortune Gem",
     "address": "0x619C82392cb6E41778b7d088860Fea8447941f4c",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x619C82392cb6E41778b7d088860Fea8447941f4c/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/29214.png",
     "chainId": 42161,
     "symbol": "AFG",
     "type": "ERC-20"
@@ -2424,7 +2424,7 @@
     "asset": "xPET tech",
     "address": "0x00CBcF7B3d37844e44b888Bc747bDd75FCf4E555",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x00CBcF7B3d37844e44b888Bc747bDd75FCf4E555/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/28864.png",
     "chainId": 42161,
     "symbol": "XPET",
     "type": "ERC-20"
@@ -2434,7 +2434,7 @@
     "asset": "YieldBricks",
     "address": "0x11920f139a3121c2836E01551D43F95B3c31159c",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x11920f139a3121c2836E01551D43F95B3c31159c/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/34385.png",
     "chainId": 42161,
     "symbol": "YBR",
     "type": "ERC-20"
@@ -2444,7 +2444,7 @@
     "asset": "SIZE",
     "address": "0x939727d85D99d0aC339bF1B76DfE30Ca27C19067",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x939727d85D99d0aC339bF1B76DfE30Ca27C19067/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/28849.png",
     "chainId": 42161,
     "symbol": "SIZE",
     "type": "ERC-20"
@@ -2454,7 +2454,7 @@
     "asset": "HIPPOP",
     "address": "0xa0995d43901551601060447f9aBf93ebc277cEC2",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xa0995d43901551601060447f9aBf93ebc277cEC2/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/31457.png",
     "chainId": 42161,
     "symbol": "HIP",
     "type": "ERC-20"
@@ -2464,7 +2464,7 @@
     "asset": "GTA Token",
     "address": "0x73DB621CC8f0a767BeD0e5C0A2920F480D77b765",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x73DB621CC8f0a767BeD0e5C0A2920F480D77b765/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/29533.png",
     "chainId": 42161,
     "symbol": "GTA",
     "type": "ERC-20"
@@ -2474,7 +2474,7 @@
     "asset": "Kunji Finance",
     "address": "0xfbbb21d8e7A461f06e5E27efD69703aCB5C732A8",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xfbbb21d8e7A461f06e5E27efD69703aCB5C732A8/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/27958.png",
     "chainId": 42161,
     "symbol": "KNJ",
     "type": "ERC-20"
@@ -2484,7 +2484,7 @@
     "asset": "Quantlytica",
     "address": "0x4D840b741bc05FDE325D4Ec0B4CFCD0CeA237e4E",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x4D840b741bc05FDE325D4Ec0B4CFCD0CeA237e4E/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/33123.png",
     "chainId": 42161,
     "symbol": "QTLX",
     "type": "ERC-20"
@@ -2494,7 +2494,7 @@
     "asset": "Blade Games",
     "address": "0xE8B201BE5357c07F0Aa58693F98FB048323777f9",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xE8B201BE5357c07F0Aa58693F98FB048323777f9/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/34593.png",
     "chainId": 42161,
     "symbol": "BLADE",
     "type": "ERC-20"
@@ -2503,8 +2503,8 @@
     "name": "WERC",
     "asset": "WERC",
     "address": "0x17d805a3f817e0e4E4d46c59d7c155bD907D8333",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x17d805a3f817e0e4E4d46c59d7c155bD907D8333/logo.png",
+    "decimals": 0,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/38764.png",
     "chainId": 42161,
     "symbol": "WERC",
     "type": "ERC-20"
@@ -2514,7 +2514,7 @@
     "asset": "WorldBrain",
     "address": "0xE0A87BE0e45E5790D602F7f8EbD6d15a40083de7",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xE0A87BE0e45E5790D602F7f8EbD6d15a40083de7/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/39202.png",
     "chainId": 42161,
     "symbol": "XBRAIN",
     "type": "ERC-20"
@@ -2524,7 +2524,7 @@
     "asset": "TheStandard Token",
     "address": "0xf5A27E55C748bCDdBfeA5477CB9Ae924f0f7fd2e",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xf5A27E55C748bCDdBfeA5477CB9Ae924f0f7fd2e/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/33450.png",
     "chainId": 42161,
     "symbol": "TST",
     "type": "ERC-20"
@@ -2534,7 +2534,7 @@
     "asset": "IXORAPAD",
     "address": "0x99110990B602DEF65dEB578A55f43793B4894A0a",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x99110990B602DEF65dEB578A55f43793B4894A0a/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/37704.png",
     "chainId": 42161,
     "symbol": "IXORA",
     "type": "ERC-20"
@@ -2544,7 +2544,7 @@
     "asset": "CLUTCH",
     "address": "0x05905af7933f89280aB258919F0dFA056CeD8e43",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x05905af7933f89280aB258919F0dFA056CeD8e43/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/35973.png",
     "chainId": 42161,
     "symbol": "CLUTCH",
     "type": "ERC-20"
@@ -2554,369 +2554,9 @@
     "asset": "iBTC",
     "address": "0x050C24dBf1eEc17babE5fc585F06116A259CC77A",
     "decimals": 8,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x050C24dBf1eEc17babE5fc585F06116A259CC77A/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32716.png",
     "chainId": 42161,
     "symbol": "iBTC",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Linde Tokenized stock (xStock)",
-    "asset": "Wrapped Linde Tokenized stock (xStock)",
-    "address": "0x316fFEa434348c2cB72024e62Ae845770315351E",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x316fFEa434348c2cB72024e62Ae845770315351E/logo.png",
-    "chainId": 42161,
-    "symbol": "WLINX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Coinbase Tokenized stock (xStock)",
-    "asset": "Wrapped Coinbase Tokenized stock (xStock)",
-    "address": "0x3a98E79cDc7D8B2716A8696E25af028E429f11dA",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x3a98E79cDc7D8B2716A8696E25af028E429f11dA/logo.png",
-    "chainId": 42161,
-    "symbol": "WCOINX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Palantir Tokenized stock (xStock)",
-    "asset": "Wrapped Palantir Tokenized stock (xStock)",
-    "address": "0xa3B6Fe1a923585bb828fCFAa460B78EeFD5aE2EC",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xa3B6Fe1a923585bb828fCFAa460B78EeFD5aE2EC/logo.png",
-    "chainId": 42161,
-    "symbol": "WPLTRX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped UnitedHealth Tokenized stock (xStock)",
-    "asset": "Wrapped UnitedHealth Tokenized stock (xStock)",
-    "address": "0xA0412CE46fE877b7f174B82aCD95E70063BbaF2a",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xA0412CE46fE877b7f174B82aCD95E70063BbaF2a/logo.png",
-    "chainId": 42161,
-    "symbol": "WUNHX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "TBLL tokenized ETF (xStock)",
-    "asset": "TBLL tokenized ETF (xStock)",
-    "address": "0x4cbf89ED7Bb30b8a860fa86d3c96E9c72931299b",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x4cbf89ED7Bb30b8a860fa86d3c96E9c72931299b/logo.png",
-    "chainId": 42161,
-    "symbol": "TBLLX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "The Doge NFT",
-    "asset": "The Doge NFT",
-    "address": "0x4425742F1EC8D98779690b5A3A6276Db85Ddc01A",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x4425742F1EC8D98779690b5A3A6276Db85Ddc01A/logo.png",
-    "chainId": 42161,
-    "symbol": "DOG",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Meta Tokenized stock (xStock)",
-    "asset": "Wrapped Meta Tokenized stock (xStock)",
-    "address": "0x4E41a262cAA93C6575d336E0a4eb79f3c67caa06",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x4E41a262cAA93C6575d336E0a4eb79f3c67caa06/logo.png",
-    "chainId": 42161,
-    "symbol": "WMETAX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "DMT",
-    "asset": "DMT",
-    "address": "0x8B0E6f19Ee57089F7649A455D89D7bC6314D04e8",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x8B0E6f19Ee57089F7649A455D89D7bC6314D04e8/logo.png",
-    "chainId": 42161,
-    "symbol": "DMT",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Marvell Tokenized stock (xStock)",
-    "asset": "Wrapped Marvell Tokenized stock (xStock)",
-    "address": "0x0d6fce45796D5c00689c0916b976645a0FF1F0cE",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x0d6fce45796D5c00689c0916b976645a0FF1F0cE/logo.png",
-    "chainId": 42161,
-    "symbol": "WMRVLX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Okcash",
-    "asset": "Okcash",
-    "address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189/logo.png",
-    "chainId": 42161,
-    "symbol": "OK",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Medtronic Tokenized stock (xStock)",
-    "asset": "Wrapped Medtronic Tokenized stock (xStock)",
-    "address": "0x02C1b10e5329c4502469396B2ce9f200E60b4a77",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x02C1b10e5329c4502469396B2ce9f200E60b4a77/logo.png",
-    "chainId": 42161,
-    "symbol": "WMDTX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Walmart Tokenized stock (xStock)",
-    "asset": "Wrapped Walmart Tokenized stock (xStock)",
-    "address": "0xa24D9c43D64c76aCD962003647FD43a85eb44Db8",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xa24D9c43D64c76aCD962003647FD43a85eb44Db8/logo.png",
-    "chainId": 42161,
-    "symbol": "WWMTX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Abbott tokenized stock (xStock)",
-    "asset": "Wrapped Abbott tokenized stock (xStock)",
-    "address": "0xD812B37181Ae89801e4BB3F49E4C1FAF11fC0b57",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xD812B37181Ae89801e4BB3F49E4C1FAF11fC0b57/logo.png",
-    "chainId": 42161,
-    "symbol": "WABTX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped International Business Machines Tokenized stock (xStock)",
-    "asset": "Wrapped International Business Machines Tokenized stock (xStock)",
-    "address": "0xa8F31436FFE4E71f51B2D65b7D5a5c457AE2000f",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xa8F31436FFE4E71f51B2D65b7D5a5c457AE2000f/logo.png",
-    "chainId": 42161,
-    "symbol": "WIBMX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "VelaToken",
-    "asset": "VelaToken",
-    "address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x088cd8f5eF3652623c22D48b1605DCfE860Cd704/logo.png",
-    "chainId": 42161,
-    "symbol": "VELA",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Eli Lilly Tokenized stock (xStock)",
-    "asset": "Wrapped Eli Lilly Tokenized stock (xStock)",
-    "address": "0x3644971A7E971f60e707F7E8716cCaC5a0461290",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x3644971A7E971f60e707F7E8716cCaC5a0461290/logo.png",
-    "chainId": 42161,
-    "symbol": "WLLYX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Walmart tokenized stock (xStock)",
-    "asset": "Walmart tokenized stock (xStock)",
-    "address": "0x7AEfc9965699fBea943e03264d96e50CD4A97b21",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x7AEfc9965699fBea943e03264d96e50CD4A97b21/logo.png",
-    "chainId": 42161,
-    "symbol": "WMTX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Mastercard Tokenized stock (xStock)",
-    "asset": "Wrapped Mastercard Tokenized stock (xStock)",
-    "address": "0x5b32624f352d2FC6cC70889967A143ba1814f82b",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x5b32624f352d2FC6cC70889967A143ba1814f82b/logo.png",
-    "chainId": 42161,
-    "symbol": "WMAX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Robinhood Tokenized stock (xStock)",
-    "asset": "Wrapped Robinhood Tokenized stock (xStock)",
-    "address": "0x953707d7A1cB30cc5C636bDA8EaeBe410341eB14",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x953707d7A1cB30cc5C636bDA8EaeBe410341eB14/logo.png",
-    "chainId": 42161,
-    "symbol": "WHOODX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Lumoz",
-    "asset": "Lumoz",
-    "address": "0xE16e2548A576ad448FB014bBE85284D7f3542dF5",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xE16e2548A576ad448FB014bBE85284D7f3542dF5/logo.png",
-    "chainId": 42161,
-    "symbol": "MOZ",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Peapods",
-    "asset": "Peapods",
-    "address": "0x02f92800F57BCD74066F5709F1Daa1A4302Df875",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x02f92800F57BCD74066F5709F1Daa1A4302Df875/logo.png",
-    "chainId": 42161,
-    "symbol": "PEAS",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Danaher Tokenized stock (xStock)",
-    "asset": "Wrapped Danaher Tokenized stock (xStock)",
-    "address": "0x6c7AD1886a6Da37766fED060d5F08fF43285DcdD",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6c7AD1886a6Da37766fED060d5F08fF43285DcdD/logo.png",
-    "chainId": 42161,
-    "symbol": "WDHRX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Mozaic",
-    "asset": "Mozaic",
-    "address": "0x20547341E58fB558637FA15379C92e11F7b7F710",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x20547341E58fB558637FA15379C92e11F7b7F710/logo.png",
-    "chainId": 42161,
-    "symbol": "MOZ",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Equation",
-    "asset": "Equation",
-    "address": "0x87AAfFdF26c6885f6010219208D5B161ec7609c0",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x87AAfFdF26c6885f6010219208D5B161ec7609c0/logo.png",
-    "chainId": 42161,
-    "symbol": "EQU",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Arbitrove Governance Token",
-    "asset": "Arbitrove Governance Token",
-    "address": "0x982239D38Af50B0168dA33346d85Fb12929c4c07",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x982239D38Af50B0168dA33346d85Fb12929c4c07/logo.png",
-    "chainId": 42161,
-    "symbol": "TROVE",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped AppLovin Tokenized stock (xStock)",
-    "asset": "Wrapped AppLovin Tokenized stock (xStock)",
-    "address": "0xd17E483364D849e3B3A52464bb2CA56626EDfc31",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xd17E483364D849e3B3A52464bb2CA56626EDfc31/logo.png",
-    "chainId": 42161,
-    "symbol": "WAPPX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped NVIDIA Tokenized stock (xStock)",
-    "asset": "Wrapped NVIDIA Tokenized stock (xStock)",
-    "address": "0x93E62845C1DD5822EbC807ab71A5Fb750DecD15A",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x93E62845C1DD5822EbC807ab71A5Fb750DecD15A/logo.png",
-    "chainId": 42161,
-    "symbol": "WNVDAX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped PepsiCo Tokenized stock (xStock)",
-    "asset": "Wrapped PepsiCo Tokenized stock (xStock)",
-    "address": "0xA00A5538708b5aca7045F2ca15104707965bac94",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xA00A5538708b5aca7045F2ca15104707965bac94/logo.png",
-    "chainId": 42161,
-    "symbol": "WPEPX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "poor guy",
-    "asset": "poor guy",
-    "address": "0x6fD58f5a2F3468e35fEb098b5F59F04157002407",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6fD58f5a2F3468e35fEb098b5F59F04157002407/logo.png",
-    "chainId": 42161,
-    "symbol": "pogai",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Netflix Tokenized stock (xStock)",
-    "asset": "Wrapped Netflix Tokenized stock (xStock)",
-    "address": "0xfE0D2545f9E7f3678CB35Ed3CDf70488C5570D11",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xfE0D2545f9E7f3678CB35Ed3CDf70488C5570D11/logo.png",
-    "chainId": 42161,
-    "symbol": "WNFLXX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Kinto",
-    "asset": "Kinto",
-    "address": "0x010700AB046Dd8e92b0e3587842080Df36364ed3",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x010700AB046Dd8e92b0e3587842080Df36364ed3/logo.png",
-    "chainId": 42161,
-    "symbol": "K",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped MicroStrategy Tokenized stock (xStock)",
-    "asset": "Wrapped MicroStrategy Tokenized stock (xStock)",
-    "address": "0x266E5923F6118F8b340cA5a23AE7f71897361476",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x266E5923F6118F8b340cA5a23AE7f71897361476/logo.png",
-    "chainId": 42161,
-    "symbol": "WMSTRX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Exxon Mobil Tokenized stock (xStock)",
-    "asset": "Wrapped Exxon Mobil Tokenized stock (xStock)",
-    "address": "0x448bC811F60eac772775dD53421380E8D4DC4338",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x448bC811F60eac772775dD53421380E8D4DC4338/logo.png",
-    "chainId": 42161,
-    "symbol": "WXOMX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Accenture Tokenized stock (xStock)",
-    "asset": "Wrapped Accenture Tokenized stock (xStock)",
-    "address": "0xc262Bea18cb810Cc7715EE48fe3cbD3D79B4aFe1",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xc262Bea18cb810Cc7715EE48fe3cbD3D79B4aFe1/logo.png",
-    "chainId": 42161,
-    "symbol": "WACNX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Merck Tokenized stock (xStock)",
-    "asset": "Wrapped Merck Tokenized stock (xStock)",
-    "address": "0x4728E48c2C201E32fe210AaB68A71E419FEAc74a",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x4728E48c2C201E32fe210AaB68A71E419FEAc74a/logo.png",
-    "chainId": 42161,
-    "symbol": "WMRKX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Johnson & Johnson Tokenized stock (xStock)",
-    "asset": "Wrapped Johnson & Johnson Tokenized stock (xStock)",
-    "address": "0xcdB53A7cBa9Ec6d55dfE8f58bd6772826722D7BD",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xcdB53A7cBa9Ec6d55dfE8f58bd6772826722D7BD/logo.png",
-    "chainId": 42161,
-    "symbol": "WJNJX",
     "type": "ERC-20"
   },
   {
@@ -2930,23 +2570,23 @@
     "type": "ERC-20"
   },
   {
-    "name": "Aluna Token",
-    "asset": "Aluna Token",
-    "address": "0x9b3fa2A7C3EB36d048A5d38d81E7fAFC6bc47B25",
+    "name": "Wrapped Salesforce Tokenized stock (xStock)",
+    "asset": "Wrapped Salesforce Tokenized stock (xStock)",
+    "address": "0xc6B6B8D50A6673C04C495e30B411da5A7adF39f5",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x9b3fa2A7C3EB36d048A5d38d81E7fAFC6bc47B25/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xc6B6B8D50A6673C04C495e30B411da5A7adF39f5/logo.png",
     "chainId": 42161,
-    "symbol": "ALN",
+    "symbol": "WCRMX",
     "type": "ERC-20"
   },
   {
-    "name": "Camelot",
-    "asset": "Camelot",
-    "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+    "name": "Wrapped Microsoft Tokenized stock (xStock)",
+    "asset": "Wrapped Microsoft Tokenized stock (xStock)",
+    "address": "0x63Ad27614231767C8C489745B9145272De50D09b",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x63Ad27614231767C8C489745B9145272De50D09b/logo.png",
     "chainId": 42161,
-    "symbol": "GRAIL",
+    "symbol": "WMSFTX",
     "type": "ERC-20"
   },
   {
@@ -2960,13 +2600,33 @@
     "type": "ERC-20"
   },
   {
-    "name": "Wrapped Thermo Fisher Tokenized stock (xStock)",
-    "asset": "Wrapped Thermo Fisher Tokenized stock (xStock)",
-    "address": "0x89EA0284308dEEF33a22abd7ea33888b4349108C",
+    "name": "Camelot",
+    "asset": "Camelot",
+    "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x89EA0284308dEEF33a22abd7ea33888b4349108C/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8/logo.png",
     "chainId": 42161,
-    "symbol": "WTMOX",
+    "symbol": "GRAIL",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Real World Assetss",
+    "asset": "Real World Assetss",
+    "address": "0x1F2b426417663Ac76eB92149a037753a45969F31",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x1F2b426417663Ac76eB92149a037753a45969F31/logo.png",
+    "chainId": 42161,
+    "symbol": "RWAS",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Lift Dollar",
+    "asset": "Lift Dollar",
+    "address": "0x7F850b0aB1988Dd17B69aC564c1E2857949e4dEe",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x7F850b0aB1988Dd17B69aC564c1E2857949e4dEe/logo.png",
+    "chainId": 42161,
+    "symbol": "USDL",
     "type": "ERC-20"
   },
   {
@@ -2980,23 +2640,273 @@
     "type": "ERC-20"
   },
   {
-    "name": "Mozaic",
-    "asset": "Mozaic",
-    "address": "0x20547341E58fB558637FA15379C92e11F7b7F710",
+    "name": "Aluna Token",
+    "asset": "Aluna Token",
+    "address": "0x9b3fa2A7C3EB36d048A5d38d81E7fAFC6bc47B25",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x20547341E58fB558637FA15379C92e11F7b7F710/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x9b3fa2A7C3EB36d048A5d38d81E7fAFC6bc47B25/logo.png",
     "chainId": 42161,
-    "symbol": "MOZ",
+    "symbol": "ALN",
     "type": "ERC-20"
   },
   {
-    "name": "Equation",
-    "asset": "Equation",
-    "address": "0x87AAfFdF26c6885f6010219208D5B161ec7609c0",
+    "name": "Wrapped JPMorgan Chase Tokenized stock (xStock)",
+    "asset": "Wrapped JPMorgan Chase Tokenized stock (xStock)",
+    "address": "0xaB635f839f81A12dC8Db8Ab31006af14E26292fE",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x87AAfFdF26c6885f6010219208D5B161ec7609c0/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xaB635f839f81A12dC8Db8Ab31006af14E26292fE/logo.png",
     "chainId": 42161,
-    "symbol": "EQU",
+    "symbol": "WJPMX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Goldman Sachs Tokenized stock (xStock)",
+    "asset": "Wrapped Goldman Sachs Tokenized stock (xStock)",
+    "address": "0x6eEd78e2780d82BE4E37d9937C27Bcf32C8DA072",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6eEd78e2780d82BE4E37d9937C27Bcf32C8DA072/logo.png",
+    "chainId": 42161,
+    "symbol": "WGSX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Kortana",
+    "asset": "Kortana",
+    "address": "0x50E401255275dc405A99d3281f396cCa681eEa9d",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x50E401255275dc405A99d3281f396cCa681eEa9d/logo.png",
+    "chainId": 42161,
+    "symbol": "KORA",
+    "type": "ERC-20"
+  },
+  {
+    "name": "BullBear AI",
+    "asset": "BullBear AI",
+    "address": "0xB9AF4762c039D63e30039F1712dfaB77026408c7",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xB9AF4762c039D63e30039F1712dfaB77026408c7/logo.png",
+    "chainId": 42161,
+    "symbol": "AIBB",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Tesla Tokenized stock (xStock)",
+    "asset": "Wrapped Tesla Tokenized stock (xStock)",
+    "address": "0x43680aBF18cf54898Be84C6eF78237CFBD441883",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x43680aBF18cf54898Be84C6eF78237CFBD441883/logo.png",
+    "chainId": 42161,
+    "symbol": "WTSLAX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "SpunkySDX",
+    "asset": "SpunkySDX",
+    "address": "0xDb40357fBC1eb1038C5dF94c1cD7B7Fd3F434480",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xDb40357fBC1eb1038C5dF94c1cD7B7Fd3F434480/logo.png",
+    "chainId": 42161,
+    "symbol": "SSDX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Thermo Fisher Tokenized stock (xStock)",
+    "asset": "Wrapped Thermo Fisher Tokenized stock (xStock)",
+    "address": "0x89EA0284308dEEF33a22abd7ea33888b4349108C",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x89EA0284308dEEF33a22abd7ea33888b4349108C/logo.png",
+    "chainId": 42161,
+    "symbol": "WTMOX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Gamestop Tokenized stock (xStock)",
+    "asset": "Wrapped Gamestop Tokenized stock (xStock)",
+    "address": "0xb2f6ED0ED3eEb22bEF7A648794FFC19b8aF3761C",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xb2f6ED0ED3eEb22bEF7A648794FFC19b8aF3761C/logo.png",
+    "chainId": 42161,
+    "symbol": "WGMEX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Dopex Governance Token",
+    "asset": "Dopex Governance Token",
+    "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55/logo.png",
+    "chainId": 42161,
+    "symbol": "DPX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Magic Internet Money",
+    "asset": "Magic Internet Money",
+    "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A/logo.png",
+    "chainId": 42161,
+    "symbol": "MIM",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Johnson & Johnson Tokenized stock (xStock)",
+    "asset": "Wrapped Johnson & Johnson Tokenized stock (xStock)",
+    "address": "0xcdB53A7cBa9Ec6d55dfE8f58bd6772826722D7BD",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xcdB53A7cBa9Ec6d55dfE8f58bd6772826722D7BD/logo.png",
+    "chainId": 42161,
+    "symbol": "WJNJX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "The Doge NFT",
+    "asset": "The Doge NFT",
+    "address": "0x4425742F1EC8D98779690b5A3A6276Db85Ddc01A",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x4425742F1EC8D98779690b5A3A6276Db85Ddc01A/logo.png",
+    "chainId": 42161,
+    "symbol": "DOG",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped UnitedHealth Tokenized stock (xStock)",
+    "asset": "Wrapped UnitedHealth Tokenized stock (xStock)",
+    "address": "0xA0412CE46fE877b7f174B82aCD95E70063BbaF2a",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xA0412CE46fE877b7f174B82aCD95E70063BbaF2a/logo.png",
+    "chainId": 42161,
+    "symbol": "WUNHX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Meta Tokenized stock (xStock)",
+    "asset": "Wrapped Meta Tokenized stock (xStock)",
+    "address": "0x4E41a262cAA93C6575d336E0a4eb79f3c67caa06",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x4E41a262cAA93C6575d336E0a4eb79f3c67caa06/logo.png",
+    "chainId": 42161,
+    "symbol": "WMETAX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Marvell Tokenized stock (xStock)",
+    "asset": "Wrapped Marvell Tokenized stock (xStock)",
+    "address": "0x0d6fce45796D5c00689c0916b976645a0FF1F0cE",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x0d6fce45796D5c00689c0916b976645a0FF1F0cE/logo.png",
+    "chainId": 42161,
+    "symbol": "WMRVLX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Coinbase Tokenized stock (xStock)",
+    "asset": "Wrapped Coinbase Tokenized stock (xStock)",
+    "address": "0x3a98E79cDc7D8B2716A8696E25af028E429f11dA",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x3a98E79cDc7D8B2716A8696E25af028E429f11dA/logo.png",
+    "chainId": 42161,
+    "symbol": "WCOINX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Abbott tokenized stock (xStock)",
+    "asset": "Wrapped Abbott tokenized stock (xStock)",
+    "address": "0xD812B37181Ae89801e4BB3F49E4C1FAF11fC0b57",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xD812B37181Ae89801e4BB3F49E4C1FAF11fC0b57/logo.png",
+    "chainId": 42161,
+    "symbol": "WABTX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "VelaToken",
+    "asset": "VelaToken",
+    "address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x088cd8f5eF3652623c22D48b1605DCfE860Cd704/logo.png",
+    "chainId": 42161,
+    "symbol": "VELA",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Palantir Tokenized stock (xStock)",
+    "asset": "Wrapped Palantir Tokenized stock (xStock)",
+    "address": "0xa3B6Fe1a923585bb828fCFAa460B78EeFD5aE2EC",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xa3B6Fe1a923585bb828fCFAa460B78EeFD5aE2EC/logo.png",
+    "chainId": 42161,
+    "symbol": "WPLTRX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Walmart Tokenized stock (xStock)",
+    "asset": "Wrapped Walmart Tokenized stock (xStock)",
+    "address": "0xa24D9c43D64c76aCD962003647FD43a85eb44Db8",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xa24D9c43D64c76aCD962003647FD43a85eb44Db8/logo.png",
+    "chainId": 42161,
+    "symbol": "WWMTX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Linde Tokenized stock (xStock)",
+    "asset": "Wrapped Linde Tokenized stock (xStock)",
+    "address": "0x316fFEa434348c2cB72024e62Ae845770315351E",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x316fFEa434348c2cB72024e62Ae845770315351E/logo.png",
+    "chainId": 42161,
+    "symbol": "WLINX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Medtronic Tokenized stock (xStock)",
+    "asset": "Wrapped Medtronic Tokenized stock (xStock)",
+    "address": "0x02C1b10e5329c4502469396B2ce9f200E60b4a77",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x02C1b10e5329c4502469396B2ce9f200E60b4a77/logo.png",
+    "chainId": 42161,
+    "symbol": "WMDTX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "TBLL tokenized ETF (xStock)",
+    "asset": "TBLL tokenized ETF (xStock)",
+    "address": "0x4cbf89ED7Bb30b8a860fa86d3c96E9c72931299b",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x4cbf89ED7Bb30b8a860fa86d3c96E9c72931299b/logo.png",
+    "chainId": 42161,
+    "symbol": "TBLLX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Okcash",
+    "asset": "Okcash",
+    "address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189/logo.png",
+    "chainId": 42161,
+    "symbol": "OK",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped International Business Machines Tokenized stock (xStock)",
+    "asset": "Wrapped International Business Machines Tokenized stock (xStock)",
+    "address": "0xa8F31436FFE4E71f51B2D65b7D5a5c457AE2000f",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xa8F31436FFE4E71f51B2D65b7D5a5c457AE2000f/logo.png",
+    "chainId": 42161,
+    "symbol": "WIBMX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "DMT",
+    "asset": "DMT",
+    "address": "0x8B0E6f19Ee57089F7649A455D89D7bC6314D04e8",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x8B0E6f19Ee57089F7649A455D89D7bC6314D04e8/logo.png",
+    "chainId": 42161,
+    "symbol": "DMT",
     "type": "ERC-20"
   },
   {
@@ -3010,63 +2920,13 @@
     "type": "ERC-20"
   },
   {
-    "name": "Wrapped AppLovin Tokenized stock (xStock)",
-    "asset": "Wrapped AppLovin Tokenized stock (xStock)",
-    "address": "0xd17E483364D849e3B3A52464bb2CA56626EDfc31",
+    "name": "Wrapped Robinhood Tokenized stock (xStock)",
+    "asset": "Wrapped Robinhood Tokenized stock (xStock)",
+    "address": "0x953707d7A1cB30cc5C636bDA8EaeBe410341eB14",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xd17E483364D849e3B3A52464bb2CA56626EDfc31/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x953707d7A1cB30cc5C636bDA8EaeBe410341eB14/logo.png",
     "chainId": 42161,
-    "symbol": "WAPPX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped NVIDIA Tokenized stock (xStock)",
-    "asset": "Wrapped NVIDIA Tokenized stock (xStock)",
-    "address": "0x93E62845C1DD5822EbC807ab71A5Fb750DecD15A",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x93E62845C1DD5822EbC807ab71A5Fb750DecD15A/logo.png",
-    "chainId": 42161,
-    "symbol": "WNVDAX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped PepsiCo Tokenized stock (xStock)",
-    "asset": "Wrapped PepsiCo Tokenized stock (xStock)",
-    "address": "0xA00A5538708b5aca7045F2ca15104707965bac94",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xA00A5538708b5aca7045F2ca15104707965bac94/logo.png",
-    "chainId": 42161,
-    "symbol": "WPEPX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "poor guy",
-    "asset": "poor guy",
-    "address": "0x6fD58f5a2F3468e35fEb098b5F59F04157002407",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6fD58f5a2F3468e35fEb098b5F59F04157002407/logo.png",
-    "chainId": 42161,
-    "symbol": "pogai",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Netflix Tokenized stock (xStock)",
-    "asset": "Wrapped Netflix Tokenized stock (xStock)",
-    "address": "0xfE0D2545f9E7f3678CB35Ed3CDf70488C5570D11",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xfE0D2545f9E7f3678CB35Ed3CDf70488C5570D11/logo.png",
-    "chainId": 42161,
-    "symbol": "WNFLXX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Kinto",
-    "asset": "Kinto",
-    "address": "0x010700AB046Dd8e92b0e3587842080Df36364ed3",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x010700AB046Dd8e92b0e3587842080Df36364ed3/logo.png",
-    "chainId": 42161,
-    "symbol": "K",
+    "symbol": "WHOODX",
     "type": "ERC-20"
   },
   {
@@ -3080,103 +2940,173 @@
     "type": "ERC-20"
   },
   {
-    "name": "Wrapped Exxon Mobil Tokenized stock (xStock)",
-    "asset": "Wrapped Exxon Mobil Tokenized stock (xStock)",
-    "address": "0x448bC811F60eac772775dD53421380E8D4DC4338",
+    "name": "Wrapped Netflix Tokenized stock (xStock)",
+    "asset": "Wrapped Netflix Tokenized stock (xStock)",
+    "address": "0xfE0D2545f9E7f3678CB35Ed3CDf70488C5570D11",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x448bC811F60eac772775dD53421380E8D4DC4338/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xfE0D2545f9E7f3678CB35Ed3CDf70488C5570D11/logo.png",
     "chainId": 42161,
-    "symbol": "WXOMX",
+    "symbol": "WNFLXX",
     "type": "ERC-20"
   },
   {
-    "name": "Wrapped Accenture Tokenized stock (xStock)",
-    "asset": "Wrapped Accenture Tokenized stock (xStock)",
-    "address": "0xc262Bea18cb810Cc7715EE48fe3cbD3D79B4aFe1",
+    "name": "Wrapped PepsiCo Tokenized stock (xStock)",
+    "asset": "Wrapped PepsiCo Tokenized stock (xStock)",
+    "address": "0xA00A5538708b5aca7045F2ca15104707965bac94",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xc262Bea18cb810Cc7715EE48fe3cbD3D79B4aFe1/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xA00A5538708b5aca7045F2ca15104707965bac94/logo.png",
     "chainId": 42161,
-    "symbol": "WACNX",
+    "symbol": "WPEPX",
     "type": "ERC-20"
   },
   {
-    "name": "Wrapped Merck Tokenized stock (xStock)",
-    "asset": "Wrapped Merck Tokenized stock (xStock)",
-    "address": "0x4728E48c2C201E32fe210AaB68A71E419FEAc74a",
+    "name": "Equation",
+    "asset": "Equation",
+    "address": "0x87AAfFdF26c6885f6010219208D5B161ec7609c0",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x4728E48c2C201E32fe210AaB68A71E419FEAc74a/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x87AAfFdF26c6885f6010219208D5B161ec7609c0/logo.png",
     "chainId": 42161,
-    "symbol": "WMRKX",
+    "symbol": "EQU",
     "type": "ERC-20"
   },
   {
-    "name": "Game7",
-    "asset": "Game7",
-    "address": "0xF18e4466F26B4cA55bbAb890b314a54976E45B17",
+    "name": "Wrapped Mastercard Tokenized stock (xStock)",
+    "asset": "Wrapped Mastercard Tokenized stock (xStock)",
+    "address": "0x5b32624f352d2FC6cC70889967A143ba1814f82b",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xF18e4466F26B4cA55bbAb890b314a54976E45B17/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x5b32624f352d2FC6cC70889967A143ba1814f82b/logo.png",
     "chainId": 42161,
-    "symbol": "G7",
+    "symbol": "WMAX",
     "type": "ERC-20"
   },
   {
-    "name": "Wrapped Intel Tokenized stock (xStock)",
-    "asset": "Wrapped Intel Tokenized stock (xStock)",
-    "address": "0x6A2a68Ca7FC793D8CEa36326a6Ec1eF7AC3D9742",
+    "name": "Walmart tokenized stock (xStock)",
+    "asset": "Walmart tokenized stock (xStock)",
+    "address": "0x7AEfc9965699fBea943e03264d96e50CD4A97b21",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6A2a68Ca7FC793D8CEa36326a6Ec1eF7AC3D9742/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x7AEfc9965699fBea943e03264d96e50CD4A97b21/logo.png",
     "chainId": 42161,
-    "symbol": "WINTCX",
+    "symbol": "WMTX",
     "type": "ERC-20"
   },
   {
-    "name": "Wrapped Philip Morris Tokenized stock (xStock)",
-    "asset": "Wrapped Philip Morris Tokenized stock (xStock)",
-    "address": "0x7C2e00e6b0d519a8C492d20c2524342A4398FF34",
+    "name": "Wrapped MicroStrategy Tokenized stock (xStock)",
+    "asset": "Wrapped MicroStrategy Tokenized stock (xStock)",
+    "address": "0x266E5923F6118F8b340cA5a23AE7f71897361476",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x7C2e00e6b0d519a8C492d20c2524342A4398FF34/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x266E5923F6118F8b340cA5a23AE7f71897361476/logo.png",
     "chainId": 42161,
-    "symbol": "WPMX",
+    "symbol": "WMSTRX",
     "type": "ERC-20"
   },
   {
-    "name": "Wrapped Amazon Tokenized stock (xStock)",
-    "asset": "Wrapped Amazon Tokenized stock (xStock)",
-    "address": "0xac85d37acbadCa37545E21ab0fB991bcE8c1187C",
+    "name": "Mozaic",
+    "asset": "Mozaic",
+    "address": "0x20547341E58fB558637FA15379C92e11F7b7F710",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xac85d37acbadCa37545E21ab0fB991bcE8c1187C/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x20547341E58fB558637FA15379C92e11F7b7F710/logo.png",
     "chainId": 42161,
-    "symbol": "WAMZNX",
+    "symbol": "MOZ",
     "type": "ERC-20"
   },
   {
-    "name": "Altranium",
-    "asset": "Altranium",
-    "address": "0xb9600c807f069D27f92a2a65b48F12Eeef7e2007",
+    "name": "Wrapped Mastercard Tokenized stock (xStock)",
+    "asset": "Wrapped Mastercard Tokenized stock (xStock)",
+    "address": "0x5b32624f352d2FC6cC70889967A143ba1814f82b",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xb9600c807f069D27f92a2a65b48F12Eeef7e2007/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x5b32624f352d2FC6cC70889967A143ba1814f82b/logo.png",
     "chainId": 42161,
-    "symbol": "ALTR",
+    "symbol": "WMAX",
     "type": "ERC-20"
   },
   {
-    "name": "Wrapped Pfizer Tokenized stock (xStock)",
-    "asset": "Wrapped Pfizer Tokenized stock (xStock)",
-    "address": "0x4E6894c3481B3A45393ce8ac9552945Ad50A3758",
+    "name": "Wrapped Danaher Tokenized stock (xStock)",
+    "asset": "Wrapped Danaher Tokenized stock (xStock)",
+    "address": "0x6c7AD1886a6Da37766fED060d5F08fF43285DcdD",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x4E6894c3481B3A45393ce8ac9552945Ad50A3758/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6c7AD1886a6Da37766fED060d5F08fF43285DcdD/logo.png",
     "chainId": 42161,
-    "symbol": "WPFEX",
+    "symbol": "WDHRX",
     "type": "ERC-20"
   },
   {
-    "name": "Fluidity",
-    "asset": "Fluidity",
-    "address": "0x000F1720A263f96532D1ac2bb9CDC12b72C6f386",
-    "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x000F1720A263f96532D1ac2bb9CDC12b72C6f386/logo.png",
+    "name": "Wrapped NVIDIA Tokenized stock (xStock)",
+    "asset": "Wrapped NVIDIA Tokenized stock (xStock)",
+    "address": "0x93E62845C1DD5822EbC807ab71A5Fb750DecD15A",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x93E62845C1DD5822EbC807ab71A5Fb750DecD15A/logo.png",
     "chainId": 42161,
-    "symbol": "FLY",
+    "symbol": "WNVDAX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Equation",
+    "asset": "Equation",
+    "address": "0x87AAfFdF26c6885f6010219208D5B161ec7609c0",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x87AAfFdF26c6885f6010219208D5B161ec7609c0/logo.png",
+    "chainId": 42161,
+    "symbol": "EQU",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped AppLovin Tokenized stock (xStock)",
+    "asset": "Wrapped AppLovin Tokenized stock (xStock)",
+    "address": "0xd17E483364D849e3B3A52464bb2CA56626EDfc31",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xd17E483364D849e3B3A52464bb2CA56626EDfc31/logo.png",
+    "chainId": 42161,
+    "symbol": "WAPPX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Lumoz",
+    "asset": "Lumoz",
+    "address": "0xE16e2548A576ad448FB014bBE85284D7f3542dF5",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xE16e2548A576ad448FB014bBE85284D7f3542dF5/logo.png",
+    "chainId": 42161,
+    "symbol": "MOZ",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Eli Lilly Tokenized stock (xStock)",
+    "asset": "Wrapped Eli Lilly Tokenized stock (xStock)",
+    "address": "0x3644971A7E971f60e707F7E8716cCaC5a0461290",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x3644971A7E971f60e707F7E8716cCaC5a0461290/logo.png",
+    "chainId": 42161,
+    "symbol": "WLLYX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "poor guy",
+    "asset": "poor guy",
+    "address": "0x6fD58f5a2F3468e35fEb098b5F59F04157002407",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6fD58f5a2F3468e35fEb098b5F59F04157002407/logo.png",
+    "chainId": 42161,
+    "symbol": "pogai",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Kinto",
+    "asset": "Kinto",
+    "address": "0x010700AB046Dd8e92b0e3587842080Df36364ed3",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x010700AB046Dd8e92b0e3587842080Df36364ed3/logo.png",
+    "chainId": 42161,
+    "symbol": "K",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Arbitrove Governance Token",
+    "asset": "Arbitrove Governance Token",
+    "address": "0x982239D38Af50B0168dA33346d85Fb12929c4c07",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x982239D38Af50B0168dA33346d85Fb12929c4c07/logo.png",
+    "chainId": 42161,
+    "symbol": "TROVE",
     "type": "ERC-20"
   },
   {
@@ -3190,13 +3120,53 @@
     "type": "ERC-20"
   },
   {
-    "name": "BPET",
-    "asset": "BPET",
-    "address": "0x6dAF586B7370B14163171544fca24AbcC0862ac5",
+    "name": "Wrapped Chevron Tokenized stock (xStock)",
+    "asset": "Wrapped Chevron Tokenized stock (xStock)",
+    "address": "0x7F88888b7A81546a036554Aa67a289Ea428b20d4",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6dAF586B7370B14163171544fca24AbcC0862ac5/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x7F88888b7A81546a036554Aa67a289Ea428b20d4/logo.png",
     "chainId": 42161,
-    "symbol": "BPET",
+    "symbol": "WCVXX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Fluidity",
+    "asset": "Fluidity",
+    "address": "0x000F1720A263f96532D1ac2bb9CDC12b72C6f386",
+    "decimals": 6,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x000F1720A263f96532D1ac2bb9CDC12b72C6f386/logo.png",
+    "chainId": 42161,
+    "symbol": "FLY",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Philip Morris Tokenized stock (xStock)",
+    "asset": "Wrapped Philip Morris Tokenized stock (xStock)",
+    "address": "0x7C2e00e6b0d519a8C492d20c2524342A4398FF34",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x7C2e00e6b0d519a8C492d20c2524342A4398FF34/logo.png",
+    "chainId": 42161,
+    "symbol": "WPMX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Comcast Tokenized stock (xStock)",
+    "asset": "Wrapped Comcast Tokenized stock (xStock)",
+    "address": "0xd1A01e3F9c7565e88b1CF2413ba0a0E671e57b33",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xd1A01e3F9c7565e88b1CF2413ba0a0E671e57b33/logo.png",
+    "chainId": 42161,
+    "symbol": "WCMCSAX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Amazon Tokenized stock (xStock)",
+    "asset": "Wrapped Amazon Tokenized stock (xStock)",
+    "address": "0xac85d37acbadCa37545E21ab0fB991bcE8c1187C",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xac85d37acbadCa37545E21ab0fB991bcE8c1187C/logo.png",
+    "chainId": 42161,
+    "symbol": "WAMZNX",
     "type": "ERC-20"
   },
   {
@@ -3220,63 +3190,53 @@
     "type": "ERC-20"
   },
   {
-    "name": "Wrapped Chevron Tokenized stock (xStock)",
-    "asset": "Wrapped Chevron Tokenized stock (xStock)",
-    "address": "0x7F88888b7A81546a036554Aa67a289Ea428b20d4",
+    "name": "Game7",
+    "asset": "Game7",
+    "address": "0xF18e4466F26B4cA55bbAb890b314a54976E45B17",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x7F88888b7A81546a036554Aa67a289Ea428b20d4/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xF18e4466F26B4cA55bbAb890b314a54976E45B17/logo.png",
     "chainId": 42161,
-    "symbol": "WCVXX",
+    "symbol": "G7",
     "type": "ERC-20"
   },
   {
-    "name": "Wrapped Comcast Tokenized stock (xStock)",
-    "asset": "Wrapped Comcast Tokenized stock (xStock)",
-    "address": "0xd1A01e3F9c7565e88b1CF2413ba0a0E671e57b33",
+    "name": "Wrapped Pfizer Tokenized stock (xStock)",
+    "asset": "Wrapped Pfizer Tokenized stock (xStock)",
+    "address": "0x4E6894c3481B3A45393ce8ac9552945Ad50A3758",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xd1A01e3F9c7565e88b1CF2413ba0a0E671e57b33/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x4E6894c3481B3A45393ce8ac9552945Ad50A3758/logo.png",
     "chainId": 42161,
-    "symbol": "WCMCSAX",
+    "symbol": "WPFEX",
     "type": "ERC-20"
   },
   {
-    "name": "Wrapped Procter & Gamble Tokenized stock (xStock)",
-    "asset": "Wrapped Procter & Gamble Tokenized stock (xStock)",
-    "address": "0x0afC19943fA98E9E9E90Fc4ab4d4D3c13E162232",
+    "name": "Wrapped Intel Tokenized stock (xStock)",
+    "asset": "Wrapped Intel Tokenized stock (xStock)",
+    "address": "0x6A2a68Ca7FC793D8CEa36326a6Ec1eF7AC3D9742",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x0afC19943fA98E9E9E90Fc4ab4d4D3c13E162232/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6A2a68Ca7FC793D8CEa36326a6Ec1eF7AC3D9742/logo.png",
     "chainId": 42161,
-    "symbol": "WPGX",
+    "symbol": "WINTCX",
     "type": "ERC-20"
   },
   {
-    "name": "Wrapped McDonald's Tokenized stock (xStock)",
-    "asset": "Wrapped McDonald's Tokenized stock (xStock)",
-    "address": "0x1717D8Be2Bcb27f4E8f36c817088Fa6a2c0b3B30",
+    "name": "Altranium",
+    "asset": "Altranium",
+    "address": "0xb9600c807f069D27f92a2a65b48F12Eeef7e2007",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x1717D8Be2Bcb27f4E8f36c817088Fa6a2c0b3B30/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xb9600c807f069D27f92a2a65b48F12Eeef7e2007/logo.png",
     "chainId": 42161,
-    "symbol": "WMCDX",
+    "symbol": "ALTR",
     "type": "ERC-20"
   },
   {
-    "name": "Wrapped Alphabet Tokenized stock (xStock)",
-    "asset": "Wrapped Alphabet Tokenized stock (xStock)",
-    "address": "0x1630F08370917E79df0B7572395a5e907508bBBc",
+    "name": "BPET",
+    "asset": "BPET",
+    "address": "0x6dAF586B7370B14163171544fca24AbcC0862ac5",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x1630F08370917E79df0B7572395a5e907508bBBc/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6dAF586B7370B14163171544fca24AbcC0862ac5/logo.png",
     "chainId": 42161,
-    "symbol": "WGOOGLX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped AbbVie Tokenized stock (xStock)",
-    "asset": "Wrapped AbbVie Tokenized stock (xStock)",
-    "address": "0x5CC079963Fb70C0f987F65F539E3B61a6EBdf6Db",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x5CC079963Fb70C0f987F65F539E3B61a6EBdf6Db/logo.png",
-    "chainId": 42161,
-    "symbol": "WABBVX",
+    "symbol": "BPET",
     "type": "ERC-20"
   },
   {
@@ -3290,6 +3250,16 @@
     "type": "ERC-20"
   },
   {
+    "name": "Jones DAO",
+    "asset": "Jones DAO",
+    "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x10393c20975cF177a3513071bC110f7962CD67da/logo.png",
+    "chainId": 42161,
+    "symbol": "JONES",
+    "type": "ERC-20"
+  },
+  {
     "name": "Wrapped AstraZeneca Tokenized stock (xStock)",
     "asset": "Wrapped AstraZeneca Tokenized stock (xStock)",
     "address": "0xB908FEAeab7E671dB697d77c3acFD8859E92a4e2",
@@ -3297,6 +3267,26 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xB908FEAeab7E671dB697d77c3acFD8859E92a4e2/logo.png",
     "chainId": 42161,
     "symbol": "WAZNX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Bank of America Tokenized stock (xStock)",
+    "asset": "Wrapped Bank of America Tokenized stock (xStock)",
+    "address": "0xA2b1335256cd663Da89F650180508dd1f0DC3BAa",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xA2b1335256cd663Da89F650180508dd1f0DC3BAa/logo.png",
+    "chainId": 42161,
+    "symbol": "WBACX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped AbbVie Tokenized stock (xStock)",
+    "asset": "Wrapped AbbVie Tokenized stock (xStock)",
+    "address": "0x5CC079963Fb70C0f987F65F539E3B61a6EBdf6Db",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x5CC079963Fb70C0f987F65F539E3B61a6EBdf6Db/logo.png",
+    "chainId": 42161,
+    "symbol": "WABBVX",
     "type": "ERC-20"
   },
   {
@@ -3310,13 +3300,63 @@
     "type": "ERC-20"
   },
   {
-    "name": "Wrapped Bank of America Tokenized stock (xStock)",
-    "asset": "Wrapped Bank of America Tokenized stock (xStock)",
-    "address": "0xA2b1335256cd663Da89F650180508dd1f0DC3BAa",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xA2b1335256cd663Da89F650180508dd1f0DC3BAa/logo.png",
+    "name": "SHARBI",
+    "asset": "SHARBI",
+    "address": "0xaa54e84A3e6e5A80288d2C2f8e36eA5cA3A3Ca30",
+    "decimals": 9,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xaa54e84A3e6e5A80288d2C2f8e36eA5cA3A3Ca30/logo.png",
     "chainId": 42161,
-    "symbol": "WBACX",
+    "symbol": "SHARBI",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped McDonald's Tokenized stock (xStock)",
+    "asset": "Wrapped McDonald's Tokenized stock (xStock)",
+    "address": "0x1717D8Be2Bcb27f4E8f36c817088Fa6a2c0b3B30",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x1717D8Be2Bcb27f4E8f36c817088Fa6a2c0b3B30/logo.png",
+    "chainId": 42161,
+    "symbol": "WMCDX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Oracle Tokenized stock (xStock)",
+    "asset": "Wrapped Oracle Tokenized stock (xStock)",
+    "address": "0x54f34Ceb15313Caaee838F77c1c3C2Fe2E94526A",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x54f34Ceb15313Caaee838F77c1c3C2Fe2E94526A/logo.png",
+    "chainId": 42161,
+    "symbol": "WORCLX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Procter & Gamble Tokenized stock (xStock)",
+    "asset": "Wrapped Procter & Gamble Tokenized stock (xStock)",
+    "address": "0x0afC19943fA98E9E9E90Fc4ab4d4D3c13E162232",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x0afC19943fA98E9E9E90Fc4ab4d4D3c13E162232/logo.png",
+    "chainId": 42161,
+    "symbol": "WPGX",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wall Street Games",
+    "asset": "Wall Street Games",
+    "address": "0xEf04804E1e474D3F9B73184D7ef5D786F3Fce930",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xEf04804E1e474D3F9B73184D7ef5D786F3Fce930/logo.png",
+    "chainId": 42161,
+    "symbol": "WSG",
+    "type": "ERC-20"
+  },
+  {
+    "name": "KAP Games",
+    "asset": "KAP Games",
+    "address": "0x965d00aA7ABC62CA10132e641D08593435aC811d",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x965d00aA7ABC62CA10132e641D08593435aC811d/logo.png",
+    "chainId": 42161,
+    "symbol": "KAP",
     "type": "ERC-20"
   },
   {
@@ -3340,53 +3380,13 @@
     "type": "ERC-20"
   },
   {
-    "name": "KAP Games",
-    "asset": "KAP Games",
-    "address": "0x965d00aA7ABC62CA10132e641D08593435aC811d",
+    "name": "Wrapped Alphabet Tokenized stock (xStock)",
+    "asset": "Wrapped Alphabet Tokenized stock (xStock)",
+    "address": "0x1630F08370917E79df0B7572395a5e907508bBBc",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x965d00aA7ABC62CA10132e641D08593435aC811d/logo.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x1630F08370917E79df0B7572395a5e907508bBBc/logo.png",
     "chainId": 42161,
-    "symbol": "KAP",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Jones DAO",
-    "asset": "Jones DAO",
-    "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x10393c20975cF177a3513071bC110f7962CD67da/logo.png",
-    "chainId": 42161,
-    "symbol": "JONES",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wall Street Games",
-    "asset": "Wall Street Games",
-    "address": "0xEf04804E1e474D3F9B73184D7ef5D786F3Fce930",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xEf04804E1e474D3F9B73184D7ef5D786F3Fce930/logo.png",
-    "chainId": 42161,
-    "symbol": "WSG",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Wrapped Oracle Tokenized stock (xStock)",
-    "asset": "Wrapped Oracle Tokenized stock (xStock)",
-    "address": "0x54f34Ceb15313Caaee838F77c1c3C2Fe2E94526A",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x54f34Ceb15313Caaee838F77c1c3C2Fe2E94526A/logo.png",
-    "chainId": 42161,
-    "symbol": "WORCLX",
-    "type": "ERC-20"
-  },
-  {
-    "name": "SHARBI",
-    "asset": "SHARBI",
-    "address": "0xaa54e84A3e6e5A80288d2C2f8e36eA5cA3A3Ca30",
-    "decimals": 9,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xaa54e84A3e6e5A80288d2C2f8e36eA5cA3A3Ca30/logo.png",
-    "chainId": 42161,
-    "symbol": "SHARBI",
+    "symbol": "WGOOGLX",
     "type": "ERC-20"
   },
   {
@@ -3394,7 +3394,7 @@
     "asset": "Hydranet",
     "address": "0x3404149e9EE6f17Fb41DB1Ce593ee48FBDcD9506",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x3404149e9EE6f17Fb41DB1Ce593ee48FBDcD9506/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/19689.png",
     "chainId": 42161,
     "symbol": "HDN",
     "type": "ERC-20"
@@ -3404,7 +3404,7 @@
     "asset": "OpenWorld",
     "address": "0x58CB98A966F62aA6F2190eB3AA03132A0c3de3D5",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x58CB98A966F62aA6F2190eB3AA03132A0c3de3D5/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/13206.png",
     "chainId": 42161,
     "symbol": "OPEN",
     "type": "ERC-20"
@@ -3414,7 +3414,7 @@
     "asset": "Crypto Unicorns",
     "address": "0x89C49A3fA372920aC23ce757A029e6936c0b8e02",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x89C49A3fA372920aC23ce757A029e6936c0b8e02/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/31074.png",
     "chainId": 42161,
     "symbol": "CU",
     "type": "ERC-20"
@@ -3424,7 +3424,7 @@
     "asset": "Umoja",
     "address": "0x16A500Aec6c37F84447ef04E66c57cfC6254cF92",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x16A500Aec6c37F84447ef04E66c57cfC6254cF92/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/31673.png",
     "chainId": 42161,
     "symbol": "UMJA",
     "type": "ERC-20"
@@ -3434,7 +3434,7 @@
     "asset": "A3S Protocol",
     "address": "0xb0eCc6ac0073c063DCFC026cCdC9039Cae2998E1",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xb0eCc6ac0073c063DCFC026cCdC9039Cae2998E1/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/25354.png",
     "chainId": 42161,
     "symbol": "AA",
     "type": "ERC-20"
@@ -3444,7 +3444,7 @@
     "asset": "SYNTHR",
     "address": "0x0721b3C9f19cfeF1d622C918DcD431960f35E060",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x0721b3C9f19cfeF1d622C918DcD431960f35E060/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/35197.png",
     "chainId": 42161,
     "symbol": "SYNTH",
     "type": "ERC-20"
@@ -3454,7 +3454,7 @@
     "asset": "Fun United Dollar Cultura",
     "address": "0x48420e406c52EC500f800C34bbF7473c0D24baa3",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x48420e406c52EC500f800C34bbF7473c0D24baa3/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/36488.png",
     "chainId": 42161,
     "symbol": "FUSD",
     "type": "ERC-20"
@@ -3464,7 +3464,7 @@
     "asset": "SuperCells",
     "address": "0xE82335d58abb1cd44Cd5F47cF7f5b378E4c32F05",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xE82335d58abb1cd44Cd5F47cF7f5b378E4c32F05/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/31799.png",
     "chainId": 42161,
     "symbol": "SCT",
     "type": "ERC-20"
@@ -3474,7 +3474,7 @@
     "asset": "Tigris",
     "address": "0x3A33473d7990a605a88ac72A78aD4EFC40a54ADB",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x3A33473d7990a605a88ac72A78aD4EFC40a54ADB/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/26721.png",
     "chainId": 42161,
     "symbol": "TIG",
     "type": "ERC-20"
@@ -3484,7 +3484,7 @@
     "asset": "Codyfight",
     "address": "0xA586B3B80D7e3e8d439e25fBC16Bc5bcEE3E2c85",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xA586B3B80D7e3e8d439e25fBC16Bc5bcEE3E2c85/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/18007.png",
     "chainId": 42161,
     "symbol": "CTOK",
     "type": "ERC-20"
@@ -3494,7 +3494,7 @@
     "asset": "$GAME Token",
     "address": "0xc4CBd54ffA7A6a142fd73554cC6C23DD95CD8E01",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xc4CBd54ffA7A6a142fd73554cC6C23DD95CD8E01/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/31573.png",
     "chainId": 42161,
     "symbol": "GAME",
     "type": "ERC-20"
@@ -3504,7 +3504,7 @@
     "asset": "Rekt (rektarb.xyz)",
     "address": "0x1D987200dF3B744CFa9C14f713F5334CB4Bc4D5D",
     "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x1D987200dF3B744CFa9C14f713F5334CB4Bc4D5D/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24633.png",
     "chainId": 42161,
     "symbol": "REKT",
     "type": "ERC-20"
@@ -3514,7 +3514,7 @@
     "asset": "Pichi FInance",
     "address": "0xBE5ACfd64358805616b5cbD5277B9A85011d7Cf1",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xBE5ACfd64358805616b5cbD5277B9A85011d7Cf1/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32748.png",
     "chainId": 42161,
     "symbol": "PCH",
     "type": "ERC-20"
@@ -3524,7 +3524,7 @@
     "asset": "Kabosu Family",
     "address": "0x53bCF6698C911b2A7409a740EACDDB901fC2a2C6",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x53bCF6698C911b2A7409a740EACDDB901fC2a2C6/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/25195.png",
     "chainId": 42161,
     "symbol": "KABOSU",
     "type": "ERC-20"
@@ -3534,7 +3534,7 @@
     "asset": "ArbiPad",
     "address": "0x07DD5BEAffb65B8fF2e575d500BDf324a05295DC",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x07DD5BEAffb65B8fF2e575d500BDf324a05295DC/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/25152.png",
     "chainId": 42161,
     "symbol": "ARBI",
     "type": "ERC-20"
@@ -3544,7 +3544,7 @@
     "asset": "Tapioca DAO",
     "address": "0x2C650dAb03A59332e2E0C0C4A7F726913e5028C1",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x2C650dAb03A59332e2E0C0C4A7F726913e5028C1/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/31882.png",
     "chainId": 42161,
     "symbol": "TAP",
     "type": "ERC-20"
@@ -3554,7 +3554,7 @@
     "asset": "AI AGENT ARENA",
     "address": "0xC3eE71452121F16Fe3E921A4de4A83306ef0e375",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xC3eE71452121F16Fe3E921A4de4A83306ef0e375/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/36639.png",
     "chainId": 42161,
     "symbol": "AIRENA",
     "type": "ERC-20"
@@ -3564,7 +3564,7 @@
     "asset": "AICORE",
     "address": "0x1aAE7De64D9ae1487e95858bbf98185F21e926fd",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x1aAE7De64D9ae1487e95858bbf98185F21e926fd/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/27857.png",
     "chainId": 42161,
     "symbol": "AICORE",
     "type": "ERC-20"
@@ -3574,7 +3574,7 @@
     "asset": "AiAkita",
     "address": "0x38c2fBdF53b451Ae5c4027711D6Fe5E1B2191B1C",
     "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x38c2fBdF53b451Ae5c4027711D6Fe5E1B2191B1C/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/25712.png",
     "chainId": 42161,
     "symbol": "AIAKITA",
     "type": "ERC-20"
@@ -3584,7 +3584,7 @@
     "asset": "Build Your Dream",
     "address": "0x65FA064E808B33462A214DeE8b8B715C3424FDDA",
     "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x65FA064E808B33462A214DeE8b8B715C3424FDDA/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/33082.png",
     "chainId": 42161,
     "symbol": "BYD",
     "type": "ERC-20"
@@ -3594,7 +3594,7 @@
     "asset": "FORE Protocol",
     "address": "0xcBe94D75ec713B7ead84f55620dc3174beEb1CFe",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xcBe94D75ec713B7ead84f55620dc3174beEb1CFe/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/27256.png",
     "chainId": 42161,
     "symbol": "FORE",
     "type": "ERC-20"
@@ -3604,7 +3604,7 @@
     "asset": "Buffer Finance",
     "address": "0x1A5B0aaF478bf1FDA7b934c76E7692D722982a6D",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x1A5B0aaF478bf1FDA7b934c76E7692D722982a6D/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/12440.png",
     "chainId": 42161,
     "symbol": "BFR",
     "type": "ERC-20"
@@ -3614,7 +3614,7 @@
     "asset": "YachtingVerse",
     "address": "0xdE70AeD3d14d39b4955147EfcF272334bdB75AB5",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xdE70AeD3d14d39b4955147EfcF272334bdB75AB5/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/18372.png",
     "chainId": 42161,
     "symbol": "YACHT",
     "type": "ERC-20"
@@ -3624,7 +3624,7 @@
     "asset": "LEXER Markets",
     "address": "0x6bB7A17AcC227fd1F6781D1EEDEAE01B42047eE0",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6bB7A17AcC227fd1F6781D1EEDEAE01B42047eE0/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24528.png",
     "chainId": 42161,
     "symbol": "LEX",
     "type": "ERC-20"
@@ -3634,7 +3634,7 @@
     "asset": "Vesta Finance",
     "address": "0xa684cd057951541187f288294a1e1C2646aA2d24",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xa684cd057951541187f288294a1e1C2646aA2d24/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/19459.png",
     "chainId": 42161,
     "symbol": "VSTA",
     "type": "ERC-20"
@@ -3644,7 +3644,7 @@
     "asset": "Arbswap",
     "address": "0xf50874f8246776CA4B89eEF471E718F70f38458F",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xf50874f8246776CA4B89eEF471E718F70f38458F/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/20661.png",
     "chainId": 42161,
     "symbol": "ARBS",
     "type": "ERC-20"
@@ -3654,7 +3654,7 @@
     "asset": "Eclipse Fi",
     "address": "0x93ca0d85837FF83158Cd14D65B169CdB223b1921",
     "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x93ca0d85837FF83158Cd14D65B169CdB223b1921/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/28777.png",
     "chainId": 42161,
     "symbol": "ECLIP",
     "type": "ERC-20"
@@ -3664,7 +3664,7 @@
     "asset": "Plutus ARB",
     "address": "0x7a5D193fE4ED9098F7EAdC99797087C96b002907",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x7a5D193fE4ED9098F7EAdC99797087C96b002907/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/26825.png",
     "chainId": 42161,
     "symbol": "PLSARB",
     "type": "ERC-20"
@@ -3674,7 +3674,7 @@
     "asset": "SEX Odyssey",
     "address": "0xd26B0c6Ef8581E921AE41C66e508C62a581B709D",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xd26B0c6Ef8581E921AE41C66e508C62a581B709D/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/28566.png",
     "chainId": 42161,
     "symbol": "SEX",
     "type": "ERC-20"
@@ -3684,7 +3684,7 @@
     "asset": "Nola",
     "address": "0xF8388c2B6Edf00E2E27eEF5200B1beFB24cE141d",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xF8388c2B6Edf00E2E27eEF5200B1beFB24cE141d/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/28763.png",
     "chainId": 42161,
     "symbol": "NOLA",
     "type": "ERC-20"
@@ -3694,7 +3694,7 @@
     "asset": "Y2K",
     "address": "0x65c936f008BC34fE819bce9Fa5afD9dc2d49977f",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x65c936f008BC34fE819bce9Fa5afD9dc2d49977f/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23043.png",
     "chainId": 42161,
     "symbol": "Y2K",
     "type": "ERC-20"
@@ -3704,7 +3704,7 @@
     "asset": "ARBSHIB",
     "address": "0xF1A82bfA7fCEb8B8741e7E04a6B8EfD348cA6393",
     "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xF1A82bfA7fCEb8B8741e7E04a6B8EfD348cA6393/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24623.png",
     "chainId": 42161,
     "symbol": "AISHIB",
     "type": "ERC-20"
@@ -3714,7 +3714,7 @@
     "asset": "Zen Panda Coin",
     "address": "0xeE0b14e8fC86691Cf6eE42B9954985B4cF968534",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xeE0b14e8fC86691Cf6eE42B9954985B4cF968534/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/25108.png",
     "chainId": 42161,
     "symbol": "ZPC",
     "type": "ERC-20"
@@ -3724,7 +3724,7 @@
     "asset": "Syno Finance",
     "address": "0x577Fd586c9E6BA7f2E85E025D5824DBE19896656",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x577Fd586c9E6BA7f2E85E025D5824DBE19896656/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/30197.png",
     "chainId": 42161,
     "symbol": "SYNO",
     "type": "ERC-20"
@@ -3734,7 +3734,7 @@
     "asset": "Rodeo Finance",
     "address": "0x033f193b3Fceb22a440e89A2867E8FEE181594D9",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x033f193b3Fceb22a440e89A2867E8FEE181594D9/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/27444.png",
     "chainId": 42161,
     "symbol": "RDO",
     "type": "ERC-20"
@@ -3744,7 +3744,7 @@
     "asset": "ELLERIUM (NEW)",
     "address": "0xEEac5E75216571773C0064b3B591A86253791DB6",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xEEac5E75216571773C0064b3B591A86253791DB6/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/28511.png",
     "chainId": 42161,
     "symbol": "ELM",
     "type": "ERC-20"
@@ -3754,7 +3754,7 @@
     "asset": "Sundae The Dog",
     "address": "0x352F4bF396a7353A0877f99e99757E5d294Df374",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x352F4bF396a7353A0877f99e99757E5d294Df374/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/28237.png",
     "chainId": 42161,
     "symbol": "SUNDAE",
     "type": "ERC-20"
@@ -3764,7 +3764,7 @@
     "asset": "Army of Fortune Coin",
     "address": "0x4568Ca00299819998501914690d6010ae48a59bA",
     "decimals": 0,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x4568Ca00299819998501914690d6010ae48a59bA/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/28979.png",
     "chainId": 42161,
     "symbol": "AFC",
     "type": "ERC-20"
@@ -3774,7 +3774,7 @@
     "asset": "Unibit",
     "address": "0x76BC2e765414E6C8b596c0f52c4240f80268f41D",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x76BC2e765414E6C8b596c0f52c4240f80268f41D/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/30515.png",
     "chainId": 42161,
     "symbol": "UIBT",
     "type": "ERC-20"
@@ -3784,7 +3784,7 @@
     "asset": "Archi Finance",
     "address": "0x93D504070AB0eede5449C89C5eA0F5e34D8103f8",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x93D504070AB0eede5449C89C5eA0F5e34D8103f8/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/27095.png",
     "chainId": 42161,
     "symbol": "ARCHI",
     "type": "ERC-20"
@@ -3794,7 +3794,7 @@
     "asset": "MTMS Network",
     "address": "0x4DD40ec670722067241b4396dBD253c38dd820b5",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x4DD40ec670722067241b4396dBD253c38dd820b5/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/32222.png",
     "chainId": 42161,
     "symbol": "MTMS",
     "type": "ERC-20"
@@ -3804,7 +3804,7 @@
     "asset": "Hall of Legends",
     "address": "0x65C101E95D7DD475c7966330fa1A803205FF92aB",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x65C101E95D7DD475c7966330fa1A803205FF92aB/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/35611.png",
     "chainId": 42161,
     "symbol": "HOL",
     "type": "ERC-20"
@@ -3814,7 +3814,7 @@
     "asset": "S",
     "address": "0xD44257ddE89ca53F1471582f718632e690e46Dc2",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xD44257ddE89ca53F1471582f718632e690e46Dc2/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/33167.png",
     "chainId": 42161,
     "symbol": "S",
     "type": "ERC-20"
@@ -3824,7 +3824,7 @@
     "asset": "CLUTCH",
     "address": "0xF4AcDE4D938844751f34659C67056f7e69dBE85a",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xF4AcDE4D938844751f34659C67056f7e69dBE85a/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/35973.png",
     "chainId": 42161,
     "symbol": "CLUTCH",
     "type": "ERC-20"
@@ -3834,39 +3834,9 @@
     "asset": "Bitoro",
     "address": "0xB6212B633C941E9Be168C4b9C2d9E785F1cD42fb",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xB6212B633C941E9Be168C4b9C2d9E785F1cD42fb/logo.png",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/35185.png",
     "chainId": 42161,
     "symbol": "BTORO",
-    "type": "ERC-20"
-  },
-  {
-    "name": "CATCH",
-    "asset": "CATCH",
-    "address": "0xf0a479C9c3378638EC603b8B6B0d75903902550B",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xf0a479C9c3378638EC603b8B6B0d75903902550B/logo.png",
-    "chainId": 42161,
-    "symbol": "CATCH",
-    "type": "ERC-20"
-  },
-  {
-    "name": "DOVU",
-    "asset": "DOVU",
-    "address": "0xe821C045f9149B44ef96f8054B9c6d94f4c89417",
-    "decimals": 8,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xe821C045f9149B44ef96f8054B9c6d94f4c89417/logo.png",
-    "chainId": 42161,
-    "symbol": "DOVU",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Deep Blue USD",
-    "asset": "Deep Blue USD",
-    "address": "0x26B95c59BE6464f8fd7da08e84eB8475B9B7592C",
-    "decimals": 6,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x26B95c59BE6464f8fd7da08e84eB8475B9B7592C/logo.png",
-    "chainId": 42161,
-    "symbol": "DBUSD",
     "type": "ERC-20"
   },
   {
@@ -3900,6 +3870,36 @@
     "type": "ERC-20"
   },
   {
+    "name": "CATCH",
+    "asset": "CATCH",
+    "address": "0xf0a479C9c3378638EC603b8B6B0d75903902550B",
+    "decimals": 18,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xf0a479C9c3378638EC603b8B6B0d75903902550B/logo.png",
+    "chainId": 42161,
+    "symbol": "CATCH",
+    "type": "ERC-20"
+  },
+  {
+    "name": "DOVU",
+    "asset": "DOVU",
+    "address": "0xe821C045f9149B44ef96f8054B9c6d94f4c89417",
+    "decimals": 8,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xe821C045f9149B44ef96f8054B9c6d94f4c89417/logo.png",
+    "chainId": 42161,
+    "symbol": "DOVU",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Deep Blue USD",
+    "asset": "Deep Blue USD",
+    "address": "0x26B95c59BE6464f8fd7da08e84eB8475B9B7592C",
+    "decimals": 6,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x26B95c59BE6464f8fd7da08e84eB8475B9B7592C/logo.png",
+    "chainId": 42161,
+    "symbol": "DBUSD",
+    "type": "ERC-20"
+  },
+  {
     "name": "USDA",
     "asset": "USDA",
     "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
@@ -3914,7 +3914,7 @@
     "asset": "Lockquidity",
     "address": "0x454F676D44DF315EEf9B5425178d5a8B524CEa03",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x454F676D44DF315EEf9B5425178d5a8B524CEa03/logo.png",
+    "logoURI": "https://dd.dexscreener.com/ds-data/tokens/arbitrum/0x454f676d44df315eef9b5425178d5a8b524cea03.png",
     "chainId": 42161,
     "symbol": "LOCK",
     "type": "ERC-20"
@@ -3924,7 +3924,7 @@
     "asset": "Runbot",
     "address": "0x53ce5F2A18A623317357d6366eC59b47cbb0060D",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x53ce5F2A18A623317357d6366eC59b47cbb0060D/logo.png",
+    "logoURI": "https://dd.dexscreener.com/ds-data/tokens/arbitrum/0x53ce5f2a18a623317357d6366ec59b47cbb0060d.png",
     "chainId": 42161,
     "symbol": "RBOT",
     "type": "ERC-20"

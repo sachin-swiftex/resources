@@ -3,10 +3,20 @@
     "asset": "Optimism",
     "name": "Optimism",
     "symbol": "OP",
-    "address": "0x4200000000000000000000000000000000000042",
+    "address": "0x0000000000000000000000000000000000000000",
     "chainId": 10,
     "decimals": 18,
     "type": "NATIVE",
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0X0000000000000000000000000000000000000000.png"
+  },
+  {
+    "asset": "Optimism",
+    "name": "Optimism",
+    "symbol": "OP",
+    "address": "0x4200000000000000000000000000000000000042",
+    "chainId": 10,
+    "decimals": 18,
+    "type": "ERC-20",
     "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0X0000000000000000000000000000000000000000.png"
   },
   {

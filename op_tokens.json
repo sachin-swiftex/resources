@@ -3,11 +3,16 @@
     "asset": "Optimism",
     "name": "Optimism",
     "symbol": "OP",
-    "address": "0x0000000000000000000000000000000000000000",
+    "address": "0X0000000000000000000000000000000000000000",
     "chainId": 10,
     "decimals": 18,
     "type": "NATIVE",
-    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0X0000000000000000000000000000000000000000.png"
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/op/0X0000000000000000000000000000000000000000.png",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch",
+      "RANGO": "Rango"
+    }
   },
   {
     "name": "Tether USD",
@@ -17,7 +22,12 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo.png",
     "chainId": 10,
     "symbol": "USDT",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch",
+      "RANGO": "Rango"
+    }
   },
   {
     "name": "USD Coin",
@@ -27,7 +37,12 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85/logo.png",
     "chainId": 10,
     "symbol": "USDC",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch",
+      "RANGO": "Rango"
+    }
   },
   {
     "name": "Wrapped Ether",
@@ -37,7 +52,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x4200000000000000000000000000000000000006/logo.png",
     "chainId": 10,
     "symbol": "WETH",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "ChainLink",
@@ -47,7 +66,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6/logo.png",
     "chainId": 10,
     "symbol": "LINK",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Dai",
@@ -57,7 +80,12 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
     "chainId": 10,
     "symbol": "DAI",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch",
+      "RANGO": "Rango"
+    }
   },
   {
     "name": "USD Coin (Bridged from Ethereum)",
@@ -67,7 +95,12 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png",
     "chainId": 10,
     "symbol": "USDC.e",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch",
+      "RANGO": "Rango"
+    }
   },
   {
     "name": "LayerZero",
@@ -77,7 +110,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x6985884C4392D348587B19cb9eAAf157F13271cd/logo.png",
     "chainId": 10,
     "symbol": "ZRO",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Synthetix Network",
@@ -87,7 +124,12 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4/logo.png",
     "chainId": 10,
     "symbol": "SNX",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch",
+      "RANGO": "Rango"
+    }
   },
   {
     "name": "Tellor",
@@ -97,7 +139,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xaf8cA653Fa2772d58f4368B0a71980e9E3cEB888/logo.png",
     "chainId": 10,
     "symbol": "TRB",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Cartesi Token",
@@ -107,7 +152,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xEc6adef5E1006bb305bB1975333e8fc4071295bf/logo.png",
     "chainId": 10,
     "symbol": "CTSI",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "WalletConnect",
@@ -117,7 +165,12 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xeF4461891DfB3AC8572cCf7C794664A8DD927945/logo.png",
     "chainId": 10,
     "symbol": "WCT",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch",
+      "RANGO": "Rango"
+    }
   },
   {
     "name": "VelodromeV2",
@@ -127,7 +180,12 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db/logo.png",
     "chainId": 10,
     "symbol": "VELO",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch",
+      "RANGO": "Rango"
+    }
   },
   {
     "name": "Synapse",
@@ -137,7 +195,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x5A5fFf6F753d7C11A56A52FE47a177a87e431655/logo.png",
     "chainId": 10,
     "symbol": "SYN",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Balancer",
@@ -147,7 +209,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921/logo.png",
     "chainId": 10,
     "symbol": "BAL",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "RANGO": "Rango"
+    }
   },
   {
     "name": "Shapeshift FOX",
@@ -157,7 +223,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xF1a0DA3367BC7aa04F8D94BA57B862ff37CeD174/logo.png",
     "chainId": 10,
     "symbol": "FOX",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "RANGO": "Rango"
+    }
   },
   {
     "name": "yearn.finance",
@@ -167,7 +237,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x9046D36440290FfDE54FE0DD84Db8b1CfEE9107B/logo.png",
     "chainId": 10,
     "symbol": "YFI",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Perpetual",
@@ -177,6 +250,4438 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x9e1028F5F1D5eDE59748FFceE5532509976840E0/logo.png",
     "chainId": 10,
     "symbol": "PERP",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch",
+      "RANGO": "Rango"
+    }
+  },
+  {
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+    "decimals": 8,
+    "logoURI": "https://tokens.1inch.io/0x68f180fcce6836688e9084f035309e29bf0a2095.png",
+    "providers": {
+      "1INCH": "1inch",
+      "RANGO": "Rango"
+    },
+    "chainId": 10,
+    "asset": "Wrapped BTC",
     "type": "ERC-20"
+  },
+  {
+    "name": "Synth sUSD",
+    "symbol": "sUSD",
+    "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x57ab1ec28d129707052df4df418d58a2d46d5f51.png",
+    "providers": {
+      "1INCH": "1inch",
+      "RANGO": "Rango"
+    },
+    "chainId": 10,
+    "asset": "Synth sUSD",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Rai Reflex Index",
+    "symbol": "RAI",
+    "address": "0x7fb688ccf682d58f86d7e38e03f9d22e7705448b",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x7fb688ccf682d58f86d7e38e03f9d22e7705448b.png",
+    "providers": {
+      "1INCH": "1inch",
+      "RANGO": "Rango"
+    },
+    "chainId": 10,
+    "asset": "Rai Reflex Index",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
+    "providers": {
+      "1INCH": "1inch",
+      "RANGO": "Rango"
+    },
+    "chainId": 10,
+    "asset": "Curve DAO Token",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Frax",
+    "symbol": "FRAX",
+    "address": "0x2e3d870790dc77a83dd1d18184acc7439a53f475",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x2e3d870790dc77a83dd1d18184acc7439a53f475_0xe7eea26c1509f1571d7eb86d1ba1afe0391e70451cb245b6a31a25741b8828a4.png",
+    "providers": {
+      "1INCH": "1inch",
+      "RANGO": "Rango"
+    },
+    "chainId": 10,
+    "asset": "Frax",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Aave Token",
+    "symbol": "AAVE",
+    "address": "0x76fb31fb4af56892a25e32cfc43de717950c9278",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x76fb31fb4af56892a25e32cfc43de717950c9278_0x84bcf4c9b00562ebbd4ce06dc0e46eede2968dff46e9c0c75405fee82ad0e4c1.webp",
+    "providers": {
+      "1INCH": "1inch",
+      "RANGO": "Rango"
+    },
+    "chainId": 10,
+    "asset": "Aave Token",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "address": "0xbc7b1ff1c6989f006a1185318ed4e7b5796e66e1",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0xbc7b1ff1c6989f006a1185318ed4e7b5796e66e1_0xaaf571e89fe5b431824b10015de441deee3a703e2435633e0270926c026e9de2.webp",
+    "providers": {
+      "1INCH": "1inch",
+      "RANGO": "Rango"
+    },
+    "chainId": 10,
+    "asset": "Pendle",
+    "type": "ERC-20"
+  },
+  {
+    "symbol": "USD₮0",
+    "name": "USD₮0",
+    "asset": "USD₮0",
+    "chain": "OPTIMISM",
+    "address": "0x01bff41798a0bcf287b996046ca68b395dbc1071",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/h2ZBSz",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "asset": "USD Coin",
+    "chain": "OPTIMISM",
+    "address": "0xbb1eab9eb8fdf65f0e291d013da07b4b65a27a01",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/3v4jxw",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "USDC",
+    "name": "USD Coin (PoS)",
+    "asset": "USD Coin (PoS)",
+    "chain": "OPTIMISM",
+    "address": "0x8ab72605e48c1f70a20bdd2b3a217fec24d777f9",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/ACM9Om",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "asset": "USD Coin",
+    "chain": "OPTIMISM",
+    "address": "0x711e53d031ea9b0bb0c24dd506df11b41aea419e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/3v4jxw",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "DOT",
+    "name": "DOT",
+    "asset": "DOT",
+    "chain": "OPTIMISM",
+    "address": "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/ZsYKKO",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "USDD",
+    "name": "Decentralized USD",
+    "asset": "Decentralized USD",
+    "chain": "OPTIMISM",
+    "address": "0x7113370218f31764c1b6353bdf6004d86ff6b9cc",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/POAbKK",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ENA",
+    "name": "ENA",
+    "asset": "ENA",
+    "chain": "OPTIMISM",
+    "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/awSVm7",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WLD",
+    "name": "Worldcoin",
+    "asset": "Worldcoin",
+    "chain": "OPTIMISM",
+    "address": "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/R7JRQX",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ETHFI",
+    "name": "EthFi",
+    "asset": "EthFi",
+    "chain": "OPTIMISM",
+    "address": "0xe0080d2f853ecddbd81a643dc10da075df26fd3f",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/j77ojw",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "LDO",
+    "name": "Lido DAO Token",
+    "asset": "Lido DAO Token",
+    "chain": "OPTIMISM",
+    "address": "0xfdb794692724153d1488ccdbe0c56c252596735f",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/sFlDfK",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "OP",
+    "name": "Optimism",
+    "asset": "Optimism",
+    "chain": "OPTIMISM",
+    "address": "0x4200000000000000000000000000000000000042",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/berGHG",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "KITE",
+    "name": "KITE",
+    "asset": "KITE",
+    "chain": "OPTIMISM",
+    "address": "0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/lZU4Mn",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "1INCH",
+    "name": "1INCH Token",
+    "asset": "1INCH Token",
+    "chain": "OPTIMISM",
+    "address": "0xad42d013ac31486b73b6b059e748172994736426",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/zK88Cc",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ATH",
+    "name": "AthenaDAO Token",
+    "asset": "AthenaDAO Token",
+    "chain": "OPTIMISM",
+    "address": "0xc62c9b7be5d4e5d415f682b2331bfa5f0c8d061a",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Dg6tI3",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "FRXUSD",
+    "name": "FRXUSD",
+    "asset": "FRXUSD",
+    "chain": "OPTIMISM",
+    "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/XNtvNs",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "VCNT",
+    "name": "VCNT",
+    "asset": "VCNT",
+    "chain": "OPTIMISM",
+    "address": "0xc6bdfc4f2e90196738873e824a9efa03f7c64176",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/RNoWXa",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "DUSD",
+    "name": "Davos.xyz USD",
+    "asset": "Davos.xyz USD",
+    "chain": "OPTIMISM",
+    "address": "0xb396b31599333739a97951b74652c117be86ee1d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/lhYcu8",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ZRX",
+    "name": "0x Protocol Token",
+    "asset": "0x Protocol Token",
+    "chain": "OPTIMISM",
+    "address": "0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/QffHaf",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "SKR",
+    "name": "SKR",
+    "asset": "SKR",
+    "chain": "OPTIMISM",
+    "address": "0xe2dca969624795985f2f083bcd0b674337ba130a",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/PYD03f",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "SUSHI",
+    "name": "SushiToken",
+    "asset": "SushiToken",
+    "chain": "OPTIMISM",
+    "address": "0x3eaeb77b03dbc0f6321ae1b72b2e9adb0f60112b",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/hd4gke",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "DRV",
+    "name": "DRV",
+    "asset": "DRV",
+    "chain": "OPTIMISM",
+    "address": "0x33800de7e817a70a694f31476313a7c572bba100",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/3f6vHo",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "CELO",
+    "name": "Celo (Wormhole)",
+    "asset": "Celo (Wormhole)",
+    "chain": "OPTIMISM",
+    "address": "0x9b88d293b7a791e40d36a39765ffd5a1b9b5c349",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/SFuWJn",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "VELO",
+    "name": "VELO",
+    "asset": "VELO",
+    "chain": "OPTIMISM",
+    "address": "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/p1OCFI",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ANKR",
+    "name": "ANKR",
+    "asset": "ANKR",
+    "chain": "OPTIMISM",
+    "address": "0xaeaeed23478c3a4b798e4ed40d8b7f41366ae861",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/wAkRV4",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "XYO",
+    "name": "XY Oracle",
+    "asset": "XY Oracle",
+    "chain": "OPTIMISM",
+    "address": "0x9db118d43069b73b8a252bf0be49d50edbd81fc8",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/JMTDTg",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "SNT",
+    "name": "Status Network Token",
+    "asset": "Status Network Token",
+    "chain": "OPTIMISM",
+    "address": "0x650af3c15af43dcb218406d30784416d64cfb6b2",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Tc1WaF",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "UMA",
+    "name": "UMA Voting Token v1",
+    "asset": "UMA Voting Token v1",
+    "chain": "OPTIMISM",
+    "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/tokens/ALL/UMA.png",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "RPL",
+    "name": "Rocket Pool Protocol",
+    "asset": "Rocket Pool Protocol",
+    "chain": "OPTIMISM",
+    "address": "0xc81d1f0eb955b0c020e5d5b264e1ff72c14d1401",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/wUkO4J",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "YUSD",
+    "name": "YUSD",
+    "asset": "YUSD",
+    "chain": "OPTIMISM",
+    "address": "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/cDPNdS",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BUSD",
+    "name": "BUSD",
+    "asset": "BUSD",
+    "chain": "OPTIMISM",
+    "address": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/5aMB5Q",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BUSD",
+    "name": "BUSD Token",
+    "asset": "BUSD Token",
+    "chain": "OPTIMISM",
+    "address": "0x778a91d18e78f5e1e35d23910b54dd42559afea1",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/4Hs0kz",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ZCHF",
+    "name": "ZCHF",
+    "asset": "ZCHF",
+    "chain": "OPTIMISM",
+    "address": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/rtSfSU",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ACX",
+    "name": "Across Protocol Token",
+    "asset": "Across Protocol Token",
+    "chain": "OPTIMISM",
+    "address": "0xff733b2a3557a7ed6697007ab5d11b79fdd1b76b",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/REjipe",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "OSAK",
+    "name": "OSAK",
+    "asset": "OSAK",
+    "chain": "OPTIMISM",
+    "address": "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/uc9Tvm",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "KNC",
+    "name": "Kyber Network Crystal",
+    "asset": "Kyber Network Crystal",
+    "chain": "OPTIMISM",
+    "address": "0xa00e3a3511aac35ca78530c85007afcd31753819",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Lm2dPh",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "POKT",
+    "name": "POKT",
+    "asset": "POKT",
+    "chain": "OPTIMISM",
+    "address": "0x764a726d9ced0433a8d7643335919deb03a9a935",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/oofYuZ",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "BICO",
+    "name": "Biconomy Token",
+    "asset": "Biconomy Token",
+    "chain": "OPTIMISM",
+    "address": "0xd6909e9e702024eb93312b989ee46794c0fb1c9d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/yfcRol",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ORDER",
+    "name": "ORDER",
+    "asset": "ORDER",
+    "chain": "OPTIMISM",
+    "address": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/bYtdVx",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BTRST",
+    "name": "BTRST",
+    "asset": "BTRST",
+    "chain": "OPTIMISM",
+    "address": "0xed50ace88bd42b45cb0f49be15395021e141254e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/TiDgpB",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ARPA",
+    "name": "ARPA Token",
+    "asset": "ARPA Token",
+    "chain": "OPTIMISM",
+    "address": "0x334cc734866e97d8452ae6261d68fd9bc9bfa31e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/rFvlyE",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "USDM",
+    "name": "USDM",
+    "asset": "USDM",
+    "chain": "OPTIMISM",
+    "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/uYhHKB",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "L3",
+    "name": "L3",
+    "asset": "L3",
+    "chain": "OPTIMISM",
+    "address": "0x46777c76dbbe40fabb2aab99e33ce20058e76c59",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Lpg2Ho",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "GYEN",
+    "name": "GMO JPY",
+    "asset": "GMO JPY",
+    "chain": "OPTIMISM",
+    "address": "0x589d35656641d6ab57a545f08cf473ecd9b6d5f7",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/K01IhW",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "OLAS",
+    "name": "Autonolas",
+    "asset": "Autonolas",
+    "chain": "OPTIMISM",
+    "address": "0xfc2e6e6bcbd49ccf3a5f029c79984372dcbfe527",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/CeuBBI",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "PIKA",
+    "name": "Pika Protocol",
+    "asset": "Pika Protocol",
+    "chain": "OPTIMISM",
+    "address": "0x9a601c5bb360811d96a23689066af316a30c3027",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/BJDYWi",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BOSON",
+    "name": "Boson Token",
+    "asset": "Boson Token",
+    "chain": "OPTIMISM",
+    "address": "0x647fe0cca3df596ba414c8c600d441bb3d10d616",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/18qatl",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "SPC",
+    "name": "SpaceChainV2",
+    "asset": "SpaceChainV2",
+    "chain": "OPTIMISM",
+    "address": "0xe539298a99004a102e4b6997ef96e5137be42eab",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/2D9RW6",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "VSP",
+    "name": "VesperToken",
+    "asset": "VesperToken",
+    "chain": "OPTIMISM",
+    "address": "0x888a88eb9de9401237dbf543eaaf4b90b6574261",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/My9rWx",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "VITA",
+    "name": "VitaDAO Token",
+    "asset": "VitaDAO Token",
+    "chain": "OPTIMISM",
+    "address": "0x7d14206c937e70e19e3a5b94011faf0d5b3928e2",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/HeK24y",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "SUKU",
+    "name": "SUKU",
+    "asset": "SUKU",
+    "chain": "OPTIMISM",
+    "address": "0xef6301da234fc7b0545c6e877d3359fe0b9e50a4",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/GysPhu",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "DHT",
+    "name": "dHEDGE DAO Token",
+    "asset": "dHEDGE DAO Token",
+    "chain": "OPTIMISM",
+    "address": "0xaf9fe3b5ccdae78188b1f8b9a49da7ae9510f151",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Fi2SqZ",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "USDV",
+    "name": "USDV",
+    "asset": "USDV",
+    "chain": "OPTIMISM",
+    "address": "0x323665443cef804a3b5206103304bd4872ea4253",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/1uEdSE",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "TAROT",
+    "name": "TAROT",
+    "asset": "TAROT",
+    "chain": "OPTIMISM",
+    "address": "0x1f514a61bcde34f94bc39731235690ab9da737f7",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/1e7mDO",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "TAROT",
+    "name": "TAROT",
+    "asset": "TAROT",
+    "chain": "OPTIMISM",
+    "address": "0x375488f097176507e39b9653b88fdc52cde736bf",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/7NH92g",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "HAI",
+    "name": "Let's Get HAI",
+    "asset": "Let's Get HAI",
+    "chain": "OPTIMISM",
+    "address": "0x10398abc267496e49106b07dd6be13364d10dc71",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/g4Tjsi",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "NYA",
+    "name": "Nya",
+    "asset": "Nya",
+    "chain": "OPTIMISM",
+    "address": "0x38f9bf9dce51833ec7f03c9dc218197999999999",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/XioRw7",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "MTA",
+    "name": "Meta",
+    "asset": "Meta",
+    "chain": "OPTIMISM",
+    "address": "0x929b939f8524c3be977af57a4a0ad3fb1e374b50",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/78SADg",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "EQB",
+    "name": "Equilibria Token",
+    "asset": "Equilibria Token",
+    "chain": "OPTIMISM",
+    "address": "0xaf3a6f67af1624d3878a8d30b09fae7915dca2a0",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/BIkckM",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "FIS",
+    "name": "StaFi Token",
+    "asset": "StaFi Token",
+    "chain": "OPTIMISM",
+    "address": "0xd8737ca46aa6285de7b8777a8e3db232911bad41",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/QbL5nh",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "XPRT",
+    "name": "XPRT",
+    "asset": "XPRT",
+    "chain": "OPTIMISM",
+    "address": "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/2WEuoa",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "DF",
+    "name": "dForce",
+    "asset": "dForce",
+    "chain": "OPTIMISM",
+    "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/QlStLN",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "EURAU",
+    "name": "EURAU",
+    "asset": "EURAU",
+    "chain": "OPTIMISM",
+    "address": "0x4933a85b5b5466fbaf179f72d3de273c287ec2c2",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/vtxBLt",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "PSP",
+    "name": "ParaSwap",
+    "asset": "ParaSwap",
+    "chain": "OPTIMISM",
+    "address": "0xd3594e879b358f430e20f82bea61e83562d49d48",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/6fGvbc",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "MASK",
+    "name": "Mask Network",
+    "asset": "Mask Network",
+    "chain": "OPTIMISM",
+    "address": "0x3390108e913824b8ead638444cc52b9abdf63798",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/dEArZW",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "CHI",
+    "name": "Chi USD",
+    "asset": "Chi USD",
+    "chain": "OPTIMISM",
+    "address": "0xca0e54b636db823847b29f506bffee743f57729d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/032gXX",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "FUSE",
+    "name": "FUSE",
+    "asset": "FUSE",
+    "chain": "OPTIMISM",
+    "address": "0xe453d6649643f1f460c371dc3d1da98f7922fe51",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/EvelWr",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "SIPHER",
+    "name": "Sipher Token",
+    "asset": "Sipher Token",
+    "chain": "OPTIMISM",
+    "address": "0xb94944669f7967e16588e55ac41be0d5ef399dcd",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/EBfpuG",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ROUTE",
+    "name": "Route Token",
+    "asset": "Route Token",
+    "chain": "OPTIMISM",
+    "address": "0x8413041a7702603d9d991f2c4add29e4e8a241f8",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/lEuuje",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "GRG",
+    "name": "Rigo Token",
+    "asset": "Rigo Token",
+    "chain": "OPTIMISM",
+    "address": "0xecf46257ed31c329f204eb43e254c609dee143b3",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Lf1n3v",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ROOBEE",
+    "name": "ROOBEE",
+    "asset": "ROOBEE",
+    "chain": "OPTIMISM",
+    "address": "0xb12c13e66ade1f72f71834f2fc5082db8c091358",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/SWo6Qf",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "CAS",
+    "name": "Aktionariat Carnault AG Tokenized Shares",
+    "asset": "Aktionariat Carnault AG Tokenized Shares",
+    "chain": "OPTIMISM",
+    "address": "0xa72f7df6c1454096387dbb74f70b3dac4f0a61f5",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/fEuiXI",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 0
+  },
+  {
+    "symbol": "BZR",
+    "name": "Bazaars",
+    "asset": "Bazaars",
+    "chain": "OPTIMISM",
+    "address": "0xa0a675d08ca63066f48408136f8a71fc65be4afc",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/9WKeyb",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "0xBTC",
+    "name": "0xBitcoin",
+    "asset": "0xBitcoin",
+    "chain": "OPTIMISM",
+    "address": "0xe0bb0d3de8c10976511e5030ca403dbf4c25165b",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/mOL0Yx",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 8
+  },
+  {
+    "symbol": "POOL",
+    "name": "PoolTogether",
+    "asset": "PoolTogether",
+    "chain": "OPTIMISM",
+    "address": "0x395ae52bb17aef68c2888d941736a71dc6d4e125",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/RzlTWC",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "GIV",
+    "name": "Giveth Token",
+    "asset": "Giveth Token",
+    "chain": "OPTIMISM",
+    "address": "0x528cdc92eab044e1e39fe43b9514bfdab4412b98",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/uTOuOa",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "GMAC",
+    "name": "GMAC",
+    "asset": "GMAC",
+    "chain": "OPTIMISM",
+    "address": "0x53ed36b1d07a5f4b01e5f872fd054f8439335460",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/YFBz9A",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BOO",
+    "name": "Boo Token",
+    "asset": "Boo Token",
+    "chain": "OPTIMISM",
+    "address": "0x135c78d7f52aab6e9f17bcf4a9e8627aa233d050",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/OdLmQU",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "LYRA",
+    "name": "Lyra",
+    "asset": "Lyra",
+    "chain": "OPTIMISM",
+    "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/yeeQmL",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "O3",
+    "name": "O3 Swap",
+    "asset": "O3 Swap",
+    "chain": "OPTIMISM",
+    "address": "0xee9801669c6138e84bd50deb500827b776777d28",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/30k4rj",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "RAZOR",
+    "name": "RAZOR",
+    "asset": "RAZOR",
+    "chain": "OPTIMISM",
+    "address": "0xf8397db1eedb800fdbce9e62ad83a28059cbb068",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/AT91zL",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "HYPER",
+    "name": "HYPER",
+    "asset": "HYPER",
+    "chain": "OPTIMISM",
+    "address": "0x9923db8d7fbacc2e69e87fad19b886c81cd74979",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/o0g9ME",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "JRT",
+    "name": "JRT",
+    "asset": "JRT",
+    "chain": "OPTIMISM",
+    "address": "0x15e770b95edd73fd96b02ece0266247d50895e76",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/eeLktP",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "HAN",
+    "name": "HanChain",
+    "asset": "HanChain",
+    "chain": "OPTIMISM",
+    "address": "0x50bce64397c75488465253c0a034b8097fea6578",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/3RQqT6",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "SLN",
+    "name": "Smart Layer Network",
+    "asset": "Smart Layer Network",
+    "chain": "OPTIMISM",
+    "address": "0xbcb49fcb41899e31e442a4d7439964966e0c9b28",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/jtl0rM",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "FRXETH",
+    "name": "FRXETH",
+    "asset": "FRXETH",
+    "chain": "OPTIMISM",
+    "address": "0x6806411765af15bddd26f8f544a34cc40cb9838b",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/h6Mkkd",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "PT",
+    "name": "Phemex Token",
+    "asset": "Phemex Token",
+    "chain": "OPTIMISM",
+    "address": "0x35b5a3bf31b67f832230da9424824edc9f7ad98c",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/7I38zK",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BRZ",
+    "name": "BRZ Token",
+    "asset": "BRZ Token",
+    "chain": "OPTIMISM",
+    "address": "0xe9185ee218cae427af7b9764a011bb89fea761b4",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/8H1kYJ",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "MKR",
+    "name": "Maker",
+    "asset": "Maker",
+    "chain": "OPTIMISM",
+    "address": "0xab7badef82e9fe11f6f33f87bc9bc2aa27f2fcb5",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/VQJlSL",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "OCEAN",
+    "name": "Ocean Token",
+    "asset": "Ocean Token",
+    "chain": "OPTIMISM",
+    "address": "0x2561aa2bb1d2eb6629edd7b0938d7679b8b49f9e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/YIh9nX",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "USDGLO",
+    "name": "Glo Dollar",
+    "asset": "Glo Dollar",
+    "chain": "OPTIMISM",
+    "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/HgYBKt",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "DOLA",
+    "name": "Dola USD Stablecoin",
+    "asset": "Dola USD Stablecoin",
+    "chain": "OPTIMISM",
+    "address": "0x8ae125e8653821e851f12a49f7765db9a9ce7384",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/FE3NHD",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "UBI",
+    "name": "Universal Basic Income",
+    "asset": "Universal Basic Income",
+    "chain": "OPTIMISM",
+    "address": "0xbb586ed34974b15049a876fd5366a4c2d1203115",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Xxs79D",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "VLR",
+    "name": "VLR",
+    "asset": "VLR",
+    "chain": "OPTIMISM",
+    "address": "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/0CK3OX",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "OVER",
+    "name": "Overtime",
+    "asset": "Overtime",
+    "chain": "OPTIMISM",
+    "address": "0xedf38688b27036816a50185caa430d5479e1c63e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/PmSZlH",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "PACT",
+    "name": "impactMarket",
+    "asset": "impactMarket",
+    "chain": "OPTIMISM",
+    "address": "0xbc1735d65290a25b4bc964378828a2a57e33d03d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/I8SbSF",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BCAT",
+    "name": "BananaCat",
+    "asset": "BananaCat",
+    "chain": "OPTIMISM",
+    "address": "0x0af1580f49121d7a42b0f9125f5f7dc172f8a469",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/GzBXGR",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 9
+  },
+  {
+    "symbol": "SMT",
+    "name": "Swarm Markets",
+    "asset": "Swarm Markets",
+    "chain": "OPTIMISM",
+    "address": "0x8eb99a441b04576282e9069977f6de6053ef6a97",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/ChVJyn",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ELK",
+    "name": "Elk",
+    "asset": "Elk",
+    "chain": "OPTIMISM",
+    "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/B9lQYK",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "RADIO",
+    "name": "RadioShack Token",
+    "asset": "RadioShack Token",
+    "chain": "OPTIMISM",
+    "address": "0xf899e3909b4492859d44260e1de41a9e663e70f5",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/jgV5G0",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "EXTRA",
+    "name": "EXTRA",
+    "asset": "EXTRA",
+    "chain": "OPTIMISM",
+    "address": "0x2dad3a13ef0c6366220f989157009e501e7938f8",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/StxeXJ",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BEETS",
+    "name": "BEETS",
+    "asset": "BEETS",
+    "chain": "OPTIMISM",
+    "address": "0x97513e975a7fa9072c72c92d8000b0db90b163c5",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/8mgpUw",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BEETS",
+    "name": "BEETS",
+    "asset": "BEETS",
+    "chain": "OPTIMISM",
+    "address": "0xb4bc46bc6cb217b59ea8f4530bae26bf69f677f0",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/pECAlF",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "CYBER",
+    "name": "CYBER",
+    "asset": "CYBER",
+    "chain": "OPTIMISM",
+    "address": "0x14778860e937f509e651192a90589de711fb88a9",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/hyui6F",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "VEE",
+    "name": "VEE",
+    "asset": "VEE",
+    "chain": "OPTIMISM",
+    "address": "0xe3c332a5dce0e1d9bc2cc72a68437790570c28a4",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/GbwMBy",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "SETH",
+    "name": "SETH",
+    "asset": "SETH",
+    "chain": "OPTIMISM",
+    "address": "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/PfgsP8",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "3CRV",
+    "name": "Curve.fi DAI/USDC/USDT",
+    "asset": "Curve.fi DAI/USDC/USDT",
+    "chain": "OPTIMISM",
+    "address": "0x1337bedc9d22ecbe766df105c9623922a27963ec",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/tokens/UNKNOWN/icon.png",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "PREMIA",
+    "name": "Premia",
+    "asset": "Premia",
+    "chain": "OPTIMISM",
+    "address": "0x374ad0f47f4ca39c78e5cc54f1c9e426ff8f231a",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Z1PAgM",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "HAUS",
+    "name": "DAOhaus Token on Optimism",
+    "asset": "DAOhaus Token on Optimism",
+    "chain": "OPTIMISM",
+    "address": "0x01b8b6384298d4848e3be63d4c9d17830eee488a",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Mx2oIh",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "THALES",
+    "name": "Thales",
+    "asset": "Thales",
+    "chain": "OPTIMISM",
+    "address": "0x217d47011b23bb961eb6d93ca9945b7501a5bb11",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/e51Dag",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "DOG",
+    "name": "DOG",
+    "asset": "DOG",
+    "chain": "OPTIMISM",
+    "address": "0x8f69ee043d52161fd29137aedf63f5e70cd504d5",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/xnt47x",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "XMT",
+    "name": "MetalSwap",
+    "asset": "MetalSwap",
+    "chain": "OPTIMISM",
+    "address": "0x3e5d9d8a63cc8a88748f229999cf59487e90721e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/EOROvi",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "PRL",
+    "name": "Parallel Governance",
+    "asset": "Parallel Governance",
+    "chain": "OPTIMISM",
+    "address": "0xfd28f108e95f4d41daae9dbfff707d677985998e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/YjHR7H",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BETS",
+    "name": "BetSwirl",
+    "asset": "BetSwirl",
+    "chain": "OPTIMISM",
+    "address": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/TwxyZX",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "OATH",
+    "name": "Oath Token",
+    "asset": "Oath Token",
+    "chain": "OPTIMISM",
+    "address": "0x00e1724885473b63bce08a9f0a52f35b0979e35a",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/7sdVe0",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "MONEY",
+    "name": "MONEY",
+    "asset": "MONEY",
+    "chain": "OPTIMISM",
+    "address": "0x69420f9e38a4e60a62224c489be4bf7a94402496",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/RakOGR",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "HOP",
+    "name": "HOP",
+    "asset": "HOP",
+    "chain": "OPTIMISM",
+    "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/EoRq6z",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "M",
+    "name": "M by M0",
+    "asset": "M by M0",
+    "chain": "OPTIMISM",
+    "address": "0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/8yiJMg",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "SDL",
+    "name": "Saddle DAO",
+    "asset": "Saddle DAO",
+    "chain": "OPTIMISM",
+    "address": "0xae31207ac34423c41576ff59bfb4e036150f9cf7",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/V3joy9",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "AMKT",
+    "name": "Alongside Crypto Market Index",
+    "asset": "Alongside Crypto Market Index",
+    "chain": "OPTIMISM",
+    "address": "0xc27d9bc194a648fe3069955a5126699c4e49351c",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/KXmRWK",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "IBTC",
+    "name": "IBTC",
+    "asset": "IBTC",
+    "chain": "OPTIMISM",
+    "address": "0x2baa7e92f3f14883264bfa63058cc223ad719438",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/IwSoWy",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 8
+  },
+  {
+    "symbol": "COLLAB",
+    "name": "Collab.Land",
+    "asset": "Collab.Land",
+    "chain": "OPTIMISM",
+    "address": "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/QItY6s",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "HAIR",
+    "name": "HairDAO Token",
+    "asset": "HairDAO Token",
+    "chain": "OPTIMISM",
+    "address": "0x5465145a47260d5e715733997333a175d97285bb",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/aKWSyx",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "OVN",
+    "name": "OVN",
+    "asset": "OVN",
+    "chain": "OPTIMISM",
+    "address": "0x3b08fcd15280e7b5a6e404c4abb87f7c774d1b2e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/DAVxP2",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "AI",
+    "name": "Any Inu",
+    "asset": "Any Inu",
+    "chain": "OPTIMISM",
+    "address": "0x2598c30330d5771ae9f983979209486ae26de875",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/PD3aXt",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "CNG",
+    "name": "Changer",
+    "asset": "Changer",
+    "chain": "OPTIMISM",
+    "address": "0x1d015bf7d8a6fb0fc30959f3e12355530086b2a5",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/ZVAfCN",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "MIM",
+    "name": "MIM",
+    "asset": "MIM",
+    "chain": "OPTIMISM",
+    "address": "0xb153fb3d196a8eb25522705560ac152eeec57901",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/KzIglm",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "RING",
+    "name": "OneRing",
+    "asset": "OneRing",
+    "chain": "OPTIMISM",
+    "address": "0xb0ae108669ceb86e9e98e8fe9e40d98b867855fd",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/bmFkyt",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BANK",
+    "name": "Bankless DAO",
+    "asset": "Bankless DAO",
+    "chain": "OPTIMISM",
+    "address": "0x29faf5905bff9cfcc7cf56a5ed91e0f091f8664b",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/rSffV9",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "CRYO",
+    "name": "CryoDAO",
+    "asset": "CryoDAO",
+    "chain": "OPTIMISM",
+    "address": "0x01402d1bc10ae6e96c0e494a5860748517a3c070",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/wexp5b",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "MOCHI",
+    "name": "Mochi",
+    "asset": "Mochi",
+    "chain": "OPTIMISM",
+    "address": "0x77d40cbc27f912dcdbf4348caf87b427c4d02486",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/EWNM2m",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "COR",
+    "name": "Cortensor",
+    "asset": "Cortensor",
+    "chain": "OPTIMISM",
+    "address": "0x44805a7597ab90624e0b4aa6947a47f358ae4ef1",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/O7KOWW",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "SPECTRA",
+    "name": "SPECTRA",
+    "asset": "SPECTRA",
+    "chain": "OPTIMISM",
+    "address": "0x248f43b622ce2f35a14db3fc528284730b619cd5",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/SBzWtd",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WAGMI",
+    "name": "WAGMI",
+    "asset": "WAGMI",
+    "chain": "OPTIMISM",
+    "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/24ku7d",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BUILD",
+    "name": "BUILD",
+    "asset": "BUILD",
+    "chain": "OPTIMISM",
+    "address": "0xe4de4b87345815c71aa843ea4841bcdc682637bb",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/3wvl5p",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "USDA",
+    "name": "USDA",
+    "asset": "USDA",
+    "chain": "OPTIMISM",
+    "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/FRXovk",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "CTH",
+    "name": "Cthulhu Finance",
+    "asset": "Cthulhu Finance",
+    "chain": "OPTIMISM",
+    "address": "0xf8e943f646816e4b51279b8934753821ed832dca",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/nBjoOh",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "POP",
+    "name": "Popcorn",
+    "asset": "Popcorn",
+    "chain": "OPTIMISM",
+    "address": "0x6f0fecbc276de8fc69257065fe47c5a03d986394",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/4nazEs",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "AIN",
+    "name": "AIN",
+    "asset": "AIN",
+    "chain": "OPTIMISM",
+    "address": "0xd4423795fd904d9b87554940a95fb7016f172773",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/lmclO0",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BOLD",
+    "name": "BOLD",
+    "asset": "BOLD",
+    "chain": "OPTIMISM",
+    "address": "0x03569cc076654f82679c4ba2124d64774781b01d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/cUd5GJ",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BOLD",
+    "name": "BOLD",
+    "asset": "BOLD",
+    "chain": "OPTIMISM",
+    "address": "0x087c440f251ff6cfe62b86dde1be558b95b4bb9b",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/9ln4CT",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "GTC",
+    "name": "Gitcoin",
+    "asset": "Gitcoin",
+    "chain": "OPTIMISM",
+    "address": "0x1eba7a6a72c894026cd654ac5cdcf83a46445b08",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/xv1VA3",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "asset": "Wrapped Ether",
+    "chain": "OPTIMISM",
+    "address": "0xb47bc3ed6d70f04fe759b2529c9bc7377889678f",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/G9o7mb",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "weETH",
+    "name": "Wrapped eETH",
+    "asset": "Wrapped eETH",
+    "chain": "OPTIMISM",
+    "address": "0x346e03f8cce9fe01dcb3d0da3e9d00dc2c0e08f0",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/xa5npz",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "RSETH",
+    "name": "RSETH",
+    "asset": "RSETH",
+    "chain": "OPTIMISM",
+    "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/MoZ8ii",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WBNB",
+    "name": "Wrapped BNB (Portal from BSC)",
+    "asset": "Wrapped BNB (Portal from BSC)",
+    "chain": "OPTIMISM",
+    "address": "0x6a09fe65aca27c12573f04aafa290bd75497e1bc",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/ep2QgM",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "cbETH",
+    "name": "Coinbase Wrapped Staked ETH",
+    "asset": "Coinbase Wrapped Staked ETH",
+    "chain": "OPTIMISM",
+    "address": "0xaddb6a0412de1ba0f936dcaeb8aaa24578dcf3b2",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/gXpYGH",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "vETH",
+    "name": "Bifrost Voucher ETH",
+    "asset": "Bifrost Voucher ETH",
+    "chain": "OPTIMISM",
+    "address": "0xc3997ff81f2831929499c4ee4ee4e0f08f42d4d8",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/WQZNay",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WMATIC",
+    "name": "Wrapped Matic",
+    "asset": "Wrapped Matic",
+    "chain": "OPTIMISM",
+    "address": "0x8f02b6a32cebcae44d2fd17d87966f5b5dd14c6d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/bOVYRu",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WFRAX",
+    "name": "WFRAX",
+    "asset": "WFRAX",
+    "chain": "OPTIMISM",
+    "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/H8h1LM",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "axlUSDC",
+    "name": "Axelar Wrapped USDC",
+    "asset": "Axelar Wrapped USDC",
+    "chain": "OPTIMISM",
+    "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/uIw3sB",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "SBTC",
+    "name": "SBTC",
+    "asset": "SBTC",
+    "chain": "OPTIMISM",
+    "address": "0x298b9b95708152ff6968aafd889c6586e9169f1d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/t8iRdW",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "asset": "Tether USD",
+    "chain": "OPTIMISM",
+    "address": "0xa9a78f45944372cc51b7aef0c2f6817c9729a21d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/jHz2TY",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "asset": "Tether USD",
+    "chain": "OPTIMISM",
+    "address": "0xf6b4185fcf8af291c0e3927fbeab7046b4f6a8ca",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/jHz2TY",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "MAI",
+    "name": "Mai Stablecoin",
+    "asset": "Mai Stablecoin",
+    "chain": "OPTIMISM",
+    "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/yZnDJq",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "PCM",
+    "name": "PCM",
+    "asset": "PCM",
+    "chain": "OPTIMISM",
+    "address": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Rxp7vB",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "HANEP",
+    "name": "HANePlatform",
+    "asset": "HANePlatform",
+    "chain": "OPTIMISM",
+    "address": "0xc3248a1bd9d72fa3da6e6ba701e58cbf818354eb",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/h5AqvX",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "JPYT",
+    "name": "Dephaser JPY",
+    "asset": "Dephaser JPY",
+    "chain": "OPTIMISM",
+    "address": "0xc47da4cb96ce65a96844a01bfae509f9d5454534",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/MfyPtJ",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "wstETH",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "asset": "Wrapped liquid staked Ether 2.0",
+    "chain": "OPTIMISM",
+    "address": "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/qsdGcc",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "KROM",
+    "name": "Kromatika",
+    "asset": "Kromatika",
+    "chain": "OPTIMISM",
+    "address": "0xf98dcd95217e15e05d8638da4c91125e59590b07",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/A6gZxB",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "tBTC",
+    "name": "Optimism tBTC v2",
+    "asset": "Optimism tBTC v2",
+    "chain": "OPTIMISM",
+    "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/gMNzIz",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "uniBTC",
+    "name": "uniBTC",
+    "asset": "uniBTC",
+    "chain": "OPTIMISM",
+    "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/J8vG4i",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 8
+  },
+  {
+    "symbol": "xSPACE",
+    "name": "xSpace Token",
+    "asset": "xSpace Token",
+    "chain": "OPTIMISM",
+    "address": "0x1d1498166ddceee616a6d99868e1e0677300056f",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/I2Hst2",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "MEED",
+    "name": "Meeds DAO",
+    "asset": "Meeds DAO",
+    "chain": "OPTIMISM",
+    "address": "0xdd462e9399624dfcf73018793bd50a7ef47940b9",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/CgUBMA",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "aCRV",
+    "name": "AladdinCRV",
+    "asset": "AladdinCRV",
+    "chain": "OPTIMISM",
+    "address": "0x764ad60e1b81f6cacfec1a2926393d688d4493e6",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/VnDnih",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BAXA",
+    "name": "BAXagent Coin",
+    "asset": "BAXagent Coin",
+    "chain": "OPTIMISM",
+    "address": "0xdb9888b842408b0b8efa1f5477bd9f351754999e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/jYdIVH",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BitBTC",
+    "name": "BitBTC",
+    "asset": "BitBTC",
+    "chain": "OPTIMISM",
+    "address": "0xc98b98d17435aa00830c87ea02474c5007e1f272",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Hw8jqo",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BRIGHT",
+    "name": "Bright",
+    "asset": "Bright",
+    "chain": "OPTIMISM",
+    "address": "0x65334ce5aae9fb390c056574c7aa4de33cf1d40e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/8tlxZG",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BTREE",
+    "name": "BTREE",
+    "asset": "BTREE",
+    "chain": "OPTIMISM",
+    "address": "0xb260d236f5ea5094d31f016160705ff53ac45028",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/4otlkU",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "bwAJNA",
+    "name": "Burn Wrapped AJNA",
+    "asset": "Burn Wrapped AJNA",
+    "chain": "OPTIMISM",
+    "address": "0x6c518f9d1a163379235816c543e62922a79863fa",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/gLUPoL",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "CANA",
+    "name": "CANA Holdings California Carbon Credits",
+    "asset": "CANA Holdings California Carbon Credits",
+    "chain": "OPTIMISM",
+    "address": "0xca0eac34408e4b5906d3e161c73bb4611ff22ca1",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/gW5ZSA",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "CTRAVL",
+    "name": "Travel Deals",
+    "asset": "Travel Deals",
+    "chain": "OPTIMISM",
+    "address": "0xefcc1bacd639619135746bd8113b70abbfa6c7b0",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/UbQ4DI",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 4
+  },
+  {
+    "symbol": "D2D",
+    "name": "Prime",
+    "asset": "Prime",
+    "chain": "OPTIMISM",
+    "address": "0x03e5b5930f3a42b56af4a982b10e60957bdd2f61",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/x8zYBg",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "DCN",
+    "name": "Dentacoin",
+    "asset": "Dentacoin",
+    "chain": "OPTIMISM",
+    "address": "0x1da650c3b2daa8aa9ff6f661d4156ce24d08a062",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/d8D3cu",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 0
+  },
+  {
+    "symbol": "ECO",
+    "name": "Eco",
+    "asset": "Eco",
+    "chain": "OPTIMISM",
+    "address": "0xe7bc9b3a936f122f08aac3b1fac3c3ec29a78874",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/4R7TJy",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ePendle",
+    "name": "Equilibria Pendle",
+    "asset": "Equilibria Pendle",
+    "chain": "OPTIMISM",
+    "address": "0x76c37f9949e05b37c8373d155c1fef46a6858481",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/pX80R9",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "EST",
+    "name": "Erica Social Token",
+    "asset": "Erica Social Token",
+    "chain": "OPTIMISM",
+    "address": "0x7b0bcc23851bbf7601efc9e9fe532bf5284f65d3",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/n1IkOq",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "FLASH",
+    "name": "Flashstake",
+    "asset": "Flashstake",
+    "chain": "OPTIMISM",
+    "address": "0x86bea60374f220de9769b2fef2db725bc1cdd335",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/40p5gX",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "FLy",
+    "name": "Franklin",
+    "asset": "Franklin",
+    "chain": "OPTIMISM",
+    "address": "0xb58d1d90c4f0a89c96337387feafff0a7a75a722",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/OET4CC",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 4
+  },
+  {
+    "symbol": "FOAM",
+    "name": "FOAM Token",
+    "asset": "FOAM Token",
+    "chain": "OPTIMISM",
+    "address": "0x79e6c6b6aaba4432fabacb30cc0c879d8f3e598e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Yg46eo",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "GYSR",
+    "name": "Geyser",
+    "asset": "Geyser",
+    "chain": "OPTIMISM",
+    "address": "0x117cfd9060525452db4a34d51c0b3b7599087f05",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/FWbb5c",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "IPT",
+    "name": "Interest Protocol",
+    "asset": "Interest Protocol",
+    "chain": "OPTIMISM",
+    "address": "0xa211e25f7246950e0cce054e3161c7c0b6379485",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/mAW47a",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "LIZ",
+    "name": "Theranos Coin",
+    "asset": "Theranos Coin",
+    "chain": "OPTIMISM",
+    "address": "0x3bb4445d30ac020a84c1b5a8a2c6248ebc9779d0",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/enp0hk",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "LPF",
+    "name": "Loopfi",
+    "asset": "Loopfi",
+    "chain": "OPTIMISM",
+    "address": "0x0b3e851cf6508a16266bc68a651ea68b31ef673b",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/R8cSwy",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "mpETH",
+    "name": "MetaPoolETH",
+    "asset": "MetaPoolETH",
+    "chain": "OPTIMISM",
+    "address": "0x819845b60a192167ed1139040b4f8eca31834f27",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/HZbqDm",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "MUGLOO",
+    "name": "Mugloo",
+    "asset": "Mugloo",
+    "chain": "OPTIMISM",
+    "address": "0x1164b451624e0d53bd8be84d3ff7f9591ba8922e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Xe2zwU",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 4
+  },
+  {
+    "symbol": "PHTK",
+    "name": "PhunToken",
+    "asset": "PhunToken",
+    "chain": "OPTIMISM",
+    "address": "0xfa956eb0c4b3e692ad5a6b2f08170ade55999aca",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Mu4qCo",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "rETH",
+    "name": "StaFi Staked ETH",
+    "asset": "StaFi Staked ETH",
+    "chain": "OPTIMISM",
+    "address": "0x6c2f7b6110a37b3b0fbdd811876be368df02e8b0",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/SAEoYt",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "RFWSTETH",
+    "name": "Respawn Finance Wrapped Staked Ethereum",
+    "asset": "Respawn Finance Wrapped Staked Ethereum",
+    "chain": "OPTIMISM",
+    "address": "0xeaeadac73baaf4cb8b024de9d65b2eefa722856c",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/ZUrCax",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "RGT",
+    "name": "Rari Governance Token",
+    "asset": "Rari Governance Token",
+    "chain": "OPTIMISM",
+    "address": "0xb548f63d4405466b36c0c0ac3318a22fdcec711a",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/iSkRTz",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "SAIL",
+    "name": "SAIL Token",
+    "asset": "SAIL Token",
+    "chain": "OPTIMISM",
+    "address": "0x7a1263ec3bf0a19e25c553b8a2c312e903262c5e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/z0nJ0H",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "sDAI",
+    "name": "Savings Dai",
+    "asset": "Savings Dai",
+    "chain": "OPTIMISM",
+    "address": "0x2218a117083f5b482b0bb821d27056ba9c04b1d3",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/oG95Qh",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "SHU",
+    "name": "Shutter Token",
+    "asset": "Shutter Token",
+    "chain": "OPTIMISM",
+    "address": "0xaf1d71bf947709315655514467d5158e5d3046d5",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/zGFAOD",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "Silo",
+    "name": "Silo Governance Token",
+    "asset": "Silo Governance Token",
+    "chain": "OPTIMISM",
+    "address": "0xa6521c950b0ab5215337dab84d65f4ffa7f6df55",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/xo8k4V",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "SPANK",
+    "name": "SPANK",
+    "asset": "SPANK",
+    "chain": "OPTIMISM",
+    "address": "0xcfd1d50ce23c46d3cf6407487b2f8934e96dc8f9",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/kUl3rp",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "stkLYRA",
+    "name": "Staked Lyra",
+    "asset": "Staked Lyra",
+    "chain": "OPTIMISM",
+    "address": "0x0f5d45a7023612e9e244fe84fac5fcf3740d1492",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/4G7JIY",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "UDT",
+    "name": "Unlock Discount Token",
+    "asset": "Unlock Discount Token",
+    "chain": "OPTIMISM",
+    "address": "0xc709c9116dbf29da9c25041b13a07a0e68ac5d2d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/6lKmkc",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "UST",
+    "name": "UST (Wormhole)",
+    "asset": "UST (Wormhole)",
+    "chain": "OPTIMISM",
+    "address": "0xba28feb4b6a6b81e3f26f08b83a19e715c4294fd",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/RmqQuA",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "VALX",
+    "name": "Validator",
+    "asset": "Validator",
+    "chain": "OPTIMISM",
+    "address": "0x0a9aaa1c7542b42233ac7ffda364e97ade21f160",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/WMpYbe",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "veKWENTA",
+    "name": "veKwenta",
+    "asset": "veKwenta",
+    "chain": "OPTIMISM",
+    "address": "0x678d8f4ba8dfe6bad51796351824dcceceaeff2b",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/na75UT",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "VUSD",
+    "name": "VUSD",
+    "asset": "VUSD",
+    "chain": "OPTIMISM",
+    "address": "0x17b4f9da9e06d395db5de839e299cf829469e7ef",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/9QXKBp",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "XCHF",
+    "name": "CryptoFranc",
+    "asset": "CryptoFranc",
+    "chain": "OPTIMISM",
+    "address": "0xe4f27b04cc7729901876b44f4eaa5102ec150265",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/BEfoyQ",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "xKTON",
+    "name": "Darwinia Commitment xKTON",
+    "asset": "Darwinia Commitment xKTON",
+    "chain": "OPTIMISM",
+    "address": "0xeb528f54676dc39e8d62eec1d4c1afb25c1b9bb1",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/EfI88j",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "xRING",
+    "name": "Darwinia Network xRING",
+    "asset": "Darwinia Network xRING",
+    "chain": "OPTIMISM",
+    "address": "0x5ac3f9edb4896db1edc0ef9d91421e740083e6e8",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/tyKjbg",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ZUN",
+    "name": "Zunami Token",
+    "asset": "Zunami Token",
+    "chain": "OPTIMISM",
+    "address": "0x4a36562d5d7074f8ee664922b320e066e67c2a24",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/bTMdma",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "zunETH",
+    "name": "Zunami ETH",
+    "asset": "Zunami ETH",
+    "chain": "OPTIMISM",
+    "address": "0x805b93d5ff318cc054b46d6850af12feb55472d6",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/tHyDLt",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "FXS",
+    "name": "FXS",
+    "asset": "FXS",
+    "chain": "OPTIMISM",
+    "address": "0x67ccea5bb16181e7b4109c9c2143c24a1c2205be",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/FlTUfi",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "NFTE",
+    "name": "NFTE",
+    "asset": "NFTE",
+    "chain": "OPTIMISM",
+    "address": "0xc96f4f893286137ac17e07ae7f217ffca5db3ab6",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/oabCW8",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "SLINK",
+    "name": "SLINK",
+    "asset": "SLINK",
+    "chain": "OPTIMISM",
+    "address": "0xc5db22719a06418028a40a9b5e9a7c02959d0d08",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/1miwzJ",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ANKRETH",
+    "name": "ANKRETH",
+    "asset": "ANKRETH",
+    "chain": "OPTIMISM",
+    "address": "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/R9mDkZ",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "MMY",
+    "name": "MMY",
+    "asset": "MMY",
+    "chain": "OPTIMISM",
+    "address": "0x47536f17f4ff30e64a96a7555826b8f9e66ec468",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/VEiGSw",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "DAI+",
+    "name": "DAI+",
+    "asset": "DAI+",
+    "chain": "OPTIMISM",
+    "address": "0x970d50d09f3a656b43e11b0d45241a84e3a6e011",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/oprDL7",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ALUSD",
+    "name": "ALUSD",
+    "asset": "ALUSD",
+    "chain": "OPTIMISM",
+    "address": "0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/GExBBm",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WEETH",
+    "name": "WEETH",
+    "asset": "WEETH",
+    "chain": "OPTIMISM",
+    "address": "0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Kcx4Np",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "USDE",
+    "name": "USDE",
+    "asset": "USDE",
+    "chain": "OPTIMISM",
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/hmt5Vi",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "SUSDS",
+    "name": "SUSDS",
+    "asset": "SUSDS",
+    "chain": "OPTIMISM",
+    "address": "0xb5b2dc7fd34c249f4be7fb1fcea07950784229e0",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/fgLdFb",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "CLBTC",
+    "name": "CLBTC",
+    "asset": "CLBTC",
+    "chain": "OPTIMISM",
+    "address": "0x1792865d493fe4dfdd504010d3c0f6da11e8046d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/HCXXfN",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "KBTC",
+    "name": "KBTC",
+    "asset": "KBTC",
+    "chain": "OPTIMISM",
+    "address": "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/wm5fVk",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 8
+  },
+  {
+    "symbol": "MSETH",
+    "name": "MSETH",
+    "asset": "MSETH",
+    "chain": "OPTIMISM",
+    "address": "0x1610e3c85dd44af31ed7f33a63642012dca0c5a5",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/TY8iR3",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "GYD",
+    "name": "GYD",
+    "asset": "GYD",
+    "chain": "OPTIMISM",
+    "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/4ESlcx",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "MSUSD",
+    "name": "MSUSD",
+    "asset": "MSUSD",
+    "chain": "OPTIMISM",
+    "address": "0x9dabae7274d28a45f0b65bf8ed201a5731492ca0",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/oe0nBR",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "YNETHX",
+    "name": "YNETHX",
+    "asset": "YNETHX",
+    "chain": "OPTIMISM",
+    "address": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/mt5Bpa",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "HLSCOPE",
+    "name": "HLSCOPE",
+    "asset": "HLSCOPE",
+    "chain": "OPTIMISM",
+    "address": "0x720f86f4b5b5d5d0ea3e5718ec43071d4d05134b",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/L4jNuV",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "FBOMB",
+    "name": "FBOMB",
+    "asset": "FBOMB",
+    "chain": "OPTIMISM",
+    "address": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/D7xuDx",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "NEXT",
+    "name": "NEXT",
+    "asset": "NEXT",
+    "chain": "OPTIMISM",
+    "address": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/dT8EVV",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "TLX",
+    "name": "TLX",
+    "asset": "TLX",
+    "chain": "OPTIMISM",
+    "address": "0xd9cc3d70e730503e7f28c1b407389198c4b75fa2",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/10xyx1",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WUSDM",
+    "name": "WUSDM",
+    "asset": "WUSDM",
+    "chain": "OPTIMISM",
+    "address": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/o4PRLL",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WAOPTWETH",
+    "name": "WAOPTWETH",
+    "asset": "WAOPTWETH",
+    "chain": "OPTIMISM",
+    "address": "0x464b808c2c7e04b07e860fdf7a91870620246148",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Hsv7Sv",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BALN",
+    "name": "BALN",
+    "asset": "BALN",
+    "chain": "OPTIMISM",
+    "address": "0xd336c74b840f9962cf2c666f8666d6d61ec24440",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/k9Xe6x",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "EXAWETH",
+    "name": "EXAWETH",
+    "asset": "EXAWETH",
+    "chain": "OPTIMISM",
+    "address": "0xc4d4500326981eacd020e20a81b1c479c161c7ef",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/I9KFq4",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "SUSX",
+    "name": "SUSX",
+    "asset": "SUSX",
+    "chain": "OPTIMISM",
+    "address": "0xbc404429558292ee2d769e57d57d6e74bbd2792d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/kmjOug",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "SUPR",
+    "name": "SUPR",
+    "asset": "SUPR",
+    "chain": "OPTIMISM",
+    "address": "0x17906b1cd88aa8efaefc5e82891b52a22219bd45",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/PRGzWP",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "UNV",
+    "name": "UNV",
+    "asset": "UNV",
+    "chain": "OPTIMISM",
+    "address": "0x51707dc661630f8fd624b985fa6ef4f1d4d919db",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/63gooW",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "JARVIS",
+    "name": "JARVIS",
+    "asset": "JARVIS",
+    "chain": "OPTIMISM",
+    "address": "0x1574564fcfd15bccb3fe04e9818f61131ea74066",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/mMi3or",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ANTH",
+    "name": "AntHive",
+    "asset": "AntHive",
+    "chain": "OPTIMISM",
+    "address": "0x749d8cc1ff63cb92cc6dd64380d68ecb72b9993f",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/pug7OB",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "mooBIFI",
+    "name": "Moo BIFI",
+    "asset": "Moo BIFI",
+    "chain": "OPTIMISM",
+    "address": "0xc55e93c62874d8100dbd2dfe307edc1036ad5434",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/HQ864t",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "aOptWETH",
+    "name": "Aave Optimism WETH",
+    "asset": "Aave Optimism WETH",
+    "chain": "OPTIMISM",
+    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/JK9CrY",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "wrsETH",
+    "name": "rsETHWrapper",
+    "asset": "rsETHWrapper",
+    "chain": "OPTIMISM",
+    "address": "0x87eee96d50fb761ad85b1c982d28a042169d61b1",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/fHe1zw",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WGC",
+    "name": "Wild Goat Coin",
+    "asset": "Wild Goat Coin",
+    "chain": "OPTIMISM",
+    "address": "0x67631ff69130ea1a6c4feaa4a0abf0a1e0148be7",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/9UFG9C",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "XVGOPT",
+    "name": "XVGOPT",
+    "asset": "XVGOPT",
+    "chain": "OPTIMISM",
+    "address": "0xe061aa40be525a13296cb4bf69f513242349d708",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/NRC458",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "aOptUSDT",
+    "name": "Aave Optimism USDT",
+    "asset": "Aave Optimism USDT",
+    "chain": "OPTIMISM",
+    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/WmUTY9",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "2192",
+    "name": "LERNITAS",
+    "asset": "LERNITAS",
+    "chain": "OPTIMISM",
+    "address": "0x3ed9acaac7bd974eb83a8ea6432a239e3c829d5d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/qb6zY9",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ZIP",
+    "name": "Zip Token",
+    "asset": "Zip Token",
+    "chain": "OPTIMISM",
+    "address": "0xfa436399d0458dbe8ab890c3441256e3e09022a8",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/hqg9TQ",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "wOptiDoge",
+    "name": "Wrapped OptiDoge",
+    "asset": "Wrapped OptiDoge",
+    "chain": "OPTIMISM",
+    "address": "0xc26921b5b9ee80773774d36c84328ccb22c3a819",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/6NxcFU",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "BNRY",
+    "name": "Binary Coin",
+    "asset": "Binary Coin",
+    "chain": "OPTIMISM",
+    "address": "0xb5090d514bcaca7dafb7e52763658844121f346d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/LYDsE0",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "aOptOP",
+    "name": "Aave Optimism OP",
+    "asset": "Aave Optimism OP",
+    "chain": "OPTIMISM",
+    "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/5nPyyp",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "GRAIN",
+    "name": "Granary",
+    "asset": "Granary",
+    "chain": "OPTIMISM",
+    "address": "0xfd389dc9533717239856190f42475d3f263a270d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/s2WEeK",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "NEROX",
+    "name": "Neurolanche",
+    "asset": "Neurolanche",
+    "chain": "OPTIMISM",
+    "address": "0xd42fe55e8a43b546aa75fda6483073be1d7ef74c",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/wXP420",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "IB",
+    "name": "IronBank",
+    "asset": "IronBank",
+    "chain": "OPTIMISM",
+    "address": "0x00a35fd824c717879bf370e70ac6868b95870dfb",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Qe1YxY",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "DTORO",
+    "name": "DexToro",
+    "asset": "DexToro",
+    "chain": "OPTIMISM",
+    "address": "0x1cef2d62af4cd26673c7416957cc4ec619a696a7",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/NgNEiT",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "(=ↀωↀ=)",
+    "name": "Nekocoin",
+    "asset": "Nekocoin",
+    "chain": "OPTIMISM",
+    "address": "0x139052115f8b1773cf7dcba6a553f922a2e54f69",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/61D3Rn",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "aOptDAI",
+    "name": "Aave Optimism DAI",
+    "asset": "Aave Optimism DAI",
+    "chain": "OPTIMISM",
+    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/M2nUf0",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "MASKS",
+    "name": "Masks",
+    "asset": "Masks",
+    "chain": "OPTIMISM",
+    "address": "0x3925f9820c312d968644f12ebd314c13558a7c05",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/panKYc",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "UNIDX",
+    "name": "Unidex",
+    "asset": "Unidex",
+    "chain": "OPTIMISM",
+    "address": "0x28b42698caf46b4b012cf38b6c75867e0762186d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/0qIIh5",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "stERN",
+    "name": "Staked Ethos Reserve Note",
+    "asset": "Staked Ethos Reserve Note",
+    "chain": "OPTIMISM",
+    "address": "0x3ee6107d9c93955acbb3f39871d32b02f82b78ab",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Ghk2vQ",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "CSIAS",
+    "name": "Cancelled SIA Shares (Wrapped)",
+    "asset": "Cancelled SIA Shares (Wrapped)",
+    "chain": "OPTIMISM",
+    "address": "0x5ad323d764301e057614edb0449f470d68ea9485",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/pl0nZB",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 0
+  },
+  {
+    "symbol": "NBL",
+    "name": "NBL",
+    "asset": "NBL",
+    "chain": "OPTIMISM",
+    "address": "0x4b03afc91295ed778320c2824bad5eb5a1d852dd",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/K2A0a6",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ionUSDT",
+    "name": "Ionic Tether USD",
+    "asset": "Ionic Tether USD",
+    "chain": "OPTIMISM",
+    "address": "0xb2918350826c1fb3c8b25a553b5d49611698206f",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/GaRnbV",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "BEES",
+    "name": "Aktionariat BEE Digital Growth AG Tokenized Shares",
+    "asset": "Aktionariat BEE Digital Growth AG Tokenized Shares",
+    "chain": "OPTIMISM",
+    "address": "0xe64b4eb5eec6343887c4683da31f0ca62ea39ce3",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/XUzEz4",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 0
+  },
+  {
+    "symbol": "VRGNS",
+    "name": "Aktionariat Vereign AG Tokenized Shares",
+    "asset": "Aktionariat Vereign AG Tokenized Shares",
+    "chain": "OPTIMISM",
+    "address": "0x071682832d213638f8eda67a873262e581a4006d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/mahBKL",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 0
+  },
+  {
+    "symbol": "sGYD",
+    "name": "sGYD",
+    "asset": "sGYD",
+    "chain": "OPTIMISM",
+    "address": "0xea50f402653c41cadbafd1f788341db7b7f37816",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/MJdo17",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ionUSDC",
+    "name": "Ionic USD Coin",
+    "asset": "Ionic USD Coin",
+    "chain": "OPTIMISM",
+    "address": "0x50549be7e21c3dc0db03c3abab83e1a78d07e6e0",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/36R9Mn",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "mRe7ETH",
+    "name": "Midas Re7 Ethereum",
+    "asset": "Midas Re7 Ethereum",
+    "chain": "OPTIMISM",
+    "address": "0xe7ba07519dfa06e60059563f484d6090dedf21b3",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/xoytKu",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "DDCS",
+    "name": "Aktionariat DDC Schweiz AG Tokenized Shares",
+    "asset": "Aktionariat DDC Schweiz AG Tokenized Shares",
+    "chain": "OPTIMISM",
+    "address": "0xd6c67ff71a82f1d994d94fa01295467d273d7324",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/GRr0l1",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 0
+  },
+  {
+    "symbol": "CFES",
+    "name": "Aktionariat Clever Forever Education AG Tokenized Shares",
+    "asset": "Aktionariat Clever Forever Education AG Tokenized Shares",
+    "chain": "OPTIMISM",
+    "address": "0x10b3667304130ecc9c972008459249e8141ced97",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/81umMl",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 0
+  },
+  {
+    "symbol": "SMP",
+    "name": "Seamoon Protocol",
+    "asset": "Seamoon Protocol",
+    "chain": "OPTIMISM",
+    "address": "0x5f5292fe4583f476ab90fbf247999816a9503f9e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/tXHsRI",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "FDOS",
+    "name": "Aktionariat Fieldoo AG Tokenized Shares",
+    "asset": "Aktionariat Fieldoo AG Tokenized Shares",
+    "chain": "OPTIMISM",
+    "address": "0xed9b52e6d2df4ad9fc258254e1e5ef5ad0b3ca3c",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/FmwjoF",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 0
+  },
+  {
+    "symbol": "FNLS",
+    "name": "Aktionariat Finelli Studios AG Tokenized Shares",
+    "asset": "Aktionariat Finelli Studios AG Tokenized Shares",
+    "chain": "OPTIMISM",
+    "address": "0x065399a1e5522af1c9044c18ce60ec70d64d74a1",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/3id0nA",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 0
+  },
+  {
+    "symbol": "sDUSD",
+    "name": "Davos Protocol Staked DUSD",
+    "asset": "Davos Protocol Staked DUSD",
+    "chain": "OPTIMISM",
+    "address": "0xa6ae8f29e0031340ea5dbe11c2da4466cde34464",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Wt9HtO",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "OVERPOWERED",
+    "name": "OVERPOWERED",
+    "asset": "OVERPOWERED",
+    "chain": "OPTIMISM",
+    "address": "0xfe5b10f053871e66a319a57a16cf4e709f51367f",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/JdwAvU",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "DCKUSD",
+    "name": "Dackie USD",
+    "asset": "Dackie USD",
+    "chain": "OPTIMISM",
+    "address": "0x1d01aae6ef5d13406fdabab0e6c12fb862e342c5",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/gob0Td",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "SPOS",
+    "name": "Aktionariat Sportsparadise Switzerland AG Tokenized Shares",
+    "asset": "Aktionariat Sportsparadise Switzerland AG Tokenized Shares",
+    "chain": "OPTIMISM",
+    "address": "0x0d82b5d3a8420c285c6d353a6bdc30d164bb50f0",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/4TbgCu",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 0
+  },
+  {
+    "symbol": "cgETH.hashkey",
+    "name": "cgETH Hashkey Cloud",
+    "asset": "cgETH Hashkey Cloud",
+    "chain": "OPTIMISM",
+    "address": "0x0ce45dd53affbb011884ef1866e0738f58ab7969",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/qdSKL9",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "gtUSDa",
+    "name": "Gauntlet USD Alpha",
+    "asset": "Gauntlet USD Alpha",
+    "chain": "OPTIMISM",
+    "address": "0x000000001dc8bd45d7e7829fb1c969cbe4d0d1ec",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/TPxs6d",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "wXRP",
+    "name": "Hex Trust Wrapped XRP",
+    "asset": "Hex Trust Wrapped XRP",
+    "chain": "OPTIMISM",
+    "address": "0xb73ee5488647a6302ebf5fee8af3152f6960ae4c",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/1IaZly",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "sFRAX",
+    "name": "Staked FRAX",
+    "asset": "Staked FRAX",
+    "chain": "OPTIMISM",
+    "address": "0x2dd1b4d4548accea497050619965f91f78b3b532",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/VR9AG6",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ITP",
+    "name": "Interport Token",
+    "asset": "Interport Token",
+    "chain": "OPTIMISM",
+    "address": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/sQYWqw",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "xZOOMER",
+    "name": "xZoomerCoin",
+    "asset": "xZoomerCoin",
+    "chain": "OPTIMISM",
+    "address": "0xb962150760f9a3bb00e3e9cf48297ee20ada4a33",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/9oqQHc",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "axlETH",
+    "name": "Axelar Wrapped Ether",
+    "asset": "Axelar Wrapped Ether",
+    "chain": "OPTIMISM",
+    "address": "0xb829b68f57cc546da7e5806a929e53be32a4625d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/epqc3d",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "RUBI",
+    "name": "Rubicon",
+    "asset": "Rubicon",
+    "chain": "OPTIMISM",
+    "address": "0xfe3b2f655b725ba6cd0cc78961e013968ffb30fb",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/TIzz8y",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "YEL",
+    "name": "YELToken",
+    "asset": "YELToken",
+    "chain": "OPTIMISM",
+    "address": "0x949185d3be66775ea648f4a306740ea9eff9c567",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Wtqrkp",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WGC",
+    "name": "Wild Goat Coin",
+    "asset": "Wild Goat Coin",
+    "chain": "OPTIMISM",
+    "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/kpdNJO",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "axl-wstETH",
+    "name": "Axelar Wrapped wstETH",
+    "asset": "Axelar Wrapped wstETH",
+    "chain": "OPTIMISM",
+    "address": "0x9cfb13e6c11054ac9fcb92ba89644f30775436e4",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/jGtnqo",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "AMU",
+    "name": "Amulet",
+    "asset": "Amulet",
+    "chain": "OPTIMISM",
+    "address": "0x5c0ea461fe5e6f3b4f90a071e72243c14c6abfd7",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/xVuhdQ",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 9
+  },
+  {
+    "symbol": "ZUN",
+    "name": "Zunami Token",
+    "asset": "Zunami Token",
+    "chain": "OPTIMISM",
+    "address": "0x25193034153afb4251a8e02a8db0deaef4c876f6",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/02zhre",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "weEUR",
+    "name": "Liquid Euro",
+    "asset": "Liquid Euro",
+    "chain": "OPTIMISM",
+    "address": "0xcc476b1a49bcdf5192561e87b6fb8ea78aa28c13",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/dsWbyK",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "InstETH",
+    "name": "Inception stETH",
+    "asset": "Inception stETH",
+    "chain": "OPTIMISM",
+    "address": "0xd08c3f25862077056cb1b710937576af899a4959",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/yo423N",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "MNTO",
+    "name": "Minato",
+    "asset": "Minato",
+    "chain": "OPTIMISM",
+    "address": "0xc04fb38f10ad352c5f16bd4546f7456e7f1a2d9e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Zx1FDS",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "axlUSDT",
+    "name": "Axelar Wrapped USDT",
+    "asset": "Axelar Wrapped USDT",
+    "chain": "OPTIMISM",
+    "address": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/r3UKne",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "TEC",
+    "name": "Token Engineering Commons",
+    "asset": "Token Engineering Commons",
+    "chain": "OPTIMISM",
+    "address": "0x8fc7c1109c08904160d6ae36482b79814d45eb78",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/6O8LPY",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "USPD",
+    "name": "US Permissionless Dollar",
+    "asset": "US Permissionless Dollar",
+    "chain": "OPTIMISM",
+    "address": "0x476ef9ac6d8673e220d0e8bc0a810c2dc6a2aa84",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/kKgIei",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "FRNT",
+    "name": "Frontier Stable Token",
+    "asset": "Frontier Stable Token",
+    "chain": "OPTIMISM",
+    "address": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/6STtF9",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "exaWBTC",
+    "name": "exactly WBTC",
+    "asset": "exactly WBTC",
+    "chain": "OPTIMISM",
+    "address": "0x6f748fd65d7c71949ba6641b3248c4c191f3b322",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/NHod0S",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 8
+  },
+  {
+    "symbol": "OPC",
+    "name": "OP Chads",
+    "asset": "OP Chads",
+    "chain": "OPTIMISM",
+    "address": "0x48a9f8b4b65a55cc46ea557a610acf227454ab09",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/z8QX9p",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "FASH",
+    "name": "BNV",
+    "asset": "BNV",
+    "chain": "OPTIMISM",
+    "address": "0x7d3ce1265d5ea5848dc1c96aadbf754e2bad33b1",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/iADVIU",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "aOptLINK",
+    "name": "Aave Optimism LINK",
+    "asset": "Aave Optimism LINK",
+    "chain": "OPTIMISM",
+    "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/kuZ1Rb",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "exaUSDC",
+    "name": "exactly USDC",
+    "asset": "exactly USDC",
+    "chain": "OPTIMISM",
+    "address": "0x6926b434cce9b5b7966ae1bfeef6d0a7dcf3a8bb",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/guVKo1",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "aOptAAVE",
+    "name": "Aave Optimism AAVE",
+    "asset": "Aave Optimism AAVE",
+    "chain": "OPTIMISM",
+    "address": "0xf329e36c7bf6e5e86ce2150875a84ce77f477375",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/XWYJEh",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "exaOP",
+    "name": "exactly OP",
+    "asset": "exactly OP",
+    "chain": "OPTIMISM",
+    "address": "0xa430a427bd00210506589906a71b54d6c256cedb",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/q0Cubh",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "wUSDR",
+    "name": "Wrapped USDR",
+    "asset": "Wrapped USDR",
+    "chain": "OPTIMISM",
+    "address": "0xc03b43d492d904406db2d7d57e67c7e8234ba752",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/O0Bshg",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 9
+  },
+  {
+    "symbol": "aOptUSDC",
+    "name": "Aave Optimism USDC",
+    "asset": "Aave Optimism USDC",
+    "chain": "OPTIMISM",
+    "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Bven4E",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "exaUSDC.e",
+    "name": "exactly USDC.e",
+    "asset": "exactly USDC.e",
+    "chain": "OPTIMISM",
+    "address": "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/b70Wxb",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "STONE",
+    "name": "StakeStone Ether",
+    "asset": "StakeStone Ether",
+    "chain": "OPTIMISM",
+    "address": "0x80137510979822322193fc997d400d5a6c747bf7",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/jF1MSK",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "gOHM",
+    "name": "Governance OHM",
+    "asset": "Governance OHM",
+    "chain": "OPTIMISM",
+    "address": "0x0b5740c6b4a97f90ef2f0220651cca420b868ffb",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Oefh3g",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "frxETH",
+    "name": "Frax Ether",
+    "asset": "Frax Ether",
+    "chain": "OPTIMISM",
+    "address": "0xecc68d0451e20292406967fe7c04280e5238ac7d",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/hl6JqA",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "aOptLUSD",
+    "name": "Aave Optimism LUSD",
+    "asset": "Aave Optimism LUSD",
+    "chain": "OPTIMISM",
+    "address": "0x8eb270e296023e9d92081fdf967ddd7878724424",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/cRRnwi",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "STATAOPTUSDT",
+    "name": "Static Aave Optimism USDT",
+    "asset": "Static Aave Optimism USDT",
+    "chain": "OPTIMISM",
+    "address": "0x035c93db04e5aaea54e6cd0261c492a3e0638b37",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/ajRJKj",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "STATAOPTUSDC",
+    "name": "Static Aave Optimism USDC",
+    "asset": "Static Aave Optimism USDC",
+    "chain": "OPTIMISM",
+    "address": "0x9f281eb58fd98ad98ede0fc4c553ad4d73e7ca2c",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/g2e6YD",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "STATAOPTLINK",
+    "name": "Static Aave Optimism LINK",
+    "asset": "Static Aave Optimism LINK",
+    "chain": "OPTIMISM",
+    "address": "0x39bcf217acc4bf2fcaf7bc8800e69d986912c75e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/HClVo8",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "STATAOPTOP",
+    "name": "Static Aave Optimism OP",
+    "asset": "Static Aave Optimism OP",
+    "chain": "OPTIMISM",
+    "address": "0xd4f1cf9a038269fe8f03745c2875591ad6438ab1",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/CIsZ2d",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "STATAOPTRETH",
+    "name": "Static Aave Optimism rETH",
+    "asset": "Static Aave Optimism rETH",
+    "chain": "OPTIMISM",
+    "address": "0xf9ce3c97b4b54f3d16861420f4816d9f68190b7b",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/p1yhOb",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "STATAOPTSUSD",
+    "name": "Static Aave Optimism SUSD",
+    "asset": "Static Aave Optimism SUSD",
+    "chain": "OPTIMISM",
+    "address": "0x3a956e2fcc7e71ea14b0257d40bebdb287d19652",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/gMoyIu",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "STATAOPTLUSD",
+    "name": "Static Aave Optimism LUSD",
+    "asset": "Static Aave Optimism LUSD",
+    "chain": "OPTIMISM",
+    "address": "0x84648dc3cefb601bc28a49a07a1a8bad04d30ad3",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/qhx0wy",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "STATAOPTMAI",
+    "name": "Static Aave Optimism MAI",
+    "asset": "Static Aave Optimism MAI",
+    "chain": "OPTIMISM",
+    "address": "0x60495bc8d8baf7e866888ecc00491e37b47dff24",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/eSYLCd",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "STATAOPTAAVE",
+    "name": "Static Aave Optimism AAVE",
+    "asset": "Static Aave Optimism AAVE",
+    "chain": "OPTIMISM",
+    "address": "0xae0ca1b1bc6cac26981b5e2b9c40f8ce8a9082ee",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/XSglHo",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "STATAOPTDAI",
+    "name": "Static Aave Optimism DAI",
+    "asset": "Static Aave Optimism DAI",
+    "chain": "OPTIMISM",
+    "address": "0x6ddc64289be8a71a707fb057d5d07cc756055d6e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/fbJ1Rz",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WAOPTUSDCN",
+    "name": "Wrapped Aave Optimism USDCn",
+    "asset": "Wrapped Aave Optimism USDCn",
+    "chain": "OPTIMISM",
+    "address": "0x41b334e9f2c0ed1f30fd7c351874a6071c53a78e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/j0UOb9",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "WAOPTSUSD",
+    "name": "Wrapped Aave Optimism SUSD",
+    "asset": "Wrapped Aave Optimism SUSD",
+    "chain": "OPTIMISM",
+    "address": "0x0ec63a55a688e5ba26afe8d9250114505e8b60a0",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/4c4EEQ",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WAOPTRETH",
+    "name": "Wrapped Aave Optimism rETH",
+    "asset": "Wrapped Aave Optimism rETH",
+    "chain": "OPTIMISM",
+    "address": "0x8e6a81b9d541a0cea090818b62c4b2de7f2a2cf7",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/DzlM7a",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WAOPTWSTETH",
+    "name": "Wrapped Aave Optimism wstETH",
+    "asset": "Wrapped Aave Optimism wstETH",
+    "chain": "OPTIMISM",
+    "address": "0xbaf95bb30cdab3d5b7a11b67edef5631bd62be86",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/klAssU",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WAOPTWBTC",
+    "name": "Wrapped Aave Optimism WBTC",
+    "asset": "Wrapped Aave Optimism WBTC",
+    "chain": "OPTIMISM",
+    "address": "0xea9020a9e04c557478dad749a1aad242b443042c",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/irfhR8",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 8
+  },
+  {
+    "symbol": "WAOPTLUSD",
+    "name": "Wrapped Aave Optimism LUSD",
+    "asset": "Wrapped Aave Optimism LUSD",
+    "chain": "OPTIMISM",
+    "address": "0x413093e03d6aee4f2f7e48d4b88881bf4932b249",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/66eqmf",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WAOPTLINK",
+    "name": "Wrapped Aave Optimism LINK",
+    "asset": "Wrapped Aave Optimism LINK",
+    "chain": "OPTIMISM",
+    "address": "0xc438643b0eee8a314eec53eb8a1ee6467c88fc24",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/QBcY3N",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WAOPTAAVE",
+    "name": "Wrapped Aave Optimism AAVE",
+    "asset": "Wrapped Aave Optimism AAVE",
+    "chain": "OPTIMISM",
+    "address": "0x527604e4d87a7562ec653dbe2878d0dcab7f1972",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/7nutGe",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WAOPTDAI",
+    "name": "Wrapped Aave Optimism DAI",
+    "asset": "Wrapped Aave Optimism DAI",
+    "chain": "OPTIMISM",
+    "address": "0x61b620fad391b53a2d0973b10a3ed69558d5c66e",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/QtCExd",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "WAOPTOP",
+    "name": "Wrapped Aave Optimism OP",
+    "asset": "Wrapped Aave Optimism OP",
+    "chain": "OPTIMISM",
+    "address": "0x712ef4d78f43ecafa106ea003704a908c99d7f11",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/yyOh5u",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "USDD",
+    "name": "Decentralized USD",
+    "asset": "Decentralized USD",
+    "chain": "OPTIMISM",
+    "address": "0xc22885e06cd8507c5c74a948c59af853aed1ea5c",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/uHFm9l",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "EURA",
+    "name": "EURA (previously agEUR)",
+    "asset": "EURA (previously agEUR)",
+    "chain": "OPTIMISM",
+    "address": "0x9485aca5bbbe1667ad97c7fe7c4531a624c8b1ed",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/6dXUrt",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "GRAI",
+    "name": "Gravita Debt Token",
+    "asset": "Gravita Debt Token",
+    "chain": "OPTIMISM",
+    "address": "0x894134a25a5fac1c2c26f1d8fbf05111a3cb9487",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/cOScvb",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "axlTIA",
+    "name": "Axelar Wrapped TIA",
+    "asset": "Axelar Wrapped TIA",
+    "chain": "OPTIMISM",
+    "address": "0x41b94c5867f7f6217c9a30520cb3e793b1ee1b97",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/YWZ3Rd",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 6
+  },
+  {
+    "symbol": "axlWMAI",
+    "name": "Axelar Wrapped WMAI",
+    "asset": "Axelar Wrapped WMAI",
+    "chain": "OPTIMISM",
+    "address": "0x88dfaaabaf06f3a41d2606ea98bc8eda109abebb",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/Fwdlm5",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "axlKNC",
+    "name": "Axelar Wrapped KNC",
+    "asset": "Axelar Wrapped KNC",
+    "chain": "OPTIMISM",
+    "address": "0xb448ec505c924944ca8b2c55ef05c299ee0781df",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/ZcSyeb",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "ezETH",
+    "name": "Renzo Restaked ETH",
+    "asset": "Renzo Restaked ETH",
+    "chain": "OPTIMISM",
+    "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/N2vS9I",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
+  },
+  {
+    "symbol": "stUSD",
+    "name": "Staked USDA",
+    "asset": "Staked USDA",
+    "chain": "OPTIMISM",
+    "address": "0x0022228a2cc5e7ef0274a7baa600d44da5ab5776",
+    "type": "ERC-20",
+    "logoURI": "https://rango.vip/i/vfo9rw",
+    "providers": {
+      "RANGO": "Rango"
+    },
+    "decimals": 18
   }
 ]

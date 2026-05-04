@@ -3,7 +3,7 @@
     "asset": "Arbitrum",
     "name": "Arbitrum",
     "symbol": "ARB",
-    "address": "0X0000000000000000000000000000000000000000",
+    "address": "0x0000000000000000000000000000000000000000",
     "chainId": 42161,
     "decimals": 18,
     "type": "NATIVE",

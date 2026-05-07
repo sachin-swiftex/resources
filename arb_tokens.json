@@ -457,6 +457,6 @@
     "logoURI": "https://rango.vip/i/CpphDq",
     "chainId": 42161,
     "symbol": "MIM",
-    "type": "ERC-20",
-  }
+    "type": "ERC-20"
+  },
 ]

@@ -448,5 +448,5 @@
     "chainId": 42161,
     "symbol": "EURA",
     "type": "ERC-20"
-  },
+  }
 ]

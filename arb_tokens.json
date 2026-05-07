@@ -80,16 +80,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "Magic Internet Money",
-    "asset": "Magic Internet Money",
-    "address": "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a",
-    "decimals": 18
-    "logoURI": "https://rango.vip/i/CpphDq",
-    "chainId": 42161,
-    "symbol": "MIM",
-    "type": "ERC-20"
-  },
-  {
     "name": "Rain",
     "asset": "Rain",
     "address": "0x25118290e6A5f4139381D072181157035864099d",

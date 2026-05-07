@@ -458,5 +458,5 @@
     "chainId": 42161,
     "symbol": "MIM",
     "type": "ERC-20",
-  },
+  }
 ]

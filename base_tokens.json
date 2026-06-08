@@ -7,7 +7,11 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/info/logo.png",
     "chainId": 8453,
     "symbol": "BASE",
-    "type": "Native"
+    "type": "Native",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Bridged Tether USD",
@@ -17,7 +21,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2/logo.png",
     "chainId": 8453,
     "symbol": "USDT",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "USD Coin",
@@ -27,7 +35,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913/logo.png",
     "chainId": 8453,
     "symbol": "USDC",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "USDS Stablecoin",
@@ -37,7 +49,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x820C137fa70C8691f0e44Dc420a5e53c168921Dc/logo.png",
     "chainId": 8453,
     "symbol": "USDS",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Wrapped Ether",
@@ -47,7 +63,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x4200000000000000000000000000000000000006/logo.png",
     "chainId": 8453,
     "symbol": "WETH",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "ChainLink Token",
@@ -57,7 +77,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
     "chainId": 8453,
     "symbol": "LINK",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Coinbase Wrapped BTC",
@@ -67,7 +90,11 @@
     "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.png?key=869c9e",
     "chainId": 8453,
     "symbol": "cbBTC",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Dai",
@@ -77,7 +104,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb/logo.png",
     "chainId": 8453,
     "symbol": "DAI",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Morpho Token",
@@ -87,7 +118,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842/logo.png",
     "chainId": 8453,
     "symbol": "MORPHO",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "LayerZero",
@@ -97,7 +132,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x6985884C4392D348587B19cb9eAAf157F13271cd/logo.png",
     "chainId": 8453,
     "symbol": "ZRO",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "EURC",
@@ -107,7 +146,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42/logo.png",
     "chainId": 8453,
     "symbol": "EURC",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Venice",
@@ -117,7 +160,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf/logo.png",
     "chainId": 8453,
     "symbol": "VVV",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Aerodrome",
@@ -127,7 +174,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x940181a94A35A4569E4529A3CDfB74e38FD98631/logo.png",
     "chainId": 8453,
     "symbol": "AERO",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "SPX6900",
@@ -137,7 +188,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C/logo.png",
     "chainId": 8453,
     "symbol": "SPX",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Curve DAO Token",
@@ -147,7 +201,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415/logo.png",
     "chainId": 8453,
     "symbol": "CRV",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Coinbase Wrapped Staked ETH",
@@ -157,7 +215,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22/logo.png",
     "chainId": 8453,
     "symbol": "cbETH",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Syrup Token",
@@ -167,7 +229,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33824.png",
     "chainId": 8453,
     "symbol": "SYRUP",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Telcoin",
@@ -177,7 +242,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2394.png",
     "chainId": 8453,
     "symbol": "TEL",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Onyx",
@@ -187,7 +255,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x9c632E6Aaa3eA73f91554f8A3cB2ED2F29605e0C/logo.png",
     "chainId": 8453,
     "symbol": "XCN",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Trace Token",
@@ -197,7 +268,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2467.png",
     "chainId": 8453,
     "symbol": "TRAC",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Reserve Rights",
@@ -207,7 +281,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xaB36452DbAC151bE02b16Ca17d8919826072f64a/logo.png",
     "chainId": 8453,
     "symbol": "RSR",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Horizen",
@@ -217,7 +294,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xf43eB8De897Fbc7F2502483B2Bef7Bb9EA179229/logo.png",
     "chainId": 8453,
     "symbol": "ZEN",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "CoW Protocol Token",
@@ -227,7 +307,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19269.png",
     "chainId": 8453,
     "symbol": "COW",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "KAITO",
@@ -237,7 +320,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x98d0baa52b2D063E780DE12F615f963Fe8537553/logo.png",
     "chainId": 8453,
     "symbol": "KAITO",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "AWE",
@@ -247,7 +334,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/4006.png",
     "chainId": 8453,
     "symbol": "AWE",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Coinbase Wrapped XRP",
@@ -257,7 +347,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/36707.png",
     "chainId": 8453,
     "symbol": "CBXRP",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Keeta",
@@ -267,7 +360,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/36066.png",
     "chainId": 8453,
     "symbol": "KTA",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Toshi",
@@ -277,7 +373,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4/logo.png",
     "chainId": 8453,
     "symbol": "TOSHI",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Mog Coin",
@@ -287,7 +387,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x2Da56AcB9Ea78330f947bD57C54119Debda7AF71/logo.png",
     "chainId": 8453,
     "symbol": "Mog",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "SushiToken",
@@ -297,7 +401,11 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png",
     "chainId": 8453,
     "symbol": "SUSHI",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "ZORA",
@@ -307,7 +415,11 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/35931.png",
     "chainId": 8453,
     "symbol": "ZORA",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Axelar",
@@ -317,7 +429,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17799.png",
     "chainId": 8453,
     "symbol": "AXL",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Home",
@@ -327,7 +442,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36133.png",
     "chainId": 8453,
     "symbol": "HOME",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Derive",
@@ -337,7 +455,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35014.png",
     "chainId": 8453,
     "symbol": "DRV",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Avantis",
@@ -347,7 +468,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/38299.png",
     "chainId": 8453,
     "symbol": "AVNT",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "IoTeX Network",
@@ -357,7 +481,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xBCBAf311ceC8a4EAC0430193A528d9FF27ae38C1/logo.png",
     "chainId": 8453,
     "symbol": "IOTX",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Gravity",
@@ -367,7 +494,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649/logo.png",
     "chainId": 8453,
     "symbol": "G",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Neiro",
@@ -377,7 +508,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32521.png",
     "chainId": 8453,
     "symbol": "Neiro",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Sign",
@@ -387,7 +521,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/35600.png",
     "chainId": 8453,
     "symbol": "SIGN",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Euler",
@@ -397,7 +534,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14280.png",
     "chainId": 8453,
     "symbol": "EUL",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Propy",
@@ -407,7 +547,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x18dD5B087bCA9920562aFf7A0199b96B9230438b/logo.png",
     "chainId": 8453,
     "symbol": "PRO",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "BankrCoin",
@@ -417,7 +561,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b/logo.png",
     "chainId": 8453,
     "symbol": "BNKR",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Renzo",
@@ -427,7 +575,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xf757c9804cF2EE8d8Ed64e0A8936293Fe43a7252/logo.png",
     "chainId": 8453,
     "symbol": "REZ",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Cartesi Token (PoS)",
@@ -437,7 +588,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x259Fac10c5CbFEFE3E710e1D9467f70a76138d45/logo.png",
     "chainId": 8453,
     "symbol": "CTSI",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Lisk",
@@ -447,7 +601,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1214.png",
     "chainId": 8453,
     "symbol": "LSK",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Yield Guild Games",
@@ -457,7 +614,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xaAC78d1219c08AecC8e37e03858FE885f5EF1799/logo.png",
     "chainId": 8453,
     "symbol": "YGG",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Flux",
@@ -467,7 +627,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xb008BDCF9CdFf9da684a190941dC3dCa8C2Cdd44/logo.png",
     "chainId": 8453,
     "symbol": "FLUX",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "aixbt by Virtuals",
@@ -477,7 +640,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825/logo.png",
     "chainId": 8453,
     "symbol": "AIXBT",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Quai Network",
@@ -487,7 +654,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/22354.png",
     "chainId": 8453,
     "symbol": "QUAI",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "FAI",
@@ -497,7 +667,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xb33Ff54b9F7242EF1593d2C9Bcd8f9df46c77935/logo.png",
     "chainId": 8453,
     "symbol": "FAI",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "HarryPotterObamaSonic10Inu",
@@ -507,7 +680,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25220.png",
     "chainId": 8453,
     "symbol": "BITCOIN",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Definitive",
@@ -517,7 +693,11 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/36288.png",
     "chainId": 8453,
     "symbol": "EDGE",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Space and Time",
@@ -527,7 +707,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xA2c22252cDc8b7cDdEe1B0b2E242818509fCf7b8/logo.png",
     "chainId": 8453,
     "symbol": "SXT",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "tokenbot",
@@ -537,7 +720,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb/logo.png",
     "chainId": 8453,
     "symbol": "CLANKER",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Katana",
@@ -547,7 +734,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38769.png",
     "chainId": 8453,
     "symbol": "KAT",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Sapien",
@@ -557,7 +747,11 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/38117.png",
     "chainId": 8453,
     "symbol": "SAPIEN",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "HeyElsa",
@@ -567,7 +761,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/39387.png",
     "chainId": 8453,
     "symbol": "ELSA",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "BTRST",
@@ -577,7 +774,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xA7d68d155d17cB30e311367c2Ef1E82aB6022b67/logo.png",
     "chainId": 8453,
     "symbol": "BTRST",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "OriginToken",
@@ -587,7 +788,11 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5117.png",
     "chainId": 8453,
     "symbol": "OGN",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "B3",
@@ -597,7 +802,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3/logo.png",
     "chainId": 8453,
     "symbol": "B3",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Apu Apustaja",
@@ -607,7 +816,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30008.png",
     "chainId": 8453,
     "symbol": "APU",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Artificial Liquid Intelligence",
@@ -617,7 +829,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x97c806e7665d3AFd84A8Fe1837921403D59F3Dcc/logo.png",
     "chainId": 8453,
     "symbol": "ALI",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Prime",
@@ -627,7 +842,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xfA980cEd6895AC314E7dE34Ef1bFAE90a5AdD21b/logo.png",
     "chainId": 8453,
     "symbol": "PRIME",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Recall",
@@ -637,7 +856,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/38669.png",
     "chainId": 8453,
     "symbol": "RECALL",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Intuition",
@@ -647,7 +869,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/38863.png",
     "chainId": 8453,
     "symbol": "TRUST",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Balancer",
@@ -657,7 +882,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2/logo.png",
     "chainId": 8453,
     "symbol": "BAL",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Coinbase Wrapped ADA",
@@ -667,7 +895,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/36864.png",
     "chainId": 8453,
     "symbol": "CBADA",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "ASSEMBLE",
@@ -677,7 +908,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6069.png",
     "chainId": 8453,
     "symbol": "ASM",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Limitless",
@@ -687,7 +921,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/38756.png",
     "chainId": 8453,
     "symbol": "LMTS",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Mamo",
@@ -697,7 +934,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/36601.png",
     "chainId": 8453,
     "symbol": "MAMO",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "USD Base Coin",
@@ -707,7 +947,11 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo.png",
     "chainId": 8453,
     "symbol": "USDbC",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    }
   },
   {
     "name": "Coinbase Wrapped DOGE",
@@ -717,7 +961,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/36708.png",
     "chainId": 8453,
     "symbol": "CBDOGE",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "doginme",
@@ -727,7 +974,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x6921B130D297cc43754afba22e5EAc0FBf8Db75b/logo.png",
     "chainId": 8453,
     "symbol": "doginme",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Kryll",
@@ -737,7 +987,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2949.png",
     "chainId": 8453,
     "symbol": "KRL",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "SCOR",
@@ -747,7 +1000,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/39142.png",
     "chainId": 8453,
     "symbol": "SCOR",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Covalent X Token",
@@ -757,7 +1013,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32526.png",
     "chainId": 8453,
     "symbol": "CXT",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Keyboard Cat",
@@ -767,7 +1026,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x9a26F5433671751C3276a065f57e5a02D2817973/logo.png",
     "chainId": 8453,
     "symbol": "KEYCAT",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "AUDD",
@@ -777,7 +1039,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38628.png",
     "chainId": 8453,
     "symbol": "AUDD",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Odos Token",
@@ -787,7 +1052,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xca73ed1815e5915489570014e024b7EbE65dE679/logo.png",
     "chainId": 8453,
     "symbol": "ODOS",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Coinbase Wrapped LTC",
@@ -797,7 +1065,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/36865.png",
     "chainId": 8453,
     "symbol": "CBLTC",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Cryptex",
@@ -807,7 +1078,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xBB22Ff867F8Ca3D5F2251B4084F6Ec86D4666E14/logo.png",
     "chainId": 8453,
     "symbol": "CTX",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "MATH Token",
@@ -817,7 +1091,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x9e81F6495BA29a6B4D48bDdD042C0598fA8abc9F/logo.png",
     "chainId": 8453,
     "symbol": "MATH",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "noice",
@@ -827,7 +1104,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/38618.png",
     "chainId": 8453,
     "symbol": "NOICE",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "BLOCKLORDS",
@@ -837,7 +1117,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29203.png",
     "chainId": 8453,
     "symbol": "LRDS",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "WELL",
@@ -847,7 +1130,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xA88594D404727625A9437C3f886C7643872296AE/logo.png",
     "chainId": 8453,
     "symbol": "WELL",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "DOVU",
@@ -857,7 +1143,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xB38266e0e9D9681b77aEB0A280E98131b953F865/logo.png",
     "chainId": 8453,
     "symbol": "DOVU",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Sport.Fun",
@@ -867,7 +1156,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/38647.png",
     "chainId": 8453,
     "symbol": "FUN",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Checkmate",
@@ -877,7 +1169,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38926.png",
     "chainId": 8453,
     "symbol": "CHECK",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "RaveDAO",
@@ -887,7 +1182,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38967.png",
     "chainId": 8453,
     "symbol": "RAVE",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Rainbow",
@@ -897,7 +1195,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/39539.png",
     "chainId": 8453,
     "symbol": "RNBW",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Chip",
@@ -907,7 +1208,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x0C1c1C109FE34733fca54b82d7B46B75CFb71F6e/logo.png",
     "chainId": 8453,
     "symbol": "CHIP",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Theoriq Token",
@@ -917,7 +1221,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39074.png",
     "chainId": 8453,
     "symbol": "THQ",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "XSGD",
@@ -927,7 +1234,10 @@
     "logoURI": "https://bin.bnbstatic.com/images/web3-data/public/token/logos/396EB727D9BF4333F02D721486613B3B.jpg",
     "chainId": 8453,
     "symbol": "XSGD",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "BIO",
@@ -937,7 +1247,10 @@
     "logoURI": "https://dex-static.sintral.io/token-logo/199/0x226a2fa2556c48245e57cd1cba4c6c9e67077dd2/1754896851063.jpeg",
     "chainId": 8453,
     "symbol": "BIO",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "MEZO",
@@ -947,7 +1260,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39727.png",
     "chainId": 8453,
     "symbol": "MEZO",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Aave Token",
@@ -957,7 +1273,10 @@
     "logoURI": "https://bin.bnbstatic.com/images/web3-data/public/token/logos/AD2D9F01D5FC7C7CC35BA678BEA66487.png",
     "chainId": 8453,
     "symbol": "AAVE",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "SAND",
@@ -967,7 +1286,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png",
     "chainId": 8453,
     "symbol": "SAND",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Pendle",
@@ -977,7 +1299,10 @@
     "logoURI": "https://bin.bnbstatic.com/images/web3-data/public/token/logos/5114A65FF7CFC9C10E129EDC3F10B267.jpg",
     "chainId": 8453,
     "symbol": "PENDLE",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "ENA",
@@ -987,7 +1312,10 @@
     "logoURI": "https://bin.bnbstatic.com/images/web3-data/public/token/logos/B4D3C91A689A71C2226721559444118E.jpg",
     "chainId": 8453,
     "symbol": "ENA",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Layer3",
@@ -997,7 +1325,10 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x46777C76dBbE40fABB2AAB99E33CE20058e76C59/logo.png",
     "chainId": 8453,
     "symbol": "L3",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "ether.fi governance token",
@@ -1007,7 +1338,10 @@
     "logoURI": "https://bin.bnbstatic.com/images/web3-data/public/token/logos/769C4C5D37BC275C247799CAD2F003F3.jpg",
     "chainId": 8453,
     "symbol": "ETHFI",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "Movement",
@@ -1017,7 +1351,10 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32452.png",
     "chainId": 8453,
     "symbol": "MOVE",
-    "type": "ERC-20"
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
   },
   {
     "name": "WOO",
@@ -1027,6 +1364,61 @@
     "logoURI": "https://bin.bnbstatic.com/images/web3-data/public/token/logos/8126D57429F63DB4B7E73FD680C1C1D2.jpg",
     "chainId": 8453,
     "symbol": "WOO",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap"
+    }
+  },
+  {
+    "name": "Base tBTC v2",
+    "symbol": "tBTC",
+    "address": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0x18084fbA666a33d37592fA2633fD49a74DD93a88/logo.png",
+    "providers": {
+      "1INCH": "1inch"
+    },
+    "chainId": 8453,
+    "asset": "Base tBTC v2",
+    "type": "ERC-20"
+  },
+  {
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "address": "0x9eaf8c1e34f05a589eda6bafdf391cf6ad3cb239",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11849/thumb/yfi-192x192.png?1598325330",
+    "providers": {
+      "1INCH": "1inch"
+    },
+    "chainId": 8453,
+    "asset": "yearn.finance",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Wrapped Ampleforth",
+    "symbol": "WAMPL",
+    "address": "0x489fe42c267fe0366b16b0c39e7aeef977e841ef",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/20825/thumb/photo_2021-11-25_02-05-11.jpg?1637811951",
+    "providers": {
+      "1INCH": "1inch"
+    },
+    "chainId": 8453,
+    "asset": "Wrapped Ampleforth",
+    "type": "ERC-20"
+  },
+  {
+    "name": "Synthetix Network Token",
+    "symbol": "SNX",
+    "address": "0x22e6966b799c4d5b13be962e1d117b56327fda66",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png",
+    "providers": {
+      "1INCH": "1inch"
+    },
+    "chainId": 8453,
+    "asset": "Synthetix Network Token",
     "type": "ERC-20"
   }
 ]

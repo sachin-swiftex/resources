@@ -42,15 +42,6 @@
       "decimals": 5
     },
     {
-      "contract": "a2fc32aacaec6c9c83ceb657135a26e7b3b84d7f71a21725ac69545e9d6a7f46",
-      "code": "ARST",
-      "issuer": "GCSAZVWXZKWS4XS223M5F54H2B6XPIIXZZGP7KEAIU6YSL5HDRGCI3DG",
-      "name": "ARST",
-      "domain": "pubnet-sep.latamex.com",
-      "icon": "https://sep.latamex.com/arst-logo.png",
-      "decimals": 2
-    },
-    {
       "contract": "bbcf464b67bd8df05880dcb4f4f774dbc16df0e4287d95fb624ee0aeb4cd964f",
       "code": "CNY",
       "issuer": "GAREELUB43IRHWEASCFBLKHURCGMHE5IF6XSE7EXDLACYHGRHM43RFOX",
@@ -190,7 +181,10 @@
       "contract": "1e873e4e18fb07f2496a25c04a9662f8b3ff2454c0f0a719931571026450f255",
       "code": "NUNA",
       "issuer": "GCX2ENOVSSOOH6G4HIOBMPCBFXHDVDGA546NK3ZFX3NP3QS25BKZBWOW",
-      "decimals": 7
+      "decimals": 7,
+      "domain": "nuna.finance",
+      "icon": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/stellar/nuna.png",
+      "name": "Nuna"
     },
     {
       "contract": "6e4f579de1298b560247262938dc149af8682bc3a6a02af829ddb536b7e0af81",
@@ -424,7 +418,9 @@
       "contract": "6a9c8dac73c847907b7071caae0f82a9c4384ab004355de17709e9c11cdeadef",
       "code": "MXN",
       "issuer": "GCKIK5F6J4KMKF6MKB5EM67S5CK557EZQ3IAMZM5FFAYST63S3HWXVPE",
-      "decimals": 7
+      "decimals": 7,
+      "icon": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/stellar/MXN.png",
+      "name": "MXN"
     },
     {
       "contract": "3df241b633cd73d67e270f0f76c4af78a28c3e3a467a892cdeeaacfeea8f58dd",

@@ -112,7 +112,8 @@
       "contract": "705af2da5cd97c6777b16fd0ab41c6bbd1d34395da0270a9e83b5c52c6405237",
       "code": "NGNC",
       "issuer": "GASBV6W7GGED66MXEVC7YZHTWWYMSVYEY35USF2HJZBLABLYIFQGXZY6",
-      "decimals": 7
+      "decimals": 7,
+      "icon": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/stellar/ngnc.png"
     },
     {
       "contract": "4e883e9759562ebb9cca6b49897d5b3255d4d4e8c8834b0a0c80f2b1c69a9d02",
@@ -155,7 +156,7 @@
       "issuer": "GCHI6I3X62ND5XUMWINNNKXS2HPYZWKFQBZZYBSMHJ4MIP2XJXSZTXRF",
       "name": "Reflector XRF token",
       "domain": "reflector.network",
-      "icon": "https://reflector.network/images/logo.svg",
+      "icon": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/stellar/xrf.png",
       "decimals": 7
     },
     {
@@ -206,7 +207,7 @@
       "issuer": "GDM4RQUQQUVSKQA7S6EM7XBZP3FCGH4Q7CL6TABQ7B2BEJ5ERARM2M5M",
       "name": "VELO",
       "domain": "velo.org",
-      "icon": "https://velo.org/images/favicon.png",
+      "icon": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/stellar/velo.png",
       "decimals": 7
     },
     {
@@ -356,7 +357,7 @@
       "issuer": "GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC",
       "name": "Etherfuse CETES",
       "domain": "etherfuse.com",
-      "icon": "https://stablebonds.s3.us-west-2.amazonaws.com/stablebond/spl-cetes.png",
+      "icon": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/stellar/cetes.png",
       "decimals": 7
     },
     {

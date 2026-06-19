@@ -160,16 +160,6 @@
     "type": "BEP-20"
   },
   {
-    "name": "Frax",
-    "asset": "Frax",
-    "address": "0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40/logo.png",
-    "chainId": 56,
-    "symbol": "FRAX",
-    "type": "BEP-20"
-  },
-  {
     "name": "BNB pegged Compound",
     "asset": "BNB pegged Compound",
     "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
@@ -707,16 +697,6 @@
     "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0xa1faa113cbE53436Df28FF0aEe54275c13B40975/logo.png",
     "chainId": 56,
     "symbol": "ALPHA",
-    "type": "BEP-20"
-  },
-  {
-    "name": "REVV",
-    "asset": "REVV",
-    "address": "0x833F307aC507D47309fD8CDD1F835BeF8D702a93",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x833F307aC507D47309fD8CDD1F835BeF8D702a93/logo.png",
-    "chainId": 56,
-    "symbol": "REVV",
     "type": "BEP-20"
   },
   {

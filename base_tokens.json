@@ -900,16 +900,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "Chip",
-    "asset": "Chip",
-    "address": "0x0C1c1C109FE34733fca54b82d7B46B75CFb71F6e",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x0C1c1C109FE34733fca54b82d7B46B75CFb71F6e/logo.png",
-    "chainId": 8453,
-    "symbol": "CHIP",
-    "type": "ERC-20"
-  },
-  {
     "name": "Theoriq Token",
     "asset": "Theoriq Token",
     "address": "0x0b2558bdBC7FFEC0f327fB3579c23daBD1699706",
@@ -987,16 +977,6 @@
     "logoURI": "https://bin.bnbstatic.com/images/web3-data/public/token/logos/B4D3C91A689A71C2226721559444118E.jpg",
     "chainId": 8453,
     "symbol": "ENA",
-    "type": "ERC-20"
-  },
-  {
-    "name": "Layer3",
-    "asset": "Layer3",
-    "address": "0x46777C76dBbE40fABB2AAB99E33CE20058e76C59",
-    "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x46777C76dBbE40fABB2AAB99E33CE20058e76C59/logo.png",
-    "chainId": 8453,
-    "symbol": "L3",
     "type": "ERC-20"
   },
   {

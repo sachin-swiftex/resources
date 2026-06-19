@@ -376,7 +376,8 @@
       "contract": "9af830ddba3cdffab52a63758c2d34aeb64138c051fdb3a4827dfa2a9fdfa63c",
       "code": "DOGE",
       "issuer": "GCYXTCIAFUF6S2AHY54BBAS3OVZXFPF24MD3WZCUUXCNMYKOX4ULMF5J",
-      "decimals": 7
+      "decimals": 7,
+      "icon":"https://stellar.myfilebase.com/ipfs/Qmb9U3J9SsCq2qKMJHrFoUhpVUeux7CM91B7GxhqZ7qseW"
     },
     {
       "contract": "af8d89a7953437d1d92a9ad3fbe8ac58188813bf24008e4b0e3ab0251ef2e2b3",

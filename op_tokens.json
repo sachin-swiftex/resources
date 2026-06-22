@@ -2,7 +2,7 @@
   {
     "asset": "Optimism",
     "name": "Optimism",
-    "symbol": "OP",
+    "symbol": "OPT",
     "address": "0x0000000000000000000000000000000000000000",
     "chainId": 10,
     "decimals": 18,

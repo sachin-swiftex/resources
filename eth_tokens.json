@@ -2685,7 +2685,7 @@
     "asset": "Boba Token",
     "address": "0x42bBFa2e77757C645eeaAd1655E0911a7553Efbc",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x42bBFa2e77757C645eeaAd1655E0911a7553Efbc/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/eth/0x42bbfa2e77757c645eeaad1655e0911a7553efbc.png",
     "chainId": 1,
     "symbol": "BOBA",
     "type": "ERC-20",

@@ -572,7 +572,7 @@
     "asset": "Renzo",
     "address": "0xf757c9804cF2EE8d8Ed64e0A8936293Fe43a7252",
     "decimals": 18,
-    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0xf757c9804cF2EE8d8Ed64e0A8936293Fe43a7252/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/base/0xf757c9804cf2ee8d8ed64e0a8936293fe43a7252.png",
     "chainId": 8453,
     "symbol": "REZ",
     "type": "ERC-20",

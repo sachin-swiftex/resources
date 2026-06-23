@@ -4,7 +4,7 @@
     "asset": "Avalanche",
     "address": "0x0000000000000000000000000000000000000000",
     "decimals": 18,
-    "logoURI": "http://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/info/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/avax/0X0000000000000000000000000000000000000000.png",
     "chainId": 43114,
     "symbol": "AVAX",
     "type": "NATIVE",

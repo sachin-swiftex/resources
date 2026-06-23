@@ -623,19 +623,6 @@
     "type": "ERC-20"
   },
   {
-    "name": "4d616b6572000000000000000000000000000000000000000000000000000000",
-    "symbol": "4d4b520000000000000000000000000000000000000000000000000000000000",
-    "address": "0x2e9a6df78e42a30712c10a9dc4b1c8656f8f2879",
-    "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png",
-    "providers": {
-      "1INCH": "1inch"
-    },
-    "chainId": 42161,
-    "asset": "4d616b6572000000000000000000000000000000000000000000000000000000",
-    "type": "ERC-20"
-  },
-  {
     "name": "Compound",
     "symbol": "COMP",
     "address": "0x354a6da3fcde098f8389cad84b0182725c6c91de",

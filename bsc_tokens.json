@@ -22504,5 +22504,175 @@
     "otherInfo": {
       "RWA": "RWA"
     }
+  },
+  {
+    "name": "GameStop",
+    "asset": "GameStop",
+    "address": "0x46cEeFDa28Dd7207059ed19B0acdc026955bb15C",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102175530/large/gamestop_bstock.png?1786614133",
+    "chainId": 56,
+    "symbol": "GMEB",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
+  },
+  {
+    "name": "SPY",
+    "asset": "SPY",
+    "address": "0x7138b48df7D98D7e3cc221BfE7192D0a178182D8",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102174366/large/spyb-bstocks.png?1783452995",
+    "chainId": 56,
+    "symbol": "SPYB",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
+  },
+  {
+    "name": "SpaceX",
+    "asset": "SpaceX",
+    "address": "0xbe9D156892E55e7154BcD3cB0FEA677F9D3103E1",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102173888/large/bstocks_spacex.png?1781280362",
+    "chainId": 56,
+    "symbol": "SPCXB",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
+  },
+  {
+    "name": "Invesqo QQQ",
+    "asset": "Invesqo QQQ",
+    "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102174259/large/bstocks_qqqb.png?1782837726",
+    "chainId": 56,
+    "symbol": "QQQB",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
+  },
+  {
+    "name": "NVIDIA Corp",
+    "asset": "NVIDIA Corp",
+    "address": "0x02Fca66C1D1aFB4E2A7884261eB00F63598a7436",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102173743/large/nvidia-tokenized-bStocks-nvdab.png?1781196662",
+    "chainId": 56,
+    "symbol": "NVDAB",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
+  },
+  {
+    "name": "SK Hynix",
+    "asset": "SK Hynix",
+    "address": "0xCA750eF65f295BBECd685Abf54e82CAf297BDB61",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102174549/large/skhynix.png?1784001947",
+    "chainId": 56,
+    "symbol": "SKHYB",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
+  },
+  {
+    "name": "Apple",
+    "asset": "Apple",
+    "address": "0x431a3BEE82E2ca41e49895CbECE5bB0F76A89b7A",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102175182/large/aaplb.png?1785455573",
+    "chainId": 56,
+    "symbol": "AAPLB",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
+  },
+  {
+    "name": "Circle Internet Group Inc.",
+    "asset": "Circle Internet Group Inc.",
+    "address": "0x80f3D493EBCe97e343c53D29a137942416B4ffC0",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102173742/large/circle-internet-group-tokenized-bStocks-crclb.png?1781196448",
+    "chainId": 56,
+    "symbol": "CRCLB",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
+  },
+  {
+    "name": "South Korea Bull 3X ETF",
+    "asset": "South Korea Bull 3X ETF",
+    "address": "0x1FFAD32d69c5FEAd99f88C25ca0191Edc3757636",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102174771/large/korub.png?1784798671",
+    "chainId": 56,
+    "symbol": "KORUB",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
+  },
+  {
+    "name": "Alphabet",
+    "asset": "Alphabet",
+    "address": "0x3F53De71c126BdaBAe20f9cD64848d317f6C3238",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102174363/large/googlb-bstocks.png?1783451303",
+    "chainId": 56,
+    "symbol": "GOOGLB",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
   }
 ]

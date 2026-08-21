@@ -1420,5 +1420,124 @@
     "chainId": 8453,
     "asset": "Synthetix Network Token",
     "type": "ERC-20"
+  },
+  {
+    "name": "Alpha Base Index",
+    "asset": "Alpha Base Index",
+    "address": "0xebcda5b80f62dd4dd2a96357b42bb6facbf30267",
+    "decimals": 18,
+    "logoURI": "ipfs://QmWgUvJ9rLdeRQAToauXndf3k4yDqEAD9tN7PRHXDejZet",
+    "chainId": 8453,
+    "symbol": "ABX",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
+  },
+  {
+    "name": "Clanker Index",
+    "asset": "Clanker Index",
+    "address": "0x44551ca46fa5592bb572e20043f7c3d54c85cad7",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXNA8WR3RCxeFZ5CNvvsZRMikE6mLdy7en1JsUKcJokcL",
+    "chainId": 8453,
+    "symbol": "CLX",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
+  },
+  {
+    "name": "Bloomberg Galaxy Crypto Index",
+    "asset": "Bloomberg Galaxy Crypto Index",
+    "address": "0x23418de10d422ad71c9d5713a2b8991a9c586443",
+    "decimals": 18,
+    "logoURI": "ipfs://Qme6YCyPWxru9eHmLoanbJePYKHJx622VeZzPJfvmSfio6",
+    "chainId": 8453,
+    "symbol": "BGCI",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
+  },
+  {
+    "name": "MarketVector Token Terminal Fundamental Index",
+    "asset": "MarketVector Token Terminal Fundamental Index",
+    "address": "0xe8b46b116d3bdfa787ce9cf3f5acc78dc7ca380e",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54605/small/MV-logo.png?1740639926",
+    "chainId": 8453,
+    "symbol": "MVTT10F",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
+  },
+  {
+    "name": "Base MemeIndexer DTF",
+    "asset": "Base MemeIndexer DTF",
+    "address": "0xb8753941196692e322846cfee9c14c97ac81928a",
+    "decimals": 18,
+    "logoURI": "ipfs://QmeFbrH58wDbGa2C6z9bmxpP7B4AwQLXi87uUWfqMHjKxy",
+    "chainId": 8453,
+    "symbol": "BDTF",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
+  },
+  {
+    "name": "CF Large Cap Index",
+    "asset": "CF Large Cap Index",
+    "address": "0x4da9a0f397db1397902070f93a4d6ddbc0e0e6e8",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69331/small/LCAP_1024.png?1758220127",
+    "chainId": 8453,
+    "symbol": "LCAP",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
+  },
+  {
+    "name": "Reserve Venionaire L1 Select DTF",
+    "asset": "Reserve Venionaire L1 Select DTF",
+    "address": "0xe00cfa595841fb331105b93c19827797c925e3e4",
+    "decimals": 18,
+    "logoURI": "https://l5394zf57b.ufs.sh/f/mupND8QUUvXxBuCxaCT4H9uivWURqQkxfgFXD7tedNTwsYoS",
+    "chainId": 8453,
+    "symbol": "VLONE",
+    "type": "ERC-20",
+    "providers": {
+      "UNISWAP": "Uniswap",
+      "1INCH": "1inch"
+    },
+    "otherInfo": {
+      "RWA": "RWA"
+    }
   }
 ]

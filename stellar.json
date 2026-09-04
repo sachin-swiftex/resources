@@ -449,6 +449,15 @@
       "domain": "stablecoin.z.com",
       "icon": "https://stablecoin.z.com/assets/images/token/icon_zusd_300_300.png",
       "decimals": 6
+    },
+    {
+      "contract": "CBSJZEIO5C7KC2SF3MKSNXXJSW5G3VTNBX4ATMKUI3B2MR4JKM4R26YF",
+      "code": "USDT0",
+      "issuer": "GATISXX6BZ6NC7IKQBY37CJD4SOZL3CYZJWXEDG6JVIY4WBS6KXJHN6Q",
+      "name": "USDT0",
+      "domain": "usdt0.to",
+      "icon": "https://raw.githubusercontent.com/sachin-swiftex/resources/refs/heads/master/stellar/usdt0.png",
+      "decimals": 7
     }
   ]
 }
